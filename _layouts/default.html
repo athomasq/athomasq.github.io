@@ -3,10 +3,13 @@
   <head>
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="/assets/css/styles.css">
+    <link rel="stylesheet" href="/assets/css/style.css">
   </head>
   <body>
-  	{% include navigation.html %}
-    {{ content }}
+  	{% include menu.html %}
+  	<div id="left">&nbsp;</div>
+	<div id="content">
+    	{{ content }}
+	</div>
   </body>
 </html>
