@@ -1,8 +1,7 @@
 <div id="menu">
 	<span class="title">Abraham Thomas</span>
 	<ul>
-  		{% for item in site.data.menu %}
-    		<li><a href="{{ item.link }}">{{ item.name }}</a></li>
+  		{% for item in site.data.menu %} <li><a href="{{ item.link }}">{{ item.name }}</a></li> 
   		{% endfor %}
   	</ul>
 </div>
