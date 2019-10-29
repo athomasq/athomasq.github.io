@@ -1,7 +1,18 @@
 ---
 layout: default
-title: About
+title: About · Abraham Thomas
 ---
-# About page
 
-This page tells you a little bit about me.
+
+
+
+
+
+## About this website
+
+This is where I 
+
+There's a lot of content.
+
+Creation, but also curation.
+
