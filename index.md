@@ -2,10 +2,7 @@
 layout: default
 title: Home · Abraham Thomas
 ---
-# Greetings, World!
+# Hello, World!
 
-Hello, I'm Abraham.
-
-I live in Toronto and work at Quandl, now a part of Nasdaq.
-
+Use the menu on the right to navigate.  [About](/about) is a good place to start.
 
