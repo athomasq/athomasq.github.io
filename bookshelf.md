@@ -2,44 +2,75 @@
 layout: default
 title: Bookshelf
 ---
-## Library page
+## My Bookshelf
 
-This page is an incomplete catalogue of my (physical) books.  My rate of book-buying exceeds my rate of book-reading, but it shouldn't exceed my rate of book-indexing, so hopefully this catalogue will be complete <strike>soon</strike> eventually.
+Inspired by Patrick Collison, this page is an incomplete catalogue of my (physical) books.  My rate of book-buying dramatically exceeds my rate of book-reading, but it shouldn't exceed my rate of book-indexing, so hopefully this catalogue will be complete <strike>soon</strike> eventually. 
 
-Categories are approximate.  Ordering is random.  Status as of Oct 2019: 2 of 30 bookshelves catalogued.
+To make it easier to browse, I've split this page by category:
 
-### Science & Scientific Biographies
-- **Carl Sagan: A Life in the Cosmons**, William Poundstone
-- **Alan Turing: The Enigma**, Andrew Hodges
-- **The Man Who Knew Infinity**, Robert Kanigel
-- **Men of Mathematics**, E. T. Bell
-- **A Beautiful Mind**, Sylvia Nasar
-- **Galileo's Daughter**, Dava Sobel
-- **The Scientists**, John Gribbin
-- **Asimov's Guide to Science**, Isaac Asimov
-- **Flatland and Sphereland**, Edwin Abbott
-- **Fermat's Enigma**, Simon Singh
-- **The Code Book**, Simon Singh
-- **Big Bang**, Simon Singh
-- **Coming of Age in the Milky Way**, Timothy Ferriss
-- **Consilience**, Edward O. Wilson
-- **Einstein**, Walter Isaacson
+- [Science & Mathematics](/bookshelf#science--mathematics)
+- [History & Biography](/bookshelf#history--biography)
+- [Essays, Memoirs & Journalism](/bookshelf#essays-memoirs--journalism)
+- [Language & Music](/bookshelf#language--music)
+- [Travel, Adventure & Exploration](/bookshelf#travel-adventure--exploration)
+
+Books in **green**{: style="color: green"} are very good and recommended.  Books in **red**{: style="color: red"} are life-changing: I saw the world differently after reading them.  As of November 2019, I've catalogued approximately 4 of 30+ bookshelves in my house.
+
+<br/>
+
+-----
+
+<br/>
+
+### Science & Mathematics
+- **One Two Three … Infinity**, George Gamow
 - **In Search of Schrodinger's Cat**, John Gribbin
 - **The Quark and the Jaguar**, Murray Gell-Mann
-- **One Two Three … Infinity**, George Gamow
+- **QED**, Richard Feynman
+- **Flatland and Sphereland**, Edwin Abbott
 - **Chasing Science**, Frederik Pohl
-- **How to Solve It**, George Polya
+- **Hexaflexagons, Probability and Hanoi**, Martin Gardner
+
+The first Martin Gardner book I ever read; along with a (sadly lost) copy of Yakov Perelman's **Mathematics Can Be Fun**, the beginning of a life-long interest in words, numbers, puzzles and games.
+
 - **Mathematical Magic Show**, Martin Gardner
 - **Fads & Fallacies**, Martin Gardner
 - **Did Adam and Eve have Navels?**, Martin Gardner
-- **Hexaflexagons, Probability and Hanoi**, Martin Gardner
 - **The Colossal Book of Mathematics**, Martin Gardner
 - **The Colossal Book of Short Puzzles and Problems**, Martin Gardner
 - **The Sacred Beetle**, Martin Gardner
 - **The Whys of a Philosophical Scrivener**, Martin Gardner
+- **How to Solve It**{: style="color: green"}, George Polya
 - **What If?**, Randall Munro
-- **The Information**, James Gleick
 - **Chaos**, James Gleick
+- **The Information**, James Gleick
+- **Fermat's Enigma**, Simon Singh
+- **The Code Book**, Simon Singh
+- **Big Bang**, Simon Singh
+- **Coming of Age in the Milky Way**, Timothy Ferriss
+- **The Big Picture**, Sean Carroll
+- **Cosmos**{: style="color: red"}, Carl Sagan
+
+Cosmos (both book and TV series) was formative for me in so many ways: science, history, humanism.  
+
+Fun story: when I was 13 years old, my family lived in Kuwait.  We were there when Saddam Hussein's army invaded in 1990.  We spent two months living in occupied territory, before escaping via bus caravan through the desert, three days in the hold of a cargo ship, and airlift from Dubai.  
+
+When we escaped, we had to leave almost everything behind, carrying only what would fit into a backpack each.  I had a much-loved collection of books that I had to abandon; my parents told me I could choose one book to keep.
+
+I chose Cosmos. 
+
+- **The Dragons of Eden**, Carl Sagan
+- **Broca's Brain**, Carl Sagan
+- **The Demon-Haunted World**, Carl Sagan
+- **Comet**, Carl Sagan
+- **Metamagical Themas**{: style="color: green"}, Douglas Hofstadter
+- **Gödel, Escher, Bach**{: style="color: red"}, Douglas Hofstadter
+
+What can I say about GEB that hasn't been said by a thousand geeks before me?  Nothing, so I won't bother.  
+
+- **Le Ton beau de Marot**, Douglas Hofstadter
+- **I am a Strange Loop**, Douglas Hofstadter
+- **The Mind's I**, Douglas Hofstadter
 - **The Flamingo's Smile**, Stephen Jay Gould
 - **Eight Little Piggies**, Stephen Jay Gould
 - **Ever Since Darwin**, Stephen Jay Gould
@@ -54,68 +85,68 @@ Categories are approximate.  Ordering is random.  Status as of Oct 2019: 2 of 30
 - **The Origin of Species**, Charles Darwin
 - **The Voyage of the Beagle**, Charles Darwin
 - **The Malay Archipelago**, Alfred Wallace
+- **Consilience**, Edward O. Wilson
 - **Beautiful Swimmers**, William Warner
 - **Pilgrim at Tinker Creek**, Annie Dillard
 - **Gorillas in the Mist**, Dian Fossey
-- **The Lives of a Cell**, Lewis Thomas
+- **The Lives of a Cell**{: style="color: green"}, Lewis Thomas
+- **Microbe Hunters**, Paul de Kruif
 - **The Island of the Color-Blind**, Oliver Sacks
 - **Hallucinations**, Oliver Sacks
 - **Musicophilia**, Oliver Sacks
 - **Uncle Tungsten**, Oliver Sacks
 - **The Man Who Mistook His Wife for a Hat**, Oliver Sacks
-- **Microbe Hunters**, Paul de Kruif
 - **The Selfish Gene**, Richard Dawkins
 - **The Ancestor's Tale**, Richard Dawkins
 - **The Blind Watchmaker**, Richard Dawkins
 - **Genome**, Matt Ridley
-- **The Red Queen**, Matt Ridley
-- **The New Science of Strong Materials**, J. E. Gordon
-- **Hackers**, Steven Levy
-- **QED**, Richard Feynman
-- **Geek Sublime**, Vikram Chandra
+- **The Red Queen**{: style="color: green"}, Matt Ridley
 - **The Language Instinct**, Steven Pinker
 - **The Goshawk**, T. H. White
 - **The Peregrine's Saga**, Henry Williamson
 - **The Double Helix**, James H. Watson
 - **Silent Spring**, Rachel Carson
 - **King Solomon's Ring**, Konrad Lorenz
-- **The Dragons of Eden**, Carl Sagan
-- **Cosmos**, Carl Sagan
-- **Broca's Brain**, Carl Sagan
-- **The Demon-Haunted World**, Carl Sagan
-- **Comet**, Carl Sagan
-- **The Big Picture**, Sean Carroll
-- **Fashionable Nonsense**, Alan Sokal
 - **The Naked Ape**, Desmond Morris
-- **The Ascent of Man**, Jacob Bronowski
-- **The Western Intellectual Tradition**, Jacob Bronowski
-- **Structures**, J. E. Gordon
-- **Infrastructure**, Brian Hayes
+- **Darwin's Dangerous Idea**, Daniel Dennett
+- **The Emperor's New Mind**, Roger Penrose
 - **Thnking, Fast and Slow**, Daniel Kahneman
 - **Sapiens**, Yuval Noah Harari
 - **Homo Deus**, Yuval Noah Harari
 - **Abundance**, Peter Diamandis
-- **Metamagical Themas**, Douglas Hofstadter
-- **Le Ton beau de Marot**, Douglas Hofstadter
-- **Godel, Escher, Bach**, Douglas Hofstadter
-- **I am a Strange Loop**, Douglas Hofstadter
-- **The Mind's I**, Douglas Hofstadter
-- **Darwin's Dangerous Idea**, Daniel Dennett
+- **Hackers**, Steven Levy
+- **Geek Sublime**, Vikram Chandra
+- **Infrastructure**{: style="color: green"}, Brian Hayes
+- **Structures**, J. E. Gordon
+- **The New Science of Strong Materials**, J. E. Gordon
+- **The Ascent of Man**, Jacob Bronowski
+- **The Western Intellectual Tradition**, Jacob Bronowski
 - **The Visual Display of Quantitative Information**, Edward Tufte
 - **Earth from Above**, Yann Arthus-Bertrand
 - **The Atlas of Life on Earth**, Michael J. Benton
 - **The Prehistoric World**, Richart Moody
 - **The Earth: An Intimate History**, Richard Fortey
 - **Life**, Richard Fortey
-- **The Emperor's New Mind**, Roger Penrose
 - **Bottomfeeder**, Taras Grescoe
 - **Eating Animals**, Jonathan Safran Foer
+- **Fashionable Nonsense**, Alan Sokal
+- **Carl Sagan: A Life in the Cosmos**, William Poundstone
+- **Alan Turing: The Enigma**, Andrew Hodges
+- **The Man Who Knew Infinity**, Robert Kanigel
+- **Men of Mathematics**, E. T. Bell
+- **A Beautiful Mind**, Sylvia Nasar
+- **Galileo's Daughter**, Dava Sobel
+- **The Scientists**, John Gribbin
+- **Asimov's Guide to Science**, Isaac Asimov
+- **Einstein**, Walter Isaacson
 
+<br/>
 
+-----
 
+<br/>
 
-
-### Section: History & Biography
+### History & Biography
 - **The Age of Wonder**, Richard Holmes
 - **Falling Upwards**, Richard Holmes
 - **Mercator**, Nicholas Crane
@@ -148,16 +179,16 @@ Categories are approximate.  Ordering is random.  Status as of Oct 2019: 2 of 30
 - **Eighty Days**, Matthew Goodman
 - **Krakatoa**, Simon Winchester
 - **The Bounty**, Caroline Alexander
-- **The Rise and Fall of the Third Reich**, William Shirer
+- **The Rise and Fall of the Third Reich**{: style="color: green"}, William Shirer
 - **The Fatal Impact**, Alan Moorehead
 - **The Origins of the Second World War**, A. J. P. Taylor
 - **A Short History of the World**, H. G. Wells
 - **Glencoe**, John Prebble
 - **Culloden**, John Prebble
 - **The Highland Clearances**, John Prebble
-- **Civilization and Capitalism, Vol 1: The Structures of Everyday Life**, Fernand Braudel
-- **Civilization and Capitalism, Vol 2: The Wheels of Commerce**, Fernand Braudel
-- **Civilization and Capitalism, Vol 3: The Perspective of the World**, Fernand Braudel
+- **The Structures of Everyday Life**, Fernand Braudel
+- **The Wheels of Commerce**, Fernand Braudel
+- **The Perspective of the World**, Fernand Braudel
 - **The Crusades Through Arab Eyes**, Amin Maaloouf
 - **The Twelve Caesars**, Suetonius
 - **Bury My Heart at Wounded Knee**, Dee Brown
@@ -166,76 +197,126 @@ Categories are approximate.  Ordering is random.  Status as of Oct 2019: 2 of 30
 - **The Island of Lost Maps**, Miles Harvey
 - **The Mughal World**, Abraham Eraly
 - **Silk Roads, China Ships**, John Vollmer
+- **Postwar**, Tony Judt
+- **Europe: A History**, Norman Davies
+- **The Epic of Latin America**, John Crow
+- **The Scramble for Africa**, Thomas Pakenham
+- **The House of Rothschild: Money's Prophets**, Niall Ferguson
+- **The House of Rothschild: The World's Banker**, Niall Ferguson
+- **Team of Rivals**, Doris Kearns Goodwin
+- **Battle Cry of Freedom**{: style="color: green"}, James McPherson
+- **A Short History of Nearly Everything**, Bill Bryson
+- **Eyewitness to History**, John Carey
+- **The Silk Road**, Frances Wood
+- **A Nervous Splendor**, Frederic Morton
+- **The Ottoman Centuries**, Patrick Balfour, Lord Kinross
+- **The Making of the Atomic Bomb**, Richard Rhodes
+- **Five Families**, Selywn Raab
+- **Atrocities**, Matthew White
+- **The House of Morgan**, Ron Chernow
+- **The Blue Nile**, Alan Moorehead
+- **The White Nile**, Alan Moorehead
+- **Red Nile**, Robert Twigger
+- **City of Fortune**, Roger Crowley
+- **Empires of the Sea**, Roger Crowley
+- **Constantinople**, Roger Crowley
+- **Conquerors**, Roger Crowley
+- **Black Sea**, Neal Ascherson
+- **Atlantic**, Simon Winchester
+- **Pacific**, Simon Winchester
+- **The Edge of the World**, Michael Pye
+- **Rubicon**, Holland
+- **SPQR**, Mary Beard
+- **Alexander the Great**, Robin Lane Fox
+- **The Classical World**, Robin Lane Fox
+- **The Thirty Years War**, C. K. Wedgewood
+- **Defeat: Napoleon's Russian Campaign**, Phillipe-Paul de Segur
+- **Sakhalin Island**, Anton Chekhov
+- **Lenin**, Robert Service
+- **Trotsky**, Robert Service
+- **Stalin**, Robert Service
+- **To the Finland Station**, Edmund Wilson
+- **A People's Tragedy**, Orlando Figes
+- **Natasha's Dance**, Orlando Figes
+- **The Crimean War**, Orlando Figes
+- **Stalingrad**, Antony Beevor
+- **The Fall of Berlin 1945**, Antony Beevor
+- **Ten Days that Shook the World**, John Reed
+- **The Silk Roads**{: style="color: green"}, Peter Frankopan
+- **The Monks of War**, Desmond Seward
+- **The Basque History of the World**, Mark Kurlansky
+- **The Best and the Brightest**, David Halberstam
+- **The Great Hedge of India**, John Keay
+- **India Discovered**, John Keay
+- **China: A History**, John Keay
+- **India: A History**{: style="color: green"}, John Keay
+- **Last Post**, John Keay
+- **The Great Arc**, John Keay
+- **Mad About the Mekong**, John Keay
+- **The Honourable Company**, John Keay
+- **Sowing the Wind**, John Keay
+- **Land of the Seven Rivers**, Sanjeev Sanyal
+- **The Great Moguls**, Bamber Gascoigne
+- **The Baburnama**, Babur
+- **1491**, Charles C. Mann
+- **1493**, Charles C. Mann
+- **One Summer**, Bill Bryson
+- **The Normans in Sicily**, John Julius Norwich
+- **The Middle Sea**, John Julius Norwich
+- **A Short History of Byzantium**, John Julius Norwich
+- **A History of Venice**, John Julius Norwich
+- **A Traveler's Companion to Venice**, John Julius Norwich
+- **The Great Game**{: style="color: green"}, Peter Hopkirk
+- **Trespassers on the Roof of the World**, Peter Hopkirk
+- **Setting the East Ablaze**, Peter Hopkirk
+- **Like Hidden Fire**, Peter Hopkirk
+- **Foreign Devils on the Silk Road**, Peter Hopkirk
+- **Quest for Kim**, Peter Hopkirk
+- **Tournament of Shadows**, Karl Meyer & Shareen Brysac
+- **A History of the Arab Peoples**, Albert Hourani
+- **The Looming Tower**, Lawrence Wright
+- **The Kingdom**, Robert Lacey
+- **Inside the Kingdom**, Robert Lacey
+- **The Quest**, Daniel Yergin
+- **The Prize**, Daniel Yergin
+- **100 Great Adventures**{: style="color: green"}, John Canning
+- **100 Great Lives**, John Canning
+- **White Mughals**, William Dalrymple
+- **Return of a King**, William Dalrymple
+- **The Last Mughal**, William Dalrymple
+- **Kohinoor**, William Dalrymple
+- **The Creators**, Daniel Boorstin
+- **The Discoverers**, Daniel Boorstin
+- **The Seekers**, Daniel Boorstin
+- **The Age of Revolution**, Eric Hobsbawm
+- **The Age of Capital**, Eric Hobsbawm
+- **The Age of Empire**, Eric Hobsbawm
+- **The Age of Extremes**, Eric Hobsbawm
+- **Civilizations**, Felipe Fernandez-Armesto
+- **King Leopold's Ghost**{: style="color: green"}, Adam Hochschild
+- **Late Victorian Holocausts**, Mike Davies
+- **London: The Biography**, Peter Ackroyd
+- **The Faber Book of London**, A. N. Wilson
+- **Seven Ages of Paris**, Alistair Horne
+- **The Bog People**, P. V. Glob
+- **Decline and Fall of the Roman Empire (abridged, 1 vol)**, Edward Gibbon
+- **Decline and Fall of the Roman Empire (complete, 8 vols)**, Edward Gibbon
+- **Panorama of the Classical World**, Nigel Spivey
+- **Medieval Panorama**, Robert Bartlett
+- **Panorama of the Renaissance**, Margaret Aston
+- **Panorama of the Enlightenment**, Dorinda Outram
+- **The Classical Tradition**, Anthony Grafton
+- **Cities and Civilization**, Christopher Hibbert
+- **Cities of Mughul India**, Gavin Hambly
+- **A Study of History**{: style="color: green"}, Arnold Toynbee
 
+<br/>
 
-### Section: Business & Economics
-- **Principles**, Ray Dalio
-- **Fatal Risk**, Roddy Boyd
-- **The Signal and the Noise**, Nate Silver
-- **The Affluent Society**, John Kenneth Galbraith
-- **Confessions of an Advertising Man**, David Ogilvy
+-----
 
+<br/>
 
-
-
-### Section: Travel & Geography
-- **A Secret Pilgrimage to Mecca and Medina**, Richard Burton
-- **Into the Dark Continent**, Henry Morton Stanley
-- **Special Correspondent to the Times**, William Russell
-- **The Travels of Ibn Battutah**, Tim Mackintosh-Smith
-- **Arabian Sands**, Wilfred Thesiger
-- **The Marsh Arabs**, Wilfred Thesiger
-- **Landmarks**, Robert MacFarlane
-- **Nonstop Metropolis**, Rebecca Solnit
-- **Istanbul**, Orhan Pamuk
-
-
-
-
-### Section: Encylopedias & Reference
-- **The Illustrated Book of Steam and Rail**, Colin Garratt
-- **Visual History of the World**, National Geographic
-- **Scenic Wonders of Canada**, Reader's Digest
-- **The Times Atlas of the World (8 vols)**, Times
-- **America's Majestic Canyons**, National Geographic
-- **The Vintage Guide to Classical Music**, Vintage
-- **The Oxford Companion to Music**, Oxford
-- **The Oxford Companion to Jazz**, Oxford
-- **Jazz: The Essential Album Guide**, Music Hound
-
-
-
-
-
-### Section: Music
-- **Indian Classical Music**, Raghava Menon
-- **Nad: Understanding Raga Music**, Sandeep Bagchee
-- **Euphony**, L. Subramaniam
-- **The Raga Guide**, Editors
-- **Blues People**, LeRoi Jones
-- **Old, Weird America**, Greil Marcus
-- **Mystery Train**, Greil Marcus
-- **The Rest is Noise**, Alex Ross
-- **Listen to This**, Alex Ross
-- **The Great Pianists**, Harold Schonberg
-- **Mozart**, Maynard Solomon
-- **Why Jazz Happened**, Myers
-- **Jazz 101**, John Szwed
-- **The Forms of Music**, Tovey
-- **Granta Music**, Editors
-- **Jazz: A Listener's Guide**, McCalla
-- **Bhairavi: The Dawn of Indian Music in the West**, Peter Lavezzoli
-- **A History of Western Music**, Grout
-- **Three Mozart Operas**, Richard Moberly
-- **The Band: A Musical History**, Robbie Robertson
-
-
-
-
-
-
-
-### Section: Essays, Memoirs, Journalism
+### Essays, Memoirs & Journalism
 - **Rising from the Plains**, John McPhee
 - **In Suspect Terrain**, John McPhee
 - **Assembling California**, John McPhee
@@ -247,7 +328,7 @@ Categories are approximate.  Ordering is random.  Status as of Oct 2019: 2 of 30
 - **The Founding Fish**, John McPhee
 - **Pieces of the Framce**, John McPhee
 - **Oranges**, John McPhee
-- **Coming Into the Country**, John McPhee
+- **Coming Into the Country**{: style="color: green"}, John McPhee
 - **The First John McPhee Reader**, John McPhee
 - **The Second John McPhee Reader**, John McPhee
 - **Annals of the Former World**, John McPhee
@@ -271,7 +352,7 @@ Categories are approximate.  Ordering is random.  Status as of Oct 2019: 2 of 30
 - **A Supposedly Fun Thing I'll Never Do Again**, David Foster Wallace
 - **Brief Interviews With Hideous Men**, David Foster Wallace
 - **Bradbury Speaks**, Ray Bradbury
-- **No Man is an Island **, John Donne
+- **No Man is an Island**, John Donne
 - **The Best of Myles**, Flann O'Brien
 - **The Second Sex**, Simone de Beauvoir
 - **A Collection of Essays**, George Orwell
@@ -295,27 +376,22 @@ Categories are approximate.  Ordering is random.  Status as of Oct 2019: 2 of 30
 - **Democracy in America**, Alexis de Tocqueville
 - **Akenfield**, Ronald Morton
 - **The Reckoning**, David Halberstam
+- **Republic**, Plato
+- **The Golden Bough**, James Frazier
+- **The Art of War**, Sun Tzu
+- **On War**, Karl von Clausewitz
+- **Understanding Media**, Marshall McLuhan
+- **A Short History of Modern Philosophy**, Roger Scruton
+- **History of Western Philosophy**, Bertrand Russell
+- **The Inner Game of Tennis**{: style="color: green"}, Timothy Gallwey
 
+<br/>
 
+-----
 
+<br/>
 
-
-
-
-
-### Section: Poetry & Drama
-- **The Folio Poets: John Donne**, John Donne
-- **The Folio Poets: Rudyard Kipling**, Rudyard Kipling
-- **The Folio Poets: John Keats**, John Keats
-- **The Folio Poets: W. B. Yeats**, W. B. Yeats
-- **Waiting for Godot**, Samuel Beckett
-- **Eugene Onegin**, Alexander Pushkin
-- **Endgame**, Samuel Beckett
-- **The Real Inspector Hound**, Tom Stoppard
-- **Difficulties of a Bridegroom**, Ted Hughes
-
-
-### Section: Language
+### Language & Music
 - **The Joy of Lex**, Giles Brandreth
 - **More Joy of Lex**, Giles Brandreth
 - **The Joy of Cliches**, Nigel Rees
@@ -324,7 +400,10 @@ Categories are approximate.  Ordering is random.  Status as of Oct 2019: 2 of 30
 - **Let a Simile Be Your Umbrella**, William Safire
 - **No Uncertain Terms**, William Safire
 - **On Language**, William Safire
-- **Empires of the Word**, Nicholas Ostler
+- **Empires of the Word**{: style="color: green"}, Nicholas Ostler
+
+This is a terrific book and one of the top 5 non-fiction books I've ever read. (My top 5 actually includes at least 25 books, but what can you do.)
+
 - **Ad Infinitum**, Nicholas Ostler
 - **The Stories of English**, David Crystal
 - **Made in America**, Bill Bryson
@@ -332,15 +411,14 @@ Categories are approximate.  Ordering is random.  Status as of Oct 2019: 2 of 30
 - **Just My Type**, Simon Garfield
 - **The Power of Babel**, John McWhorter
 - **Word Origins**, Cecil Hunt
-- **Christmas Crackers**, John Julius Norwich
+- **Christmas Crackers**{: style="color: green"}, John Julius Norwich
 - **More Christmas Crackers**, John Julius Norwich
 - **Still More Christmas Crackers**, John Julius Norwich
 - **The Big Bang Christmas Crackers**, John Julius Norwich
 - **An Almanac of Words at Play**, Willard Espy
 - **Another Almanac of Words at Play**, Willard Espy
 - **O Thou Improper, Thou Uncommon Noun**, Willard Espy
-- **Brewer's Dictionary of Phrase and Fable**, E. C. Brewer
-- **The Wordsworth Dictionary of Phrase and Fable**, E. C. Brewer
+- **Brewer's Dictionary of Phrase and Fable**{: style="color: green"}, E. C. Brewer
 - **Brewer's Cabinet of Curiosities**, E. C. Brewer
 - **Words and Rules**, Steven Pinker
 - **The Big Book of Beastly Mispronunciations**, Ralph Elster
@@ -352,3 +430,441 @@ Categories are approximate.  Ordering is random.  Status as of Oct 2019: 2 of 30
 - **Pure Pleasure**, John Carey
 - **Word and Phrase Origins**, William Morris
 - **American Slang**, Robert Chapman
+- **Indian Classical Music**, Raghava Menon
+- **Nad: Understanding Raga Music**, Sandeep Bagchee
+- **Euphony**, L. Subramaniam
+- **The Raga Guide**, Editors
+- **Blues People**, LeRoi Jones
+- **Old, Weird America**, Greil Marcus
+- **Mystery Train**, Greil Marcus
+- **The Rest is Noise**{: style="color: green"}, Alex Ross
+- **Listen to This**, Alex Ross
+- **The Great Pianists**, Harold Schonberg
+- **Mozart**, Maynard Solomon
+- **Why Jazz Happened**, Myers
+- **The Forms of Music**, Tovey
+- **Bhairavi: The Dawn of Indian Music in the West**, Peter Lavezzoli
+- **A History of Western Music**, Grout
+- **Three Mozart Operas**, Richard Moberly
+- **The Band: A Musical History**, Robbie Robertson
+
+<br/>
+
+-----
+
+<br/>
+
+### Travel, Adventure & Exploration
+
+I have a minor obsession with collecting travel books. I doubt I'll visit all or even a tenth of all the places I want to visit, but I can read about them... 
+
+- **Desert Solitaire**{: style="color: green"}, Edward Abbey
+- **Last Chance to See**, Douglas Adams
+- **Lost in Mongolia**, Colin Angus
+- **The Search for Shangri La**, Charles Allen
+- **A Mountain in Tibet**, Charles Allen
+- **Hindoo Holiday**, J. R. Ackerley
+- **I See By My Outfit**, Peter Beagle
+- **A Visit to Don Ottavio**, Sybille Bedford
+- **A Secret Pilgrimage to Mecca and Medina**, Richard Burton
+- **Goa and the Blue Mountains**, Richard Burton
+- **Three Sheets to the Wind**, Pete Brown
+- **A Walk in the Woods**, Bill Bryson
+- **In a Sunburned Country**, Bill Bryson
+- **Neither Here Nor There**, Bill Bryson
+- **The Lost Continent**, Bill Bryson
+- **The Road to Little Dribbling**, Bill Bryson
+- **I'm a Stranger Here Myself**, Bill Bryson
+- **South from Granada**, Gerald Brenan
+- **Everest**, Chris Bonington
+- **Annapurna South Face**, Chris Bonington
+- **In the Himalayas**, Jeremy Bernstein
+- **A Walk along the Ganges**, Dennison Berwick
+- **The Way of the World**, Nicholas Bouvier
+- **A Ride to Khiva**, Frederick Burnaby
+- **On Horseback Through Asia Minor**, Frederick Burnaby
+- **The Roads to Sata**{: style="color: green"}, Alan Booth
+- **Looking for the Lost**, Alan Booth
+- **The Desert and the Sown**, Gertrude Bell
+- **The Outermost House**, Henry Beston
+- **The Path to Rome**, Hilaire Belloc
+- **Wild Wales**, George Borrow
+- **The Taste of War**, Margaret Bourke-White
+- **Nanga Parbat Pilgrimage**, Hermann Buhl
+- **The Heart of the World**, Ian Baker
+- **The Mountains of My Life**, Walter Bonatti
+- **The Station**, Robert Byron
+- **The Road to Oxiana**, Robert Byron
+- **In Patagonia**{: style="color: green"}, Bruce Chatwin
+- **The Songlines**, Bruce Chatwin
+- **What Am I Doing Here**, Bruce Chatwin
+- **Equator**, Thurston Clarke
+- **Mr China**, Tim Clissold
+- **Road Fever**, Tim Cahill
+- **A Wolverine is Eating My Leg**, Tim Cahill
+- **Hold the Enlightenment**, Tim Cahill
+- **Pecked to Death by Ducks**, Tim Cahill
+- **Pass the Butterworms**, Tim Cahill
+- **Volga, Volga**, Lesley Chamberlain
+- **A Thousand Miles from Nowhere**, Graham Coster
+- **Poets and Pahlevans**, Marcello di Cintio
+- **Clear Waters Rising**, Nicholas Crane
+- **On the Trail of Genghis Khan**, Tim Cope
+- **Letters from Russia**, Astolphe de Custine
+- **Great Heart**, James Davidson
+- **Prospero's Cell**, Lawrence Durrell
+- **The Greek Islands**, Lawrence Durrell
+- **The Lawrence Durrell Travel Reader**, Lawrence Durrell
+- **City of Djinns**{: style="color: green"}, William Dalrymple
+- **In Xanadu**, William Dalrymple
+- **Nine Lives**, William Dalrymple
+- **The Age of Kali**, William Dalrymple
+- **From the Holy Mountain**, William Dalrymple
+- **Two Years Before the Mast**, R. H. Dana
+- **Danziger's Travels**, Nick Danziger
+- **Passages from Arabia Deserta**, C. M. Doughty
+- **Down the Great Unknown**, Edward Dolnick
+- **Into the Silence**, Wade Davis
+- **A Walk Around the Lakes**, Hunter Davies
+- **Running in Place**, Nicholas Delbanco
+- **Europe, Europe**, Hans Magnus Enzensberger
+- **This Cold Heaven**, Greta Ehrlich
+- **An Unexpected Light**, Jason Elliott
+- **Mirrors of the Unseen**, Jason Elliott
+- **The 8:55 to Baghdad**, Andrew Eames
+- **Two Towns in Provence**, M. F. K. Fisher
+- **The Man Who Walked Through Time**, Colin Fletcher
+- **Travels in Siberia**, Ian Frazier
+- **Great Plains**, Ian Frazier
+- **Obscure Kingdoms**, Edward Fox
+- **The River Congo**, Peter Forbath
+- **Chasing the Monsoon**{: style="color: green"}, Alexander Frater
+- **Beyond the Blue Horizon**, Alexander Frater
+- **Tales from the Torrid Zone**, Alexander Frater
+- **The Hill of Devi**, E. M. Forster
+- **News from Tartary**, Peter Fleming
+- **Brazilian Adventure**, Peter Fleming
+- **One's Company**, Peter Fleming
+- **All the Wrong Places**, James Fenton
+- **Beauty Tips from Moose Jaw**, Will Ferguson
+- **Road Trip Rwanda**, Will Ferguson
+- **Atlas Obscura**, Joshua Foer
+- **By the Ionian Sea**, George Gissing
+- **An Egyptian Journal**, William Golding
+- **Kingdom of Ten Thousand Things**, Gary Geddes
+- **Sailing Home**, Gary Geddes
+- **In an Antique Land**, Amitav Ghosh
+- **Off the Rails in Phnom Penh**, Amit Gilboa
+- **The River's Tale**, Edward Gargan
+- **Africa Dances**, Geoffrey Gorer
+- **Journey to Kars**, Philip Glazebrook
+- **Paris to the Moon**, Adam Gopnik
+- **Travels in the Congo**, Andre Gide
+- **Journey Without Maps**, Graham Greene
+- **The Devil's Picnic**, Taras Grescoe
+- **The End of Elsewhere**, Taras Grescoe
+- **Sacre Blues**, Taras Grescoe
+- **River Town**, Peter Hessler
+- **Oracles Bones**, Peter Hessler
+- **Strange Stones**, Peter Hessler
+- **Country Driving**, Peter Hessler
+- **The White Spider**, Heinrich Harrer
+- **Seven Years in Tibet**, Heinrich Harrer
+- **Annapurna**, Maurice Herzog
+- **Blue Latitudes**, Tony Horwitz
+- **Confederates in the Attic**, Tony Horwitz
+- **Baghdad without a Map**, Tony Horwitz
+- **One For The Road**, Tony Horwitz
+- **Under a Sickle Moon**, Hodson
+- **Blue Highways**{: style="color: green"}, William Least Heat-Moon
+- **River-Horse**, William Least Heat-Moon
+- **Prairy-Erth**, William Least Heat-Moon
+- **Roads to Quoz**, William Least Heat-Moon
+- **The Ra Expedition**, Thor Heyerdahl
+- **Green was the Earth on the Seventh Day**, Thor Heyerdahl
+- **The Silk Road**, Sven Hedin
+- **The Wandering Lake**, Sven Hedin
+- **The Trail of War**, Sven Hedin
+- **My Life as an Explorer**, Sven Hedin
+- **The Impossible Country**, Brian Hall
+- **A Moveable Feast**, Ernest Hemingway
+- **African Calliope**, Edward Hoagland
+- **A Journey to Ladakh**, Andrew Harvey
+- **Passage to Torres Strait**, Miles Hordern
+- **Stranger in the Forest**, Eric Hansen
+- **Motoring with Mohammed**, Eric Hansen
+- **Tranquebar**, Georgia Harding
+- **Tales of the Alhambra**, Washington Irving
+- **Goodbye to Berlin**, Christopher Isherwood
+- **Video Night in Kathmandu**, Pico Iyer
+- **Falling Off the Map**, Pico Iyer
+- **Tropical Classica**, Pico Iyer
+- **The Lady and the Monk**, Pico Iyer
+- **The Global Soul**, Pico Iyer
+- **Sun After Dark**, Pico Iyer
+- **Flying Visits**, Clive James
+- **Italian Hours**, Henry James
+- **Mali Blues**, Lieve Joris
+- **Looking for Lovedu**, Ann Jones
+- **Diary of a Pilgrimage**, Jerome K. Jerome
+- **Shooting the Boh**, Tracy Johnston
+- **In the Land of Oz**, Howard Jacobson
+- **Darjeeling**, Jeff Koehler
+- **Journeying**, Nikos Kazantzakis
+- **The Ice Museum**, Joanna Kavenna
+- **Lost Japan**, Alex Kerr
+- **Eothen**, Alexander Kinglake
+- **Into India**, John Keay
+- **Travels in West Africa**, Mary Kingsley
+- **Running the Amazon**, Joe Kane
+- **The Soccer War**, Ryszard Kapuscinski
+- **The Shadow of the Sun**, Ryszard Kapuscinski
+- **Travels with Herodotus**, Ryszard Kapuscinski
+- **Imperium**, Ryszard Kapuscinski
+- **Into Thin Air**, Jon Krakauer
+- **Eiger Dreams**, Jon Krakauer
+- **Balkan Ghosts**, Robert Kaplan
+- **In Search of Zarathustra**, Paul Kriwaczek
+- **Beyond the Pyramids**, Douglas Kennedy
+- **A Time of Gifts**{: style="color: red"}, Patrick Leigh Fermor
+- **Between the Woods and the Water**, Patrick Leigh Fermor
+- **The Broken Road**, Patrick Leigh Fermor
+- **A Time to Keep Silence**, Patrick Leigh Fermor
+- **Mani: Travels in the Southern Peloponnese**, Patrick Leigh Fermor
+- **Roumeli: Travels in Northern Greece**, Patrick Leigh Fermor
+- **The Traveller's Tree**, Patrick Leigh Fermor
+- **The World The World**, Norman Lewis
+- **The Happy Ant Heap**, Norman Lewis
+- **Voices of the Old Sea**, Norman Lewis
+- **An Empire of the East**, Norman Lewis
+- **To Run Across the Sea**, Norman Lewis
+- **Jackdaw Cake**, Norman Lewis
+- **A Dragon Apparent**, Norman Lewis
+- **Golden Earth**, Norman Lewis
+- **A Goddess in the Stones**, Norman Lewis
+- **The Spirit of St. Louis**, Charles A. Lindbergh
+- **Seven Pillars of Wisdom**, T. E. Lawrence
+- **Sahara Unveiled**, William Langewiesche
+- **Journey into Barbary**, Wyndham Lewis
+- **Twilight in Italy**, D. H. Lawrence
+- **Sea and Sardinia**, D. H. Lawrence
+- **Sketches from Etruscan Places**, D. H. Lawrence
+- **In Bolivia**, Eric Lawlor
+- **Looking for Osman**, Eric Lawlor
+- **High Tartary**, Owen Lattimore
+- **Crossing Open Ground**, Barry Lopez
+- **Arctic Dreams**{: style="color: green"}, Barry Lopez
+- **Ring of Bright Water**, Gavin Maxwell
+- **Lords of the Atlas**, Gavin Maxwell
+- **The Man Who Loved Egypt**, John McPherson
+- **Travels with a Tangerine**, Tim Mackintosh-Smith
+- **The Hall of a Thousand Columns**, Tim Mackintosh-Smith
+- **Landfalls**, Tim Mackintosh-Smith
+- **The Travels of Ibn Battutah**, Tim Mackintosh-Smith
+- **Sun Dancing**, Geoffrey Moorhouse
+- **Apples in the Snow**, Geoffrey Moorhouse
+- **The Fearful Void**, Geoffrey Moorhouse
+- **To The Frontier**, Geoffrey Moorhouse
+- **Calcutta**, Geoffrey Moorhouse
+- **Among the Cities**, Jan Morris
+- **Hong Kong**, Jan Morris
+- **The Matter of Wales**, Jan Morris
+- **Oxford**, Jan Morris
+- **Destinations**, Jan Morris
+- **Triests and the Meaning of Nowhere**, Jan Morris
+- **Spain**, Jan Morris
+- **Danube**, Claudio Magris
+- **Forbidden Journey**, Ella Maillart
+- **The Cruel Way**, Ella Maillart
+- **Where the Indus is Young**, Dervla Murphy
+- **On a Shoestring to Coorg**, Dervla Murphy
+- **In Ethiopia with a Mule**, Dervla Murphy
+- **Full Tilt**, Dervla Murphy
+- **A Place Apart**, Dervla Murphy
+- **Eight Feet in the Andes**, Dervla Murphy
+- **Pies and Prejudice**, Stuart Maconie
+- **On a Chinese Screen**, W. Somerset Maugham
+- **The Colossus of Maroussi**, Henry Miller
+- **Tundra**, Farlet Mowat
+- **The Polar Passion**, Farlet Mowat
+- **Ordeal by Ice**, Farlet Mowat
+- **In Search of England**, H. V. Morton
+- **A Traveller in Italy**, H. V. Morton
+- **Fabled Shore**, Rose Macaulay
+- **They Went to Portugal**, Rose Macaulay
+- **Roads**, Larry McMurtry
+- **The Naked Eye**, Desmond Morris
+- **The Panama Hat Trail**, Tom Miller
+- **The Snow Leopard**{: style="color: green"}, Peter Matthiessen
+- **The Cloud Forest**, Peter Matthiessen
+- **Far Tortuga**, Peter Matthiessen
+- **The Birds of Heaven **, Peter Matthiessen
+- **African Silences**, Peter Matthiessen
+- **Travels with Rosinante**, Bernard Magnouloux
+- **Nothing to Declare**, Mary Morris
+- **West with the Night**, Beryl Markham
+- **The Stones of Florence**, Mary McCarthy
+- **Venice Observed**, Mary McCarthy
+- **Eastern Approaches**, Fitzroy Maclean
+- **A Person from England**, Fitzroy Maclean
+- **Rounding the Horn**, Dallas Murphy
+- **Frost on my Moustache**, Tim Moore
+- **On Trails**, Robert Moor
+- **Maximum City**, Suketu Mehta
+- **Landmarks**, Robert MacFarlane
+- **Journey to the Orient**, Gerard de Nerval
+- **A Short Walk in the Hindu Kush**, Eric Newby
+- **The Last Grain Race**{: style="color: green"}, Eric Newby
+- **On the Shores of the Mediterranean**, Eric Newby
+- **Round Ireland in Low Gear**, Eric Newby
+- **Slowly Down the Ganges**, Eric Newby
+- **Love and War in the Apennines**, Eric Newby
+- **A Traveller's Life**, Eric Newby
+- **Departures & Arrivals**, Eric Newby
+- **Somethin Wholesales**, Eric Newby
+- **The Big Red Train Ride**, Eric Newby
+- **Borderlines**, Charles Nicholl
+- **The Fruit Palace**, Charles Nicholl
+- **North of South**, Shiva Naipaul
+- **Beyond the Dragon's Mouth**, Shiva Naipaul
+- **A Turn in the South**, V. S. Naipaul
+- **An Area of Darkness**, V. S. Naipaul
+- **India: A Wounded Civilization**, V. S. Naipaul
+- **Among the Believers**, V. S. Naipaul
+- **India**, V. S. Naipaul
+- **The Emerald Route**, R. K. Narayan
+- **Holidays in Hell**, P. J. O'Rourke
+- **In Trouble Again**, Redmond O'Hanlon
+- **No Mercy**, Redmond O'Hanlon
+- **Trawler**, Redmond O'Hanlon
+- **Into the Heart of Borneo**, Redmond O'Hanlon
+- **Challenging the Amazon**, Francois Odendaal
+- **Cry of the Kalahari**, Mark and Delia Owens
+- **Pole to Pole**, Michael Palin
+- **New Europe**, Michael Palin
+- **Istanbul**, Orhan Pamuk
+- **The Dangerous River**, Raymond Patterson
+- **The Colorado River and its Canyons**, John Wesley Powell
+- **In Light of India**, Octavio Paz
+- **The Road Through Miyama**, Leila Philip
+- **Inca-Kola**, Matthew Parris
+- **Venture to the Interior**, Laurens van der Post
+- **Journey into Russia**, Laurens van der Post
+- **The Lost World of the Kalahari**, Laurens van der Post
+- **The Other Nile**, Charlie Pye-Smith
+- **Travels in Nepal**, Charlie Pye-Smith
+- **Bad Land**, Jonathan Raban
+- **Old Glory**, Jonathan Raban
+- **Hunting Mister Heartbreak**, Jonathan Raban
+- **Arabia**, Jonathan Raban
+- **For Love and Money**, Jonathan Raban
+- **Passage to Juneau**, Jonathan Raban
+- **Coasting**, Jonathan Raban
+- **Driving Home**, Jonathan Raban
+- **The Inland Sea**, Donald Richie
+- **Stones of Aran: Pilgrimage**, Tim Robinson
+- **Stones of Aran: Labyrinth**, Tim Robinson
+- **Starlight and Storm**, Gaston Rebuffat
+- **Alive**, Piers Paul Read
+- **River in the Desert**, Paul William Roberts
+- **The Jaguar Smile**, Salman Rushdie
+- **The Stones of Venice**, John Ruskin
+- **The Blessings of a Good Thick Skirt**, Mary Russell
+- **Special Correspondent to the Times**, William Russell
+- **Unsuitable for Ladies**, Jane Robinson
+- **Dead Man's Chest**, Nicholas Rankin
+- **The Lycian Store**, Freya Stark
+- **The Southern Gates of Arabia**, Freya Stark
+- **The Valleys of the Assassins**, Freya Stark
+- **Beyond Euphrates**, Freya Stark
+- **The Minaret of Djam**, Freya Stark
+- **Alexander's Path**, Freya Stark
+- **East is West**, Freya Stark
+- **Travels with a Donkey**, R. L. Stevenson
+- **An Inland Voyage**, R. L. Stevenson
+- **The Silverado Squatters**, R. L. Stevenson
+- **In the South Seas**, R. L. Stevenson
+- **Cold Beer and Crocodiles**, Roff Smith
+- **Sorcerer's Apprentice**, Tahir Shah
+- **Arabian Nights**, Tahir Shah
+- **Beyond the Devil's Teeth**, Tahir Shah
+- **Malaria Dreams**, Stuart Stevens
+- **Night Train to Turkistan**, Stuart Stevens
+- **The Rings of Saturn**, W. G. Sebald
+- **Travels with my Trombone**, Henry Shukman
+- **Touching the Void**, Joe Simpson
+- **Incidents of Travel in Egypt, Arabia Petraea and the Holy Land**, John Stephens
+- **Sailing Alone Around the World**, Joshua Slocum
+- **Blind White Fish in Persia**, Anthony Smith
+- **The Aran Islands**, J. M. Synge
+- **Every Rock, Every Hill**, Victoria Schofield
+- **The Rivers Amazon**, Alex Shoumatoff
+- **Through the Dark Continent (2 vols)**, Henry Morton Stanley
+- **Into the Dark Continent**, Henry Morton Stanley
+- **Nonstop Metropolis**, Rebecca Solnit
+- **Off the Rails**, Lisa St Aubin
+- **Airman's Odyssey**, Antoine de Saint-Exupery
+- **Wind, Sand and Stars**, Antoine de Saint-Exupery
+- **Iron & Silk**, Mark Salzman
+- **From Heaven Lake**, Vikram Seth
+- **Beyond the Hundredth Meridian**, Wallace Stegner
+- **A Fez of the Heart**, Jeremy Seal
+- **All the Roads are Open**, Annemarie Schwarzenbach
+- **The Places in Between**, Rory Stewart
+- **The Weather Prophet**, Lucretia Stewart
+- **Running with Reindeer**, Roger Took
+- **Cochineal Red**, Hugh Thomson
+- **The Eighth Continent**, Peter Tyson
+- **The Sea and the Jungle**, H. M. Tomlinson
+- **A Fortune-Teller Told Me**, Tiziano Terzani
+- **Facing the Congo**, Jeffrey Taylor
+- **Arabian Sands**{: style="color: green"}, Wilfred Thesiger
+- **The Marsh Arabs**, Wilfred Thesiger
+- **Among the Mountains**, Wilfred Thesiger
+- **Roughing It**, Mark Twain
+- **The Innocents Abroad**, Mark Twain
+- **A Tramp Abroad**, Mark Twain
+- **Following the Equator**, Mark Twain
+- **Life on the Mississippi**, Mark Twain
+- **The Great Railway Bazaar**{: style="color: green"}, Paul Theroux
+- **The Old Patagonian Express**, Paul Theroux
+- **Riding the Iron Rooster**, Paul Theroux
+- **Sunrise with Sea Monsters**, Paul Theroux
+- **The Pillars of Hercules**, Paul Theroux
+- **The Kingdom by the Sea**, Paul Theroux
+- **The Happy Isles of Oceania**, Paul Theroux
+- **Fresh-Air Fiend**, Paul Theroux
+- **Deep South**, Paul Theroux
+- **Dark Star Safari**, Paul Theroux
+- **Mirror to Damascus**, Colin Thubron
+- **Shadow of the Silk Road**, Colin Thubron
+- **Jerusalem**, Colin Thubron
+- **Among the Russians**, Colin Thubron
+- **The Hills of Adonis**, Colin Thubron
+- **In Siberia**, Colin Thubron
+- **Behind the Wall**, Colin Thubron
+- **No Full Stops in India**, Mark Tully
+- **No Shortcuts to the Top**, Ed Viesturs
+- **When the Going was Good**, Evelyn Waugh
+- **Maiden Voyage**, Denton Welch
+- **Third-Class Ticket**, Heather Wood
+- **Time Among the Maya**, Ronald Wright
+- **Cut Stones and Crossroads**, Ronald Wright
+- **Stolen Continents**, Ronald Wright
+- **Europe Without Baedeker**, Edmund Wilson
+- **Courting the Diamond Sow**, Wickliffe Walker
+- **Honeymoon in Purdah**, Alison Wearing
+- **Fool's Paradise**, Dale Walker
+- **Calcutta**, Simon Winchester
+- **The River at the Center of the World**, Simon Winchester
+- **Black Lamb and Grey Falcon**{: style="color: green"}, Rebecca West
+- **All Aboard with E. M. Frimbo**, Rogers Whitaker
+- **Scrambles Amongst the Alps**, Edward Whymper
+- **Slow Boats to China**, Gavin Young
+- **Slow Boats Home**, Gavin Young
+- **Return to the Marshes**, Gavin Young
+- **Worlds Apart**, Gavin Young
+- **From Sea to Shining Sea**, Gavin Young
+- **In Search of Conrad**, Gavin Young
+- **Black Dragon River**, Dominic Ziegler
+- **Train**, Tom Zoellner

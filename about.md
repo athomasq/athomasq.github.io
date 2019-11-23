@@ -3,10 +3,10 @@ layout: default
 title: About · Abraham Thomas
 ---
 
-<i>... everything is permitted.  
+*... everything is permitted.  
 With only this condition of course,  
-You have to improve the blank page.   
-</i>  -- [Nicanor Parra](http://www.tnellen.com/cybereng/poetry/youngpoets.html)
+You have to improve the blank page.*   
+  -- [Nicanor Parra](http://www.tnellen.com/cybereng/poetry/youngpoets.html)
 
 ## Greetings!
 
@@ -14,7 +14,7 @@ Hello, I'm Abraham.  I live in Toronto with my family, several thousand books, a
 
 I'm the co-founder and Chief Data Officer of [Quandl](https://www.quandl.com), a technology startup that was acquired by [Nasdaq](http://www.nasdaq.com) in December 2018.  Before Quandl, I was a portfolio manager at [Simplex Asset Management](https://www.simplexasset.com), a large multi-strategy quant hedge fund headquartered in Tokyo.  Simplex hired me as a fresh graduate from [IIT Bombay](http://www.iitb.ac.in), where I studied Engineering Physics for my B. Tech.
 
-Magic happens at the intersection of competences.  There are 3 areas I know a lot about, and which will be the focus of this website: markets, technology and data.
+Magic happens at the intersection of competences.  I have three: markets, technology and data.
 
 ## Markets
 
@@ -24,7 +24,7 @@ I have expert-level knowledge of modern quantitative finance: hedge fund strateg
 
 ## Technology
 
-After Simplex, I co-founded Quandl, a venture-backed technology startup.  Quandl was created to address a problem I encountered time and again in my investing career: there's an amazing amount of information in the world, but much of it is hard to find and hard to use.  Quandl solves that.  
+After Simplex, I co-founded [Quandl](https://www.quandl.com), a venture-backed technology startup.  Quandl was created to address a problem I encountered time and again in my investing career: there's an amazing amount of information in the world, but much of it is hard to find and hard to use.  Quandl solves that.  
 
 My co-founder and I started as two engineers building a prototype in a windowless basement; grew our team to 50 exceptional people; raised 20M in financing from blue-chip Silicon Valley venture capital firms; created the category of "alternative data" for investors; gained essentially all of the world's leading hedge funds as our customers; and were ultimately [acquired](https://blog.quandl.com/quandl-the-next-chapter) by Nasdaq (NDAQ) in Canada's [largest tech exit of 2018](https://blog.usejournal.com/canadian-tech-exit-leaderboard-f4ef1374a5ae).  
 
@@ -36,7 +36,7 @@ At both Simplex and Quandl, my professional career has revolved around data.
 
 I have expert-level knowledge of modern data businesses: data pipelines (acquire/evaluate, structure/transform, research/apply, deliver/deploy), data and API-first business models (subscription, marketplace, broking, co-ops, give-to-get, DaaS, platforms, infrastructure, glue), data usage in finance and other industries, data supply chains, data and information advantages (speed, accuracy, coverage, uniqueness, quality), data valuation and monetization, data methods (storage, compute, analytics, dataviz, AI/ML, human-in-the-loop), managing data science and data engineering teams, data-driven decision making, and the limitations of data.  That's a lot of words.
 
-## Contact Me
+## Contact
 
 If you're interested in any of the above topics or if you just want to chat, I welcome your [emails](mailto:athos1@gmail.com), though I can't always guarantee a prompt reply.  I'm also on [Twitter](https://twitter.com/athomasq) and [LinkedIn](https://www.linkedin.com/in/athomasq).
 
@@ -48,7 +48,7 @@ If you're a venture capitalist involved in data businesses -- you guessed it, [e
 
 ## Credits 
 
-This website was created using [Github Pages] and [Jekyll].  The design is copied from [Patrick Collison].  Other inspirations include [Patrick Mackenzie], [Maciej Cegłowski]. [Venkatesh Rao], [Cosma Shalizi], [Ben Thompson], [Matt Levine] and [Devon Zuegel]. 
+This website was created using [Github Pages] and [Jekyll].  The design is from [Patrick Collison].  Other inspirations include [Patrick Mackenzie], [Maciej Cegłowski], [Venkatesh Rao], [Paul Graham], [Cosma Shalizi], [Ben Thompson], [Matt Levine] and [Devon Zuegel]. 
 
 [Github Pages]: https://pages.github.com/
 [Jekyll]: https://jekyllrb.com/
@@ -56,6 +56,7 @@ This website was created using [Github Pages] and [Jekyll].  The design is copie
 [Patrick Mackenzie]: https://www.kalzumeus.com/about/ 
 [Maciej Cegłowski]: https://idlewords.com/about.htm
 [Venkatesh Rao]: https://www.ribbonfarm.com/about/ 
+[Paul Graham]: http://www.paulgraham.com/articles.html
 [Cosma Shalizi]: http://bactra.org/ 
 [Ben Thompson]: https://stratechery.com/about/ 
 [Matt Levine]: https://twitter.com/matt_levine
