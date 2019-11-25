@@ -66,7 +66,7 @@ I chose Cosmos.
 - **Metamagical Themas**{: style="color: green"}, Douglas Hofstadter
 - **Gödel, Escher, Bach**{: style="color: red"}, Douglas Hofstadter
 
-What can I say about GEB that hasn't been said by a thousand geeks before me?  Nothing, so I won't bother.  
+What can I say about GEB that hasn't been said by a thousand geeks before me?  Nothing, so I won't even try.  
 
 - **Le Ton beau de Marot**, Douglas Hofstadter
 - **I am a Strange Loop**, Douglas Hofstadter
@@ -95,8 +95,8 @@ What can I say about GEB that hasn't been said by a thousand geeks before me?  N
 - **Hallucinations**, Oliver Sacks
 - **Musicophilia**, Oliver Sacks
 - **Uncle Tungsten**, Oliver Sacks
-- **The Man Who Mistook His Wife for a Hat**, Oliver Sacks
-- **The Selfish Gene**, Richard Dawkins
+- **The Man Who Mistook His Wife for a Hat**{: style="color: green"}, Oliver Sacks
+- **The Selfish Gene**{: style="color: green"}, Richard Dawkins
 - **The Ancestor's Tale**, Richard Dawkins
 - **The Blind Watchmaker**, Richard Dawkins
 - **Genome**, Matt Ridley
@@ -110,7 +110,7 @@ What can I say about GEB that hasn't been said by a thousand geeks before me?  N
 - **The Naked Ape**, Desmond Morris
 - **Darwin's Dangerous Idea**, Daniel Dennett
 - **The Emperor's New Mind**, Roger Penrose
-- **Thnking, Fast and Slow**, Daniel Kahneman
+- **Thnking, Fast and Slow**{: style="color: green"}, Daniel Kahneman
 - **Sapiens**, Yuval Noah Harari
 - **Homo Deus**, Yuval Noah Harari
 - **Abundance**, Peter Diamandis
@@ -140,6 +140,8 @@ What can I say about GEB that hasn't been said by a thousand geeks before me?  N
 - **Asimov's Guide to Science**, Isaac Asimov
 - **Einstein**, Walter Isaacson
 
+[Back to Top ↩](/bookshelf#my-bookshelf)
+
 <br/>
 
 -----
@@ -147,6 +149,109 @@ What can I say about GEB that hasn't been said by a thousand geeks before me?  N
 <br/>
 
 ### History & Biography
+- **The Epic of Latin America**, John Crow
+- **The Scramble for Africa**, Thomas Pakenham
+- **The Blue Nile**, Alan Moorehead
+- **The White Nile**, Alan Moorehead
+- **Red Nile**, Robert Twigger
+- **City of Fortune**, Roger Crowley
+- **Empires of the Sea**, Roger Crowley
+- **Constantinople**, Roger Crowley
+- **Conquerors**, Roger Crowley
+- **Black Sea**, Neal Ascherson
+- **Atlantic**, Simon Winchester
+- **Pacific**, Simon Winchester
+- **The Edge of the World**, Michael Pye
+- **Rubicon**, Tom Holland
+- **SPQR**, Mary Beard
+- **Alexander the Great**, Robin Lane Fox
+- **The Classical World**, Robin Lane Fox
+- **The Normans in Sicily**, John Julius Norwich
+- **The Middle Sea**, John Julius Norwich
+- **A Short History of Byzantium**, John Julius Norwich
+- **A History of Venice**, John Julius Norwich
+- **A Traveler's Companion to Venice**, John Julius Norwich
+- **Europe: A History**, Norman Davies
+- **The Thirty Years War**, C. K. Wedgewood
+- **The Monks of War**, Desmond Seward
+- **The Basque History of the World**, Mark Kurlansky
+- **Defeat: Napoleon's Russian Campaign**, Phillipe-Paul de Segur
+- **Sakhalin Island**, Anton Chekhov
+- **Lenin**, Robert Service
+- **Trotsky**, Robert Service
+- **Stalin**, Robert Service
+- **To the Finland Station**, Edmund Wilson
+- **A People's Tragedy**, Orlando Figes
+- **Natasha's Dance**, Orlando Figes
+- **The Crimean War**, Orlando Figes
+- **Stalingrad**, Antony Beevor
+- **The Fall of Berlin 1945**, Antony Beevor
+- **Ten Days that Shook the World**, John Reed
+- **The Code-Breakers**, David Kahn
+- **Enigma**, Simon Sebag-Montefiore
+- **Between Silk and Cyanide**, Leo Marks
+- **The Double-Cross System**, J. C. Masterman
+- **China: A History**, John Keay
+- **India: A History**{: style="color: green"}, John Keay
+- **The Great Hedge of India**, John Keay
+- **India Discovered**, John Keay
+- **Last Post**, John Keay
+- **The Great Arc**, John Keay
+- **Mad About the Mekong**, John Keay
+- **The Honourable Company**, John Keay
+- **Sowing the Wind**, John Keay
+- **Land of the Seven Rivers**, Sanjeev Sanyal
+- **The Great Moguls**, Bamber Gascoigne
+- **The Mughal World**, Abraham Eraly
+- **The Baburnama**, Babur
+- **White Mughals**, William Dalrymple
+- **Return of a King**, William Dalrymple
+- **The Last Mughal**, William Dalrymple
+- **Kohinoor**, William Dalrymple
+- **The Great Game**{: style="color: green"}, Peter Hopkirk
+- **Trespassers on the Roof of the World**, Peter Hopkirk
+- **Setting the East Ablaze**, Peter Hopkirk
+- **Like Hidden Fire**, Peter Hopkirk
+- **Quest for Kim**, Peter Hopkirk
+- **Foreign Devils on the Silk Road**, Peter Hopkirk
+- **The Silk Roads**{: style="color: green"}, Peter Frankopan
+- **Silk Roads, China Ships**, John Vollmer
+- **The Silk Road**, Frances Wood
+- **Tournament of Shadows**, Karl Meyer & Shareen Brysac
+- **A History of the Arab Peoples**, Albert Hourani
+- **The Looming Tower**, Lawrence Wright
+- **The Kingdom**, Robert Lacey
+- **Inside the Kingdom**, Robert Lacey
+- **The Quest**, Daniel Yergin
+- **The Prize**, Daniel Yergin
+- **1491**, Charles C. Mann
+- **1493**, Charles C. Mann
+- **King Leopold's Ghost**{: style="color: green"}, Adam Hochschild
+- **100 Great Adventures**{: style="color: green"}, John Canning
+- **100 Great Lives**, John Canning
+- **The Creators**, Daniel Boorstin
+- **The Discoverers**, Daniel Boorstin
+- **The Seekers**, Daniel Boorstin
+- **The Age of Revolution**, Eric Hobsbawm
+- **The Age of Capital**, Eric Hobsbawm
+- **The Age of Empire**, Eric Hobsbawm
+- **The Age of Extremes**, Eric Hobsbawm
+- **Civilizations**, Felipe Fernandez-Armesto
+- **Late Victorian Holocausts**, Mike Davies
+- **London: The Biography**, Peter Ackroyd
+- **The Faber Book of London**, A. N. Wilson
+- **Seven Ages of Paris**, Alistair Horne
+- **The Bog People**, P. V. Glob
+- **Decline and Fall of the Roman Empire (abridged, 1 vol)**, Edward Gibbon
+- **Decline and Fall of the Roman Empire (complete, 8 vols)**, Edward Gibbon
+- **Panorama of the Classical World**, Nigel Spivey
+- **Medieval Panorama**, Robert Bartlett
+- **Panorama of the Renaissance**, Margaret Aston
+- **Panorama of the Enlightenment**, Dorinda Outram
+- **The Classical Tradition**, Anthony Grafton
+- **Cities and Civilization**, Christopher Hibbert
+- **Cities of Mughul India**, Gavin Hambly
+- **A Study of History**{: style="color: green"}, Arnold Toynbee
 - **The Age of Wonder**, Richard Holmes
 - **Falling Upwards**, Richard Holmes
 - **Mercator**, Nicholas Crane
@@ -156,10 +261,6 @@ What can I say about GEB that hasn't been said by a thousand geeks before me?  N
 - **Guns, Germs and Steel**, Jared Diamond
 - **Collapse**, Jared Diamond
 - **The World Until Yesterday**, Jared Diamond
-- **The Code-Breakers**, David Kahn
-- **Enigma**, Simon Sebag-Montefiore
-- **Between Silk and Cyanide**, Leo Marks
-- **The Double-Cross System**, J. C. Masterman
 - **1421**, Gavin Menzies
 - **Uncommon Grounds**, Mark Pendergrast
 - **Food in History**, Reay Tannahill
@@ -195,120 +296,23 @@ What can I say about GEB that hasn't been said by a thousand geeks before me?  N
 - **Mutiny on the Bounty**, William Bligh
 - **Valverde's Gold**, Mark Honigsbaum
 - **The Island of Lost Maps**, Miles Harvey
-- **The Mughal World**, Abraham Eraly
-- **Silk Roads, China Ships**, John Vollmer
 - **Postwar**, Tony Judt
-- **Europe: A History**, Norman Davies
-- **The Epic of Latin America**, John Crow
-- **The Scramble for Africa**, Thomas Pakenham
 - **The House of Rothschild: Money's Prophets**, Niall Ferguson
 - **The House of Rothschild: The World's Banker**, Niall Ferguson
+- **The House of Morgan**, Ron Chernow
 - **Team of Rivals**, Doris Kearns Goodwin
 - **Battle Cry of Freedom**{: style="color: green"}, James McPherson
 - **A Short History of Nearly Everything**, Bill Bryson
+- **One Summer**, Bill Bryson
 - **Eyewitness to History**, John Carey
-- **The Silk Road**, Frances Wood
 - **A Nervous Splendor**, Frederic Morton
 - **The Ottoman Centuries**, Patrick Balfour, Lord Kinross
 - **The Making of the Atomic Bomb**, Richard Rhodes
+- **The Best and the Brightest**, David Halberstam
 - **Five Families**, Selywn Raab
 - **Atrocities**, Matthew White
-- **The House of Morgan**, Ron Chernow
-- **The Blue Nile**, Alan Moorehead
-- **The White Nile**, Alan Moorehead
-- **Red Nile**, Robert Twigger
-- **City of Fortune**, Roger Crowley
-- **Empires of the Sea**, Roger Crowley
-- **Constantinople**, Roger Crowley
-- **Conquerors**, Roger Crowley
-- **Black Sea**, Neal Ascherson
-- **Atlantic**, Simon Winchester
-- **Pacific**, Simon Winchester
-- **The Edge of the World**, Michael Pye
-- **Rubicon**, Holland
-- **SPQR**, Mary Beard
-- **Alexander the Great**, Robin Lane Fox
-- **The Classical World**, Robin Lane Fox
-- **The Thirty Years War**, C. K. Wedgewood
-- **Defeat: Napoleon's Russian Campaign**, Phillipe-Paul de Segur
-- **Sakhalin Island**, Anton Chekhov
-- **Lenin**, Robert Service
-- **Trotsky**, Robert Service
-- **Stalin**, Robert Service
-- **To the Finland Station**, Edmund Wilson
-- **A People's Tragedy**, Orlando Figes
-- **Natasha's Dance**, Orlando Figes
-- **The Crimean War**, Orlando Figes
-- **Stalingrad**, Antony Beevor
-- **The Fall of Berlin 1945**, Antony Beevor
-- **Ten Days that Shook the World**, John Reed
-- **The Silk Roads**{: style="color: green"}, Peter Frankopan
-- **The Monks of War**, Desmond Seward
-- **The Basque History of the World**, Mark Kurlansky
-- **The Best and the Brightest**, David Halberstam
-- **The Great Hedge of India**, John Keay
-- **India Discovered**, John Keay
-- **China: A History**, John Keay
-- **India: A History**{: style="color: green"}, John Keay
-- **Last Post**, John Keay
-- **The Great Arc**, John Keay
-- **Mad About the Mekong**, John Keay
-- **The Honourable Company**, John Keay
-- **Sowing the Wind**, John Keay
-- **Land of the Seven Rivers**, Sanjeev Sanyal
-- **The Great Moguls**, Bamber Gascoigne
-- **The Baburnama**, Babur
-- **1491**, Charles C. Mann
-- **1493**, Charles C. Mann
-- **One Summer**, Bill Bryson
-- **The Normans in Sicily**, John Julius Norwich
-- **The Middle Sea**, John Julius Norwich
-- **A Short History of Byzantium**, John Julius Norwich
-- **A History of Venice**, John Julius Norwich
-- **A Traveler's Companion to Venice**, John Julius Norwich
-- **The Great Game**{: style="color: green"}, Peter Hopkirk
-- **Trespassers on the Roof of the World**, Peter Hopkirk
-- **Setting the East Ablaze**, Peter Hopkirk
-- **Like Hidden Fire**, Peter Hopkirk
-- **Foreign Devils on the Silk Road**, Peter Hopkirk
-- **Quest for Kim**, Peter Hopkirk
-- **Tournament of Shadows**, Karl Meyer & Shareen Brysac
-- **A History of the Arab Peoples**, Albert Hourani
-- **The Looming Tower**, Lawrence Wright
-- **The Kingdom**, Robert Lacey
-- **Inside the Kingdom**, Robert Lacey
-- **The Quest**, Daniel Yergin
-- **The Prize**, Daniel Yergin
-- **100 Great Adventures**{: style="color: green"}, John Canning
-- **100 Great Lives**, John Canning
-- **White Mughals**, William Dalrymple
-- **Return of a King**, William Dalrymple
-- **The Last Mughal**, William Dalrymple
-- **Kohinoor**, William Dalrymple
-- **The Creators**, Daniel Boorstin
-- **The Discoverers**, Daniel Boorstin
-- **The Seekers**, Daniel Boorstin
-- **The Age of Revolution**, Eric Hobsbawm
-- **The Age of Capital**, Eric Hobsbawm
-- **The Age of Empire**, Eric Hobsbawm
-- **The Age of Extremes**, Eric Hobsbawm
-- **Civilizations**, Felipe Fernandez-Armesto
-- **King Leopold's Ghost**{: style="color: green"}, Adam Hochschild
-- **Late Victorian Holocausts**, Mike Davies
-- **London: The Biography**, Peter Ackroyd
-- **The Faber Book of London**, A. N. Wilson
-- **Seven Ages of Paris**, Alistair Horne
-- **The Bog People**, P. V. Glob
-- **Decline and Fall of the Roman Empire (abridged, 1 vol)**, Edward Gibbon
-- **Decline and Fall of the Roman Empire (complete, 8 vols)**, Edward Gibbon
-- **Panorama of the Classical World**, Nigel Spivey
-- **Medieval Panorama**, Robert Bartlett
-- **Panorama of the Renaissance**, Margaret Aston
-- **Panorama of the Enlightenment**, Dorinda Outram
-- **The Classical Tradition**, Anthony Grafton
-- **Cities and Civilization**, Christopher Hibbert
-- **Cities of Mughul India**, Gavin Hambly
-- **A Study of History**{: style="color: green"}, Arnold Toynbee
+
+[Back to Top ↩](/bookshelf#my-bookshelf)
 
 <br/>
 
@@ -336,7 +340,7 @@ What can I say about GEB that hasn't been said by a thousand geeks before me?  N
 - **The New Journalism**, Tom Wolfe
 - **The Faber Book of Journalism**, John Carey
 - **The Penguin Book of Lies**, Philip Kerr
-- **Tell Me No Lies**, John Pilger
+- **Tell Me No Lies**{: style="color: green"}, John Pilger
 - **Heroes**, John Pilger
 - **Hidden Agendas**, John Pilger
 - **Imaginary Homelands**, Salman Rushdie
@@ -367,7 +371,7 @@ What can I say about GEB that hasn't been said by a thousand geeks before me?  N
 - **Bookless in Baghdad**, Shashi Tharoor
 - **Homage to Catalonia**, George Orwell
 - **Down and Out in Paris and London**, George Orwell
-- **Nobody's Perfect**, Anthony Lane
+- **Nobody's Perfect**{: style="color: green"}, Anthony Lane
 - **A Mencken Chrestomathy**, H. L. Mencken
 - **Selected Writings**, William Hazlitt
 - **Selected Essays**, T. S. Eliot
@@ -384,6 +388,8 @@ What can I say about GEB that hasn't been said by a thousand geeks before me?  N
 - **A Short History of Modern Philosophy**, Roger Scruton
 - **History of Western Philosophy**, Bertrand Russell
 - **The Inner Game of Tennis**{: style="color: green"}, Timothy Gallwey
+
+[Back to Top ↩](/bookshelf#my-bookshelf)
 
 <br/>
 
@@ -447,6 +453,8 @@ This is a terrific book and one of the top 5 non-fiction books I've ever read. (
 - **A History of Western Music**, Grout
 - **Three Mozart Operas**, Richard Moberly
 - **The Band: A Musical History**, Robbie Robertson
+
+[Back to Top ↩](/bookshelf#my-bookshelf)
 
 <br/>
 
@@ -792,7 +800,7 @@ I have a minor obsession with collecting travel books. I doubt I'll visit all or
 - **Night Train to Turkistan**, Stuart Stevens
 - **The Rings of Saturn**, W. G. Sebald
 - **Travels with my Trombone**, Henry Shukman
-- **Touching the Void**, Joe Simpson
+- **Touching the Void**{: style="color: green"}, Joe Simpson
 - **Incidents of Travel in Egypt, Arabia Petraea and the Holy Land**, John Stephens
 - **Sailing Alone Around the World**, Joshua Slocum
 - **Blind White Fish in Persia**, Anthony Smith
@@ -868,3 +876,5 @@ I have a minor obsession with collecting travel books. I doubt I'll visit all or
 - **In Search of Conrad**, Gavin Young
 - **Black Dragon River**, Dominic Ziegler
 - **Train**, Tom Zoellner
+
+[Back to Top ↩](/bookshelf#my-bookshelf)
