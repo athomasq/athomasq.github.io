@@ -3,12 +3,7 @@ layout: default
 title: About · Abraham Thomas
 ---
 
-*... everything is permitted.  
-With only this condition of course,  
-You have to improve the blank page.*   
-  -- [Nicanor Parra](http://www.tnellen.com/cybereng/poetry/youngpoets.html)
-
-## Greetings!
+<!-- <img style="width:250px" src="/assets/img/Abraham-Thomas.jpg">. --> 
 
 Hello, I'm Abraham.  I live in Toronto with my family, several thousand books, and two pianos.  
 
@@ -36,9 +31,19 @@ At both Simplex and Quandl, my professional career has revolved around data.
 
 I have expert-level knowledge of modern data businesses: data pipelines (acquire/evaluate, structure/transform, research/apply, deliver/deploy), data and API-first business models (subscription, marketplace, broking, co-ops, give-to-get, DaaS, platforms, infrastructure, glue), data usage in finance and other industries, data supply chains, data and information advantages (speed, accuracy, coverage, uniqueness, quality), data valuation and monetization, data methods (storage, compute, analytics, dataviz, AI/ML, human-in-the-loop), managing data science and data engineering teams, data-driven decision making, and the limitations of data.  That's a lot of words.
 
+## Limits
+
+While I believe in the ability of markets, technology and data to make the world a better place, I'm also keenly aware of their limitations. 
+
+Data can be noisy, messy, incomplete or irrelevant; more dangerously, it can be misleading, invasive, biased or falsified.  Markets can be imperfect, incomplete, non-competitive, regulated, corrupt, captured, rigged or otherwise flawed.  Technology is vulnerable to incompetence, malice, misuse, indifference, bias and unforeseen consequences.  
+
+The optimist (and trader) in me says that every inefficiency is an opportunity; the humanist in me cares for the individuals affected by these inequities.  It's important to strike a balance.
+
 ## Contact
 
-If you're interested in any of the above topics or if you just want to chat, I welcome your [emails](mailto:athos1@gmail.com), though I can't always guarantee a prompt reply.  I'm also on [Twitter](https://twitter.com/athomasq) and [LinkedIn](https://www.linkedin.com/in/athomasq).
+If you're interested in any of the above topics or if you just want to chat, [email me]!  My email philosophy is essentially the same as Patrick McKenzie's, which you can find [here](https://www.kalzumeus.com/standing-invitation). 
+
+I'm also on [Twitter](https://twitter.com/athomasq) and [LinkedIn](https://www.linkedin.com/in/athomasq).
 
 I occasionally invest small amounts in early-stage startups, especially when they intersect with the themes above.  If you're a startup founder looking for either advice or investment, [email me].
 
@@ -48,12 +53,12 @@ If you're a venture capitalist involved in data businesses -- you guessed it, [e
 
 ## Credits 
 
-This website was created using [Github Pages] and [Jekyll].  The design is from [Patrick Collison].  Other inspirations include [Patrick Mackenzie], [Maciej Cegłowski], [Venkatesh Rao], [Paul Graham], [Cosma Shalizi], [Ben Thompson], [Matt Levine] and [Devon Zuegel]. 
+This website was created using [Github Pages] and [Jekyll].  The design is from [Patrick Collison].  Other inspirations include [Patrick McKenzie], [Maciej Cegłowski], [Venkatesh Rao], [Paul Graham], [Cosma Shalizi], [Ben Thompson], [Matt Levine] and [Devon Zuegel]. 
 
 [Github Pages]: https://pages.github.com/
 [Jekyll]: https://jekyllrb.com/
 [Patrick Collison]: https://patrickcollison.com/about
-[Patrick Mackenzie]: https://www.kalzumeus.com/about/ 
+[Patrick McKenzie]: https://www.kalzumeus.com/about/ 
 [Maciej Cegłowski]: https://idlewords.com/about.htm
 [Venkatesh Rao]: https://www.ribbonfarm.com/about/ 
 [Paul Graham]: http://www.paulgraham.com/articles.html
@@ -62,9 +67,4 @@ This website was created using [Github Pages] and [Jekyll].  The design is from 
 [Matt Levine]: https://twitter.com/matt_levine
 [Devon Zuegel]: https://devonzuegel.com/page/about-me 
 
-[email me]: mailto:athos1@gmail.com
-
-
-
-
-
+[email me]: mailto:athos1@gmail.com 
