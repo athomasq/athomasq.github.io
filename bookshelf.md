@@ -41,6 +41,8 @@ The first Martin Gardner book I ever read; along with a (sadly lost) copy of Yak
 - **The Sacred Beetle**, Martin Gardner
 - **The Whys of a Philosophical Scrivener**, Martin Gardner
 - **How to Solve It**{: style="color: green"}, George Polya
+- **From Here to Infinity**, Ian Stewart
+- **Professor Stewart's Casebook of Mathematical Mysteries**, Ian Stewart
 - **What If?**, Randall Munro
 - **Chaos**, James Gleick
 - **The Information**, James Gleick
@@ -48,6 +50,7 @@ The first Martin Gardner book I ever read; along with a (sadly lost) copy of Yak
 - **The Code Book**, Simon Singh
 - **Big Bang**, Simon Singh
 - **Coming of Age in the Milky Way**, Timothy Ferriss
+- **The Whole Shebang**, Timothy Ferriss
 - **The Big Picture**, Sean Carroll
 - **Cosmos**{: style="color: red"}, Carl Sagan
 
@@ -86,6 +89,7 @@ What can I say about GEB that hasn't been said by a thousand geeks before me?  N
 - **The Voyage of the Beagle**, Charles Darwin
 - **The Malay Archipelago**, Alfred Wallace
 - **Consilience**, Edward O. Wilson
+- **Naturalist**, Edward O. Wilson
 - **Beautiful Swimmers**, William Warner
 - **Pilgrim at Tinker Creek**, Annie Dillard
 - **Gorillas in the Mist**, Dian Fossey
@@ -279,6 +283,7 @@ What can I say about GEB that hasn't been said by a thousand geeks before me?  N
 - **Color**, Victoria Finlay
 - **Eighty Days**, Matthew Goodman
 - **Krakatoa**, Simon Winchester
+- **The Man Who Loved China**, Simon Winchester
 - **The Bounty**, Caroline Alexander
 - **The Rise and Fall of the Third Reich**{: style="color: green"}, William Shirer
 - **The Fatal Impact**, Alan Moorehead
