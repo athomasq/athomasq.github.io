@@ -40,7 +40,7 @@ The optimist (and trader) in me says that every inefficiency is an opportunity; 
 
 ## Contact
 
-If you're interested in any of the above topics or if you just want to chat, [email me]!  My email philosophy is essentially the same as Patrick McKenzie's, which you can find [here](https://www.kalzumeus.com/standing-invitation). 
+If you're interested in any of the above topics or if you just want to chat, [email me]!   My approach to email is essentially the [same](https://www.kalzumeus.com/standing-invitation) as Patrick McKenzie's.
 
 You can also reach me via [Twitter](https://twitter.com/athomasq) and [LinkedIn](https://www.linkedin.com/in/athomasq).
 
@@ -54,7 +54,7 @@ If you're a venture capitalist involved in data businesses -- you guessed it, [e
 
 ### Credits 
 
-This website was created using [Github Pages] and [Jekyll].  The design is from [Patrick Collison].  Other inspirations include [Patrick McKenzie], [Maciej Cegłowski], [Venkatesh Rao], [Paul Graham], [Cosma Shalizi], [Ben Thompson], [Matt Levine] and [Devon Zuegel]. 
+This website was created using [Github Pages] and [Jekyll].  The design is from [Patrick Collison].  Other inspirations include [Patrick McKenzie], [Maciej Cegłowski], [Venkatesh Rao], [Paul Graham], [Cosma Shalizi], [Ben Thompson], [Matt Levine], [Byrne Hobart] and [Devon Zuegel]. 
 
 [Github Pages]: https://pages.github.com/
 [Jekyll]: https://jekyllrb.com/
@@ -66,6 +66,7 @@ This website was created using [Github Pages] and [Jekyll].  The design is from 
 [Cosma Shalizi]: http://bactra.org/ 
 [Ben Thompson]: https://stratechery.com/about/ 
 [Matt Levine]: https://twitter.com/matt_levine
+[Byrne Hobart]: https://medium.com/@byrnehobart
 [Devon Zuegel]: https://devonzuegel.com/page/about-me 
 
 [email me]: mailto:athos1@gmail.com 

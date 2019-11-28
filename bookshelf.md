@@ -311,6 +311,22 @@ What can I say about GEB that hasn't been said by a thousand geeks before me?  N
 - **The Best and the Brightest**, David Halberstam
 - **Five Families**, Selywn Raab
 - **Atrocities**, Matthew White
+- **The Vikings**, Robert Ferguson
+- **In the Heart of the Sea**, Nathaniel Philbrick
+- **The Guns of August**, Barbara W. Tuchman
+- **The Proud Tower**, Barbara W. Tuchman
+- **The Zimmermann Telegram**, Barbara W. Tuchman
+- **The March of Folly**, Barbara W. Tuchman
+- **A Distant Mirror**, Barbara W. Tuchman
+- **The Chinese in America**, Iris Chang
+- **The Rape of Nanking**, Iris Chang
+- **A People's History of the United States**, Howard Zinn
+- **The Secret Histories**, John Friedman
+- **The Lives of the Artists**, Giorgio Vasari
+- **Eminent Victorians**, Lytton Strachey
+- **From Beirut to Jerusalem**, Thomas Friedman
+- **Cooper's Creek**, Alan Moorehead
+- **From the Boer War to the Cold War**, A. J. P. Taylor
 
 [Back to Top ↩](/bookshelf#my-bookshelf)
 
@@ -388,6 +404,7 @@ What can I say about GEB that hasn't been said by a thousand geeks before me?  N
 - **A Short History of Modern Philosophy**, Roger Scruton
 - **History of Western Philosophy**, Bertrand Russell
 - **The Inner Game of Tennis**{: style="color: green"}, Timothy Gallwey
+- **Orientalism**, Edward Said
 
 [Back to Top ↩](/bookshelf#my-bookshelf)
 
