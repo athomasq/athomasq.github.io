@@ -14,7 +14,7 @@ To make it easier to browse, I've split this page by category:
 - [Language & Music](/bookshelf#language--music)
 - [Travel, Adventure & Exploration](/bookshelf#travel-adventure--exploration)
 
-Books in **green**{: style="color: green"} are very good and recommended.  Books in **red**{: style="color: red"} are life-changing: I saw the world differently after reading them.  As of November 2019, I've catalogued approximately 4 of 30+ bookshelves in my house.
+Books in **green**{: style="color: green"} are very good and recommended.  Books in **red**{: style="color: red"} are life-changing: I saw the world differently after reading them.  
 
 <br/>
 
@@ -154,6 +154,7 @@ What can I say about GEB that hasn't been said by a thousand geeks before me?  N
 - **The Blue Nile**, Alan Moorehead
 - **The White Nile**, Alan Moorehead
 - **Red Nile**, Robert Twigger
+- **King Leopold's Ghost**{: style="color: green"}, Adam Hochschild
 - **City of Fortune**, Roger Crowley
 - **Empires of the Sea**, Roger Crowley
 - **Constantinople**, Roger Crowley
@@ -226,7 +227,6 @@ What can I say about GEB that hasn't been said by a thousand geeks before me?  N
 - **The Prize**, Daniel Yergin
 - **1491**, Charles C. Mann
 - **1493**, Charles C. Mann
-- **King Leopold's Ghost**{: style="color: green"}, Adam Hochschild
 - **100 Great Adventures**{: style="color: green"}, John Canning
 - **100 Great Lives**, John Canning
 - **The Creators**, Daniel Boorstin
@@ -781,7 +781,7 @@ I have a minor obsession with collecting travel books. I doubt I'll visit all or
 - **Special Correspondent to the Times**, William Russell
 - **Unsuitable for Ladies**, Jane Robinson
 - **Dead Man's Chest**, Nicholas Rankin
-- **The Lycian Store**, Freya Stark
+- **The Lycian Shore**, Freya Stark
 - **The Southern Gates of Arabia**, Freya Stark
 - **The Valleys of the Assassins**, Freya Stark
 - **Beyond Euphrates**, Freya Stark
@@ -878,3 +878,11 @@ I have a minor obsession with collecting travel books. I doubt I'll visit all or
 - **Train**, Tom Zoellner
 
 [Back to Top ↩](/bookshelf#my-bookshelf)
+
+
+<br/>
+
+-----
+
+<br/>
+As of November 2019, I've catalogued 5 of 30 bookshelves in my house.

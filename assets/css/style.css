@@ -90,3 +90,9 @@ body {
 .post + .post {
   margin-top: 50px;
 }
+
+th, td {
+  padding: 9px;
+  line-height: 18px;
+  text-align: left;
+}
