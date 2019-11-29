@@ -31,7 +31,7 @@ Books in **green**{: style="color: green"} are very good and recommended.  Books
 - **Chasing Science**, Frederik Pohl
 - **Hexaflexagons, Probability and Hanoi**, Martin Gardner
 
-The first Martin Gardner book I ever read; along with a (sadly lost) copy of Yakov Perelman's **Mathematics Can Be Fun**, the beginning of a life-long interest in words, numbers, puzzles and games.
+The first Martin Gardner book I ever read; along with a (sadly lost) copy of Yakov Perelman's **Mathematics Can Be Fun**{: style="color: green"}, the beginning of a life-long interest in words, numbers, puzzles and games.
 
 - **Mathematical Magic Show**, Martin Gardner
 - **Fads & Fallacies**, Martin Gardner
@@ -82,6 +82,8 @@ What can I say about GEB that hasn't been said by a thousand geeks before me?  N
 - **Full House**, Stephen Jay Gould
 - **The Mismeasure of Man**, Stephen Jay Gould
 - **I Have Landed**, Stephen Jay Gould
+- **Dinosaur in a Haystack**, Stephen Jay Gould
+- **Bully for Brontosaurus**, Stephen Jay Gould
 - **The Rise and Fall of the Third Chimpanzee**, Jared Diamond
 - **The Sixth Extinction**, Elizabeth Kolbert
 - **Life on Earth**, David Attenborough
@@ -93,12 +95,15 @@ What can I say about GEB that hasn't been said by a thousand geeks before me?  N
 - **Beautiful Swimmers**, William Warner
 - **Pilgrim at Tinker Creek**, Annie Dillard
 - **Gorillas in the Mist**, Dian Fossey
+- **In the Shadow of Man**, Jane Goodall
+- **Lucy**, Donald Johanson & Maitland Edey
 - **The Lives of a Cell**{: style="color: green"}, Lewis Thomas
 - **Microbe Hunters**, Paul de Kruif
+- **Periodic Tales**, Hugh Aldersey-Williams
+- **Uncle Tungsten**, Oliver Sacks
 - **The Island of the Color-Blind**, Oliver Sacks
 - **Hallucinations**, Oliver Sacks
 - **Musicophilia**, Oliver Sacks
-- **Uncle Tungsten**, Oliver Sacks
 - **The Man Who Mistook His Wife for a Hat**{: style="color: green"}, Oliver Sacks
 - **The Selfish Gene**{: style="color: green"}, Richard Dawkins
 - **The Ancestor's Tale**, Richard Dawkins
@@ -158,6 +163,8 @@ What can I say about GEB that hasn't been said by a thousand geeks before me?  N
 - **The Blue Nile**, Alan Moorehead
 - **The White Nile**, Alan Moorehead
 - **Red Nile**, Robert Twigger
+- **Explorers of the Nile**, Tim Jeal
+- **Rivers of Blood, Rivers of Gold**, Mark Cocker
 - **King Leopold's Ghost**{: style="color: green"}, Adam Hochschild
 - **City of Fortune**, Roger Crowley
 - **Empires of the Sea**, Roger Crowley
@@ -204,6 +211,8 @@ What can I say about GEB that hasn't been said by a thousand geeks before me?  N
 - **The Great Arc**, John Keay
 - **Mad About the Mekong**, John Keay
 - **The Honourable Company**, John Keay
+- **Midnight's Descendants**, John Keay
+- **The Tartan Turban**, John Keay
 - **Sowing the Wind**, John Keay
 - **Land of the Seven Rivers**, Sanjeev Sanyal
 - **The Great Moguls**, Bamber Gascoigne
@@ -222,6 +231,7 @@ What can I say about GEB that hasn't been said by a thousand geeks before me?  N
 - **The Silk Roads**{: style="color: green"}, Peter Frankopan
 - **Silk Roads, China Ships**, John Vollmer
 - **The Silk Road**, Frances Wood
+- **Xanadu**, John Man
 - **Tournament of Shadows**, Karl Meyer & Shareen Brysac
 - **A History of the Arab Peoples**, Albert Hourani
 - **The Looming Tower**, Lawrence Wright
@@ -285,6 +295,7 @@ What can I say about GEB that hasn't been said by a thousand geeks before me?  N
 - **Krakatoa**, Simon Winchester
 - **The Man Who Loved China**, Simon Winchester
 - **The Bounty**, Caroline Alexander
+- **Captain Bligh and Mr Christian**, Richard Hough
 - **The Rise and Fall of the Third Reich**{: style="color: green"}, William Shirer
 - **The Fatal Impact**, Alan Moorehead
 - **The Origins of the Second World War**, A. J. P. Taylor
@@ -332,6 +343,12 @@ What can I say about GEB that hasn't been said by a thousand geeks before me?  N
 - **From Beirut to Jerusalem**, Thomas Friedman
 - **Cooper's Creek**, Alan Moorehead
 - **From the Boer War to the Cold War**, A. J. P. Taylor
+- **In Spite of the Gods**, Edward Luce
+- **The Path Between the Seas**, David McCullough
+- **Arabia Felix**, Thorkild Hansen
+- **Will in the World**, Stephen Greenblatt
+- **The Black Jacobins**, C. L. R. James
+
 
 [Back to Top ↩](/bookshelf#my-bookshelf)
 
@@ -505,6 +522,7 @@ I have a minor obsession with collecting travel books. I doubt I'll visit all or
 - **The Lost Continent**, Bill Bryson
 - **The Road to Little Dribbling**, Bill Bryson
 - **I'm a Stranger Here Myself**, Bill Bryson
+- **Down Under**, Bill Bryson
 - **South from Granada**, Gerald Brenan
 - **Everest**, Chris Bonington
 - **Annapurna South Face**, Chris Bonington
@@ -528,6 +546,7 @@ I have a minor obsession with collecting travel books. I doubt I'll visit all or
 - **In Patagonia**{: style="color: green"}, Bruce Chatwin
 - **The Songlines**, Bruce Chatwin
 - **What Am I Doing Here**, Bruce Chatwin
+- **The Viceroy of Ouidah**, Bruce Chatwin
 - **Equator**, Thurston Clarke
 - **Mr China**, Tim Clissold
 - **Road Fever**, Tim Cahill
@@ -663,6 +682,7 @@ I have a minor obsession with collecting travel books. I doubt I'll visit all or
 - **Mani: Travels in the Southern Peloponnese**, Patrick Leigh Fermor
 - **Roumeli: Travels in Northern Greece**, Patrick Leigh Fermor
 - **The Traveller's Tree**, Patrick Leigh Fermor
+- **Words of Mercury**, Patrick Leigh Fermor
 - **The World The World**, Norman Lewis
 - **The Happy Ant Heap**, Norman Lewis
 - **Voices of the Old Sea**, Norman Lewis
@@ -691,11 +711,13 @@ I have a minor obsession with collecting travel books. I doubt I'll visit all or
 - **The Hall of a Thousand Columns**, Tim Mackintosh-Smith
 - **Landfalls**, Tim Mackintosh-Smith
 - **The Travels of Ibn Battutah**, Tim Mackintosh-Smith
+- **Yemen: Travels in Dictionary Land**, Tim Mackintosh-Smith
 - **Sun Dancing**, Geoffrey Moorhouse
 - **Apples in the Snow**, Geoffrey Moorhouse
 - **The Fearful Void**, Geoffrey Moorhouse
 - **To The Frontier**, Geoffrey Moorhouse
 - **Calcutta**, Geoffrey Moorhouse
+- **Om**, Geoffrey Moorhouse
 - **Among the Cities**, Jan Morris
 - **Hong Kong**, Jan Morris
 - **The Matter of Wales**, Jan Morris
@@ -706,6 +728,7 @@ I have a minor obsession with collecting travel books. I doubt I'll visit all or
 - **Danube**, Claudio Magris
 - **Forbidden Journey**, Ella Maillart
 - **The Cruel Way**, Ella Maillart
+- **Turkestan Solo**, Ella Maillart
 - **Where the Indus is Young**, Dervla Murphy
 - **On a Shoestring to Coorg**, Dervla Murphy
 - **In Ethiopia with a Mule**, Dervla Murphy
@@ -728,8 +751,9 @@ I have a minor obsession with collecting travel books. I doubt I'll visit all or
 - **The Snow Leopard**{: style="color: green"}, Peter Matthiessen
 - **The Cloud Forest**, Peter Matthiessen
 - **Far Tortuga**, Peter Matthiessen
-- **The Birds of Heaven **, Peter Matthiessen
+- **The Birds of Heaven**, Peter Matthiessen
 - **African Silences**, Peter Matthiessen
+- **The Tree Where Man Was Born**, Peter Matthiessen
 - **Travels with Rosinante**, Bernard Magnouloux
 - **Nothing to Declare**, Mary Morris
 - **West with the Night**, Beryl Markham
@@ -742,6 +766,7 @@ I have a minor obsession with collecting travel books. I doubt I'll visit all or
 - **On Trails**, Robert Moor
 - **Maximum City**, Suketu Mehta
 - **Landmarks**, Robert MacFarlane
+- **The Wild Places**, Robert MacFarlane
 - **Journey to the Orient**, Gerard de Nerval
 - **A Short Walk in the Hindu Kush**, Eric Newby
 - **The Last Grain Race**{: style="color: green"}, Eric Newby
@@ -753,6 +778,7 @@ I have a minor obsession with collecting travel books. I doubt I'll visit all or
 - **Departures & Arrivals**, Eric Newby
 - **Somethin Wholesales**, Eric Newby
 - **The Big Red Train Ride**, Eric Newby
+- **A Merry Dance Around the World**, Eric Newby
 - **Borderlines**, Charles Nicholl
 - **The Fruit Palace**, Charles Nicholl
 - **North of South**, Shiva Naipaul
@@ -810,6 +836,7 @@ I have a minor obsession with collecting travel books. I doubt I'll visit all or
 - **The Minaret of Djam**, Freya Stark
 - **Alexander's Path**, Freya Stark
 - **East is West**, Freya Stark
+- **The Coast of Incense**, Freya Stark
 - **Travels with a Donkey**, R. L. Stevenson
 - **An Inland Voyage**, R. L. Stevenson
 - **The Silverado Squatters**, R. L. Stevenson
@@ -851,6 +878,7 @@ I have a minor obsession with collecting travel books. I doubt I'll visit all or
 - **Arabian Sands**{: style="color: green"}, Wilfred Thesiger
 - **The Marsh Arabs**, Wilfred Thesiger
 - **Among the Mountains**, Wilfred Thesiger
+- **The Life of My Choice**, Wilfred Thesiger
 - **Roughing It**, Mark Twain
 - **The Innocents Abroad**, Mark Twain
 - **A Tramp Abroad**, Mark Twain
@@ -866,6 +894,7 @@ I have a minor obsession with collecting travel books. I doubt I'll visit all or
 - **Fresh-Air Fiend**, Paul Theroux
 - **Deep South**, Paul Theroux
 - **Dark Star Safari**, Paul Theroux
+- **The Tao of Travel**, Paul Theroux
 - **Mirror to Damascus**, Colin Thubron
 - **Shadow of the Silk Road**, Colin Thubron
 - **Jerusalem**, Colin Thubron
@@ -873,6 +902,7 @@ I have a minor obsession with collecting travel books. I doubt I'll visit all or
 - **The Hills of Adonis**, Colin Thubron
 - **In Siberia**, Colin Thubron
 - **Behind the Wall**, Colin Thubron
+- **The Lost Heart of Asia**, Colin Thubron
 - **No Full Stops in India**, Mark Tully
 - **No Shortcuts to the Top**, Ed Viesturs
 - **When the Going was Good**, Evelyn Waugh
@@ -898,6 +928,57 @@ I have a minor obsession with collecting travel books. I doubt I'll visit all or
 - **In Search of Conrad**, Gavin Young
 - **Black Dragon River**, Dominic Ziegler
 - **Train**, Tom Zoellner
+- **The Brendan Voyage**, Tim Severin
+- **The Sindbad Voyage**, Tim Severin
+- **The Spice Lands Voyage**, Tim Severin
+- **The Face of Spain**, Gerald Brenan
+- **Italian Journeys**, Jonathan Keates
+- **In Europe**, Geert Mak
+- **Travels in a Thin Country**, Sara Wheeler
+- **On Foot to the Golden Horn**, Jason Goodwin
+- **In Tasmania**, Nicholas Shakespeare
+- **Quest for Adventure**, Chris Bonington
+- **Charting the Sea of Darkness**, Donald Johnson
+- **The Dead Yard**, Ian Thomson
+- **The Island**, Anton Chekhov
+- **Journey to the Jade Sea**, John Hillaby
+- **Journey to the Alcarria**, Camilo Jose Cela
+- **First Russia, Then Tibet**, Robert Byron
+- **The Linhay on the Downs**, Henry Williamson
+- **Dispatches**, Michael Herr
+- **Meander**, Jeremy Seal
+- **The River of Lost Footsteps**, Thant Myint-U
+- **The Climb**, Anatoli Boukreev
+- **The Crystal Horizon**, Reinhold Messner
+- **Himalaya**, Ruskin Bond
+- **Kings of the Yukon**, Adam Weymouth
+- **The Crossing Place**, Philip Marsden
+- **The Chains of Heaven**, Philip Marsden
+- **Mother Tongues**, Helena Drysdale
+- **A Voyage for Madmen**, Peter Nichols
+- **Life Along the Silk Road**, Susan Whitfield
+- **Burmese Lessons**, Karen Connelly
+- **Jupiter's Travels**, Ted Simon
+- **The Light Garden of the Angel King**, Peter Levi
+- **Stroll**, Shawn Micallef
+- **A Journey into Russia**, Jens Muhling
+- **Passage Through El Dorado**, Jonathan Kandell
+- **The South Pole**, Roald Amundsen
+- **South**, Ernest Shackleton
+- **Scott's Last Expedition**, Robert Falcon Scott
+- **The Home of the Blizzard**, Douglas Mawson
+- **The Worst Journey in the World**{: style="color: red"}, Apsley Cherry-Garrard
+- **Cherry**, Sara Wheeler
+- **Terra Incognita**, Sara Wheeler
+- **Farthest North**, Fridtjof Nansen
+- **Discovery**, Richard Byrd
+- **Big Dead Place**, Nicholas Johnson
+- **Captain Scott**, Ranulph Fiennes
+- **The Last Place on Earth**, Roland Huntford
+- **Shackleton**, Roland Huntford
+- **Artic Adventure**, Peter Freuchen
+- **End of the Earth**, Peter Matthiessen
+
 
 [Back to Top ↩](/bookshelf#my-bookshelf)
 

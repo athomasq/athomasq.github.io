@@ -12,7 +12,7 @@ Magic happens at the intersection of competences.  I have three: markets, techno
 
 ## Markets
 
-Straight out of university, I spent almost a decade (1998-2007) at Simplex Asset Management, a hedge fund spun out of the legendary [Salomon Brothers arbitrage desk](https://en.wikipedia.org/wiki/Liar%27s_Poker).  I was a programmer, quant analyst, bond trader, and the youngest ever portfolio manager at Simplex; while there, I built one of the industry's first automated ("high-frequency") trading systems for bond arbitrage.  
+Straight out of university, I spent a decade (1998-2007) at Simplex Asset Management, a hedge fund spun out of the legendary [Salomon Brothers arbitrage desk](https://en.wikipedia.org/wiki/Liar%27s_Poker).  I was a programmer, quant analyst, bond trader, and the youngest ever portfolio manager at Simplex; while there, I built one of the industry's first automated ("high-frequency") trading systems for bond arbitrage.  
 
 I have expert-level knowledge of modern quantitative finance: hedge fund strategies, sources of edge, decision-making under uncertainty, leverage, risk, optionality and non-linearity, feedback, models and meta-models, market microstructure, global macro and econ, arbitrage and relative value, organizational incentives and imperatives, information advantages, technology and much more.  I'm especially interested in how these modes of thought generalize beyond capital markets.
 
@@ -20,7 +20,7 @@ I have expert-level knowledge of modern quantitative finance: hedge fund strateg
 
 After Simplex, I co-founded [Quandl](https://www.quandl.com), a venture-backed technology startup.  Quandl was created to address a problem I encountered time and again in my investing career: there's an amazing amount of information in the world, but much of it is hard to find and hard to use.  Quandl solves that.  
 
-My co-founder and I started as two engineers building a prototype in a windowless basement; grew our team to 50 people; raised 20M in financing from blue-chip Silicon Valley venture capital firms; created the category of "alternative data" for investors; gained essentially all of the world's leading hedge funds as our customers; and were ultimately [acquired](https://blog.quandl.com/quandl-the-next-chapter) by Nasdaq (NDAQ) in Canada's largest tech exit of 2018.  
+My [co-founder](https://www.linkedin.com/in/tammerkamel) and I started as two engineers building a prototype in a windowless basement; grew our team to 50 people; raised 20M in financing from blue-chip Silicon Valley venture capital firms; created the category of "alternative data" for investors; gained essentially all of the world's leading hedge funds as our customers; and were ultimately [acquired](https://blog.quandl.com/quandl-the-next-chapter) by Nasdaq (NDAQ) in Canada's largest tech exit of 2018.  
 
 Thanks to this journey, I have deep knowledge of the modern tech ecosystem and startup execution: company formation, product creation & iteration, venture financing, full-stack marketing, sales strategy & execution, finance & legal, technology & infrastructure, the dynamics of SaaS and marketplace businesses, competitive strategy at many stages and along many dimensions, building and retaining high-performance teams,and exiting (exciting!).
 
@@ -54,7 +54,7 @@ If you're a venture capitalist involved in data businesses -- you guessed it, [e
 
 ### Credits 
 
-This website was created using [Github Pages] and [Jekyll].  The design is from [Patrick Collison].  Other inspirations include [Patrick McKenzie], [Maciej Cegłowski], [Venkatesh Rao], [Paul Graham], [Cosma Shalizi], [Ben Thompson], [Matt Levine], [Byrne Hobart] and [Devon Zuegel]. 
+This website was created using [Github Pages] and [Jekyll].  The design is from [Patrick Collison].  Other inspirations include [Patrick McKenzie], [Maciej Cegłowski], [Venkatesh Rao], [Paul Graham], [Cosma Shalizi], [Ben Thompson], [Matt Levine], [Byrne Hobart], [Alex Danco] and [Devon Zuegel]. 
 
 [Github Pages]: https://pages.github.com/
 [Jekyll]: https://jekyllrb.com/
@@ -67,6 +67,7 @@ This website was created using [Github Pages] and [Jekyll].  The design is from 
 [Ben Thompson]: https://stratechery.com/about/ 
 [Matt Levine]: https://twitter.com/matt_levine
 [Byrne Hobart]: https://medium.com/@byrnehobart
+[Alex Danco]: https://alexdanco.com/
 [Devon Zuegel]: https://devonzuegel.com/page/about-me 
 
 [email me]: mailto:athos1@gmail.com 
