@@ -18,9 +18,9 @@ I have expert-level knowledge of modern quantitative finance: hedge fund strateg
 
 ## Technology
 
-After Simplex, I co-founded [Quandl](https://www.quandl.com), a venture-backed technology startup.  Quandl was created to address a problem I encountered time and again in my investing career: there's an amazing amount of information in the world, but much of it is hard to find and hard to use.  Quandl solves that.  
+After Simplex, I co-founded [Quandl](https://www.quandl.com) with my friend [Tammer Kamel](https://www.linkedin.com/in/tammerkamel).  Quandl was created to address a problem I encountered time and again in my investing career: there's an amazing amount of information in the world, but much of it is hard to find and hard to use.  Quandl solves that.  
 
-My [co-founder](https://www.linkedin.com/in/tammerkamel) and I started as two engineers building a prototype in a windowless basement; grew our team to 50 people; raised 20M in financing from blue-chip Silicon Valley venture capital firms; created the category of "alternative data" for investors; gained essentially all of the world's leading hedge funds as our customers; and were ultimately [acquired](https://blog.quandl.com/quandl-the-next-chapter) by Nasdaq (NDAQ) in Canada's largest tech exit of 2018.  
+Tammer and I started as two engineers building a prototype in a windowless basement; grew our team to 50 people; raised 20M in financing from blue-chip Silicon Valley venture capital firms; created the category of "alternative data" for investors; gained essentially all of the world's leading hedge funds as our customers; and were ultimately [acquired](https://blog.quandl.com/quandl-the-next-chapter) by Nasdaq (NDAQ) in Canada's largest tech exit of 2018.  
 
 Thanks to this journey, I have deep knowledge of the modern tech ecosystem and startup execution: company formation, product creation & iteration, venture financing, full-stack marketing, sales strategy & execution, finance & legal, technology & infrastructure, the dynamics of SaaS and marketplace businesses, competitive strategy at many stages and along many dimensions, building and retaining high-performance teams,and exiting (exciting!).
 
