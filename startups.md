@@ -7,8 +7,11 @@ title: Startups · Abraham Thomas
 
 There's an enormous amount of high-quality startup advice available -- for free! -- on the internet.  Unfortunately, there's a much larger quantity of advice that's irrelevant, unusable or just plain wrong.
 
-Here are a few posts that I've found helpful during the Quandl journey.  They range from absolute beginner ("what even is a startup?" -- useful for first-time founders outside Silicon Valley -- like us!) to fairly advanced and nuanced.  I'll be adding more sections over time. 
+Here are a few posts that I've found helpful during the Quandl journey.  They range from absolute beginner ("what even is a startup?" -- useful for first-time founders outside Silicon Valley -- like us!) to fairly advanced.  
 
+-----
+
+<br/>  
 ## Ideas
 
 There's a common startup trope that ideas are unimportant, and execution is what counts.  I disagree; I think ideas matter.  They matter because to make anything worthwhile takes time.  And as a founder, I would hate to spend 5 to 10 years of my life doing something that is irrelevant, or uninteresting, or inconsequential.
