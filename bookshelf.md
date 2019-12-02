@@ -148,6 +148,7 @@ What can I say about GEB that hasn't been said by a thousand geeks before me?  N
 - **The Scientists**, John Gribbin
 - **Asimov's Guide to Science**, Isaac Asimov
 - **Einstein**, Walter Isaacson
+- **Apollo 13**, Jim Lovell & Jeffrey Kluger
 
 [Back to Top ↩](/bookshelf#my-bookshelf)
 
@@ -214,6 +215,7 @@ What can I say about GEB that hasn't been said by a thousand geeks before me?  N
 - **Midnight's Descendants**, John Keay
 - **The Tartan Turban**, John Keay
 - **Sowing the Wind**, John Keay
+- **India Conquered**, Jon Wilson
 - **Land of the Seven Rivers**, Sanjeev Sanyal
 - **The Great Moguls**, Bamber Gascoigne
 - **The Mughal World**, Abraham Eraly
@@ -683,6 +685,7 @@ I have a minor obsession with collecting travel books. I doubt I'll visit all or
 - **Roumeli: Travels in Northern Greece**, Patrick Leigh Fermor
 - **The Traveller's Tree**, Patrick Leigh Fermor
 - **Words of Mercury**, Patrick Leigh Fermor
+- **Patrick Leigh Fermor: An Adventure**, Artemis Cooper
 - **The World The World**, Norman Lewis
 - **The Happy Ant Heap**, Norman Lewis
 - **Voices of the Old Sea**, Norman Lewis
@@ -738,9 +741,9 @@ I have a minor obsession with collecting travel books. I doubt I'll visit all or
 - **Pies and Prejudice**, Stuart Maconie
 - **On a Chinese Screen**, W. Somerset Maugham
 - **The Colossus of Maroussi**, Henry Miller
-- **Tundra**, Farlet Mowat
-- **The Polar Passion**, Farlet Mowat
-- **Ordeal by Ice**, Farlet Mowat
+- **Tundra**, Farley Mowat
+- **The Polar Passion**, Farley Mowat
+- **Ordeal by Ice**, Farley Mowat
 - **In Search of England**, H. V. Morton
 - **A Traveller in Italy**, H. V. Morton
 - **Fabled Shore**, Rose Macaulay
@@ -767,6 +770,7 @@ I have a minor obsession with collecting travel books. I doubt I'll visit all or
 - **Maximum City**, Suketu Mehta
 - **Landmarks**, Robert MacFarlane
 - **The Wild Places**, Robert MacFarlane
+- **The Old Ways**, Robert MacFarlane
 - **Journey to the Orient**, Gerard de Nerval
 - **A Short Walk in the Hindu Kush**, Eric Newby
 - **The Last Grain Race**{: style="color: green"}, Eric Newby
@@ -871,6 +875,7 @@ I have a minor obsession with collecting travel books. I doubt I'll visit all or
 - **The Weather Prophet**, Lucretia Stewart
 - **Running with Reindeer**, Roger Took
 - **Cochineal Red**, Hugh Thomson
+- **The White Rock**, Hugh Thomson
 - **The Eighth Continent**, Peter Tyson
 - **The Sea and the Jungle**, H. M. Tomlinson
 - **A Fortune-Teller Told Me**, Tiziano Terzani
@@ -879,6 +884,8 @@ I have a minor obsession with collecting travel books. I doubt I'll visit all or
 - **The Marsh Arabs**, Wilfred Thesiger
 - **Among the Mountains**, Wilfred Thesiger
 - **The Life of My Choice**, Wilfred Thesiger
+- **Wilfred Thesiger**, Alexander Maitland
+- **Thesiger**, Michael Asher
 - **Roughing It**, Mark Twain
 - **The Innocents Abroad**, Mark Twain
 - **A Tramp Abroad**, Mark Twain
@@ -976,9 +983,15 @@ I have a minor obsession with collecting travel books. I doubt I'll visit all or
 - **Captain Scott**, Ranulph Fiennes
 - **The Last Place on Earth**, Roland Huntford
 - **Shackleton**, Roland Huntford
-- **Artic Adventure**, Peter Freuchen
+- **Arctic Adventure**, Peter Freuchen
 - **End of the Earth**, Peter Matthiessen
-
+- **The Accursed Mountains**, Robert Carver
+- **Catfish and Mandala**, Andrew X. Pham
+- **Atlantis of the Sands**, Ranulph Fiennes
+- **The Narrow Road to the Deep North**, Matshu Basho
+- **Footsteps**, Richard Holmes
+- **Maiden Voyages**, Mary Morris
+- **Around India in 80 Trains**, Monisha Rajesh
 
 [Back to Top ↩](/bookshelf#my-bookshelf)
 
