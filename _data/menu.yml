@@ -2,9 +2,9 @@
   link: /
 - name: About
   link: /about.html
-- name: Bookshelf
-  link: /bookshelf.html
 - name: Blog
   link: /blog.html
+- name: Library
+  link: /library.html
 - name: Startups
   link: /startups.html

@@ -3,11 +3,6 @@ layout: default
 title: About · Abraham Thomas
 ---
 
-|<img style="width:150px" src="/assets/img/Abraham-Thomas.jpg">|Hello, I'm Abraham.  I live in Toronto with my family, several thousand books, and two pianos.<br/><br/>I'm the co-founder and Chief Data Officer of [Quandl](https://www.quandl.com), a technology startup that was acquired by [Nasdaq](http://www.nasdaq.com) in December 2018.  Before Quandl, I was a trader and portfolio manager at [Simplex](https://www.simplexasset.com), a multi-billion-dollar  hedge fund headquartered in Tokyo.  Simplex hired me as a fresh graduate from [IIT Bombay](http://www.iitb.ac.in), where I studied Engineering Physics for my B. Tech.|  
-
-
-----
-
 Magic happens at the intersection of competences.  I have three: markets, technology and data.
 
 ## Markets

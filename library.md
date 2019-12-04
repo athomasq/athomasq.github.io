@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Bookshelf
+title: Library · Abraham Thomas
 ---
-## My Bookshelf
+## My Library
 
 Inspired by Patrick Collison, this page is an incomplete catalogue of my (physical) books.  My rate of book-buying dramatically exceeds my rate of book-reading, but it shouldn't exceed my rate of book-indexing, so hopefully this catalogue will be complete <strike>soon</strike> eventually. 
 
