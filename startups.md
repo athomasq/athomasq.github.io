@@ -3,7 +3,7 @@ layout: default
 title: Startups · Abraham Thomas
 ---
 
-<img style="width:500px" src="/assets/img/south-park-bro-down.jpeg">
+<img src="/assets/img/south-park-bro-down.jpeg" alt="Startups" class="image">
 
 There's an enormous amount of high-quality startup advice available -- for free! -- on the internet.  Unfortunately, there's a much larger quantity of advice that's irrelevant, unusable or just plain wrong.
 

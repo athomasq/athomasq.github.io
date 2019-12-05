@@ -96,3 +96,14 @@ th, td {
   line-height: 18px;
   text-align: left;
 }
+
+.image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  border-top: 1px solid #eee;
+  border-bottom: 1px solid #eee;
+  width: 500px;
+}
