@@ -17,7 +17,7 @@ When quantity increases and quality is variable, curation becomes valuable.  So 
 
 - Oracles: the voices that define this era of tech entrepreneurship
 - Ideas: find something worth doing
-- Growth: 
+- Growth: get noticed by the world
 - Metrics: measure what matters, and make your measurements matter
 - Blogroll
 - Newbies
@@ -27,7 +27,6 @@ There is a lot of material here, and for that I make no excuses.  If you're seri
 Note that most of these are relevant for early stage founders, ie, from zero till about Series B -- after that, founders typically have access to far better and more focused sources of expertise than articles on the internet, no matter how insightful.  
 
 Note also that much of this material is a few years old.  The best current wisdom is to be found on Twitter and Substack; it hasn't yet been collected into books or blog posts.  See the Newbies section for more.
-
 
 I welcome recommendations for new articles to add to this list -- please [email me] your suggestions!  
 
@@ -40,9 +39,9 @@ I welcome recommendations for new articles to add to this list -- please [email 
 
 Let's start with the classics.  You can't be part of the tech ecosystem without knowing these books, internalizing their language, and understanding the (collective, not always perfectly overlapping) worldview they espouse:
 
-- Marc Andreessen's blog archive:  https://a16z.com/2015/01/09/pmarca-blog-ebook/
-- Paul Graham's collected essays:  http://www.paulgraham.com/articles.html 
-- Zero to One by Peter Thiel:  https://blakemasters.com/peter-thiels-cs183-startup 
+- Marc Andreessen's blog archive: https://a16z.com/2015/01/09/pmarca-blog-ebook/
+- Paul Graham's collected essays: http://www.paulgraham.com/articles.html 
+- Zero to One by Peter Thiel: https://blakemasters.com/peter-thiels-cs183-startup 
 - The Hard Thing About Hard Things by Ben Horowitz
 - Blitzscaling by Reid Hoffman
 
@@ -84,21 +83,17 @@ So you have an idea, and you've built a product.  What next?  Growth: by which I
 
 In the early days, there is no formula.  You have to figure out what works slowly, iteratively, often fortuitously.  
 
-- Technical or product-centric founders spend too much time fine-tuning their product and not enough time talking to customers.  It's important to get out of the room! 
+- Technical or product-centric founders often spend too much time fine-tuning their product and not enough time talking to customers.  It's important to get out of the room! 
 
-- It's possible to make the opposite mistake.  Lured by the "growth hacking" .  A common mistake that founders make is looking for a magic bullet that will bring 1000s of new users to their (mediocre) product.  Andy Johns has an excellent post on why this is a dead end. Don't fall into the trap that all you need is hack that will bring a 1000 new users to your product.  That energy is better spent building a delightful product. 
+- The opposite mistake is searching for a magic bullet that will bring 1000s of new users to your product, not recognizing that the product itself is mediocre.  Andrew Johns has an excellent post on why this is a dead end. https://andyjohns.co/a-post-mortem-on-growth-hacking/ 
 
-https://andyjohns.co/a-post-mortem-on-growth-hacking/ 
+- Balancing these two imperatives is tricky but important.  James Currier talks about the psychology that makes this possible.  https://www.nfx.com/post/psychology-startup-growth
 
+- A piece of advice that is almost always applicable (and remains that way far longer than you might think) is Paul Graham's do things that don;t scale  http://paulgraham.com/ds.html 
 
-- Balancing these two imperatives is tricky but important.  James Currier talks about the psychology that makes this possible.
-https://www.nfx.com/post/psychology-startup-growth
+- More from the YC farm: a series of videos on how to start up a startup http://startupclass.samaltman.com/ 
 
-- In the early days, do things that dont scale  http://paulgraham.com/ds.html 
-
-- YC has a bunch of good videos   http://startupclass.samaltman.com/ 
-
-In later stages, it's exactly the opposite.  There is a well-established body of best practices on how to grow a business -- *any* business.  
+In later stages of a startup, it's exactly the opposite.  There is a well-established body of best practices on how to grow a business -- *any* business.  Indeed, the codification of these techniques is one of the key features of our current startup era.
 
 - https://andrewchen.co/theres-only-a-few-ways-to-scale-user-growth-and-heres-the-list/ 
 - https://www.slideshare.net/a16z/go-to-market-bootcamp-for-startups
