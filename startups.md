@@ -7,7 +7,7 @@ title: Startups · Abraham Thomas
 
 I was a first-time founder; so was my partner Tammer.  While we're both engineers, neither of us had ever worked in technology firms, or startups, or in the Valley: our experience was in quant finance, in New York and Asia.  We built Quandl largely to scratch our own itch; through hard work and good luck we succeeded, taking it from inception to successful exit. 
 
-What strikes me looking back is how little we knew about building technology startups, and how much we learned along the way.  In this, we were aided immeasurably by the enormous amount of high-quality startup advice available -- for free! -- on the internet.  Back in the early 2010s, VCs were just discovering the power of content marketing to attract talented founders (VC is a dealflow business!), and they competed with each other to share their secrets and wisdom with the world.  
+What strikes me looking back is how little we knew about building technology startups, and how much we learned along the way.  In this, we were aided immeasurably by the enormous amount of high-quality startup advice available -- for free! -- on the internet.  Back in the early 2010s, VCs were just discovering the power of content marketing to attract talented founders (VC is a dealflow business!), and they competed with each other to share their secrets with the world.  
 
 Unfortunately, all good things come to an end.  The very success of this content marketing strategy attracted more content creators, and the average quality of startup advice online declined rapidly over the second half of the decade.  Much of what's out there today is either redundant or wrong. 
 
@@ -15,11 +15,18 @@ Unfortunately, all good things come to an end.  The very success of this content
 
 When quantity increases and quality is variable, curation becomes valuable.  So I thought I'd post links to some of the resources that I found most useful in my own journey.  I've organized them by theme:
 
-- The Classics
-- Ideas
-- Product
+- Oracles: the voices that define this era of tech entrepreneurship
+- Ideas: how to 
+- Growth
+- Metrics
+- Sales
+- Marketing
+- Blogroll
+- Newbies
 
-There is a lot of material here, and for that I make no excuses.  If you're serious about building a startup, you have to put in the work.  I know of no successful founders who are not also learning machines.  And if you can benefit from OPW, why wouldn't you. 
+
+
+There is a lot of material here, and for that I make no excuses.  If you're serious about building a startup, you have to put in the work.  I know of no successful founders who are not also learning machines.  And if you can benefit from other people's wisdom (instead of learning yourself by trial and error or deducing from first principles), why wouldn't you? 
 
 Note that most of these are relevant for early stage founders, ie, from zero till about Series B -- after that, founders typically have access to far better and more focused sources of expertise than articles on the internet, no matter how insightful.
 
