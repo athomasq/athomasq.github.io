@@ -105,6 +105,12 @@ In later stages, it's exactly the opposite.  There is a well-established body of
 - https://25iq.com/2014/05/17/a-dozen-things-ive-learned-about-marketing-distribution-and-sales/
 - https://techcrunch.com/2014/03/22/the-real-engines-of-growth-on-the-internet/
 
+https://firstround.com/review/indispensable-growth-frameworks-from-my-years-at-facebook-twitter-and-wealthfront/ 
+
+https://andyjohns.co/part-1-a-single-minded-perspective-on-growth/
+https://andyjohns.co/part-2-designing-an-organization-that-can-optimize-and-innovate/ 
+https://andyjohns.co/part-3-product-development-for-optimization/ 
+https://andyjohns.co/part-4-product-development-for-innovation/ 
 
 
 
