@@ -1001,4 +1001,4 @@ I have a minor obsession with collecting travel books. I doubt I'll visit all or
 -----
 
 <br/>
-As of November 2019, I've catalogued 5 of 30 bookshelves in my house.
+As of January 2020, I've catalogued 5 of 30 bookshelves in my house.

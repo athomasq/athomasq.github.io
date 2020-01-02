@@ -3,7 +3,7 @@ layout: default
 title: Blog · Abraham Thomas
 ---
 
-## 2019
+## 2020
 <ul>
   {% for post in site.posts %}
     <li>

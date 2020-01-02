@@ -17,7 +17,7 @@ After Simplex, I co-founded [Quandl](https://www.quandl.com) with my friend [Tam
 
 Tammer and I started as two engineers building a prototype in a windowless basement; grew our team to 50 people; raised 20M in financing from blue-chip Silicon Valley venture capital firms; created the category of "alternative data" for investors; gained essentially all of the world's leading hedge funds as our customers; and were ultimately [acquired](https://blog.quandl.com/quandl-the-next-chapter) by Nasdaq (NDAQ) in Canada's largest tech exit of 2018.  
 
-Thanks to this journey, I have deep knowledge of the modern tech ecosystem and startup execution: company formation, product creation & iteration, venture financing, full-stack marketing, sales strategy & execution, finance & legal, technology & infrastructure, the dynamics of SaaS and marketplace businesses, competitive strategy at many stages and along many dimensions, building and retaining high-performance teams,and exiting (exciting!).
+Thanks to this journey, I have deep knowledge of the modern tech ecosystem and startup execution: company formation, product creation & iteration, venture financing, full-stack marketing, sales strategy & execution, finance & legal, technology & infrastructure, the dynamics of SaaS and marketplace businesses, competitive strategy at many stages and along many dimensions, building and retaining high-performance teams, and exiting (exciting!).
 
 ## Data
 
@@ -29,7 +29,7 @@ I have expert-level knowledge of modern data businesses: data pipelines (acquire
 
 While I believe in the power of markets, technology and data to make the world a better place, I'm also keenly aware of their limitations. 
 
-Data can be noisy, messy, incomplete or irrelevant; more dangerously, it can be misleading, invasive, biased or falsified.  Markets can be imperfect, incomplete, non-competitive, regulated, corrupt, captured, rigged or otherwise flawed.  Technology is vulnerable to incompetence, malice, misuse, indifference, bias and unforeseen consequences.  
+Data can be noisy, messy, incomplete or irrelevant; more dangerously, it can be misleading, manipulated, invasive, biased or falsified.  Markets can be imperfect, incomplete, non-competitive, regulated, corrupt, captured, rigged or otherwise flawed.  Technology is vulnerable to incompetence, malice, misuse, indifference, bias and unforeseen consequences.  
 
 The optimist (and trader) in me says that every inefficiency is an opportunity; the humanist in me cares for the individuals affected by these inequities.  It's important to strike a balance.
 
@@ -49,7 +49,7 @@ If you're a venture capitalist involved in data businesses -- you guessed it, [e
 
 ### Credits 
 
-This website was created using [Github Pages] and [Jekyll].  The design is from [Patrick Collison].  Other inspirations include [Patrick McKenzie], [Maciej Cegłowski], [Venkatesh Rao], [Paul Graham], [Cosma Shalizi], [Ben Thompson], [Matt Levine], [Byrne Hobart], [Alex Danco] and [Devon Zuegel]. 
+This website was created using [Github Pages] and [Jekyll].  The design is from [Patrick Collison].  Other inspirations include [Patrick McKenzie], [Maciej Cegłowski], [Venkatesh Rao], [Paul Graham], [Cosma Shalizi], [Ben Thompson], [Matt Levine], [Byrne Hobart], [Alex Danco], [Sriram Krishnan] and [Devon Zuegel]. 
 
 [Github Pages]: https://pages.github.com/
 [Jekyll]: https://jekyllrb.com/
@@ -63,6 +63,7 @@ This website was created using [Github Pages] and [Jekyll].  The design is from 
 [Matt Levine]: https://twitter.com/matt_levine
 [Byrne Hobart]: https://medium.com/@byrnehobart
 [Alex Danco]: https://alexdanco.com/
+[Sriram Krishnan]: https://sriramk.com/
 [Devon Zuegel]: https://devonzuegel.com/page/about-me 
 
 [email me]: mailto:athos1@gmail.com 
