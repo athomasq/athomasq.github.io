@@ -16,19 +16,18 @@ Unfortunately, all good things come to an end.  The very success of this content
 When quantity increases and quality is variable, curation becomes valuable.  So I thought I'd post links to some of the resources that I found most useful in my own journey.  I've organized them by theme:
 
 - Oracles: the voices that define this era of tech entrepreneurship
-- Ideas: how to 
-- Growth
-- Metrics
-- Sales
-- Marketing
+- Ideas: find something worth doing
+- Growth: 
+- Metrics: measure what matters, and make your measurements matter
 - Blogroll
 - Newbies
 
+There is a lot of material here, and for that I make no excuses.  If you're serious about building a startup, you have to put in the work.  I know of no successful founders who are not also learning machines.  And if you can benefit from other people's wisdom (instead of learning yourself by trial and error or deducing everything from first principles), why wouldn't you? 
 
+Note that most of these are relevant for early stage founders, ie, from zero till about Series B -- after that, founders typically have access to far better and more focused sources of expertise than articles on the internet, no matter how insightful.  
 
-There is a lot of material here, and for that I make no excuses.  If you're serious about building a startup, you have to put in the work.  I know of no successful founders who are not also learning machines.  And if you can benefit from other people's wisdom (instead of learning yourself by trial and error or deducing from first principles), why wouldn't you? 
+Note also that much of this material is a few years old.  The best current wisdom is to be found on Twitter and Substack; it hasn't yet been collected into books or blog posts.  See the Newbies section for more.
 
-Note that most of these are relevant for early stage founders, ie, from zero till about Series B -- after that, founders typically have access to far better and more focused sources of expertise than articles on the internet, no matter how insightful.
 
 I welcome recommendations for new articles to add to this list -- please [email me] your suggestions!  
 
@@ -36,23 +35,18 @@ I welcome recommendations for new articles to add to this list -- please [email 
 
 -----
 
-
 <br/>  
-## The Classics
+## Oracles
 
+Let's start with the classics.  You can't be part of the tech ecosystem without knowing these books, internalizing their language, and understanding the (collective, not always perfectly overlapping) worldview they espouse:
 
-
-- Pmarca Archive
-- Paul Graham's collected essays
-- Zero to One by Peter Thiel
-- The Hard Thing About Hard Things
-- YC Videos  http://startupclass.samaltman.com/
+- Marc Andreessen's blog archive:  https://a16z.com/2015/01/09/pmarca-blog-ebook/
+- Paul Graham's collected essays:  http://www.paulgraham.com/articles.html 
+- Zero to One by Peter Thiel:  https://blakemasters.com/peter-thiels-cs183-startup 
+- The Hard Thing About Hard Things by Ben Horowitz
 - Blitzscaling by Reid Hoffman
 
-
-These 5 are essential to understanding tech as it was circa 2015.  (Why 2015?  Because there's always a lag.  The best current wisdom is to be found on Twitter and Medium and Substack; it hasn't yet been collected into a book.  See ___ section for more.
-
-Classics from a slightly earlier era include the Lean Startup, Crossing the Chasm, the Innovator's Dilemma
+These 5 writers are essential to understanding the modern era of tech (2009 to 2019: Uber's founding to WeWork's non-IPO). 
 
 
 
@@ -86,24 +80,37 @@ How do you find a good idea?  How do you find a problem worth solving?
 <br/>  
 ## Growth
 
-So you have an idea, and you've built a product, and you have some evidence of product-market fit.  How do you grow it?  
+So you have an idea, and you've built a product.  What next?  Growth: by which I mean, getting users, getting revenue, and getting to scale.  Paul Graham famously says that startups are *defined* by [growth](http://www.paulgraham.com/growth.html).
 
-Paul Graham says startups are defined by growth, so this is a pretty important question to answer; some would say it's the key question.
+In the early days, there is no formula.  You have to figure out what works slowly, iteratively, often fortuitously.  
 
-There are two views.  Build a product, or build distribution.
+- Technical or product-centric founders spend too much time fine-tuning their product and not enough time talking to customers.  It's important to get out of the room! 
+
+- It's possible to make the opposite mistake.  Lured by the "growth hacking" .  A common mistake that founders make is looking for a magic bullet that will bring 1000s of new users to their (mediocre) product.  Andy Johns has an excellent post on why this is a dead end. Don't fall into the trap that all you need is hack that will bring a 1000 new users to your product.  That energy is better spent building a delightful product. 
+
+https://andyjohns.co/a-post-mortem-on-growth-hacking/ 
 
 
-https://andrewchen.co/theres-only-a-few-ways-to-scale-user-growth-and-heres-the-list/
-https://tomtunguz.com/bill-macaitis-talk/ 
-http://www.paulgraham.com/growth.html 
-http://paulgraham.com/ds.html 
-https://25iq.com/2014/05/17/a-dozen-things-ive-learned-about-marketing-distribution-and-sales/
-https://techcrunch.com/2014/03/22/the-real-engines-of-growth-on-the-internet/
-https://www.thisisgoingtobebig.com/blog/2014/7/21/growth-is-a-commodity.html
-
+- Balancing these two imperatives is tricky but important.  James Currier talks about the psychology that makes this possible.
 https://www.nfx.com/post/psychology-startup-growth
 
-https://www.slideshare.net/a16z/go-to-market-bootcamp-for-startups
+- In the early days, do things that dont scale  http://paulgraham.com/ds.html 
+
+- YC has a bunch of good videos   http://startupclass.samaltman.com/ 
+
+In later stages, it's exactly the opposite.  There is a well-established body of best practices on how to grow a business -- *any* business.  
+
+- https://andrewchen.co/theres-only-a-few-ways-to-scale-user-growth-and-heres-the-list/ 
+- https://www.slideshare.net/a16z/go-to-market-bootcamp-for-startups
+- https://25iq.com/2014/05/17/a-dozen-things-ive-learned-about-marketing-distribution-and-sales/
+- https://techcrunch.com/2014/03/22/the-real-engines-of-growth-on-the-internet/
+
+
+
+
+
+
+
 
 
 -----
@@ -111,6 +118,9 @@ https://www.slideshare.net/a16z/go-to-market-bootcamp-for-startups
 <br/>  
 ## Metrics
 
+
+
+Paul Graham says startups are defined by growth, so this is a pretty important question to answer; some would say it's the key question.
 
 You can't improve what you don't measure
 
@@ -124,9 +134,17 @@ saas quick ratio
 
 aarrr model
 klinger slideshare
-t2d3
+t2d3  https://www.battery.com/powered/helping-entrepreneurs-triple-triple-double-double-double-to-a-billion-dollar-company/ 
+
+
 david skok
 bill gurley
+
+https://twitter.com/andrewchen/status/1058033532029722624
+
+https://andrewchen.co/investor-metrics-deck/ 
+
+
 
 
 -----
@@ -138,6 +156,16 @@ bill gurley
 Culture
 Moats
 Sales
+
+
+
+
+
+
+
+
+
+
 
 
 
