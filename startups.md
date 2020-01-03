@@ -74,6 +74,8 @@ How do you find a good idea?  How do you find a problem worth solving?
 
 - Keith Rabois argues, and I agree with him, that you cannot pivot or iterate your way to a bold vision.  Experiments are a useful tactic but they do not replace [strategy](https://twitter.com/rabois/status/870673635375104000).  
 
+- A good summary of all these themes and more can be found in this [conversation](https://greatness.floodgate.com/episodes/andy-rachleff-on-how-to-know-if-youve-got-product-market-fit/transcript) between Andy Rachleff and Mike Maples jr.
+
 - More ideas on ideas: look for [hobbies](https://cdixon.org/2013/03/02/what-the-smartest-people-do-on-the-weekend-is-what-everyone-else-will-do-during-the-week-in-ten-years); look for [narrative violations](http://www.bedrockcap.com/letter); look for [secrets](https://blakemasters.com/post/22866240816/peter-thiels-cs183-startup-class-11-notes).
 
 [Back to Top ↩](/startups#Resources-for-Startup-Founders)
@@ -120,17 +122,17 @@ In the later stages of a startup, it's exactly the opposite.  There is a well-es
 
 - Before you measure anything, you need a framework to give context to your measurements.  I like the pirate metrics (AARRR) framework covered by Andreas Klinger in this [deck](https://www.slideshare.net/andreasklinger/startup-metrics-a-love-story); it applies to virtually any customer acquisition/conversion/retention process.
 
-- The two definitive resources for measuring SaaS performance come from [Dave Skok](https://www.forentrepreneurs.com/saas-metrics-2/) at Matrix and [Jonathan Hsu](https://tribecap.co/a-quantitative-approach-to-product-market-fit/) at Tribe, the latter building on prior work at [Social Capital](https://medium.com/swlh/diligence-at-social-capital-part-1-accounting-for-user-growth-4a8a449fddfc).  Angela Tran from Version One has a [corresponding resource](https://versionone.vc/marketplace-kpi/) for Marketplaces.
+- David Skok wrote the [definitive guide](https://www.forentrepreneurs.com/saas-metrics-2/) to SaaS metrics.  Jonathan Hsu covers the next evolution of this, focusing on [growth accounting](https://medium.com/swlh/diligence-at-social-capital-part-1-accounting-for-user-growth-4a8a449fddfc).  Angela Tran does the same for [marketplace KPIs](https://versionone.vc/marketplace-kpi/).
 
-- The point of measuring inputs or outputs is of course to improve them.  Andy Johns shows how to do this [systematically](https://firstround.com/review/indispensable-growth-frameworks-from-my-years-at-facebook-twitter-and-wealthfront/).
+- The point of measurement is of course to improve outcomes.  Andy Johns shows how to do this [systematically](https://firstround.com/review/indispensable-growth-frameworks-from-my-years-at-facebook-twitter-and-wealthfront/).
+
+- For operational benchmarking, I find Insight Partners' periodic tables incredibly useful.  They currently have three: [SaaS sales metrics](https://www.insightpartners.com/blog/insights-periodic-table-of-saas-sales-metrics/), [B2B digital marketing metrics](https://www.insightpartners.com/blog/insights-periodic-table-of-b2b-digital-marketing-metrics/), and [startup operating metrics](https://www.insightpartners.com/blog/insights-periodic-table-of-saas-financial-operating-metrics/).
 
 - Real life is more complicated than simple models suggest.  For example, if you push one metric up, it often pulls another one down.  Don't blindly optimize; be thoughtful in how you use metrics and analytics, [advises Bill Gurley](http://abovethecrowd.com/2012/09/04/the-dangerous-seduction-of-the-lifetime-value-ltv-formula/).
 
 - A question that's always asked is, how good are my metrics?  Is my growth strong enough?  Some high-level attempts at an answer include: the [T2D3 Rule](https://www.battery.com/powered/helping-entrepreneurs-triple-triple-double-double-double-to-a-billion-dollar-company/), the [Quick > 4](https://www.slideshare.net/03133938319/saastr) [Rule](https://www.slideshare.net/03133938319/numbers-that-actually-matter-finding-your-north-star), the [Mendoza Line](https://www.scalevp.com/blog/understanding-the-mendoza-line-for-saas-growth), and the [Rule of 40](https://feld.com/archives/2015/02/rule-40-healthy-saas-company.html).
 
-- For operational benchmarking, I find Insight Partners' periodic tables incredibly useful.  They currently have three: [SaaS sales metrics](https://www.insightpartners.com/blog/insights-periodic-table-of-saas-sales-metrics/), [B2B digital marketing metrics](https://www.insightpartners.com/blog/insights-periodic-table-of-b2b-digital-marketing-metrics/), and [startup operating metrics](https://www.insightpartners.com/blog/insights-periodic-table-of-saas-financial-operating-metrics/).
-
-- Finally, metrics matter for fund-raising.  A16z defines some of the most commonly used (and asked for) [startup](https://a16z.com/2015/08/21/16-metrics/) [metrics](https://a16z.com/2015/09/23/16-more-metrics/). Andrew Chen has a good post on [what VCs look for](https://andrewchen.co/investor-metrics-deck/).  Gigi Levy-Weiss has another on [the same topic](https://www.nfx.com/post/how-vcs-see-your-kpis).  
+- Finally, metrics matter for fund-raising.  A16z defines some of the most commonly used (and asked for) [startup](https://a16z.com/2015/08/21/16-metrics/) [metrics](https://a16z.com/2015/09/23/16-more-metrics/).  Gigi Levy-Weiss explains how VCs use these metrics to construct their [investment narrative](https://www.nfx.com/post/how-vcs-see-your-kpis).  
 
 [Back to Top ↩](/startups#Resources-for-Startup-Founders)
 
