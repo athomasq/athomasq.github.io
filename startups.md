@@ -5,32 +5,30 @@ title: Startups · Abraham Thomas
 
 ## Resources for Startup Founders
 
-I was a first-time founder; so was my partner Tammer.  While we're both engineers, neither of us had ever worked in technology firms, or startups, or in the Valley: our experience was in quant finance, in New York and Asia.  We built Quandl largely to scratch our own itch; through hard work and good luck we succeeded, taking it from inception to successful exit. 
+I was a first-time founder; so was my partner Tammer.  While we're both engineers, neither of us had ever worked in technology firms, or startups, or in the Valley.  We built Quandl largely to scratch our own itch; through hard work and good luck we succeeded.
 
 What strikes me looking back is how little we knew about building technology startups, and how much we learned along the way.  In this, we were aided immeasurably by the enormous amount of high-quality startup advice available -- for free! -- on the internet.  Back in the early 2010s, VCs were just discovering the power of content marketing to attract talented founders (VC is a dealflow business!), and they competed with each other to share their secrets with the world.  
 
-Unfortunately, all good things come to an end.  The very success of this content marketing strategy attracted more content creators, and the average quality of startup advice online declined rapidly over the second half of the decade.  Much of what's out there today is either redundant or wrong. 
+Unfortunately, all good things come to an end.  The very success of this content marketing strategy attracted more content creators, and the average quality of startup advice online declined rapidly over the second half of the decade.  Much of what's out there today is either unusable, redundant or wrong. 
 
-<img src="/assets/img/south-park-bro-down.jpeg" alt="Startups" class="image">
+----
 
 When quantity increases and quality is variable, curation becomes valuable.  So I thought I'd post links to some of the resources that I found most useful in my own journey.  I've organized them by theme:
 
 - Oracles: the voices that define this era of tech entrepreneurship
 - Ideas: find something worth doing
 - Growth: get noticed by the world
-- Metrics: measure what matters, and make your measurements matter
-- Blogroll
-- Newbies
+- Metrics: measure what matters; make your measurements matter
+- (More sections to be added over time)
 
 There is a lot of material here, and for that I make no excuses.  If you're serious about building a startup, you have to put in the work.  I know of no successful founders who are not also learning machines.  And if you can benefit from other people's wisdom (instead of learning yourself by trial and error or deducing everything from first principles), why wouldn't you? 
 
 Note that most of these are relevant for early stage founders, ie, from zero till about Series B -- after that, founders typically have access to far better and more focused sources of expertise than articles on the internet, no matter how insightful.  
 
-Note also that much of this material is a few years old.  The best current wisdom is to be found on Twitter and Substack; it hasn't yet been collected into books or blog posts.  See the Newbies section for more.
+Note also that much of this material is a few years old.  The best current wisdom is to be found on Twitter and Substack; it hasn't yet been collected into books or blog posts.  
 
-I welcome recommendations for new articles to add to this list -- please [email me] your suggestions!  
+I welcome recommendations for new articles to add to this list -- please [email me](mailto:athos1@gmail.com) your suggestions!  
 
-[email me]: mailto:athos1@gmail.com 
 
 -----
 
@@ -39,15 +37,13 @@ I welcome recommendations for new articles to add to this list -- please [email 
 
 Let's start with the classics.  You can't be part of the tech ecosystem without knowing these books, internalizing their language, and understanding the (collective, not always perfectly overlapping) worldview they espouse:
 
-- Marc Andreessen's blog archive: https://a16z.com/2015/01/09/pmarca-blog-ebook/
-- Paul Graham's collected essays: http://www.paulgraham.com/articles.html 
-- Zero to One by Peter Thiel: https://blakemasters.com/peter-thiels-cs183-startup 
-- The Hard Thing About Hard Things by Ben Horowitz
-- Blitzscaling by Reid Hoffman
+- Marc Andreessen's [blog](https://a16z.com/2015/01/09/pmarca-blog-ebook)
+- Paul Graham's [essays](http://www.paulgraham.com/articles.html)
+- [Zero to One](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/B00M284NY2) by Peter Thiel, also [online](https://blakemasters.com/peter-thiels-cs183-startup)
+- [The Hard Thing About Hard Things](https://www.amazon.com/Hard-Thing-About-Things-Building-ebook/dp/B00DQ845EA) by Ben Horowitz, also [online](https://a16z.com/2016/09/04/ben-blog-ebook/)
+- [Blitzscaling](https://www.blitzscaling.com/) by Reid Hoffman, also [online](https://medium.com/cs183c-blitzscaling-class-collection)
 
-These 5 writers are essential to understanding the modern era of tech (2009 to 2019: Uber's founding to WeWork's non-IPO). 
-
-
+These 5 writers are essential to understanding the modern era of tech (2009 to 2019: Uber's founding to WeWork's non-IPO).  You can find all of them in this [excellent series of videos](http://startupclass.samaltman.com/lists/about/) with accompanying notes and resources.
 
 -----
 
@@ -83,35 +79,23 @@ So you have an idea, and you've built a product.  What next?  Growth: by which I
 
 In the early days, there is no formula.  You have to figure out what works slowly, iteratively, often fortuitously.  
 
-- Technical or product-centric founders often spend too much time fine-tuning their product and not enough time talking to customers.  It's important to get out of the room! 
+- Technical or product-centric founders often spend too much time fine-tuning their product and not enough time talking to customers.  It's important to [get out of the building](https://steveblank.com/2009/10/08/get-out-of-my-building/)!  
 
-- The opposite mistake is searching for a magic bullet that will bring 1000s of new users to your product, not recognizing that the product itself is mediocre.  Andrew Johns has an excellent post on why this is a dead end. https://andyjohns.co/a-post-mortem-on-growth-hacking/ 
+- The opposite mistake is bringing large numbers of new users to your product, without recognizing that the product itself is mediocre.  Andy Johns has an excellent post on why this is a [dead end](https://andyjohns.co/a-post-mortem-on-growth-hacking).
 
-- Balancing these two imperatives is tricky but important.  James Currier talks about the psychology that makes this possible.  https://www.nfx.com/post/psychology-startup-growth
+- Balancing these two imperatives is tricky but important.  James Currier talks about the [psychology](https://www.nfx.com/post/psychology-startup-growth) that makes this possible.  
 
-- A piece of advice that is almost always applicable (and remains that way far longer than you might think) is Paul Graham's do things that don;t scale  http://paulgraham.com/ds.html 
+- A piece of advice that is almost always applicable (and remains that way far longer than you might think) is Paul Graham's "[do things that don't scale](http://paulgraham.com/ds.html)".  
 
-- More from the YC farm: a series of videos on how to start up a startup http://startupclass.samaltman.com/ 
+In the later stages of a startup, it's exactly the opposite.  There is a well-established body of best practices on how to grow a business -- *any* business.  Indeed, the maturation and codification of these techniques is one of the key features of our current startup era.
 
-In later stages of a startup, it's exactly the opposite.  There is a well-established body of best practices on how to grow a business -- *any* business.  Indeed, the codification of these techniques is one of the key features of our current startup era.
+- There's a finite set of levers you can pull to acquire customers at scale; Andrew Chen [breaks them down](https://andrewchen.co/theres-only-a-few-ways-to-scale-user-growth-and-heres-the-list/).
 
-- https://andrewchen.co/theres-only-a-few-ways-to-scale-user-growth-and-heres-the-list/ 
-- https://www.slideshare.net/a16z/go-to-market-bootcamp-for-startups
-- https://25iq.com/2014/05/17/a-dozen-things-ive-learned-about-marketing-distribution-and-sales/
-- https://techcrunch.com/2014/03/22/the-real-engines-of-growth-on-the-internet/
+- Mark Cranney has a comprehensive plan of attack for startups [going to market](https://www.slideshare.net/a16z/go-to-market-bootcamp-for-startups); it's dense and information-rich.
 
-https://firstround.com/review/indispensable-growth-frameworks-from-my-years-at-facebook-twitter-and-wealthfront/ 
+- In a [series](https://andyjohns.co/part-1-a-single-minded-perspective-on-growth/) [of](https://andyjohns.co/part-2-designing-an-organization-that-can-optimize-and-innovate/) [four](https://andyjohns.co/part-3-product-development-for-optimization/) [articles](https://andyjohns.co/part-4-product-development-for-innovation/), Andy Johns describes the tension between optimization and innovation -- which result in incremental and step-function growth, respectively -- and how to design organizations that can do both. 
 
-https://andyjohns.co/part-1-a-single-minded-perspective-on-growth/
-https://andyjohns.co/part-2-designing-an-organization-that-can-optimize-and-innovate/ 
-https://andyjohns.co/part-3-product-development-for-optimization/ 
-https://andyjohns.co/part-4-product-development-for-innovation/ 
-
-
-
-
-
-
+- Tren Griffin [summarizes](https://25iq.com/2014/05/17/a-dozen-things-ive-learned-about-marketing-distribution-and-sales/) wisdom on distribution from Thiel, Bezos, Ellison and Andreessen; Dan Kaplan [does the same](https://techcrunch.com/2014/03/22/the-real-engines-of-growth-on-the-internet/) for Chudnovsky, Elman, Johns and Chen.
 
 
 -----
@@ -119,47 +103,30 @@ https://andyjohns.co/part-4-product-development-for-innovation/
 <br/>  
 ## Metrics
 
+- Before you measure anything, you need a framework to give context to your measurements.  I like the pirate metrics (AARRR) framework covered by Andreas Klinger in this [deck](https://www.slideshare.net/andreasklinger/startup-metrics-a-love-story); it applies to virtually any customer acquisition/conversion/retention process.
 
+- The two definitive resources for measuring SaaS performance come from [Dave Skok](https://www.forentrepreneurs.com/saas-metrics-2/) at Matrix and [Jonathan Hsu](https://tribecap.co/a-quantitative-approach-to-product-market-fit/) at Tribe, the latter building on prior work at [Social Capital](https://medium.com/swlh/diligence-at-social-capital-part-1-accounting-for-user-growth-4a8a449fddfc).  Angela Tran from Version One has a [corresponding resource](https://versionone.vc/marketplace-kpi/) for Marketplaces.
 
-Paul Graham says startups are defined by growth, so this is a pretty important question to answer; some would say it's the key question.
+- The point of measuring inputs or outputs is of course to improve them.  Andy Johns shows how to do this [systematically](https://firstround.com/review/indispensable-growth-frameworks-from-my-years-at-facebook-twitter-and-wealthfront/).
 
-You can't improve what you don't measure
+- Real life is more complicated than simple models suggest.  For example, if you push one metric up, it often pulls another one down.  Don't blindly optimize; be thoughtful in how you use metrics and analytics, [advises Bill Gurley](http://abovethecrowd.com/2012/09/04/the-dangerous-seduction-of-the-lifetime-value-ltv-formula/).
 
-Otoh, metrics can be gamed
+- A question that's always asked is, how good are my metrics?  Is my growth strong enough?  Some high-level attempts at an answer include: the [T2D3 Rule](https://www.battery.com/powered/helping-entrepreneurs-triple-triple-double-double-double-to-a-billion-dollar-company/), the [Quick > 4](https://www.slideshare.net/03133938319/saastr) [Rule](https://www.slideshare.net/03133938319/numbers-that-actually-matter-finding-your-north-star), the [Mendoza Line](https://www.scalevp.com/blog/understanding-the-mendoza-line-for-saas-growth), and the [Rule of 40](https://feld.com/archives/2015/02/rule-40-healthy-saas-company.html).
 
+- For operational benchmarking, I find Insight Partners' periodic tables incredibly useful.  They currently have three: [SaaS sales metrics](https://www.insightpartners.com/blog/insights-periodic-table-of-saas-sales-metrics/), [B2B digital marketing metrics](https://www.insightpartners.com/blog/insights-periodic-table-of-b2b-digital-marketing-metrics/), and [startup operating metrics](https://www.insightpartners.com/blog/insights-periodic-table-of-saas-financial-operating-metrics/).
 
-https://techcrunch.com/2015/02/01/the-saas-travel-adventure/
-https://techcrunch.com/2018/02/09/understanding-the-mendoza-line-for-saas-growth/ 
-rule of 40
-saas quick ratio
+- Finally, metrics matter for fund-raising.  A16z defines some of the most commonly used (and asked for) [startup](https://a16z.com/2015/08/21/16-metrics/) [metrics](https://a16z.com/2015/09/23/16-more-metrics/). Andrew Chen has a good post on [what VCs look for](https://andrewchen.co/investor-metrics-deck/).  Gigi Levy-Weiss has another on [the same topic](https://www.nfx.com/post/how-vcs-see-your-kpis).  
 
-aarrr model
-klinger slideshare
-t2d3  https://www.battery.com/powered/helping-entrepreneurs-triple-triple-double-double-double-to-a-billion-dollar-company/ 
-
-
-david skok
-bill gurley
-
-https://twitter.com/andrewchen/status/1058033532029722624
-
-https://andrewchen.co/investor-metrics-deck/ 
-
-
-
+<br/>
 
 -----
 
-<br/>  
-## Strategy
+<br/>
 
 
-Culture
-Moats
-Sales
+<img src="/assets/img/south-park-bro-down.jpeg" alt="Startups" class="image">
 
-
-
+*The only startup advice you'll ever need*
 
 
 

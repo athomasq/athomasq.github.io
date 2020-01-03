@@ -1,6 +1,6 @@
 body {
   font-family: Helvetica;
-  font-size: 13px;
+  font-size: 15px;
 }
 
 #menu {
@@ -19,6 +19,7 @@ body {
   list-style-type: none;
   margin: 0;
   padding: 0;
+  line-height: 1.5;
 }
 
 #menu li {
@@ -58,7 +59,7 @@ body {
 
 #content p, #content ul {
   color: #333;
-  line-height: 18px;
+  line-height: 1.5;
 }
 
 #content sup.note {
