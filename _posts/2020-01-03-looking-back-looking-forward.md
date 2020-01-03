@@ -1,9 +1,7 @@
 ---
-layout: default
+layout: post
 title:  Looking Back, Looking Forward
 ---
-
-# Looking Back, Looking Forward
 
 *It's a good time of year for retrospectives; here's mine.*
 
@@ -27,6 +25,3 @@ Of course this sounds very neat and tidy in retrospect.  At the time it was anyt
 (And not just because, unlike most startup stories, ours had a [happy](https://www.nasdaq.com/about/press-center/nasdaq-acquires-quandl-advance-use-alternative-data) [ending](https://www.waterstechnology.com/awards-rankings/4351881/acquisition-of-the-year-nasdaqs-acquisition-of-quandl)).  
 
 It's been a decade of tremendous growth for me: intellectual, personal, and professional.  If I were to wish for one thing for the next decade, it's that I get to learn and grow even half as much.  Here's to the 2020s! 
-
-<br/>
-<br/>

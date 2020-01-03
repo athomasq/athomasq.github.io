@@ -1,0 +1,3 @@
+name: Abraham Thomas
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title

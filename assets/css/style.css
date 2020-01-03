@@ -52,36 +52,9 @@ body {
   margin: 0;
 }
 
-#content .byline, #content .byline a, #content .note {
-  font-size: 10px;
-  color: #aaa;
-}
-
 #content p, #content ul {
   color: #333;
   line-height: 1.5;
-}
-
-#content sup.note {
-  display: inline-block;
-  margin-top: -5px;
-}
-
-#content p.notop {
-  margin-top: 0;
-}
-
-#content .thanks {
-  margin-top: 2em;
-  padding-top: 1em;
-  border-top: 1px solid #eee;
-  margin-bottom: 4em;
-  font-size: smaller;
-  color: #777;
-}
-
-#content .thanks a {
-  color: #777;
 }
 
 #content li {
