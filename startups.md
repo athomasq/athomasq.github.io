@@ -9,16 +9,16 @@ I was a first-time founder; so was my partner Tammer.  While we're both engineer
 
 What strikes me looking back is how little we knew about building technology startups, and how much we learned along the way.  In this, we were aided immeasurably by the enormous amount of high-quality startup advice available -- for free! -- on the internet.  Back in the early 2010s, VCs were just discovering the power of content marketing to attract talented founders (VC is a dealflow business!), and they competed with each other to share their secrets with the world.  
 
-Unfortunately, all good things come to an end.  The very success of this content marketing strategy attracted more content creators, and the average quality of startup advice online declined rapidly over the second half of the decade.  Much of what's out there today is either unusable, redundant or wrong. 
+Unfortunately, all good things come to an end.  The very success of this content marketing strategy attracted more content creators, and the average quality of startup advice online declined rapidly over the second half of the decade.  Much of what's out there today is either unusable, or redundant, or just plain wrong. 
 
 ----
 
 When quantity increases and quality is variable, curation becomes valuable.  So I thought I'd post links to some of the resources that I found most useful in my own journey.  I've organized them by theme:
 
-- Oracles: the voices that define this era of tech entrepreneurship
-- Ideas: find something worth doing
-- Growth: get noticed by the world
-- Metrics: measure what matters; make your measurements matter
+- [Oracles](/startups#oracles): the voices that define this era of tech entrepreneurship
+- [Ideas](/startups#ideas): find something worth doing
+- [Growth](/startups#growth): get noticed by the world
+- [Metrics](/startups#metrics): measure what matters; make your measurements matter
 - (More sections to be added over time)
 
 There is a lot of material here, and for that I make no excuses.  If you're serious about building a startup, you have to put in the work.  I know of no successful founders who are not also learning machines.  And if you can benefit from other people's wisdom (instead of learning yourself by trial and error or deducing everything from first principles), why wouldn't you? 
@@ -33,6 +33,7 @@ I welcome recommendations for new articles to add to this list -- please [email 
 -----
 
 <br/>  
+
 ## Oracles
 
 Let's start with the classics.  You can't be part of the tech ecosystem without knowing these books, internalizing their language, and understanding the (collective, not always perfectly overlapping) worldview they espouse:
@@ -45,9 +46,14 @@ Let's start with the classics.  You can't be part of the tech ecosystem without 
 
 These 5 writers are essential to understanding the modern era of tech (2009 to 2019: Uber's founding to WeWork's non-IPO).  You can find all of them in this [excellent series of videos](http://startupclass.samaltman.com/lists/about/) with accompanying notes and resources.
 
+[Back to Top ↩](/startups#Resources-for-Startup-Founders)
+
+<br/>  
+
 -----
 
 <br/>  
+
 ## Ideas 
 
 There's a common startup trope that ideas are unimportant, and execution is what counts.  I disagree; I think ideas matter.  They matter because to make anything worthwhile takes time.  And as a founder, I would hate to spend 5 to 10 years of my life doing something that is irrelevant, or uninteresting, or inconsequential.
@@ -70,9 +76,14 @@ How do you find a good idea?  How do you find a problem worth solving?
 
 - More ideas on ideas: look for [hobbies](https://cdixon.org/2013/03/02/what-the-smartest-people-do-on-the-weekend-is-what-everyone-else-will-do-during-the-week-in-ten-years); look for [narrative violations](http://www.bedrockcap.com/letter); look for [secrets](https://blakemasters.com/post/22866240816/peter-thiels-cs183-startup-class-11-notes).
 
+[Back to Top ↩](/startups#Resources-for-Startup-Founders)
+
+<br/>  
+
 -----
 
 <br/>  
+
 ## Growth
 
 So you have an idea, and you've built a product.  What next?  Growth: by which I mean, getting users, getting revenue, and getting to scale.  Paul Graham famously says that startups are *defined* by [growth](http://www.paulgraham.com/growth.html).
@@ -97,10 +108,14 @@ In the later stages of a startup, it's exactly the opposite.  There is a well-es
 
 - Tren Griffin [summarizes](https://25iq.com/2014/05/17/a-dozen-things-ive-learned-about-marketing-distribution-and-sales/) wisdom on distribution from Thiel, Bezos, Ellison and Andreessen; Dan Kaplan [does the same](https://techcrunch.com/2014/03/22/the-real-engines-of-growth-on-the-internet/) for Chudnovsky, Elman, Johns and Chen.
 
+[Back to Top ↩](/startups#Resources-for-Startup-Founders)
+
+<br/>  
 
 -----
 
 <br/>  
+
 ## Metrics
 
 - Before you measure anything, you need a framework to give context to your measurements.  I like the pirate metrics (AARRR) framework covered by Andreas Klinger in this [deck](https://www.slideshare.net/andreasklinger/startup-metrics-a-love-story); it applies to virtually any customer acquisition/conversion/retention process.
@@ -117,7 +132,9 @@ In the later stages of a startup, it's exactly the opposite.  There is a well-es
 
 - Finally, metrics matter for fund-raising.  A16z defines some of the most commonly used (and asked for) [startup](https://a16z.com/2015/08/21/16-metrics/) [metrics](https://a16z.com/2015/09/23/16-more-metrics/). Andrew Chen has a good post on [what VCs look for](https://andrewchen.co/investor-metrics-deck/).  Gigi Levy-Weiss has another on [the same topic](https://www.nfx.com/post/how-vcs-see-your-kpis).  
 
-<br/>
+[Back to Top ↩](/startups#Resources-for-Startup-Founders)
+
+<br/>  
 
 -----
 
@@ -126,7 +143,7 @@ In the later stages of a startup, it's exactly the opposite.  There is a well-es
 
 <img src="/assets/img/south-park-bro-down.jpeg" alt="Startups" class="image">
 
-*The only startup advice you'll ever need*
+*The only startup advice you'll ever need*.
 
 
 

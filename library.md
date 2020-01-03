@@ -8,11 +8,11 @@ Inspired by Patrick Collison, this page is an incomplete catalogue of my (physic
 
 To make it easier to browse, I've split this page by category:
 
-- [Science & Mathematics](/bookshelf#science--mathematics)
-- [History & Biography](/bookshelf#history--biography)
-- [Essays, Memoirs & Journalism](/bookshelf#essays-memoirs--journalism)
-- [Language & Music](/bookshelf#language--music)
-- [Travel, Adventure & Exploration](/bookshelf#travel-adventure--exploration)
+- [Science & Mathematics](/library#science--mathematics)
+- [History & Biography](/library#history--biography)
+- [Essays, Memoirs & Journalism](/library#essays-memoirs--journalism)
+- [Language & Music](/library#language--music)
+- [Travel, Adventure & Exploration](/library#travel-adventure--exploration)
 
 Books in **green**{: style="color: green"} are very good and recommended.  Books in **red**{: style="color: red"} are life-changing: I saw the world differently after reading them.  
 
@@ -150,7 +150,7 @@ What can I say about GEB that hasn't been said by a thousand geeks before me?  N
 - **Einstein**, Walter Isaacson
 - **Apollo 13**, Jim Lovell & Jeffrey Kluger
 
-[Back to Top ↩](/bookshelf#my-bookshelf)
+[Back to Top ↩](/library#my-library)
 
 <br/>
 
@@ -352,7 +352,7 @@ What can I say about GEB that hasn't been said by a thousand geeks before me?  N
 - **The Black Jacobins**, C. L. R. James
 
 
-[Back to Top ↩](/bookshelf#my-bookshelf)
+[Back to Top ↩](/library#my-library)
 
 <br/>
 
@@ -430,7 +430,7 @@ What can I say about GEB that hasn't been said by a thousand geeks before me?  N
 - **The Inner Game of Tennis**{: style="color: green"}, Timothy Gallwey
 - **Orientalism**, Edward Said
 
-[Back to Top ↩](/bookshelf#my-bookshelf)
+[Back to Top ↩](/library#my-library)
 
 <br/>
 
@@ -495,7 +495,7 @@ This is a terrific book and one of the top 5 non-fiction books I've ever read. (
 - **Three Mozart Operas**, Richard Moberly
 - **The Band: A Musical History**, Robbie Robertson
 
-[Back to Top ↩](/bookshelf#my-bookshelf)
+[Back to Top ↩](/library#my-library)
 
 <br/>
 
@@ -993,7 +993,7 @@ I have a minor obsession with collecting travel books. I doubt I'll visit all or
 - **Maiden Voyages**, Mary Morris
 - **Around India in 80 Trains**, Monisha Rajesh
 
-[Back to Top ↩](/bookshelf#my-bookshelf)
+[Back to Top ↩](/library#my-library)
 
 
 <br/>

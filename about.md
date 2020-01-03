@@ -49,7 +49,7 @@ If you're a venture capitalist involved in data businesses -- you guessed it, [e
 
 ### Credits 
 
-This website was created using [Github Pages] and [Jekyll].  The design is from [Patrick Collison].  Other inspirations include [Patrick McKenzie], [Maciej Cegłowski], [Venkatesh Rao], [Paul Graham], [Cosma Shalizi], [Ben Thompson], [Matt Levine], [Byrne Hobart], [Alex Danco], [Sriram Krishnan] and [Devon Zuegel]. 
+This website was created using [Github Pages] and [Jekyll].  The design is mostly from [Patrick Collison].  Other inspirations include [Patrick McKenzie], [Maciej Cegłowski], [Venkatesh Rao], [Paul Graham], [Cosma Shalizi], [Ben Thompson], [Matt Levine], [Byrne Hobart], [Alex Danco], [Sriram Krishnan] and [Devon Zuegel]. 
 
 [Github Pages]: https://pages.github.com/
 [Jekyll]: https://jekyllrb.com/

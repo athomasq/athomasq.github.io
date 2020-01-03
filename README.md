@@ -1,2 +1,2 @@
 # athomasq.github.io
- personal website using github pages
+personal website using github pages
