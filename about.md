@@ -35,7 +35,7 @@ The optimist (and trader) in me says that every inefficiency is an opportunity; 
 
 ## Contact
 
-If you're interested in any of the above topics or if you just want to chat, [email me]!   My approach to email is essentially the [same](https://www.kalzumeus.com/standing-invitation) as Patrick McKenzie's.
+If you're interested in any of the above topics or if you just want to chat, [email me]!   I enjoy getting email, and I try to read everything I receive, though I can't always promise a response.  My philosophy on email is essentially the [same](https://www.kalzumeus.com/standing-invitation) as Patrick McKenzie's.
 
 You can also reach me via [Twitter](https://twitter.com/athomasq) and [LinkedIn](https://www.linkedin.com/in/athomasq).
 
