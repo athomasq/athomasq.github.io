@@ -27,6 +27,8 @@ Note that most of these are relevant for early stage founders, ie, from zero til
 
 Note also that much of this material is a few years old.  The best current wisdom is to be found on Twitter and Substack; it hasn't yet been collected into books or blog posts.  
 
+A final vital piece of advice: *think for yourself*.  You can't build a startup the way you build a piece of IKEA furniture, by following instructions.  Reading all these articles is just table stakes; the necessary context and framework and background required for you to make smart, contrarian, correct decisions.  But only you can make those decisions.
+
 I welcome recommendations for new articles to add to this list -- please [email me](mailto:athos1@gmail.com) your suggestions!  
 
 
