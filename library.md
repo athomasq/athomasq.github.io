@@ -149,6 +149,7 @@ What can I say about GEB that hasn't been said by a thousand geeks before me?  N
 - **Asimov's Guide to Science**, Isaac Asimov
 - **Einstein**, Walter Isaacson
 - **Apollo 13**, Jim Lovell & Jeffrey Kluger
+- **Chasing the Sun**, Richard Cohen
 
 [Back to Top ↩](/library#my-library)
 
@@ -992,6 +993,9 @@ I have a minor obsession with collecting travel books. I doubt I'll visit all or
 - **Footsteps**, Richard Holmes
 - **Maiden Voyages**, Mary Morris
 - **Around India in 80 Trains**, Monisha Rajesh
+- **Walking the Woods and the Water**, Nick Hunt
+- **Our Towns**, James Fallows and Deborah Fallows
+- **Sibir**, Farley Mowat
 
 [Back to Top ↩](/library#my-library)
 
