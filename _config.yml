@@ -1,3 +1,5 @@
 name: Abraham Thomas
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+description: Personal Website · Abraham Thomas
+url: https://abrahamthomas.info
