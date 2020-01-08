@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Looking Back, Looking Forward
+title: Looking Back, Looking Forward
 ---
 
 *It's a good time of year for retrospectives; here's mine.*
