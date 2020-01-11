@@ -48,7 +48,7 @@ Let's start with the classics.  You can't be part of the tech ecosystem without 
 
 These 5 writers are essential to understanding the modern era of tech (2009 to 2019: Uber's founding to WeWork's non-IPO).  You can find all of them in this [excellent series of videos](http://startupclass.samaltman.com/lists/about/) with accompanying notes and resources.
 
-[Back to Top ↩](/resources#Resources-for-Startup-Founders)
+[Back to Top ↩](/resources#resources-for-startup-founders)
 
 <br/>  
 
@@ -80,7 +80,7 @@ How do you find a good idea?  How do you find a problem worth solving?
 
 - More ideas on ideas: look for [hobbies](https://cdixon.org/2013/03/02/what-the-smartest-people-do-on-the-weekend-is-what-everyone-else-will-do-during-the-week-in-ten-years); look for [narrative violations](http://www.bedrockcap.com/letter); look for [secrets](https://blakemasters.com/post/22866240816/peter-thiels-cs183-startup-class-11-notes).
 
-[Back to Top ↩](/resources#Resources-for-Startup-Founders)
+[Back to Top ↩](/resources#resources-for-startup-founders)
 
 <br/>  
 
@@ -112,7 +112,7 @@ In the later stages of a startup, it's exactly the opposite.  There is a well-es
 
 - Tren Griffin [summarizes](https://25iq.com/2014/05/17/a-dozen-things-ive-learned-about-marketing-distribution-and-sales/) wisdom on distribution from Thiel, Bezos, Ellison and Andreessen; Dan Kaplan [does the same](https://techcrunch.com/2014/03/22/the-real-engines-of-growth-on-the-internet/) for Chudnovsky, Elman, Johns and Chen.
 
-[Back to Top ↩](/resources#Resources-for-Startup-Founders)
+[Back to Top ↩](/resources#resources-for-startup-founders)
 
 <br/>  
 
@@ -136,7 +136,7 @@ In the later stages of a startup, it's exactly the opposite.  There is a well-es
 
 - Finally, metrics matter for fund-raising.  A16z defines some of the most commonly used (and asked for) [startup](https://a16z.com/2015/08/21/16-metrics/) [metrics](https://a16z.com/2015/09/23/16-more-metrics/).  Gigi Levy-Weiss explains how VCs use these metrics to construct their [investment narrative](https://www.nfx.com/post/how-vcs-see-your-kpis).  
 
-[Back to Top ↩](/resources#Resources-for-Startup-Founders)
+[Back to Top ↩](/resources#resources-for-startup-founders)
 
 <br/>  
 
