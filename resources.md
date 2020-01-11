@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Startups · Abraham Thomas
+title: Resources · Abraham Thomas
 ---
 
 ## Resources for Startup Founders
