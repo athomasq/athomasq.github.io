@@ -7,7 +7,7 @@ Magic happens at the intersection of competences.  I have three: markets, techno
 
 ## Markets
 
-Straight out of university, I spent a decade (1998-2007) at Simplex Asset Management, a hedge fund spun out of the legendary [Salomon Brothers arbitrage desk](https://en.wikipedia.org/wiki/Liar%27s_Poker).  I was a programmer, quant analyst, bond trader, and the youngest ever portfolio manager at Simplex; while there, I built one of the industry's first automated ("high-frequency") trading systems for bond arbitrage.  Thanks to this experience, I have expert-level knowledge of capital markets, quantitative finance and hedge fund strategies.
+Straight out of university, I spent a decade at Simplex Asset Management, a hedge fund spun out of the legendary [Salomon Brothers arbitrage desk](https://en.wikipedia.org/wiki/Liar%27s_Poker).  I was a programmer, quant analyst, bond trader, and the youngest ever portfolio manager at Simplex; while there, I built one of the industry's first automated ("high-frequency") trading systems for bond arbitrage.  Thanks to this experience, I have expert-level knowledge of capital markets, quantitative finance and hedge fund strategies.
 
 ## Technology
 
