@@ -31,7 +31,7 @@ If you're interested in these topics, please follow me on [Twitter](https://twit
 
 You can also [email me].  I enjoy getting email, and I try to read everything I receive, though I can't always promise a response.  My philosophy here is essentially the [same](https://www.kalzumeus.com/standing-invitation) as Patrick McKenzie's.
 
-If you're a hedge fund looking for valuable data, if you have data that you want to find value in, or if you're a venture capitalist interested in data businesses, [email me].
+If you're a hedge fund looking for data, if you have data that you want to find value in, or if you're a venture capitalist interested in data businesses, [email me].
 
 I very occasionally invest small amounts in early-stage startups, especially when they intersect with the themes above.  If you're a startup founder looking for either advice or investment, [email me].
 
