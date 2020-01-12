@@ -82,3 +82,25 @@ th, td {
   border-bottom: 1px solid #eee;
   width: 500px;
 }
+
+.footer {
+  font-size: 15px;
+  line-height: 2.0;
+  width: auto;
+  overflow: hidden;
+}
+
+.footer .prev {
+  display: block;
+  width: 50%;
+  float: left;
+  text-align: left;
+}
+
+.footer .next {
+  display: block;
+  width: 50%;
+  float: right;
+  text-align: right;
+}
+

@@ -147,7 +147,7 @@ In the later stages of a startup, it's exactly the opposite.  There is a well-es
 
 <img src="/assets/img/south-park-bro-down.jpeg" alt="Startups" class="image">
 
-*The only startup advice you'll ever need*.
+<center><i>The only startup advice you'll ever need.</i></center>
 
 
 

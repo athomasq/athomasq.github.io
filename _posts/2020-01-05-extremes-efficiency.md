@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Two Extremes of Efficiency
+thread: https://twitter.com/athomasq/status/1214691372227280896
 ---
 
 There are two extremes of market efficiency that are bad for active investors.  

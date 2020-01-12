@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Failure Modes
+thread: https://twitter.com/athomasq/status/1215685984685383681
 ---
 
 Every function has its own failure mode.
@@ -36,5 +37,3 @@ This is also why startups win and big companies lose.  At bigcos, vision is ofte
 The failure mode of leadership is isolation: not communicating the vision, and then repeating it, again and again and again.  You can never spend enough time sharing the big picture with your team.  It's good for strategy, it's good for execution, it's good for morale, it's good for recruiting; it's good, period.  Yes, it takes time, and yes, it can feel repetitive, but it's time well spent.
 
 The failure mode of leadership is allowing these other failure modes to occur. 
-
-*To comment on this post, visit the accompanying [Twitter thread](https://twitter.com/athomasq/status/1215685984685383681).*
