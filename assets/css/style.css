@@ -85,21 +85,6 @@ th, td {
 
 .footer {
   font-size: 15px;
-  line-height: 2.0;
-  overflow: hidden;
-}
-
-.footer .prev {
-  display: block;
-  width: 50%;
-  float: left;
-  text-align: left;
-}
-
-.footer .next {
-  display: block;
-  width: 50%;
-  float: right;
-  text-align: right;
+  line-height: 1.5;
 }
 

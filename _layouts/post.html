@@ -10,15 +10,14 @@ layout: default
 <hr/>
 <div class="footer">
 	<i>{{ page.date | date_to_string }}</i><br/>
-<!--
 	{% if page.thread %}
-		<i>To comment on this post, visit the accompanying <a href="{{ page.thread }}" target="_blank">thread</a> on Twitter.</i>
+		<i>To comment on this post, visit the accompanying <a href="{{ page.thread }}" target="_blank">thread</a> on Twitter.</i><br/>
 	{% endif %}
--->
 	{% if page.previous.url %}
-		<a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
+		<a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a><br/>
 	{% endif %}
 	{% if page.next.url %}
-		<a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
+		&emsp;&emsp;&emsp;<a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a><br/>
 	{% endif %}
+	<br/>
 </div>
