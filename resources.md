@@ -16,7 +16,8 @@ Unfortunately, all good things come to an end.  The very success of this content
 When quantity increases and quality is variable, curation becomes valuable.  So I thought I'd post links to some of the resources that I found most useful in my own journey.  I've organized them by theme:
 
 - [Oracles](/resources#oracles): the voices that define this era of tech entrepreneurship
-- [Ideas](/resources#ideas): find something worth doing
+- [Ideas](/resources#ideas): find something worth building
+- [Product](/resources#product): build it right
 - [Growth](/resources#growth): get noticed by the world
 - [Metrics](/resources#metrics): measure what matters; make your measurements matter
 - (More sections to be added over time)
@@ -78,7 +79,30 @@ How do you find a good idea?  How do you find a problem worth solving?
 
 - A good summary of all these themes and more can be found in this [conversation](https://greatness.floodgate.com/episodes/andy-rachleff-on-how-to-know-if-youve-got-product-market-fit/transcript) between Andy Rachleff and Mike Maples jr.
 
-- More ideas on ideas: look for [hobbies](https://cdixon.org/2013/03/02/what-the-smartest-people-do-on-the-weekend-is-what-everyone-else-will-do-during-the-week-in-ten-years); look for [narrative violations](http://www.bedrockcap.com/letter); look for [secrets](https://blakemasters.com/post/22866240816/peter-thiels-cs183-startup-class-11-notes).
+- More ideas on ideas: look for [hobbies](https://cdixon.org/2013/03/02/what-the-smartest-people-do-on-the-weekend-is-what-everyone-else-will-do-during-the-week-in-ten-years); look for [narrative violations](http://www.bedrockcap.com/letter); look for [secrets](https://blakemasters.com/post/22866240816/peter-thiels-cs183-startup-class-11-notes); navigate the [idea maze](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture5-market-wireframing-design.pdf).
+
+[Back to Top ↩](/resources#resources-for-startup-founders)
+
+<br/>  
+
+-----
+
+<br/>  
+
+## Product
+
+Once you have an idea, the next step is to build a *product*: in its broadest sense, a way to meet your users' needs.  This could be a piece of software, a system or process, a venue, a tool, a resource, or something else; the key is that it solves a problem, and is hence [something people want](http://www.paulgraham.com/good.html).  
+
+Building and delivering the *right* product, efficiently and effectively, tying together the needs of different "stakeholders" (company, customers, investors, counterparties, engineering, sales, marketing, customer success, design and more) is [what product managers do](https://medium.com/@tworetzky/what-does-a-product-manager-do-205b40d82da3).  Here are some product management resources I've found useful over the years:
+
+- A step-by-step [guide to product development](https://www.fastcompany.com/3015920/unblocked-a-guide-to-making-things-people-love-part-1), in 7 fantastically detailed parts.
+
+- A few ways to set product strategy: via [board meetings for product](https://medium.com/speroventures/how-to-run-a-quarterly-product-strategy-meeting-a-board-meeting-for-product-3a14c4d53d1b), using [KPI trees](https://medium.com/@ilnem/growing-product-with-kpi-trees-34d91f49671b), and through [experiments](https://twitter.com/far33d/status/1090400414225190912) of varying scope.
+
+- Hiring your [first product manager](https://blog.learningbyshipping.com/2015/04/07/hiring-your-first-product-manager/), and building a [product management organization](https://stripe.com/en-ca/atlas/guides/building-a-great-pm-org).
+
+- Tools for quick wins: creating [effective customer surveys](https://stripe.com/en-ca/atlas/guides/survey-design-principles); unblocking [high-intent users](https://twitter.com/andrewchen/status/992114899991060481), and starting with [self-serve](https://medium.com/@gokulrajaram/self-serve-first-the-overlooked-but-essential-paradigm-underlying-great-software-companies-45a67dbec4c4).
+
 
 [Back to Top ↩](/resources#resources-for-startup-founders)
 
@@ -132,9 +156,10 @@ In the later stages of a startup, it's exactly the opposite.  There is a well-es
 
 - Real life is more complicated than simple models suggest.  For example, if you push one metric up, it often pulls another one down.  Don't blindly optimize; be thoughtful in how you use metrics and analytics, [advises Bill Gurley](http://abovethecrowd.com/2012/09/04/the-dangerous-seduction-of-the-lifetime-value-ltv-formula/).
 
-- A question that's always asked is, how good are my metrics?  Is my growth strong enough?  Some high-level attempts at an answer include: the [T2D3 Rule](https://www.battery.com/powered/helping-entrepreneurs-triple-triple-double-double-double-to-a-billion-dollar-company/), the [Quick > 4](https://www.slideshare.net/03133938319/saastr) [Rule](https://www.slideshare.net/03133938319/numbers-that-actually-matter-finding-your-north-star), the [Mendoza Line](https://www.scalevp.com/blog/understanding-the-mendoza-line-for-saas-growth), and the [Rule of 40](https://feld.com/archives/2015/02/rule-40-healthy-saas-company.html).
+- A question that's always asked is, how good are my metrics?  Is my growth strong enough?  Some high-level attempts at an answer include: the [T2D3 Rule](https://www.battery.com/powered/helping-entrepreneurs-triple-triple-double-double-double-to-a-billion-dollar-company/), the [Quick > 4](https://www.slideshare.net/03133938319/saastr) [Rule](https://www.slideshare.net/03133938319/numbers-that-actually-matter-finding-your-north-star), the [Mendoza Line](https://www.scalevp.com/blog/understanding-the-mendoza-line-for-saas-growth), and the [Rule](https://feld.com/archives/2015/02/rule-40-healthy-saas-company.html) of [40](https://medium.com/@speechu/re-imagining-the-rule-of-40-for-early-stage-startups-the-70-growth-efficiency-heuristic-9cca0131b0c5).
 
 - Finally, metrics matter for fund-raising.  A16z defines some of the most commonly used (and asked for) [startup](https://a16z.com/2015/08/21/16-metrics/) [metrics](https://a16z.com/2015/09/23/16-more-metrics/).  Gigi Levy-Weiss explains how VCs use these metrics to construct their [investment narrative](https://www.nfx.com/post/how-vcs-see-your-kpis).  
+
 
 [Back to Top ↩](/resources#resources-for-startup-founders)
 
