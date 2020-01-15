@@ -62,7 +62,7 @@ You can see similar patterns emerging in every vertical.  Stripe is an API for o
 
 In each case, businesses (software firms, investment managers, importers) interact with other businesses (customers, data vendors, exporters) via API instead of via older and less efficient methods (invoices, terminals, freight forwarders).  **APIs are eating the (B2B) world.**
 
-There are even meta-API companies emerging!  Zapier and Airflow help chain APIs together.  Postman and Kong help developers use APIs more effectively.  A big part of Slack's appeal is the way its webhooks make APIs accessible to humans.  
+There are even meta-API companies emerging!  Zapier and Airflow help chain APIs together.  Postman and Kong help developers use APIs more effectively.  (A previous generation included Apigee and Mulesoft).  A big part of Slack's appeal is the way its webhooks make APIs accessible to humans.  
 
 <br/>
 
