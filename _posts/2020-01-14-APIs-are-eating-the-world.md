@@ -11,7 +11,7 @@ title: APIs Are Eating the World
 
 ### The API-First Business
 
-One of the most influential strategic moves in tech history was Jeff Bezos' API mandate at Amazon: 
+One of the most influential strategic moves in tech history was Jeff Bezos' API memo at Amazon.  Bezos wrote:: 
 
 - All teams will henceforth expose their data and functionality through service interfaces.
 - Teams must communicate with each other through these interfaces.
