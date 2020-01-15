@@ -1,6 +1,7 @@
 ---
 layout: post
 title: APIs Are Eating the World
+thread: https://twitter.com/athomasq/status/1217269852014096385
 ---
 
 *Visa is [buying Plaid](https://techcrunch.com/2020/01/13/visa-is-acquiring-plaid-for-5-3-billion-2x-its-final-private-valuation/) for $5.3 billion.  The [hottest startup in Silicon Valley](https://stripe.com/) is an API company.  Accel recently hosted a [conference](https://techcrunch.com/2019/09/06/apis-are-the-next-big-saas-wave/) devoted solely to API firms.  What's going on?*
@@ -11,7 +12,7 @@ title: APIs Are Eating the World
 
 ### The API-First Business
 
-One of the most influential strategic moves in tech history was Jeff Bezos' API memo at Amazon.  Bezos wrote:: 
+One of the most influential strategic moves in tech history was Jeff Bezos' API memo at Amazon.  Bezos wrote: 
 
 - All teams will henceforth expose their data and functionality through service interfaces.
 - Teams must communicate with each other through these interfaces.
