@@ -5,15 +5,11 @@ title: Resources · Abraham Thomas
 
 ## Resources for Startup Founders
 
-I was a first-time founder; so was my partner Tammer.  While we're both engineers, neither of us had ever worked in technology firms, or startups, or in Silicon Valley.  We built Quandl largely to scratch our own itch; through hard work and good luck we succeeded.
+<br/>  
 
-What strikes me looking back is how little we knew about building technology startups, and how much we learned along the way.  In this, we were aided immeasurably by the enormous amount of high-quality startup advice available -- for free! -- on the internet.  Back in the early 2010s, VCs were just discovering the power of content marketing to attract talented founders (VC is a dealflow business!), and they competed with each other to share their secrets with the world.  
+There's a lot of startup advice out there.  **Much of it is useless**. 
 
-Unfortunately, all good things come to an end.  The very success of this content marketing strategy attracted more content creators, and the average quality of startup advice online declined rapidly over the second half of the decade.  **Much of what's out there today is either unusable, or redundant, or just plain wrong.**
-
-----
-
-When quantity increases and quality is variable, curation becomes valuable.  So I thought I'd post links to some of the resources that I found most useful in my own journey.  I've organized them by theme:
+When quantity increases and quality declines, curation becomes valuable [1].  So I've put together some of the resources that I found most useful in my own journey [2].  I've organized them by theme:
 
 - [Oracles](/resources#oracles): the voices that define this era of tech
 - [Ideas](/resources#ideas): find something worth building
@@ -21,17 +17,11 @@ When quantity increases and quality is variable, curation becomes valuable.  So 
 - [Growth](/resources#growth): get noticed by the world
 - [Metrics](/resources#metrics): measure what matters
 - (More sections to be added over time)
+- [Comments](/resources#comments): caveats and nuances
 
-There is a lot of material here, and for that I make no excuses.  **If you're serious about building a startup, you have to put in the work.**  I know of no successful founders who are not also learning machines.  And if you can benefit from other people's wisdom (instead of learning yourself by trial and error or deducing everything from first principles), why wouldn't you? 
+There is a lot of material here, and for that I make no excuses.  **If you're serious about building a startup, you have to put in the work.**  I know of no successful founders who are not also learning machines [3].
 
-Note that most of these are relevant for early stage founders, ie, from zero till about Series B -- after that, founders typically have access to far better and more focused sources of expertise than articles on the internet, no matter how insightful.  
-
-Note also that much of this material is a few years old.  The best current wisdom is to be found on Twitter and Substack; it hasn't yet been collected into books or blog posts.  
-
-A final vital piece of advice: **think for yourself**.  You can't build a startup the way you build a piece of IKEA furniture, by following instructions.  Reading all these articles is just table stakes; the necessary context and framework and background required for you to make smart, contrarian, correct decisions.  But only you can make those decisions.
-
-I welcome recommendations for new articles to add to this list -- please [email me](mailto:athos1@gmail.com) your suggestions!  
-
+<br/>  
 
 -----
 
@@ -160,7 +150,6 @@ In the later stages of a startup, it's exactly the opposite.  There is a well-es
 
 - Finally, metrics matter for fund-raising.  A16z defines some of the most commonly used (and asked for) [startup](https://a16z.com/2015/08/21/16-metrics/) [metrics](https://a16z.com/2015/09/23/16-more-metrics/).  Gigi Levy-Weiss explains how VCs use these metrics to construct their [investment narrative](https://www.nfx.com/post/how-vcs-see-your-kpis).  
 
-
 [Back to Top ↩](/resources#resources-for-startup-founders)
 
 <br/>  
@@ -169,17 +158,42 @@ In the later stages of a startup, it's exactly the opposite.  There is a well-es
 
 <br/>
 
+## Comments
+
+Most of these articles are relevant for early stage founders, ie, from zero till about Series B.  After that, founders typically have access to far better and more focused sources of expertise than articles on the internet, no matter how insightful.  
+
+This material is a few years old.  The best current wisdom is to be found in operational docs (decks & memos) or on Twitter; it hasn't yet been collected into books or blog posts.  
+
+I welcome recommendations for new articles to add to this list -- please [email me](mailto:athos1@gmail.com) your suggestions!  
+
+A final vital piece of advice: **think for yourself**.  You can't build a startup the way you build a piece of IKEA furniture, by following instructions.  Reading all these articles is just table stakes; the necessary context and framework and background required for you to make smart, contrarian, correct decisions.  But only you can make those decisions.
+
+[Back to Top ↩](/resources#resources-for-startup-founders)
+
+-----
+
+<br/>  
+
+## Footnotes
+
+**[1]** Why this decline in quality and increase in quantity?  
+
+Back in the early 2010s, a number of VCs discovered the power of blogging to attract talented founders **[1a]**, and they competed with each other to share their secrets with the world.  It was a golden age.
+
+Unfortunately, the very success of this content marketing strategy attracted more creators.  Not everybody has great insights to share, and the competition for eyeballs is fierce, so the content on offer rapidly devolved into platitudes or click-bait.  The median "how to startup" article published today is pretty terrible.
+
+**[1a]** Good content boosts your profile as an investor; it attracts the kinds of founders you want to invest in; and it makes them more likely to pick you as their partner.  VC is a business with funnels and conversion rates just like any other! 
+
+**[2]** I was a first-time founder; so was my partner Tammer.  While we're both engineers, neither of us had ever worked in technology firms, or startups, or in Silicon Valley, prior to starting Quandl.  What strikes me looking back is how little we knew, and how much we learned along the way.  
+
+**[3]** If you can benefit from other people's wisdom (instead of learning yourself by trial and error or deducing everything from first principles), why wouldn't you? 
+
+[Back to Top ↩](/resources#resources-for-startup-founders)
+
+<br/>  
 
 <img src="/assets/img/south-park-bro-down.jpeg" alt="Startups" class="image">
 
 <center><i>The only startup advice you'll ever need.</i></center>
 
-
-
-
-
-
-
-
-
-
+<br/>  

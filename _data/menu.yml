@@ -1,10 +1,12 @@
-- name: Home
-  link: /
 - name: About
   link: /about.html
 - name: Blog
   link: /blog.html
+- name: Interests
+  link: /interests.html
 - name: Library
   link: /library.html
 - name: Resources
   link: /resources.html
+- name: Credits
+  link: /credits.html
