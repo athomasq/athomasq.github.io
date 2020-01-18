@@ -49,7 +49,7 @@ Plaid is a great example of this paradigm in action.
 
 Plaid is a channel for fintech startups (and ultimately, retail customers) to talk to banks and bank accounts.  The Plaid API is eating the physical bank branch: it replaces bank tellers and request forms and check deposit slips and ATMs and customer support phone lines and dozens of other in-person interactions with software calls.
 
-In this setup, fintech apps are the user interface, offering all sorts of behaviour and functionality (track your spending!  save automatically!  trade stocks!), while banks are the underlying database, actually storing and moving the money.  And Plaid is the glue connecting these layers.
+In this setup, fintech apps are the user interface, offering all sorts of behaviour and functionality (save money! track spending! trade stocks!), while banks are the underlying regulated entity, actually storing and moving the funds.  And Plaid is the glue connecting these layers.
 
 This is powerful, because (early to mid-stage) fintechs don't necessarily want to be banks, while banks aren't necessarily good at offering the products and services that customers want.  Plaid allows each side to focus on what they're good at, while embedding themselves into the heart of each interaction.  I'd say Visa got a bargain with their acquisition.
 
@@ -61,7 +61,7 @@ Uber may have started out as a taxi substitute, but the company is increasingly 
 
 You can see similar patterns emerging in every vertical.  Stripe is an API for online payments.  Quandl is an API for financial data.  Flexport is an API for international trade.  
 
-In each case, businesses (software firms, investment managers, importers) interact with other businesses (customers, data vendors, exporters) via API instead of via older and less efficient methods (invoices, terminals, freight forwarders).  **APIs are eating the (B2B) world.**
+In each case, businesses (sellers, investors, importers) interact with other businesses (buyers, data sources, exporters) via API instead of via older and less efficient methods (invoices, terminals, freight forwarders).  **APIs are eating the (B2B) world.**
 
 There are even meta-API companies emerging!  Zapier and Airflow help chain APIs together.  Postman and Kong help developers use APIs more effectively.  (A previous generation included Apigee and Mulesoft).  A big part of Slack's appeal is the way its webhooks make APIs accessible to humans.  
 
