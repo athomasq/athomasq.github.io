@@ -35,3 +35,4 @@ If you're a hedge fund looking for data, if you have data that you want to find 
 
 I very occasionally invest small amounts in early-stage startups, especially when they intersect with the themes above.  If you're a startup founder looking for either advice or investment, [email me].
 
+[email me]: mailto:athos1@gmail.com
