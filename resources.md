@@ -57,9 +57,9 @@ How do you find a good idea?  How do you find a problem worth solving?
 
 - How do you know when people want the thing you've made?  Marc Andreessen popularized the phrase "[product-market fit](https://pmarchive.com/guide_to_startups_part4.html)" to describe this magical stage in a startup's life. 
 
-- Two sidebars to that are that you should make something *you* want to make (aka commitment) and that you should make something you know *how* to make (aka founder-market fit).
+- Two sidebars to that are that you should make something you *want* to make (aka commitment) and that you should make something you know *how* to make (aka founder-market fit).
 
-- One way to accomplish all these goals is to "scratch your own itch" -- solve a problem that you've previously faced.  That way you know it's a real problem, you know you want to solve it, and you have some ideas on how.  This is how [Quandl got started](/about#technology).
+- One way to accomplish all these goals is to "scratch your own itch" -- solve a problem that you've previously faced.  That way you know it's a real problem, you know you want to solve it, and you have some ideas on how.  This is how [Quandl got started](/interests#technology).
 
 - Sometimes you need to experiment a bit to learn exactly what resonates.  First Round Review's [interview with Payak Kadakia](https://firstround.com/review/classpass-founder-on-how-marketplace-startups-can-achieve-product-market-fit/) of ClassPass describes this process.
 
