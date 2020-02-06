@@ -78,11 +78,11 @@ ICE also has a reputation for being excellent operators of the businesses they a
 
 Let's look more closely at eBay.  It has the reputation of a company and a business that's past its prime.  There's $3B of earnings, but GMV in the core marketplace is actually declining; as a result the forward P/E ratio is just 11, leading to a market cap of $30B.  
 
-Contrast ICE which has a very similar $3.2B of earnings, but trades (pre-WSJ story) at a forward P/E ratio of 24, leading to a market cap of $57B.  And ICE does this with just 5,000 employees, less than half of eBay's 11,000.
+Contrast ICE which has a very similar $3.2B of earnings, but trades (pre-WSJ story) at a forward P/E ratio of 24, leading to a market cap of $57B.  And ICE does this with just 5,000 employees, less than half of eBay's 14,000.
 
 *Here's the trade.  If ICE buys eBay and even a little bit of their magic rubs off on them, then eBay's earnings will be given a higher multiple by the market.  And that difference will be enough to pay for the acquisition premium!*
 
-Let's put some numbers on that.  An increase in eBay's P/E ratio from 11 to 13 -- well short of ICE's 24 -- would result in an extra $6B in market cap.  That's easily enough to cover the $2B that ICE is supposedly bidding above eBay's current price.  It all depends on whether the market believes that ICE can unlock value from eBay -- whether through data, or distribution, or just better execution.
+Let's put some numbers on that.  An increase in eBay's P/E ratio from 11 to 13 -- well short of ICE's 24 -- would result in an extra $6B in market cap.  That's easily enough to cover the $2B that ICE is supposedly bidding above eBay's current price.  It all depends on whether the market believes that ICE can unlock value from eBay -- whether through data, or distribution, or just good old fashioned discipline.
 
 <br/>
 
