@@ -102,7 +102,7 @@ Also worth noting here is that ICE generated $1.7B of free cash flow in the firs
 
 (None of this is particularly original; indeed it's M&A 101.  For more on this, I recommend [The Outsiders](https://www.amazon.com/Outsiders-Unconventional-Radically-Rational-Blueprint/dp/1422162672) by William Thorndike, about Harry Singleton of Teledyne and other "asset allocator" CEOs.  The key message: if you can buy another company's cheap stock using your own expensive stock, that's almost always a good trade.)
 
-So now the eBay bid can be seen in a different light.  The question is not "does this acquisition make sense in an absolute sense?".  The question is "what's the lowest multiple company we can buy that is plausibly adjacent to our own business and where we have some potential opportunities for value creation".  And eBay ticks that box.  If it works, it'll be Sprecher's boldest move by far, and perhaps his most brilliant.
+So now the eBay bid can be seen in a different light.  The question is not "does this acquisition make inherent sense?".  The question is "what's the lowest multiple company we can buy that is plausibly adjacent to our own business and where we have some potential opportunities for value creation?".  And eBay ticks that box.  If it works, it'll be Sprecher's boldest move by far, and perhaps his most brilliant.
 
 <br/>
 
