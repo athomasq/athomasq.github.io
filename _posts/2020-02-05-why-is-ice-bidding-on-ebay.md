@@ -76,9 +76,9 @@ The first thing to understand is that ICE is a famously acquisitive company.  Th
 
 ICE also has a reputation for being excellent operators of the businesses they acquire: cutting costs, boosting growth, and finding opportunities to cross-sell and up-sell, all of which lead to consistent EPS growth and cash returned to shareholders.  (The IDC example from above showcases all of these).  Markets reward this operational excellence with a high multiple on ICE's earnings -- and Sprecher uses this high multiple as ammunition for his bids.
 
-Let's look more closely at eBay.  It has the reputation of a company and a business that's past its prime.  There's $3B of earnings, but GMV in the core marketplace is actually declining; as a result the forward P/E ratio is just 11, leading to a market cap of $30B.
+Let's look more closely at eBay.  It has the reputation of a company and a business that's past its prime.  There's $3B of earnings, but GMV in the core marketplace is actually declining; as a result the forward P/E ratio is just 11, leading to a market cap of $30B.  
 
-Contrast ICE which has a very similar $3.2B of earnings, but trades (pre-WSJ story) at a forward P/E ratio of 24, leading to a market cap of $57B.
+Contrast ICE which has a very similar $3.2B of earnings, but trades (pre-WSJ story) at a forward P/E ratio of 24, leading to a market cap of $57B.  And ICE does this with just 5,000 employees, less than half of eBay's 11,000.
 
 *Here's the trade.  If ICE buys eBay and even a little bit of their magic rubs off on them, then eBay's earnings will be given a higher multiple by the market.  And that difference will be enough to pay for the acquisition premium!*
 
