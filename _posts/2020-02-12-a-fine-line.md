@@ -25,7 +25,7 @@ Here's a hint.  **If it doesn't hurt, you're probably not doing it right.**
 
 <br/>
 
-### It don't mean a thing if it ain't got that sting
+### It Don't Mean A Thing If It Ain't Got That Sting
 
 Anybody can *say* they're contrarian.  Especially if it makes you look smart -- which, on Wall Street and in Silicon Valley these days, it does.  
 
@@ -37,7 +37,7 @@ The reaction should not be "Ooh, that's pretty clever! That sounds reasonable.  
 
 <br/>
 
-### Bad ideas are the best ideas
+### Bad Ideas are the Best Ideas
 
 Building a new search engine in 2008?  Good luck with that.  Blogging with a 140-character limit?  That makes absolutely no sense.  Disappearing text messages?  What a stupid idea.  Staying in stranger's homes and riding in strangers' cars?  That'll never work.  Challenging Amazon in e-commerce?  Ha ha, don't make me laugh.
 
@@ -47,7 +47,7 @@ Of course with the benefit of hindsight all these ideas look brilliant.  Reams o
 
 <br/>
 
-### Do what the dumb money does
+### Do What the Dumb Money Does
 
 Switching gears from startups to finance, I love this [quote](https://thereformedbroker.com/2019/08/09/when-everything-that-counts-cant-be-counted-2/) from Joshua Brown:
 
