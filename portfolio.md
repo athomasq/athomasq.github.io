@@ -15,7 +15,7 @@ Here is my portfolio as of December 2019:
 
 - [Locus](https://locus.sh/): logistics intelligence (Series B - Tiger Global, Falcon Edge)
 - [Vue](https://vue.ai/): computer vision for commerce (Series A - Sequoia)
-- [Doxper](http://doxper.com/): smart tools for physicians (Series - by Alkemi)
+- [Doxper](http://doxper.com/): smart tools for physicians (Series - Alkemi)
 - [i2e1](https://i2e1.com/): internet for everyone, everywhere (Series A - Omidyar)  
 - [Wellthy](https://wellthytherapeutics.com/): controlling diabetes (Series A - Cipla)  
 - [AdSparx](https://www.adsparx.com/): online video infrastructure (profitable)  
