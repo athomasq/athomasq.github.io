@@ -17,6 +17,7 @@ To make it easier to browse, I've split this page by category:
 - [Essays, Memoirs & Journalism](/library#essays-memoirs--journalism)
 - [Language & Music](/library#language--music)
 - [Travel, Adventure & Exploration](/library#travel-adventure--exploration)
+- [Literary Fiction](/library#literary-fiction)
 
 Books in **green**{: style="color: green"} are very good and recommended.  Books in **red**{: style="color: red"} are life-changing: I saw the world differently after reading them.  
 
@@ -434,6 +435,7 @@ What can I say about GEB that hasn't been said by a thousand geeks before me?  N
 - **History of Western Philosophy**, Bertrand Russell
 - **The Inner Game of Tennis**{: style="color: green"}, Timothy Gallwey
 - **Orientalism**, Edward Said
+- **An African in Greenland**, Tété-Michel Kpomassie
 
 [Back to Top ↩](/library#my-library)
 
@@ -1009,4 +1011,143 @@ I have a minor obsession with collecting travel books. I doubt I'll visit all or
 -----
 
 <br/>
-As of January 2020, I've catalogued 5 of 30 bookshelves in my house.
+
+### Literary Fiction
+- **Things Fall Apart**, Chinua Achebe
+- **No Longer At Ease**, Chinua Achebe
+- **Arrow of God**, Chinua Achebe
+- **Hawksmoor**, Peter Ackroyd
+- **Milton in America**, Peter Ackroyd
+- **The Handmaid's Tale**, Margaret Atwood
+- **Alias Grace**, Margaret Atwood
+- **The Blind Assassin**, Margaret Atwood
+- **The Enchanted April**, Elizabeth von Arnim
+- **Dear Illusion: Collected Stories**, Kingsley Amis
+- **The Human Comedy: Selected Stories**, Honoré de Balzac
+- **The Untouchable**, John Banville
+- **Doctor Copernicus**, John Banville
+- **Kepler**, John Banville
+- **The Newton Letter**, John Banville
+- **Athena**, John Banville
+- **The Book of Evidence**, John Banville
+- **Ghosts**, John Banville
+- **Nothing To Be Frightened Of**, Julian Barnes
+- **A History of the World in 10 1/2 Chapters**, Julian Barnes
+- **Talking It Over**, Julian Barnes
+- **England, England**, Julian Barnes
+- **Flaubert's Parrot**, Julian Barnes
+- **The Porcupine**, Julian Barnes
+- **The Sense of an Ending**, Julian Barnes
+- **Before She Met Me**, Julian Barnes
+- **Midnight in the Garden of Good and Evil**, John Berendt
+- **2666**, Roberto Bolaño
+- **The Savage Detectives**, Roberto Bolaño
+- **Collected Fictions**, Jorge Luis Borges
+- **Collected Non-Fiction 1923-1986**, Jorge Luis Borges
+- **The Regeneration Trilogy**, Pat Barker
+- **The Sad Tale of the Brothers Grossbart**, Jesse Bullington
+- **Seven Men**, Max Beerbohm
+- **The Long Ships**, Frans G. Bengtsson
+- **The Master and Margarita**, Mikhail Bulgakov
+- **Q**, Luther Blissett
+- **Das Boot**, Lothar-Gunther Buchheim
+- **The Mortdecai Trilogy**, Kyril Bonfiglioli
+- **Naked Lunch**, William S. Burroughs
+- **Possession**, A. S. Byatt
+- **Ship Fever**, Andrea Barrett
+- **The Voyage of the Narwhal**, Andrea Barrett
+- **The Luminaries**, Eleanor Catton
+- **Invisible Cities**, Italo Calvino
+- **The Castle of Crossed Destinies**, Italo Calvino
+- **Our Ancestors**, Italo Calvino
+- **If on a winter's night a traveller**, Italo Calvino
+- **Under the Jaguar Sun**, Italo Calvino
+- **t zero**, Italo Calvino
+- **Cosmicomics**, Italo Calvino
+- **Numbers in the Dark**, Italo Calvino
+- **Difficult Loves**, Italo Calvino
+- **Why Read the Classics?**, Italo Calvino
+- **Italian Folktales**, Italo Calvino
+- **Fantastic Tales**, Italo Calvino
+- **The Yiddish Policemen's Union**, Michael Chabon
+- **The Final Solution**, Michael Chabon
+- **The Amazing Adventures of Kavalier & Clay**, Michael Chabon
+- **Gentlemen of the Road**, Michael Chabon
+- **In Cold Blood**, Truman Capote
+- **The Marriage of Cadmus and Harmony**, Roberto Calasso
+- **The Outsider**, Albert Camus
+- **The Shooting Party**, Anton Chekhov
+- **Heart of Darkness**, Joseph Conrad
+- **Ella Minnow Pea**, Mark Dunn
+- **The Diary of a Provincial Lady**, E. M. Delafield
+- **All the Light We Cannot See**, Anthony Doerr
+- **Ragtime**, E. L. Doctorow
+- **The Commitments**, Roddy Doyle
+- **The Snapper**, Roddy Doyle
+- **The Van**, Roddy Doyle
+- **The Guts**, Roddy Doyle
+- **The Deportees**, Roddy Doyle
+- **The Woman Who Walked Into Doors**, Roddy Doyle
+- **A Star Called Henry**, Roddy Doyle
+- **Paddy Clarke Ha Ha Ha**, Roddy Doyle
+- **The World As I Found It**, Bruce Duffy
+- **Kissing the Witch**, Emma Donoghue
+- **Faith in Fakes**, Umberto Eco
+- **Baudolino**, Umberto Eco
+- **The Prague Cemetery**, Umberto Eco
+- **The Name of the Rose**, Umberto Eco
+- **Foucault's Pendulum**, Umberto Eco
+- **The Island of the Day Before**, Umberto Eco
+- **Invisible Man**, Ralph Ellison
+- **Conversations with Beethoven**, Sanford Friedman
+- **Novels in Three Lines**, Felix Feneon
+- **The Story of the Lost Child**, Elena Ferrante
+- **Those Who Leave and Those Who Stay**, Elena Ferrante
+- **Alas, Babylon**, Pat Frank
+- **City of Dark Magic**, Magnus Flyte
+- **The Last King of Scotland**, Giles Foden
+- **The Siege of Krishnapur**, J. G. Farrell
+- **Go Down, Moses**, William Faulkner
+- **Absalom, Absalom**, William Faulkner
+- **The French Lieutenant's Woman**, John Fowles
+- **The Corrections**, Jonathan Frantzen
+- **Dead Souls**, Nikolai Gogol
+- **Cold Comfort Farm**, Stella Gibbons
+- **The Autumn of the Patriarch**, Gabriel Garcia Marquez
+- **One Hundred Years of Solitude**, Gabriel Garcia Marquez
+- **The General In His Labyrinth**, Gabriel Garcia Marquez
+- **Love in the Time of Cholera**, Gabriel Garcia Marquez
+- **Chronicle of a Death Foretold**, Gabriel Garcia Marquez
+- **Collected Stories**, Gabriel Garcia Marquez
+- **The Tin Drum**, Gunter Grass
+- **Children of the Days**, Eduardo Galeano
+- **A Civil Action**, Jonathan Harr
+- **A High Wind in Jamaica**, Richard Hughes
+- **In Hazard**, Richard Hughes
+- **The Wooden Shepherdess**, Richard Hughes
+- **Catch-22**, Joseph Heller
+- **Closing Time**, Joseph Heller
+- **A Farewell to Arms**, Ernest Hemingway
+- **The Sun Also Rises**, Ernest Hemingway
+- **For Whom the Bell Tolls**, Ernest Hemingway
+- **The Good Soldier Svejk**, Jaroslav Hasek
+- **The Curious Incident of the Dog in the Night Time**, Mark Haddon
+- **An Artist of the Floating World**, Kazuo Ishiguro
+- **Nocturnes**, Kazuo Ishiguro
+- **When We Were Orphans**, Kazuo Ishiguro
+- **The Buried Giant**, Kazuo Ishiguro
+- **The Remains of the Day**, Kazuo Ishiguro
+- **Tun-Huang**, Yasushi Inoue
+- **Ulysses**, James Joyce
+- **We, the Drowned**, Carsten Jensen
+- **Measuring the World**, Daniel Kehlmann
+
+[Back to Top ↩](/library#my-library)
+
+<br/>
+
+-----
+
+<br/>
+
+As of January 2020, I've catalogued 6 of 30 bookshelves in my house.
