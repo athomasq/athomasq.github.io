@@ -14,7 +14,7 @@ title: Essays · Abraham Thomas
 ### Data and APIs
 
 [APIs Are Eating the World](APIs-are-eating-the-world)  
-[Data-Driven Versus Data-Informed Decisions](data-driven-data-informed)
+[Data-Driven Versus Data-Informed](data-driven-data-informed)
 
 <br/>
 
