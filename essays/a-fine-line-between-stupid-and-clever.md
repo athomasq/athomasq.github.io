@@ -1,6 +1,8 @@
 ---
-layout: post
-title: A Fine Line
+layout: essay
+permalink: /:basename/
+title: A Fine Line Between Stupid and Clever
+date: 2020-02-12
 ---
 
 *Being contrarian should hurt.  Otherwise it's meaningless.*

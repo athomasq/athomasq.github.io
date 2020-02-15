@@ -5,6 +5,10 @@ title: Credits · Abraham Thomas
 
 ## Site Credits 
 
+----
+
+<br/>
+
 This website was created using [Github Pages] and [Jekyll].  The design is mostly from [Patrick Collison].  Other inspirations include [Patrick McKenzie], [Maciej Cegłowski], [Venkatesh Rao], [Paul Graham], [Cosma Shalizi], [Ben Thompson], [Matt Levine], [Byrne Hobart], [Alex Danco], [Sriram Krishnan] and [Devon Zuegel].  My thanks to all of them.
 
 [Github Pages]: https://pages.github.com/

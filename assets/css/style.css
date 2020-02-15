@@ -22,9 +22,6 @@ body {
   line-height: 1.5;
 }
 
-#menu li {
-}
-
 #menu li a {
   display: inline-block;
   color: #0864c7;
@@ -58,7 +55,11 @@ body {
 }
 
 #content li {
-  margin-bottom: 0.7em;
+  margin-bottom: 0.2em;
+}
+
+a:link {
+  text-decoration: none;
 }
 
 .post + .post {

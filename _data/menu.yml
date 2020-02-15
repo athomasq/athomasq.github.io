@@ -1,7 +1,7 @@
 - name: About
   link: /about.html
-- name: Blog
-  link: /blog.html
+- name: Essays
+  link: /essays.html
 - name: Interests
   link: /interests.html
 - name: Library

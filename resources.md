@@ -5,6 +5,8 @@ title: Resources · Abraham Thomas
 
 ## Resources for Startup Founders
 
+----
+
 <br/>  
 
 There's a lot of startup advice out there.  **Much of it is useless**. 
@@ -18,6 +20,7 @@ When quantity increases and quality declines, curation becomes valuable [1].  So
 - [Metrics](/resources#metrics): measure what matters
 - (More sections to be added over time)
 - [Comments](/resources#comments): caveats and nuances
+- [Footnotes](/resources#footnotes)
 
 There is a lot of material here, and for that I make no excuses.  **If you're serious about building a startup, you have to put in the work.**  I know of no successful founders who are not also learning machines [3].
 
@@ -27,7 +30,7 @@ There is a lot of material here, and for that I make no excuses.  **If you're se
 
 <br/>  
 
-## Oracles
+### Oracles
 
 Let's start with the classics.  You can't be part of the tech ecosystem without knowing these books, internalizing their language, and understanding the (collective, not always perfectly overlapping) worldview they espouse:
 
@@ -47,7 +50,7 @@ These 5 writers are essential to understanding the modern era of tech (2009 to 2
 
 <br/>  
 
-## Ideas 
+### Ideas 
 
 There's a common startup trope that ideas are unimportant, and execution is what counts.  I disagree; I think ideas matter.  They matter because to make anything worthwhile takes time.  And as a founder, I would hate to spend 5 to 10 years of my life doing something that is irrelevant, or uninteresting, or inconsequential.
 
@@ -79,7 +82,7 @@ How do you find a good idea?  How do you find a problem worth solving?
 
 <br/>  
 
-## Product
+### Product
 
 Once you have an idea, the next step is to build a *product*: in its broadest sense, a way to meet your users' needs.  This could be a piece of software, a system or process, a venue, a tool, a resource, or something else; the key is that it solves a problem, and is hence [something people want](http://www.paulgraham.com/good.html).  
 
@@ -102,7 +105,7 @@ Building and delivering the *right* product, efficiently and effectively, tying 
 
 <br/>  
 
-## Growth
+### Growth
 
 So you have an idea, and you've built a product.  What next?  Growth: by which I mean, getting users, getting revenue, and getting to scale.  Paul Graham famously says that startups are *defined* by [growth](http://www.paulgraham.com/growth.html).
 
@@ -134,7 +137,7 @@ In the later stages of a startup, it's exactly the opposite.  There is a well-es
 
 <br/>  
 
-## Metrics
+### Metrics
 
 - Before you measure anything, you need a framework to give context to your measurements.  I like the pirate metrics (AARRR) framework covered by Andreas Klinger in this [deck](https://www.slideshare.net/andreasklinger/startup-metrics-a-love-story); it applies to virtually any customer acquisition/conversion/retention process.
 
@@ -158,7 +161,7 @@ In the later stages of a startup, it's exactly the opposite.  There is a well-es
 
 <br/>
 
-## Comments
+### Comments
 
 Most of these articles are relevant for early stage founders, ie, from zero till about Series B.  After that, founders typically have access to far better and more focused sources of expertise than articles on the internet, no matter how insightful.  
 
@@ -174,7 +177,7 @@ A final vital piece of advice: **think for yourself**.  You can't build a startu
 
 <br/>  
 
-## Footnotes
+### Footnotes
 
 **[1]** Why this decline in quality and increase in quantity?  
 

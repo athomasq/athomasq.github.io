@@ -4,6 +4,10 @@ title: Library · Abraham Thomas
 ---
 ## My Library
 
+----
+
+<br/>
+
 Inspired by Patrick Collison, this page is an incomplete catalogue of my (physical) books.  My rate of book-buying dramatically exceeds my rate of book-reading, but it shouldn't exceed my rate of book-indexing, so hopefully this catalogue will be complete <strike>soon</strike> eventually. 
 
 To make it easier to browse, I've split this page by category:
@@ -37,12 +41,12 @@ The first Martin Gardner book I ever read; along with a (sadly lost) copy of Yak
 - **Fads & Fallacies**, Martin Gardner
 - **Did Adam and Eve have Navels?**, Martin Gardner
 - **The Colossal Book of Mathematics**, Martin Gardner
-- **The Colossal Book of Short Puzzles and Problems**, Martin Gardner
+- **The Colossal Book of Short Puzzles**, Martin Gardner
 - **The Sacred Beetle**, Martin Gardner
 - **The Whys of a Philosophical Scrivener**, Martin Gardner
 - **How to Solve It**{: style="color: green"}, George Polya
 - **From Here to Infinity**, Ian Stewart
-- **Professor Stewart's Casebook of Mathematical Mysteries**, Ian Stewart
+- **Casebook of Mathematical Mysteries**, Ian Stewart
 - **What If?**, Randall Munro
 - **Chaos**, James Gleick
 - **The Information**, James Gleick
@@ -259,8 +263,8 @@ What can I say about GEB that hasn't been said by a thousand geeks before me?  N
 - **The Faber Book of London**, A. N. Wilson
 - **Seven Ages of Paris**, Alistair Horne
 - **The Bog People**, P. V. Glob
-- **Decline and Fall of the Roman Empire (abridged, 1 vol)**, Edward Gibbon
-- **Decline and Fall of the Roman Empire (complete, 8 vols)**, Edward Gibbon
+- **The Decline and Fall of the Roman Empire (abridged, 1 vol)**, Edward Gibbon
+- **The Decline and Fall of the Roman Empire (complete, 8 vols)**, Edward Gibbon
 - **Panorama of the Classical World**, Nigel Spivey
 - **Medieval Panorama**, Robert Bartlett
 - **Panorama of the Renaissance**, Margaret Aston
