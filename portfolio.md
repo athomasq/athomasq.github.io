@@ -24,7 +24,7 @@ I occasionally invest in startups, thought I don't consider myself an active ang
 - Qyk: marketplace for local services (failed)  
 - TableHero: restaurant platform (failed)  
 
-It's early days, but so far the outcomes seem to follow a classic power law distribution.  Out of 12 investments over 6 years, I have 1 at >20x, 1 at >5x, 3 at 2-5x, 4 at 1x, and 3 at 0x.  (Markups on most recent rounds versus first investment).  My IRR is 35% (including failures), though it's hard to tell how much of that is skill and how much is luck.
+It's early days, but so far the outcomes seem to follow a classic power law distribution.  Out of 12 investments over 6 years, I have 1 at >20x, 1 at >5x, 3 at 2-5x, 4 at 1x, and 3 at 0x.  My IRR is 35% (including failures), though it's hard to tell how much of that is skill and how much is luck.
 
 In addition to investing directly in startups, I am an LP in [GrowX Ventures](http://www.growxventures.com/), a firm I believe is India's best seed-stage venture investor.
 
