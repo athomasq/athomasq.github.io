@@ -13,15 +13,11 @@ title: Contact · Abraham Thomas
 
 The best way to reach me is by [email](mailto:athos1@gmail.com).  I enjoy getting email, and I read everything I receive, though I can't always promise a response.  I share Patrick McKenzie's [philosophy](https://www.kalzumeus.com/standing-invitation) here.
 
-<br/>
-
 ### Twitter
 
 I'm moderately active on Twitter; if you share any of my [interests](/interests) please do [follow me](https://twitter.com/athomasq).  I don't have a newsletter and don't plan to start one, so Twitter is also the best way to keep up with new material on my website.
 
-<br/>
-
-### In Person
+### IRL
 
 If you're in Toronto and want to meet over coffee, [email me].
 
