@@ -31,15 +31,3 @@ At both Simplex and Quandl, my professional career has revolved around data: spe
 While I believe in the power of markets, technology and data to make the world a better place, I'm also keenly aware of their limitations.  Data can be biased; markets can be imperfect; technology can be flawed.
 
 The optimist in me says that every inefficiency is an opportunity; the humanist in me cares for the individuals affected by these inequities.  It's important to strike a balance.
-
-### Contact
-
-If you're interested in these topics, please follow me on [Twitter](https://twitter.com/athomasq).  
-
-You can also [email me].  I enjoy getting email, and I try to read everything I receive, though I can't always promise a response.  My philosophy here is essentially the [same](https://www.kalzumeus.com/standing-invitation) as Patrick McKenzie's.
-
-If you're a hedge fund looking for data, if you have data that you want to find value in, or if you're a venture capitalist interested in data businesses, [email me].
-
-I very occasionally invest small amounts in early-stage startups, especially when they intersect with the themes above.  If you're a startup founder looking for either advice or investment, [email me].
-
-[email me]: mailto:athos1@gmail.com
