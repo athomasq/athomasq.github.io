@@ -19,7 +19,7 @@ When quantity increases and quality declines, curation becomes valuable [1].  So
 - [Growth](/resources#growth): get noticed by the world
 - [Metrics](/resources#metrics): measure what matters
 - (More sections to be added over time)
-- [Comments](/resources#comments): caveats and nuances
+- [Comments](/resources#comments)
 - [Footnotes](/resources#footnotes)
 
 There is a lot of material here, and for that I make no excuses.  **If you're serious about building a startup, you have to put in the work.**  I know of no successful founders who are not also learning machines [3].
