@@ -11,7 +11,7 @@ title: Contact · Abraham Thomas
 
 ### Email
 
-The best way to reach me is by [email](mailto:athos1@gmail.com).  I enjoy getting email, and I read everything I receive, though I can't always promise a response.  I share Patrick McKenzie's [philosophy](https://www.kalzumeus.com/standing-invitation) here.
+The best way to reach me is by [email](mailto:athos1@gmail.com).  I enjoy getting email, and I read everything I receive, though I can't always promise a response.
 
 ### Twitter
 
