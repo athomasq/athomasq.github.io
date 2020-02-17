@@ -19,6 +19,6 @@ I'm moderately active on Twitter; if you share any of my [interests](/interests)
 
 ### IRL
 
-If you're in Toronto and want to meet over coffee, [email me].
+If you're in Toronto and would like to meet over coffee, [email me].
 
 [email me]: mailto:athos1@gmail.com
