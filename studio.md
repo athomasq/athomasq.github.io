@@ -17,26 +17,39 @@ table, th, td {
 
 <body>
 
-<h3>Canadian Rockies</h3>
+<h3>Canada</h3>
 <br/>  
 
 <table>
   <tr>
-    <td> <img src="/studio/Lake-Louise.jpg" width="120px"> </td>
-    <td> <img src="/studio/Talbot-Lake.jpg" width="270px"> </td>
-    <td> <img src="/studio/Mistaya-Canyon.jpg" width="270px"> </td>
+    <td> <img src="/studio/canada/Lake-Louise.jpg" width="120px"> </td>
+    <td> <img src="/studio/canada/Talbot-Lake.jpg" width="270px"> </td>
+    <td> <img src="/studio/canada/Mistaya-Canyon.jpg" width="270px"> </td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td> <img src="/studio/Mistaya-Bridge.jpg" width="270px"> </td>
-    <td> <img src="/studio/Emerald-Lake.jpg" width="270px"> </td>
-    <td> <img src="/studio/Maligne-River.jpg" width="120px"> </td>
+    <td> <img src="/studio/canada/Mistaya-Bridge.jpg" width="270px"> </td>
+    <td> <img src="/studio/canada/Emerald-Lake.jpg" width="270px"> </td>
+    <td> <img src="/studio/canada/Maligne-River.jpg" width="120px"> </td>
   </tr>
 </table>
 
 <br/>
 <br/>
+
+<h3>Paris</h3>
+<br/>  
+
+<table>
+  <tr>
+    <td> <img src="/studio/paris/Louvre-from-Orsay.jpg" width="105x"> </td>
+    <td> <img src="/studio/paris/L-Ebouillante.jpg" width="235px"> </td>
+    <td> <img src="/studio/paris/Metro-Saint-Michel.jpg" width="105px"> </td>
+    <td> <img src="/studio/paris/Orsay-Cafe.jpg" width="210px"> </td>
+  </tr>
+</table>
+
 
 </body>
