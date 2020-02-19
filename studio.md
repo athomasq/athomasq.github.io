@@ -23,10 +23,10 @@ table, th, td {
 
 <table>
   <tr>
-    <td> <img src="/studio/amsterdam/Canal_small.jpg" width="112px"> </td>
-    <td> <img src="/studio/amsterdam/Scooter_small.jpg" width="252px"> </td>
-    <td> <img src="/studio/amsterdam/Boats_small.jpg" width="168px"> </td>
-    <td> <img src="/studio/amsterdam/Streetcar_small.jpg" width="112px"> </td>
+    <td> <img src="/studio/amsterdam/Streetcar-trimmed-2_small.jpg" width="140px"> </td>
+    <td> <img src="/studio/amsterdam/Canal_small.jpg" width="108px"> </td>
+    <td> <img src="/studio/amsterdam/Scooter_small.jpg" width="243px"> </td>
+    <td> <img src="/studio/amsterdam/Boats_small.jpg" width="162px"> </td>
   </tr>
 </table>
 
