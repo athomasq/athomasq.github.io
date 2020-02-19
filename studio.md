@@ -17,6 +17,23 @@ table, th, td {
 
 <body>
 
+
+<h3>Amsterdam</h3>
+<br/>  
+
+<table>
+  <tr>
+    <td> <img src="/studio/amsterdam/Canal_small.jpg" width="112px"> </td>
+    <td> <img src="/studio/amsterdam/Scooter_small.jpg" width="252px"> </td>
+    <td> <img src="/studio/amsterdam/Boats_small.jpg" width="168px"> </td>
+    <td> <img src="/studio/amsterdam/Streetcar_small.jpg" width="112px"> </td>
+  </tr>
+</table>
+
+<br/>
+<br/>
+
+
 <h3>Canada</h3>
 <br/>  
 
