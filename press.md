@@ -47,7 +47,7 @@ https://www.wsj.com/articles/wall-streets-insatiable-lust-data-data-data-1473719
 - **Quandl inquiries:** [Matthew Luongo](mailto:mluongo@prosek.com) at [Prosek Partners](https://www.prosek.com/)  
 - **All other inquiries:** please [email me](mailto:athos1@gmail.com) directly  
 
-[5]: /assets/other/abraham-thomas-bio.txt
+[5]: /assets/docs/abraham-thomas-bio.txt
 [6]: /assets/img/Abraham-Thomas.jpg
 [7]: /assets/img/Abraham-Thomas-Headshot.jpg
 

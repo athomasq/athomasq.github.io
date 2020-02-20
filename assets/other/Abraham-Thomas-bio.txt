@@ -1,5 +1,0 @@
-Abraham Thomas is the co-founder and Chief Data Officer of Quandl, a technology company that empowers institutional investors to make better decisions through data.  Abraham helped lead Quandl from its inception to its successful acquisition by Nasdaq (NDAQ) in 2018.  He currently oversees all data-related operations for Quandl: data acquisition, data engineering, data science and research, and data delivery.
-
-Abraham was previously a senior portfolio manager and head of US investments at Simplex Asset Management, a multi-billion-dollar quantitative hedge fund with offices in Tokyo, Hong Kong and Princeton.  He has a degree in Engineering Physics from IIT Bombay.
-
-Abraham lives in Toronto with his family.  He writes at @athomasq and at www.abrahamthomas.info. 
