@@ -24,8 +24,8 @@ img {
 
 <i>
   <b>Scooter</b> <br/>
-  Amsterdam, 2014. <br/>
-  Sony A7 + Zeiss 55mm; 1/1600 at f/1.8.<br/>
+  Amsterdam, 2014 <br/>
+  Sony A7 + Zeiss 55mm; 1/1600 at f/1.8<br/>
 </i>
 
 </body>
