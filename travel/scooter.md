@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Test · Abraham Thomas
+title: Scooter · Abraham Thomas
 ---
 
 <head>
@@ -19,8 +19,13 @@ img {
 <body>
 
 <img src="/assets/photos/Scooter.jpg" width="500px">
-
-
 <br/>
 <br/>
+
+<i>
+  <b>Scooter</b> <br/>
+  Amsterdam, 2014. <br/>
+  Sony A7 + Zeiss 55mm; 1/1600 at f/1.8.<br/>
+</i>
+
 </body>
