@@ -5,6 +5,11 @@ title: Travel · Abraham Thomas
 
 <head>
 <style>
+
+#content {
+  margin-top: 30px;
+}
+
 table {
   border-collapse: collapse;
 }
@@ -16,28 +21,23 @@ table, th, td {
 </head>
 
 <body>
-
-
-<h3>Amsterdam</h3>
-<br/>  
-
-
-
-<table>
-  <tr>
-    <td> <img src="/assets/smol/Tram_.jpg" width="140px"> </td>
-    <td> <img src="/assets/smol/Canal_.jpg" width="108px"> </td>
-    <td> 
-      <a href="/travel/scooter"> 
-        <img src="/assets/smol/Scooter_.jpg" width="243px"> 
-      </a> 
-    </td>
-    <td> <img src="/assets/smol/Boats_.jpg" width="162px"> </td>
-  </tr>
-</table>
-
-<br/>
-<br/>
-
-
+{% for item in site.data.photos %}   
+  {% if item.album != "newline" %}
+    <br/>
+    <br/>
+    <h3> {{ item.album }} </h3>
+    <br/>
+  {% endif %}
+    <table>
+      <tr>
+        {% for pic in item.pictures %} 
+          <td> 
+            <a href="{{ pic.link }}">
+              <img src="{{ pic.smol }}" width="{{ pic.width }}"> 
+            </a>
+          </td>
+        {% endfor %}
+      </tr>
+    </table>
+{% endfor %}
 </body>

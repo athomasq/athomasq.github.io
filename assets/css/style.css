@@ -89,3 +89,10 @@ th, td {
   line-height: 1.5;
 }
 
+.photo {
+  padding: 20px;
+  border: 1px solid #C0C0C0; 
+  border-collapse: collapse;
+  line-height: 0;  
+}
+

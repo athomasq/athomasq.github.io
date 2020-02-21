@@ -1,0 +1,49 @@
+- album: Canada
+  pictures:
+    - name: Canoes
+      link: /travel/canoes
+      smol: /assets/smol/Canoes_.jpg
+      width: 120px
+    - name: Reflection
+      link: /travel/reflection
+      smol: /assets/smol/Reflection_.jpg
+      width: 270px
+    - name: Canyon
+      link: /travel/canyon
+      smol: /assets/smol/Canyon_.jpg
+      width: 270px
+
+- album: newline
+  pictures:
+    - name: Bridge
+      link: /travel/bridge
+      smol: /assets/smol/Bridge_.jpg
+      width: 270px
+    - name: Emerald
+      link: /travel/emerald
+      smol: /assets/smol/Emerald_.jpg
+      width: 270px
+    - name: Waterfall
+      link: /travel/waterfall
+      smol: /assets/smol/Waterfall_.jpg
+      width: 120px
+
+- album: Amsterdam
+  pictures:
+    - name: Tram
+      link: /travel/tram
+      smol: /assets/smol/Tram_.jpg
+      width: 140px
+    - name: Canal
+      link: /travel/canal
+      smol: /assets/smol/Canal_.jpg
+      width: 108px
+    - name: Scooter
+      link: /travel/scooter
+      smol: /assets/smol/Scooter_.jpg
+      width: 243px
+    - name: Boats
+      link: /travel/boats
+      smol: /assets/smol/Boats_.jpg
+      width: 162px
+
