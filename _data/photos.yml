@@ -1,8 +1,8 @@
 - album: Alberta
   pictures:
-    - name: Canoes
-      link: /travel/canoes
-      smol: /assets/smol/Canoes_.jpg
+    - name: Waterfall
+      link: /travel/waterfall
+      smol: /assets/smol/Waterfall_.jpg
       width: 120px
     - name: Reflection
       link: /travel/reflection
@@ -23,9 +23,9 @@
       link: /travel/emerald
       smol: /assets/smol/Emerald_.jpg
       width: 270px
-    - name: Waterfall
-      link: /travel/waterfall
-      smol: /assets/smol/Waterfall_.jpg
+    - name: Canoes
+      link: /travel/canoes
+      smol: /assets/smol/Canoes_.jpg
       width: 120px
 
 - album: Amsterdam
