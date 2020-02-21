@@ -32,11 +32,7 @@ table, th, td {
     <table>
       <tr>
         {% for pic in item.pictures %} 
-          <td> 
-            <a href="{{ pic.link }}">
-              <img src="{{ pic.smol }}" width="{{ pic.width }}"> 
-            </a>
-          </td>
+          <td><a href="{{ pic.link }}"><img src="{{ pic.smol }}" width="{{ pic.width }}"></a></td>
         {% endfor %}
       </tr>
     </table>
