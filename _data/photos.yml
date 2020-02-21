@@ -1,4 +1,4 @@
-- album: Canada
+- album: Alberta
   pictures:
     - name: Canoes
       link: /travel/canoes
@@ -46,4 +46,23 @@
       link: /travel/boats
       smol: /assets/smol/Boats_.jpg
       width: 162px
+
+- album: Paris
+  pictures:
+    - name: Louvre
+      link: /travel/louvre
+      smol: /assets/smol/Louvre_.jpg
+      width: 105px
+    - name: Cafe
+      link: /travel/cafe
+      smol: /assets/smol/Cafe_.jpg
+      width: 235px
+    - name: Metro
+      link: /travel/metro
+      smol: /assets/smol/Metro_.jpg
+      width: 105px
+    - name: Orsay
+      link: /travel/orsay
+      smol: /assets/smol/Orsay_.jpg
+      width: 210px
 

@@ -7,7 +7,7 @@ title: Travel · Abraham Thomas
 <style>
 
 #content {
-  margin-top: 30px;
+  margin-top: 15px;
 }
 
 table {
@@ -23,6 +23,7 @@ table, th, td {
 <body>
 {% for item in site.data.photos %}   
   {% if item.album != "newline" %}
+    <br/>
     <br/>
     <br/>
     <h3> {{ item.album }} </h3>
