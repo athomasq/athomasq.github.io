@@ -17,7 +17,7 @@ To make it easier to browse, I've split this page by category:
 - [Essays, Memoirs & Journalism](/library#essays-memoirs--journalism)
 - [Language & Music](/library#language--music)
 - [Travel, Adventure & Exploration](/library#travel-adventure--exploration)
-- [Literary Fiction](/library#literary-fiction)
+- [Fiction](/library#fiction)
 
 Books in **green**{: style="color: green"} are very good and recommended.  Books in **red**{: style="color: red"} are life-changing: I saw the world differently after reading them.  
 
@@ -157,6 +157,7 @@ What can I say about GEB that hasn't been said by a thousand geeks before me?  N
 - **Einstein**, Walter Isaacson
 - **Apollo 13**, Jim Lovell & Jeffrey Kluger
 - **Chasing the Sun**, Richard Cohen
+- **The Flight of the Iguana**, David Quammen
 
 [Back to Top ↩](/library#my-library)
 
@@ -441,6 +442,23 @@ What can I say about GEB that hasn't been said by a thousand geeks before me?  N
 - **Orientalism**, Edward Said
 - **An African in Greenland**, Tété-Michel Kpomassie
 - **Dreamers**, Snigdha Poonam
+- **Principles**, Ray Dalio
+- **What It Takes**, Stephen Schwarzman
+- **The Outsiders**, John Thorndike
+- **Fooled by Randomness**, Nassim Taleb
+- **The Black Swan**, Nassim Taleb
+- **The Bed of Procrustes**, Nassim Taleb
+- **Antifragile**, Nassim Taleb
+- **Fatal Risk**, Roddy Boyd
+- **The Signal and the Noise**, Nate Silver
+- **The Affluent Society**, John Kenneth Galbraith
+- **Confessions of an Advertising Man**, David Ogilvy
+- **Poison Penmanship**, Jessica Mitford
+- **Cider With Rosie**, Laurie Lee
+- **As I Walked Out One Midsummer Morning**, Laurie Lee
+- **A Moment of War**, Laurie Lee
+- **So, Anyway...**, John Cleese
+- **The Informant**, Kurt Eichenwald
 
 [Back to Top ↩](/library#my-library)
 
@@ -500,12 +518,13 @@ This is a terrific book and one of the top 5 non-fiction books I've ever read. (
 - **Listen to This**, Alex Ross
 - **The Great Pianists**, Harold Schonberg
 - **Mozart**, Maynard Solomon
-- **Why Jazz Happened**, Myers
-- **The Forms of Music**, Tovey
+- **Why Jazz Happened**, Marc Myers
+- **The Forms of Music**, Donald Francis Tovey
 - **Bhairavi: The Dawn of Indian Music in the West**, Peter Lavezzoli
-- **A History of Western Music**, Grout
+- **A History of Western Music**, Donald J. Grout
 - **Three Mozart Operas**, Richard Moberly
 - **The Band: A Musical History**, Robbie Robertson
+- **Really the Blues**, Mezz Mezzrow
 
 [Back to Top ↩](/library#my-library)
 
@@ -932,7 +951,9 @@ I have a minor obsession with collecting travel books. I doubt I'll visit all or
 - **East is West**, Freya Stark
 - **The Coast of Incense**, Freya Stark
 - **Beyond the Hundredth Meridian**, Wallace Stegner
-- **Incidents of Travl in Egypt, Arabia Petraea and the Holy Land**, John Stephens
+- **Travels with Charley**, John Steinbeck
+- **The Log from the Sea of Cortez**, John Steinbeck
+- **Incidents of Travel in Egypt, Arabia Petraea and the Holy Land**, John Stephens
 - **Malaria Dreams**, Stuart Stevens
 - **Night Train to Turkistan**, Stuart Stevens
 - **Travels with a Donkey**, R. L. Stevenson
@@ -1009,6 +1030,7 @@ I have a minor obsession with collecting travel books. I doubt I'll visit all or
 - **In Search of Conrad**, Gavin Young
 - **Black Dragon River**, Dominic Ziegler
 - **Train**, Tom Zoellner
+- **The Oxford Book of Exploration**, Robin Hanbury-Tenison
 
 [Back to Top ↩](/library#my-library)
 
@@ -1019,7 +1041,7 @@ I have a minor obsession with collecting travel books. I doubt I'll visit all or
 
 <br/>
 
-### Literary Fiction
+### Fiction
 - **Things Fall Apart**, Chinua Achebe
 - **No Longer At Ease**, Chinua Achebe
 - **Arrow of God**, Chinua Achebe
@@ -1097,6 +1119,7 @@ I have a minor obsession with collecting travel books. I doubt I'll visit all or
 - **The Woman Who Walked Into Doors**, Roddy Doyle
 - **A Star Called Henry**, Roddy Doyle
 - **Paddy Clarke Ha Ha Ha**, Roddy Doyle
+- **Bullfighting**, Roddy Doyle
 - **The World As I Found It**, Bruce Duffy
 - **Kissing the Witch**, Emma Donoghue
 - **Faith in Fakes**, Umberto Eco
@@ -1108,6 +1131,7 @@ I have a minor obsession with collecting travel books. I doubt I'll visit all or
 - **Invisible Man**, Ralph Ellison
 - **Conversations with Beethoven**, Sanford Friedman
 - **Novels in Three Lines**, Felix Feneon
+- **My Brilliant Friend**, Elena Ferrante
 - **The Story of the Lost Child**, Elena Ferrante
 - **Those Who Leave and Those Who Stay**, Elena Ferrante
 - **Alas, Babylon**, Pat Frank
@@ -1148,6 +1172,127 @@ I have a minor obsession with collecting travel books. I doubt I'll visit all or
 - **Ulysses**, James Joyce
 - **We, the Drowned**, Carsten Jensen
 - **Measuring the World**, Daniel Kehlmann
+- **Metamorphosis and Other Stories**, Franz Kafka
+- **On The Road**, Jack Kerouac
+- **Green Grass Running Water**, Thomas King
+- **The Periodic Table**, Primo Levi
+- **Christ Stopped at Eboli**, Carlo Levi
+- **How Green Was My Valley**, Richard Llewellyn
+- **The Little Country**, Charles de Lint
+- **The Selected Works of T. S. Spivet**, Reif Larsen
+- **I Am Radar**, Reif Larsen
+- **Life of Pi**, Yann Martel
+- **Doctor Faustus**, Thomas Mann
+- **Buddenbrooks**, Thomas Mann
+- **The Magic Mountain**, Thomas Mann
+- **Samarkand**, Amir Maalouf
+- **Leo Africanus**, Amir Maalouf
+- **Wolf Hall**, Hilary Mantel
+- **Bring Up The Bodies**, Hilary Mantel
+- **The Scapegoat**, Daphne du Maurier
+- **The Emperor's Children**, Claire Messud
+- **A River Sutra**, Gita Mehta
+- **All the Pretty Horses**, Cormac McCarthy
+- **No Country for Old Men**, Cormac McCarthy
+- **Matterhorn**, Karl Marlantes
+- **Hav**, Jan Morris
+- **Love in a Cold Climate**, Nancy Mitford
+- **My Traitor's Heart**, Rian Malan
+- **Midaq Alley**, Naguib Mahfouz
+- **The Thief and the Dogs**, Naguib Mahfouz
+- **Miramar**, Naguib Mahfouz
+- **Cloud Atlas**, David Mitchell
+- **The Bone Clocks**, David Mitchell
+- **Number 9 Dream**, David Mitchell
+- **The Thousand Autumns of Jacob de Zoet**, David Mitchell
+- **Lempriere's Dictionary**, Lawrence Norfolk
+- **The Pope's Rhinoceros**, Lawrence Norfolk
+- **In the Shape of a Boar**, Lawrence Norfolk
+- **John Saturnall's Feast**, Lawrence Norfolk
+- **Wizard of the Crow**, Ngũgĩ wa Thiong'o
+- **The Understudy**, David Nicholls
+- **A House for Mr. Biswas**, V. S. Naipaul
+- **The Stories of Vladimir Nabokov**, Vladimir Nabokov
+- **Pale Fire**, Vladimir Nabokov
+- **The Third Policeman**, Flann O'Brien
+- **The Famished Road**, Ben Okri
+- **Songs of Enchantment**, Ben Okri
+- **Anil's Ghost**, Michael Ondaatje
+- **In the Skin of a Lion**, Michael Ondaatje
+- **An Instance of the Fingerpost**, Iain Pears
+- **The Dream of Scipio**, Iain Pears
+- **Stone's Fall**, Iain Pears
+- **Cry, the Beloved Country**, Alan Paton
+- **The Hangman's Daughter**, Oliver Pötzsch
+- **The Beggar King**, Oliver Pötzsch
+- **The Cretan Runner**, George Psychoundakis
+- **The Truth**, Michael Palin
+- **My Name is Red**, Orhan Pamuk
+- **The Black Book**, Orhan Pamuk
+- **The White Castle**, Orhan Pamuk
+- **Other Colours**, Orhan Pamuk
+- **Snow**, Orhan Pamuk
+- **The New Life**, Orhan Pamuk
+- **The Gray Notebook**, Joseph Pla
+- **The Gold Bug Variations**, Richard Powers
+- **Three Farmers on Their Way to a Dance**, Richard Powers
+- **Orfeo**, Richard Powers
+- **The Echo Maker**, Richard Powers
+- **Plowing the Dark**, Richard Powers
+- **The Time of Our Singing**, Richard Powers
+- **Gravity's Rainbow**, Thomas Pynchon
+- **The Crying of Lot 49**, Thomas Pynchon
+- **Vineland**, Thomas Pynchon
+- **Mason & Dixon**, Thomas Pynchon
+- **Bleeding Edge**, Thomas Pynchon
+- **Against the Day**, Thomas Pynchon
+- **V.**, Thomas Pynchon
+- **Inherent Vice**, Thomas Pynchon
+- **The Quincunx**, Charles Palliser
+- **The Captain's Daughter**, Alexander Pushkin
+- **Amistad**, David Pesci
+- **Fire from Heaven**, Mary Renault
+- **The Persian Boy**, Mary Renault
+- **Funeral Games**, Mary Renault
+- **The Bull from the Sea**, Mary Renault
+- **The Golden House**, Salman Rushdie
+- **The Shadow of the Wind**, Carlos Ruiz Zafon
+- **The Imperfectionists**, Tom Rackman
+- **Still Life With Woodpecker**, Tom Robbins
+- **Jitterbug Perfume**, Tom Robbins
+- **Villa Incognito**, Tom Robbins
+- **Wild Ducks Flying Backwards**, Tom Robbins
+- **Skinny Legs And All**, Tom Robbins
+- **Fierce Invalids Home From Hot Climates**, Tom Robbins
+- **An Ermine in Czernopol**, Gregor von Rezzori
+- **I Capture the Castle**, Dodie Smith
+- **The Guernsey Literary and Potato Peel Pie Society**, Mary Ann Shaffer
+- **The History of the Siege of Lisbon**, Jose Saramago
+- **The Complete Patrick Melrose Novels**, Edward St Aubyn
+- **The Peach Blossom Fan**, K’ung Shang-jen
+- **The Wayward Bus**, John Steinbeck
+- **In Dubious Battle**, John Steinbeck
+- **East of Eden**, John Steinbeck
+- **Of Mice and Men**, John Steinbeck
+- **The Grapes of Wrath**, John Steinbeck
+- **Mr. Penumbra's 24-Hour Bookstore**, Robin Sloan
+- **The Gulag Archipelago**, Aleksandr Solzhenitsyn
+- **Perfume**, Patrick Susskind
+- **Austerlitz**, W. G. Sebald
+- **The Emigrants**, W. G. Sebald
+- **Lark Rise to Candleford**, Flora Thompson
+- **Sacred Hunger**, Barry Unsworth
+- **Morality Play**, Barry Unsworth
+- **The Rage of the Vulture**, Barry Unsworth
+- **The Ruby in Her Navel**, Barry Unsworth
+- **Expelled from Eden**, William T. Vollmann
+- **Laurus**, Eugene Vodolazkin
+- **Vile Bodies**, Evelyn Waugh
+- **The Sword of Honour Trilogy**, Evelyn Waugh
+- **Trainspotting**, Irvine Welsh
+- **The Paying Guests**, Sarah Waters
+- **Fingersmith**, Sarah Waters
+- **Infinite Jest**, David Foster Wallace
 
 [Back to Top ↩](/library#my-library)
 
