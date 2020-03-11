@@ -1055,11 +1055,11 @@ I have a minor obsession with collecting travel books. I doubt I'll visit all or
 - **The Human Comedy: Selected Stories**, Honoré de Balzac
 - **The Untouchable**, John Banville
 - **Doctor Copernicus**, John Banville
-- **Kepler**, John Banville
 - **The Newton Letter**, John Banville
-- **Athena**, John Banville
 - **The Book of Evidence**, John Banville
+- **Kepler**, John Banville
 - **Ghosts**, John Banville
+- **Athena**, John Banville
 - **Nothing To Be Frightened Of**, Julian Barnes
 - **A History of the World in 10 1/2 Chapters**, Julian Barnes
 - **Talking It Over**, Julian Barnes
