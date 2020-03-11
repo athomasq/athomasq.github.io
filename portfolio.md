@@ -2,12 +2,13 @@
 layout: default
 title: Portfolio · Abraham Thomas
 ---
-## My Startup Portfolio
+## My Portfolio
 
 ----
 
 <br/>
 
+### Startups
 
 I occasionally invest in startups, thought I don't consider myself an active angel investor.  Here are my investments as of December 2019:
 
@@ -24,12 +25,11 @@ I occasionally invest in startups, thought I don't consider myself an active ang
 - Qyk: marketplace for local services (failed)  
 - TableHero: restaurant platform (failed)  
 
-It's early days, but so far the outcomes seem to follow a classic power law distribution.  Out of 12 investments over 6 years, I have 1 at >20x, 1 at >5x, 3 at 2-5x, 4 at 1x, and 3 at 0x.  My IRR is 35% (including failures), though it's hard to tell how much of that is skill and how much is luck.
+It's early days, but so far the outcomes seem to follow a classic power law distribution.  Out of 12 investments over 6 years, I have 1 at >20x, 1 at >5x, 3 at 2-5x, 4 at 1x, and 3 at 0x.  My IRR on angel investments is 35% (including the failures), though it's hard to tell how much of that is skill and how much is luck.
 
 In addition to investing directly in startups, I am an LP in [GrowX Ventures](http://www.growxventures.com/), a firm I believe is India's best seed-stage venture investor.
 
 ----
-
 
 <br/>
 
@@ -39,3 +39,18 @@ If you're a startup founder looking for investment, I'd be happy to chat -- with
 
 I prefer B2B to consumer.  I'm most familiar with business models that involve data, APIs and network effects, though I'm open to others.  I especially like startups solving tedious problems in unglamorous sectors.  If any of this sounds like you, please [email me](mailto:athos1@gmail.com)!
 
+----
+
+<br/>
+
+### Elsewhere
+
+Startups should only be a small part of any investment portfolio, and this is certainly true of mine.  As of December 2019, my overall allocation is:
+
+- 57% medium-duration bonds 
+- 20% cash
+- 15% large-cap (public) equities via an index ETF
+- 4% small-cap (startup) equities
+- 4% residential real estate
+
+<br/>
