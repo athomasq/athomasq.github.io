@@ -1266,7 +1266,6 @@ I have a minor obsession with collecting travel books. I doubt I'll visit all or
 - **Fierce Invalids Home From Hot Climates**, Tom Robbins
 - **An Ermine in Czernopol**, Gregor von Rezzori
 - **I Capture the Castle**, Dodie Smith
-- **The Guernsey Literary and Potato Peel Pie Society**, Mary Ann Shaffer
 - **The History of the Siege of Lisbon**, Jose Saramago
 - **The Complete Patrick Melrose Novels**, Edward St Aubyn
 - **The Peach Blossom Fan**, K’ung Shang-jen
