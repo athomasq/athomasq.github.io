@@ -1047,19 +1047,20 @@ I have a minor obsession with collecting travel books. I doubt I'll visit all or
 - **Arrow of God**, Chinua Achebe
 - **Hawksmoor**, Peter Ackroyd
 - **Milton in America**, Peter Ackroyd
+- **Brick Lane**, Monica Ali
+- **Dear Illusion: Collected Stories**, Kingsley Amis
+- **The Enchanted April**, Elizabeth von Arnim
 - **The Handmaid's Tale**, Margaret Atwood
 - **Alias Grace**, Margaret Atwood
 - **The Blind Assassin**, Margaret Atwood
-- **The Enchanted April**, Elizabeth von Arnim
-- **Dear Illusion: Collected Stories**, Kingsley Amis
-- **The Human Comedy: Selected Stories**, Honoré de Balzac
 - **The Untouchable**, John Banville
 - **Doctor Copernicus**, John Banville
-- **The Newton Letter**, John Banville
-- **The Book of Evidence**, John Banville
 - **Kepler**, John Banville
-- **Ghosts**, John Banville
+- **The Newton Letter**, John Banville
 - **Athena**, John Banville
+- **The Book of Evidence**, John Banville
+- **Ghosts**, John Banville
+- **The Regeneration Trilogy**, Pat Barker
 - **Nothing To Be Frightened Of**, Julian Barnes
 - **A History of the World in 10 1/2 Chapters**, Julian Barnes
 - **Talking It Over**, Julian Barnes
@@ -1068,24 +1069,24 @@ I have a minor obsession with collecting travel books. I doubt I'll visit all or
 - **The Porcupine**, Julian Barnes
 - **The Sense of an Ending**, Julian Barnes
 - **Before She Met Me**, Julian Barnes
-- **Midnight in the Garden of Good and Evil**, John Berendt
-- **2666**, Roberto Bolaño
-- **The Savage Detectives**, Roberto Bolaño
-- **Collected Fictions**, Jorge Luis Borges
-- **Collected Non-Fiction 1923-1986**, Jorge Luis Borges
-- **The Regeneration Trilogy**, Pat Barker
-- **The Sad Tale of the Brothers Grossbart**, Jesse Bullington
-- **Seven Men**, Max Beerbohm
-- **The Long Ships**, Frans G. Bengtsson
-- **The Master and Margarita**, Mikhail Bulgakov
-- **Q**, Luther Blissett
-- **Das Boot**, Lothar-Gunther Buchheim
-- **The Mortdecai Trilogy**, Kyril Bonfiglioli
-- **Naked Lunch**, William S. Burroughs
-- **Possession**, A. S. Byatt
+- **Arthur & George**, Julian Barnes
 - **Ship Fever**, Andrea Barrett
 - **The Voyage of the Narwhal**, Andrea Barrett
-- **The Luminaries**, Eleanor Catton
+- **Seven Men**, Max Beerbohm
+- **The Long Ships**, Frans Bengtsson
+- **Midnight in the Garden of Good and Evil**, John Berendt
+- **Q**, Luther Blissett
+- **2666**, Roberto Bolaño
+- **The Savage Detectives**, Roberto Bolaño
+- **The Mortdecai Trilogy**, Kyril Bonfiglioli
+- **Collected Fictions**, Jorge Luis Borges
+- **Collected Non-Fiction 1923-1986**, Jorge Luis Borges
+- **Das Boot**, Lothar-Gunther Buchheim
+- **The Master and Margarita**, Mikhail Bulgakov
+- **The Sad Tale of the Brothers Grossbart**, Jesse Bullington
+- **Naked Lunch**, William S. Burroughs
+- **Possession**, A. S. Byatt
+- **The Marriage of Cadmus and Harmony**, Roberto Calasso
 - **Invisible Cities**, Italo Calvino
 - **The Castle of Crossed Destinies**, Italo Calvino
 - **Our Ancestors**, Italo Calvino
@@ -1098,19 +1099,25 @@ I have a minor obsession with collecting travel books. I doubt I'll visit all or
 - **Why Read the Classics?**, Italo Calvino
 - **Italian Folktales**, Italo Calvino
 - **Fantastic Tales**, Italo Calvino
+- **The Outsider**, Albert Camus
+- **Auto Da Fé**, Elias Canetti
+- **In Cold Blood**, Truman Capote
+- **My Life as a Fake**, Peter Carey
+- **Parrot and Olivier in America**, Peter Carey
+- **The Luminaries**, Eleanor Catton
 - **The Yiddish Policemen's Union**, Michael Chabon
 - **The Final Solution**, Michael Chabon
 - **The Amazing Adventures of Kavalier & Clay**, Michael Chabon
 - **Gentlemen of the Road**, Michael Chabon
-- **In Cold Blood**, Truman Capote
-- **The Marriage of Cadmus and Harmony**, Roberto Calasso
-- **The Outsider**, Albert Camus
 - **The Shooting Party**, Anton Chekhov
 - **Heart of Darkness**, Joseph Conrad
-- **Ella Minnow Pea**, Mark Dunn
+- **The Glass Books of the Dream Eaters**, Gordon Dahlquist
+- **Balzac and the Little Chinese Seamstress**, Dai Sijie
+- **The Human Comedy: Selected Stories**, Honoré de Balzac
 - **The Diary of a Provincial Lady**, E. M. Delafield
-- **All the Light We Cannot See**, Anthony Doerr
 - **Ragtime**, E. L. Doctorow
+- **All the Light We Cannot See**, Anthony Doerr
+- **Kissing the Witch**, Emma Donoghue
 - **The Commitments**, Roddy Doyle
 - **The Snapper**, Roddy Doyle
 - **The Van**, Roddy Doyle
@@ -1121,125 +1128,136 @@ I have a minor obsession with collecting travel books. I doubt I'll visit all or
 - **Paddy Clarke Ha Ha Ha**, Roddy Doyle
 - **Bullfighting**, Roddy Doyle
 - **The World As I Found It**, Bruce Duffy
-- **Kissing the Witch**, Emma Donoghue
+- **Ella Minnow Pea**, Mark Dunn
 - **Faith in Fakes**, Umberto Eco
 - **Baudolino**, Umberto Eco
 - **The Prague Cemetery**, Umberto Eco
 - **The Name of the Rose**, Umberto Eco
 - **Foucault's Pendulum**, Umberto Eco
 - **The Island of the Day Before**, Umberto Eco
+- **Half-Blood Blues**, Esi Edugyan
 - **Invisible Man**, Ralph Ellison
-- **Conversations with Beethoven**, Sanford Friedman
+- **The Siege of Krishnapur**, J. G. Farrell
+- **Go Down, Moses**, William Faulkner
+- **Absalom, Absalom**, William Faulkner
 - **Novels in Three Lines**, Felix Feneon
 - **My Brilliant Friend**, Elena Ferrante
 - **The Story of the Lost Child**, Elena Ferrante
 - **Those Who Leave and Those Who Stay**, Elena Ferrante
-- **Alas, Babylon**, Pat Frank
 - **City of Dark Magic**, Magnus Flyte
 - **The Last King of Scotland**, Giles Foden
-- **The Siege of Krishnapur**, J. G. Farrell
-- **Go Down, Moses**, William Faulkner
-- **Absalom, Absalom**, William Faulkner
 - **The French Lieutenant's Woman**, John Fowles
+- **The Magus**, John Fowles
+- **Alas, Babylon**, Pat Frank
 - **The Corrections**, Jonathan Frantzen
-- **Dead Souls**, Nikolai Gogol
-- **Cold Comfort Farm**, Stella Gibbons
+- **Conversations with Beethoven**, Sanford Friedman
+- **Children of the Days**, Eduardo Galeano
+- **Soul Mountain**, Gao Xingjian
 - **The Autumn of the Patriarch**, Gabriel Garcia Marquez
 - **One Hundred Years of Solitude**, Gabriel Garcia Marquez
 - **The General In His Labyrinth**, Gabriel Garcia Marquez
 - **Love in the Time of Cholera**, Gabriel Garcia Marquez
 - **Chronicle of a Death Foretold**, Gabriel Garcia Marquez
 - **Collected Stories**, Gabriel Garcia Marquez
+- **Cold Comfort Farm**, Stella Gibbons
+- **Dead Souls**, Nikolai Gogol
 - **The Tin Drum**, Gunter Grass
-- **Children of the Days**, Eduardo Galeano
+- **The Curious Incident of the Dog in the Night Time**, Mark Haddon
 - **A Civil Action**, Jonathan Harr
-- **A High Wind in Jamaica**, Richard Hughes
-- **In Hazard**, Richard Hughes
-- **The Wooden Shepherdess**, Richard Hughes
+- **The Good Soldier Svejk**, Jaroslav Hasek
 - **Catch-22**, Joseph Heller
 - **Closing Time**, Joseph Heller
 - **A Farewell to Arms**, Ernest Hemingway
 - **The Sun Also Rises**, Ernest Hemingway
 - **For Whom the Bell Tolls**, Ernest Hemingway
-- **The Good Soldier Svejk**, Jaroslav Hasek
-- **The Curious Incident of the Dog in the Night Time**, Mark Haddon
+- **The Talented Mr. Ripley**, Patricia Highsmith
+- **A High Wind in Jamaica**, Richard Hughes
+- **In Hazard**, Richard Hughes
+- **The Wooden Shepherdess**, Richard Hughes
+- **Tun-Huang**, Yasushi Inoue
 - **An Artist of the Floating World**, Kazuo Ishiguro
 - **Nocturnes**, Kazuo Ishiguro
 - **When We Were Orphans**, Kazuo Ishiguro
 - **The Buried Giant**, Kazuo Ishiguro
 - **The Remains of the Day**, Kazuo Ishiguro
-- **Tun-Huang**, Yasushi Inoue
-- **Ulysses**, James Joyce
 - **We, the Drowned**, Carsten Jensen
-- **Measuring the World**, Daniel Kehlmann
+- **Ulysses**, James Joyce
 - **Metamorphosis and Other Stories**, Franz Kafka
+- **Measuring the World**, Daniel Kehlmann
 - **On The Road**, Jack Kerouac
 - **Green Grass Running Water**, Thomas King
-- **The Periodic Table**, Primo Levi
-- **Christ Stopped at Eboli**, Carlo Levi
-- **How Green Was My Valley**, Richard Llewellyn
-- **The Little Country**, Charles de Lint
+- **Domino**, Ross King
 - **The Selected Works of T. S. Spivet**, Reif Larsen
 - **I Am Radar**, Reif Larsen
-- **Life of Pi**, Yann Martel
-- **Doctor Faustus**, Thomas Mann
-- **Buddenbrooks**, Thomas Mann
-- **The Magic Mountain**, Thomas Mann
+- **The Periodic Table**, Primo Levi
+- **Christ Stopped at Eboli**, Carlo Levi
+- **The Little Country**, Charles de Lint
+- **How Green Was My Valley**, Richard Llewellyn
 - **Samarkand**, Amir Maalouf
 - **Leo Africanus**, Amir Maalouf
-- **Wolf Hall**, Hilary Mantel
-- **Bring Up The Bodies**, Hilary Mantel
-- **The Scapegoat**, Daphne du Maurier
-- **The Emperor's Children**, Claire Messud
-- **A River Sutra**, Gita Mehta
-- **All the Pretty Horses**, Cormac McCarthy
-- **No Country for Old Men**, Cormac McCarthy
-- **Matterhorn**, Karl Marlantes
-- **Hav**, Jan Morris
-- **Love in a Cold Climate**, Nancy Mitford
-- **My Traitor's Heart**, Rian Malan
 - **Midaq Alley**, Naguib Mahfouz
 - **The Thief and the Dogs**, Naguib Mahfouz
 - **Miramar**, Naguib Mahfouz
+- **My Traitor's Heart**, Rian Malan
+- **Londonstani**, Gautam Malkani
+- **Doctor Faustus**, Thomas Mann
+- **Buddenbrooks**, Thomas Mann
+- **The Magic Mountain**, Thomas Mann
+- **Wolf Hall**, Hilary Mantel
+- **Bring Up The Bodies**, Hilary Mantel
+- **Beyond Black**, Hilary Mantel
+- **Matterhorn**, Karl Marlantes
+- **Life of Pi**, Yann Martel
+- **The Scapegoat**, Daphne du Maurier
+- **All the Pretty Horses**, Cormac McCarthy
+- **No Country for Old Men**, Cormac McCarthy
+- **A River Sutra**, Gita Mehta
+- **The Emperor's Children**, Claire Messud
 - **Cloud Atlas**, David Mitchell
 - **The Bone Clocks**, David Mitchell
 - **Number 9 Dream**, David Mitchell
 - **The Thousand Autumns of Jacob de Zoet**, David Mitchell
+- **Love in a Cold Climate**, Nancy Mitford
+- **Hav**, Jan Morris
+- **Skippy Dies**, Paul Murray
+- **The Stories of Vladimir Nabokov**, Vladimir Nabokov
+- **Pale Fire**, Vladimir Nabokov
+- **A House for Mr. Biswas**, V. S. Naipaul
+- **Wizard of the Crow**, Ngũgĩ wa Thiong'o
+- **The Understudy**, David Nicholls
 - **Lempriere's Dictionary**, Lawrence Norfolk
 - **The Pope's Rhinoceros**, Lawrence Norfolk
 - **In the Shape of a Boar**, Lawrence Norfolk
 - **John Saturnall's Feast**, Lawrence Norfolk
-- **Wizard of the Crow**, Ngũgĩ wa Thiong'o
-- **The Understudy**, David Nicholls
-- **A House for Mr. Biswas**, V. S. Naipaul
-- **The Stories of Vladimir Nabokov**, Vladimir Nabokov
-- **Pale Fire**, Vladimir Nabokov
 - **The Third Policeman**, Flann O'Brien
 - **The Famished Road**, Ben Okri
 - **Songs of Enchantment**, Ben Okri
 - **Anil's Ghost**, Michael Ondaatje
 - **In the Skin of a Lion**, Michael Ondaatje
-- **An Instance of the Fingerpost**, Iain Pears
-- **The Dream of Scipio**, Iain Pears
-- **Stone's Fall**, Iain Pears
-- **Cry, the Beloved Country**, Alan Paton
-- **The Hangman's Daughter**, Oliver Pötzsch
-- **The Beggar King**, Oliver Pötzsch
-- **The Cretan Runner**, George Psychoundakis
 - **The Truth**, Michael Palin
+- **The Quincunx**, Charles Palliser
 - **My Name is Red**, Orhan Pamuk
 - **The Black Book**, Orhan Pamuk
 - **The White Castle**, Orhan Pamuk
 - **Other Colours**, Orhan Pamuk
 - **Snow**, Orhan Pamuk
 - **The New Life**, Orhan Pamuk
+- **Cry, the Beloved Country**, Alan Paton
+- **An Instance of the Fingerpost**, Iain Pears
+- **The Dream of Scipio**, Iain Pears
+- **Stone's Fall**, Iain Pears
+- **Amistad**, David Pesci
 - **The Gray Notebook**, Joseph Pla
+- **The Hangman's Daughter**, Oliver Pötzsch
+- **The Beggar King**, Oliver Pötzsch
 - **The Gold Bug Variations**, Richard Powers
 - **Three Farmers on Their Way to a Dance**, Richard Powers
 - **Orfeo**, Richard Powers
 - **The Echo Maker**, Richard Powers
 - **Plowing the Dark**, Richard Powers
 - **The Time of Our Singing**, Richard Powers
+- **The Cretan Runner**, George Psychoundakis
+- **The Captain's Daughter**, Alexander Pushkin
 - **Gravity's Rainbow**, Thomas Pynchon
 - **The Crying of Lot 49**, Thomas Pynchon
 - **Vineland**, Thomas Pynchon
@@ -1248,50 +1266,48 @@ I have a minor obsession with collecting travel books. I doubt I'll visit all or
 - **Against the Day**, Thomas Pynchon
 - **V.**, Thomas Pynchon
 - **Inherent Vice**, Thomas Pynchon
-- **The Quincunx**, Charles Palliser
-- **The Captain's Daughter**, Alexander Pushkin
-- **Amistad**, David Pesci
+- **The Imperfectionists**, Tom Rackman
 - **Fire from Heaven**, Mary Renault
 - **The Persian Boy**, Mary Renault
 - **Funeral Games**, Mary Renault
 - **The Bull from the Sea**, Mary Renault
-- **The Golden House**, Salman Rushdie
-- **The Shadow of the Wind**, Carlos Ruiz Zafon
-- **The Imperfectionists**, Tom Rackman
+- **An Ermine in Czernopol**, Gregor von Rezzori
 - **Still Life With Woodpecker**, Tom Robbins
 - **Jitterbug Perfume**, Tom Robbins
 - **Villa Incognito**, Tom Robbins
 - **Wild Ducks Flying Backwards**, Tom Robbins
 - **Skinny Legs And All**, Tom Robbins
 - **Fierce Invalids Home From Hot Climates**, Tom Robbins
-- **An Ermine in Czernopol**, Gregor von Rezzori
-- **I Capture the Castle**, Dodie Smith
+- **The Shadow of the Wind**, Carlos Ruiz Zafon
+- **The Golden House**, Salman Rushdie
 - **The History of the Siege of Lisbon**, Jose Saramago
-- **The Complete Patrick Melrose Novels**, Edward St Aubyn
+- **Austerlitz**, W. G. Sebald
+- **The Emigrants**, W. G. Sebald
 - **The Peach Blossom Fan**, K’ung Shang-jen
+- **Mr. Penumbra's 24-Hour Bookstore**, Robin Sloan
+- **I Capture the Castle**, Dodie Smith
+- **White Teeth**, Zadie Smith
+- **The Gulag Archipelago**, Aleksandr Solzhenitsyn
+- **The Complete Patrick Melrose Novels**, Edward St Aubyn
 - **The Wayward Bus**, John Steinbeck
 - **In Dubious Battle**, John Steinbeck
 - **East of Eden**, John Steinbeck
 - **Of Mice and Men**, John Steinbeck
 - **The Grapes of Wrath**, John Steinbeck
-- **Mr. Penumbra's 24-Hour Bookstore**, Robin Sloan
-- **The Gulag Archipelago**, Aleksandr Solzhenitsyn
 - **Perfume**, Patrick Susskind
-- **Austerlitz**, W. G. Sebald
-- **The Emigrants**, W. G. Sebald
 - **Lark Rise to Candleford**, Flora Thompson
 - **Sacred Hunger**, Barry Unsworth
 - **Morality Play**, Barry Unsworth
 - **The Rage of the Vulture**, Barry Unsworth
 - **The Ruby in Her Navel**, Barry Unsworth
-- **Expelled from Eden**, William T. Vollmann
 - **Laurus**, Eugene Vodolazkin
+- **Expelled from Eden**, William T. Vollmann
+- **Infinite Jest**, David Foster Wallace
+- **The Paying Guests**, Sarah Waters
+- **Fingersmith**, Sarah Waters
 - **Vile Bodies**, Evelyn Waugh
 - **The Sword of Honour Trilogy**, Evelyn Waugh
 - **Trainspotting**, Irvine Welsh
-- **The Paying Guests**, Sarah Waters
-- **Fingersmith**, Sarah Waters
-- **Infinite Jest**, David Foster Wallace
 
 [Back to Top ↩](/library#my-library)
 
