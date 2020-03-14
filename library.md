@@ -1060,6 +1060,7 @@ I have a minor obsession with collecting travel books. I doubt I'll visit all or
 - **Athena**, John Banville
 - **The Book of Evidence**, John Banville
 - **Ghosts**, John Banville
+- **The Infinities**, John Banville
 - **The Regeneration Trilogy**, Pat Barker
 - **Nothing To Be Frightened Of**, Julian Barnes
 - **A History of the World in 10 1/2 Chapters**, Julian Barnes
@@ -1070,6 +1071,7 @@ I have a minor obsession with collecting travel books. I doubt I'll visit all or
 - **The Sense of an Ending**, Julian Barnes
 - **Before She Met Me**, Julian Barnes
 - **Arthur & George**, Julian Barnes
+- **Keeping an Eye Open**, Julian Barnes
 - **Ship Fever**, Andrea Barrett
 - **The Voyage of the Narwhal**, Andrea Barrett
 - **Seven Men**, Max Beerbohm
@@ -1127,6 +1129,7 @@ I have a minor obsession with collecting travel books. I doubt I'll visit all or
 - **A Star Called Henry**, Roddy Doyle
 - **Paddy Clarke Ha Ha Ha**, Roddy Doyle
 - **Bullfighting**, Roddy Doyle
+- **Oh, Play That Thing**, Roddy Doyle
 - **The World As I Found It**, Bruce Duffy
 - **Ella Minnow Pea**, Mark Dunn
 - **Faith in Fakes**, Umberto Eco
@@ -1206,6 +1209,7 @@ I have a minor obsession with collecting travel books. I doubt I'll visit all or
 - **Wolf Hall**, Hilary Mantel
 - **Bring Up The Bodies**, Hilary Mantel
 - **Beyond Black**, Hilary Mantel
+- **A Place of Greater Safety**, Hilary Mantel
 - **Matterhorn**, Karl Marlantes
 - **Life of Pi**, Yann Martel
 - **The Scapegoat**, Daphne du Maurier
@@ -1219,6 +1223,7 @@ I have a minor obsession with collecting travel books. I doubt I'll visit all or
 - **The Thousand Autumns of Jacob de Zoet**, David Mitchell
 - **Love in a Cold Climate**, Nancy Mitford
 - **Hav**, Jan Morris
+- **The Discovery of Heaven**, Harry Mulisch
 - **Skippy Dies**, Paul Murray
 - **The Stories of Vladimir Nabokov**, Vladimir Nabokov
 - **Pale Fire**, Vladimir Nabokov
@@ -1284,6 +1289,7 @@ I have a minor obsession with collecting travel books. I doubt I'll visit all or
 - **Austerlitz**, W. G. Sebald
 - **The Emigrants**, W. G. Sebald
 - **The Peach Blossom Fan**, K’ung Shang-jen
+- **Absurdistan**, Gary Shteyngart
 - **Mr. Penumbra's 24-Hour Bookstore**, Robin Sloan
 - **I Capture the Castle**, Dodie Smith
 - **White Teeth**, Zadie Smith
