@@ -338,6 +338,7 @@ What can I say about GEB that hasn't been said by a thousand geeks before me?  N
 - **The Ottoman Centuries**, Patrick Balfour, Lord Kinross
 - **The Making of the Atomic Bomb**, Richard Rhodes
 - **The Best and the Brightest**, David Halberstam
+- **Dispatches**, Michael Herr
 - **Five Families**, Selywn Raab
 - **Atrocities**, Matthew White
 - **The Vikings**, Robert Ferguson
@@ -459,6 +460,9 @@ What can I say about GEB that hasn't been said by a thousand geeks before me?  N
 - **A Moment of War**, Laurie Lee
 - **So, Anyway...**, John Cleese
 - **The Informant**, Kurt Eichenwald
+- **Serendipities**, Umberto Eco
+- **On Literature**, Umberto Eco
+- **Keeping an Eye Open**, Julian Barnes
 
 [Back to Top ↩](/library#my-library)
 
@@ -525,6 +529,7 @@ This is a terrific book and one of the top 5 non-fiction books I've ever read. (
 - **Three Mozart Operas**, Richard Moberly
 - **The Band: A Musical History**, Robbie Robertson
 - **Really the Blues**, Mezz Mezzrow
+
 
 [Back to Top ↩](/library#my-library)
 
@@ -664,6 +669,7 @@ I have a minor obsession with collecting travel books. I doubt I'll visit all or
 - **On Foot to the Golden Horn**, Jason Goodwin
 - **Paris to the Moon**, Adam Gopnik
 - **Africa Dances**, Geoffrey Gorer
+- **The Lost City of Z**, David Grann
 - **Journey Without Maps**, Graham Greene
 - **The Devil's Picnic**, Taras Grescoe
 - **The End of Elsewhere**, Taras Grescoe
@@ -1049,16 +1055,17 @@ I have a minor obsession with collecting travel books. I doubt I'll visit all or
 - **Milton in America**, Peter Ackroyd
 - **Brick Lane**, Monica Ali
 - **Dear Illusion: Collected Stories**, Kingsley Amis
+- **Lucky Jim**, Kingsley Amis
 - **The Enchanted April**, Elizabeth von Arnim
 - **The Handmaid's Tale**, Margaret Atwood
 - **Alias Grace**, Margaret Atwood
 - **The Blind Assassin**, Margaret Atwood
 - **The Untouchable**, John Banville
 - **Doctor Copernicus**, John Banville
-- **Kepler**, John Banville
 - **The Newton Letter**, John Banville
-- **Athena**, John Banville
 - **The Book of Evidence**, John Banville
+- **Kepler**, John Banville
+- **Athena**, John Banville
 - **Ghosts**, John Banville
 - **The Infinities**, John Banville
 - **The Regeneration Trilogy**, Pat Barker
@@ -1071,7 +1078,6 @@ I have a minor obsession with collecting travel books. I doubt I'll visit all or
 - **The Sense of an Ending**, Julian Barnes
 - **Before She Met Me**, Julian Barnes
 - **Arthur & George**, Julian Barnes
-- **Keeping an Eye Open**, Julian Barnes
 - **Ship Fever**, Andrea Barrett
 - **The Voyage of the Narwhal**, Andrea Barrett
 - **Seven Men**, Max Beerbohm
@@ -1089,10 +1095,10 @@ I have a minor obsession with collecting travel books. I doubt I'll visit all or
 - **Naked Lunch**, William S. Burroughs
 - **Possession**, A. S. Byatt
 - **The Marriage of Cadmus and Harmony**, Roberto Calasso
-- **Invisible Cities**, Italo Calvino
-- **The Castle of Crossed Destinies**, Italo Calvino
-- **Our Ancestors**, Italo Calvino
 - **If on a winter's night a traveller**, Italo Calvino
+- **The Castle of Crossed Destinies**, Italo Calvino
+- **Invisible Cities**, Italo Calvino
+- **Our Ancestors**, Italo Calvino
 - **Under the Jaguar Sun**, Italo Calvino
 - **t zero**, Italo Calvino
 - **Cosmicomics**, Italo Calvino
@@ -1138,6 +1144,7 @@ I have a minor obsession with collecting travel books. I doubt I'll visit all or
 - **The Name of the Rose**, Umberto Eco
 - **Foucault's Pendulum**, Umberto Eco
 - **The Island of the Day Before**, Umberto Eco
+- **The Mysterious Flame of Queen Loana**, Umberto Eco
 - **Half-Blood Blues**, Esi Edugyan
 - **Invisible Man**, Ralph Ellison
 - **The Siege of Krishnapur**, J. G. Farrell
@@ -1165,7 +1172,9 @@ I have a minor obsession with collecting travel books. I doubt I'll visit all or
 - **Cold Comfort Farm**, Stella Gibbons
 - **Dead Souls**, Nikolai Gogol
 - **The Tin Drum**, Gunter Grass
+- **Travels with My Aunt**, Graham Greene
 - **The Curious Incident of the Dog in the Night Time**, Mark Haddon
+- **Uncommon Type**, Tom Hanks
 - **A Civil Action**, Jonathan Harr
 - **The Good Soldier Svejk**, Jaroslav Hasek
 - **Catch-22**, Joseph Heller
@@ -1186,6 +1195,7 @@ I have a minor obsession with collecting travel books. I doubt I'll visit all or
 - **We, the Drowned**, Carsten Jensen
 - **Ulysses**, James Joyce
 - **Metamorphosis and Other Stories**, Franz Kafka
+- **Zorba the Greek**, Nikos Kazantzakis
 - **Measuring the World**, Daniel Kehlmann
 - **On The Road**, Jack Kerouac
 - **Green Grass Running Water**, Thomas King
