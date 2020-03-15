@@ -804,7 +804,7 @@ I have a minor obsession with collecting travel books. I doubt I'll visit all or
 - **The Snow Leopard**{: style="color: green"}, Peter Matthiessen
 - **The Cloud Forest**, Peter Matthiessen
 - **Far Tortuga**, Peter Matthiessen
-- **The Birds of Heaven **, Peter Matthiessen
+- **The Birds of Heaven**, Peter Matthiessen
 - **African Silences**, Peter Matthiessen
 - **The Tree Where Man Was Born**, Peter Matthiessen
 - **End of the Earth**, Peter Matthiessen
