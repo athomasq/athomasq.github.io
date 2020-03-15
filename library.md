@@ -667,6 +667,7 @@ I have a minor obsession with collecting travel books. I doubt I'll visit all or
 - **Journey to Kars**, Philip Glazebrook
 - **An Egyptian Journal**, William Golding
 - **On Foot to the Golden Horn**, Jason Goodwin
+- **The Gunpowder Gardens**, Jason Goodwin
 - **Paris to the Moon**, Adam Gopnik
 - **Africa Dances**, Geoffrey Gorer
 - **The Lost City of Z**, David Grann
