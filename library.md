@@ -887,6 +887,7 @@ I have a minor obsession with collecting travel books. I doubt I'll visit all or
 - **Pole to Pole**, Michael Palin
 - **New Europe**, Michael Palin
 - **Istanbul**, Orhan Pamuk
+- **Miracle in the Andes**, Nando Parrado
 - **Inca-Kola**, Matthew Parris
 - **The Dangerous River**, Raymond Patterson
 - **In Light of India**, Octavio Paz
@@ -988,8 +989,8 @@ I have a minor obsession with collecting travel books. I doubt I'll visit all or
 - **Among the Mountains**, Wilfred Thesiger
 - **The Life of My Choice**, Wilfred Thesiger
 - **Cochineal Red**, Hugh Thomson
-- **The Dead Yard**, Ian Thomson
 - **The White Rock**, Hugh Thomson
+- **The Dead Yard**, Ian Thomson
 - **Mirror to Damascus**, Colin Thubron
 - **Shadow of the Silk Road**, Colin Thubron
 - **Jerusalem**, Colin Thubron
