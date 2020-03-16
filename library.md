@@ -1119,6 +1119,7 @@ I have a minor obsession with collecting travel books. I doubt I'll visit all or
 - **The Final Solution**, Michael Chabon
 - **The Amazing Adventures of Kavalier & Clay**, Michael Chabon
 - **Gentlemen of the Road**, Michael Chabon
+- **The Mysteries of Pittsburgh**, Michael Chabon
 - **The Shooting Party**, Anton Chekhov
 - **Heart of Darkness**, Joseph Conrad
 - **The Glass Books of the Dream Eaters**, Gordon Dahlquist
