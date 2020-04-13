@@ -79,7 +79,7 @@ The domino analogy is the key here.  *We should consciously seek out and bucket 
 <img src="/assets/img/nber-small-business-survey.png" alt="Small Business Survivability" class="image2">
 <center><i><small>Bartik, Betrand et al, NBER working paper 26989, April 2020</small></i></center>
 
-For example, if we were to see data from an [NBER survey](https://www.nber.org/papers/w26989.pdf) suggesting that only 35% of small businesses think they will survive should the crisis last another 4 months, that would impact the probability we assign to the second domino falling.  Our framework tells us which bucket to put that data into, and what the likely consequences are, and how to adjust our forecasts.
+For example, if we were to see data from an [NBER survey](https://www.nber.org/papers/w26989.pdf) suggesting that only 35% of small businesses think they will survive should the crisis last another 4 months, that would impact the probability we assign to the second domino falling.  Our framework thus tells us which bucket to put that data into, and what the likely consequences are, and how to adjust our forecasts.
 
 <br/>
 
