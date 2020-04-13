@@ -84,6 +84,18 @@ th, td {
   width: 500px;
 }
 
+.image2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: 0px;
+  border-top: 1px solid #eee;
+  border-bottom: 1px solid #eee;
+  width: 400px;
+}
+
+
 .footer {
   font-size: 15px;
   line-height: 1.5;

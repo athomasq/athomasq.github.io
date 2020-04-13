@@ -10,30 +10,36 @@ title: Essays · Abraham Thomas
 <br/>
 
 
+### Events
 
-### Data and APIs
+[Why Might ICE Bid for eBay?](why-might-ice-bid-for-ebay)  
+[Visa's Acquisition of Plaid](APIs-are-eating-the-world)  
+
+<br/>
+
+### Data
 
 [APIs Are Eating the World](APIs-are-eating-the-world)  
-[Data-Driven Versus Data-Informed](data-driven-data-informed)
+[Data-Driven Versus Data-Informed](data-driven-data-informed)  
 
 <br/>
 
-### Markets and Events
+### Markets
 
 [Two Extremes of Market Efficiency](two-extremes-of-market-efficiency)  
-[Why Might ICE Bid for eBay?](why-might-ice-bid-for-ebay)  
+[A Tale of Two Marketplaces: ICE and eBay](why-might-ice-bid-for-ebay)  
 
 <br/>
 
-### Technology Startups
+### Technology
 
 [Failure Modes of Leadership](failure-modes)  
-[Looking Back, Looking Forward](looking-back-looking-forward)
+[Looking Back, Looking Forward](looking-back-looking-forward)  
 
 <br/>
 
-### Decisions Under Uncertainty
+### Decisions
 
-[Being Contrarian Has To Hurt](a-fine-line-between-stupid-and-clever)
+[Being Contrarian Has To Hurt](a-fine-line-between-stupid-and-clever)  
 
 <br/>
