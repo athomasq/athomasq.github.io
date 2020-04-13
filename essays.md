@@ -9,9 +9,20 @@ title: Essays · Abraham Thomas
 
 <br/>
 
+### Latest
+
+<span style="color: #A9A9A9;">2020-04-13: </span>
+[Data in the Time of COVID-19](data-in-the-time-of-covid-19)  
+<span style="color: #A9A9A9;">2020-02-05: </span>
+[A Tale of Two Marketplaces: ICE and eBay](why-might-ice-bid-for-ebay)  
+<span style="color: #A9A9A9;">2020-01-14: </span>
+[APIs Are Eating the World](APIs-are-eating-the-world)  
+
+<br/>
 
 ### Events
 
+[Data in the Time of COVID-19](data-in-the-time-of-covid-19)  
 [Why Might ICE Bid for eBay?](why-might-ice-bid-for-ebay)  
 [Visa's Acquisition of Plaid](APIs-are-eating-the-world)  
 
