@@ -21,7 +21,8 @@ date: 2020-04-13
 - [The Garden of Forking Paths](/data-in-the-time-of-covid-19#the-garden-of-forking-paths)
 - [History: Just One Damn Thing After Another](/data-in-the-time-of-covid-19#history-just-one-damn-thing-after-another)
 - [In Data We Trust, Because We Must](/data-in-the-time-of-covid-19#in-data-we-trust-because-we-must)
-- [Fraught Loops](/data-in-the-time-of-covid-19#fraught-loops)
+- [Fraught Loops](/data-in-the-time-of-covid-19#fraught-loops)  
+- [What I Think About When I Think About Data](/data-in-the-time-of-covid-19#what-i-think-about-when-i-think-about-data)  
 
 ----
 
@@ -93,7 +94,15 @@ And it doesn't end there.  The very conditions necessary for small businesses to
 
 Then again, governments may react to the possibility of a small business apocalypse by rescinding lockdown orders, which would mitigate the immediate economic effects but at the risk of pushing on the third domino via a Q3 resurgence in cases and fatalities.
 
-**The point is not to get everything correct.**  (In such a fast-moving situation with so many unknowns, that's an impossible and indeed counter-productive aspiration).  **The point is to be thoughtful and rigorous in our assimilation of new information.**  This is just one framework; there may be others that are equally robust.  But the important thing is to *have a framework*; in other words, to be aware of context.  By examining data in this disciplined manner, we put ourselves in the best possible situation to understand it, and hopefully act on it.
+<br/>
+
+### What I Think About When I Think About Data
+
+This is just one framework; there may be others that are equally robust.  But the important thing is to *have a framework*; in other words, to be aware of context.
+
+**The point is not to get everything correct.**  In such a fast-moving situation with so many unknowns, that's an impossible and indeed counter-productive aspiration.  **The point is to be thoughtful and rigorous in our assimilation of new information.** 
+
+By examining data in this disciplined manner -- always keeping in mind asymmetric outcomes, the precautionary principle, fat tails and unknown unknowns, systemic fragility: in other words, the known limitations of any overly structured approach -- we put ourselves in the best possible situation to understand it, and hopefully act on it.
 
 *(To be continued... )*
 
