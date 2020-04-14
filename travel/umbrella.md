@@ -7,6 +7,6 @@ title: Umbrella · Abraham Thomas
 
 <i>
 **Umbrella**  
-Kamakura -- 2006  
-Canon Rebel XT + Sigma 30mm; 1/30 at f/5.6
+Hase-dera, Kamakura -- 2006  
+Canon Rebel XT + Sigma 30mm; 1/30 at f/5.6  
 </i>
