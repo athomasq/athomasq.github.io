@@ -17,6 +17,7 @@ Here are some articles in which I'm quoted or featured:
 - [The Globe and Mail](https://www.theglobeandmail.com/investing/article-quandl-and-the-invasive-use-of-data/) (Canada)
 - [Risk Magazine](https://www.risk.net/asset-management/6558871/privacy-risks-dash-funds-alternative-data-dreams)
 - [MIT Technology Review](https://www.technologyreview.com/s/613748/satellites-threaten-privacy/) 	
+- [Euromoney](https://www.euromoney.com/article/b1l63f2yrl2cmp/bank-research-embraces-alternative-data)  
 - [Waters Technology](https://www.waterstechnology.com/management-strategy/4780806/the-proliferation-of-fake-information)
 - [HBS](https://www.hbs.edu/openforum/openforum.hbs.org/goto/challenge/understand-digital-transformation-of-business/quandl-a-marketplace-for-financial-data.html)
 
@@ -47,7 +48,7 @@ https://www.wsj.com/articles/wall-streets-insatiable-lust-data-data-data-1473719
 - **Quandl inquiries:** [Matthew Luongo](mailto:mluongo@prosek.com) at [Prosek Partners](https://www.prosek.com/)  
 - **All other inquiries:** please [email me](mailto:athos1@gmail.com) directly  
 
-[5]: /assets/docs/abraham-thomas-bio.txt
+[5]: /assets/docs/Abraham-Thomas-bio.txt
 [6]: /assets/img/Abraham-Thomas.jpg
 [7]: /assets/img/Abraham-Thomas-Headshot.jpg
 
