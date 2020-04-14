@@ -7,6 +7,6 @@ title: Rocks · Abraham Thomas
 
 <i>
 **Rocks**  
-Daitoku-ji, Kyoto -- 2019  
+Daitoku-ji, Kyōto -- 2019  
 Sony A7 + FE 24-105mm G lens; 24mm 1/200 at f/8
 </i>

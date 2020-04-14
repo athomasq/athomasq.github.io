@@ -7,6 +7,6 @@ title: Green · Abraham Thomas
 
 <i>
 **Green**  
-Hōnen-in, Kyoto -- 2019  
+Hōnen-in, Kyōto -- 2019  
 Sony A7 + FE 24-105mm G lens; 25mm 1/200 at f/8  
 </i>

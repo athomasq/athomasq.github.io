@@ -7,6 +7,6 @@ title: Fence · Abraham Thomas
 
 <i>
 **Fence**  
-Kinmo-in, Kyoto -- 2019  
+Kinmo-in, Kyōto -- 2019  
 Sony A7 + FE 24-105mm G lens; 49mm 1/200 at f/11  
 </i>
