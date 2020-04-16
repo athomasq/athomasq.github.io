@@ -8,5 +8,5 @@ title: Scramble · Abraham Thomas
 <i>
 **Scramble**  
 Shibuya, Tōkyō -- 2006  
-Canon Rebel XT + EF-S 10-22mm; 22mm 1/8s at f/5.6
+Canon Rebel XT + EF-S 10-22mm: 22mm 1/8s f/5.6
 </i>

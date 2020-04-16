@@ -8,5 +8,5 @@ title: Reflection · Abraham Thomas
 <i>
 **Reflection**  
 Athabasca River, Alberta -- 2017  
-Sony A7 + FE 24-240mm lens; 24mm 1/100s at f/9  
+Sony A7 + FE 24-240mm lens: 24mm 1/100s f/9  
 </i>

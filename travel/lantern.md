@@ -8,5 +8,5 @@ title: Lantern · Abraham Thomas
 <i>
 **Lantern**  
 Kanda, Tōkyō -- 2019  
-Sony A7 + FE 24-105mm G lens; 105mm 1/125s at f/4  
+Sony A7 + FE 24-105mm G lens: 105mm 1/125s f/4  
 </i>

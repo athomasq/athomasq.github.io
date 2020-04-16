@@ -8,5 +8,5 @@ title: Curtain · Abraham Thomas
 <i>
 **Curtain**  
 Sensō-ji, Tōkyō -- 2019  
-Sony A7 + FE 24-105mm G lens; 105mm 1/125s at f/8  
+Sony A7 + FE 24-105mm G lens: 105mm 1/125s f/8  
 </i>

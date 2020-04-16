@@ -8,5 +8,5 @@ title: Orsay · Abraham Thomas
 <i>
 **Orsay**  
 Musée d'Orsay, Paris -- 2016  
-iPhone 5s; 4mm 1/30s at f/2.2  
+iPhone 5s: 4mm 1/30s f/2.2  
 </i>

@@ -8,5 +8,5 @@ title: Marsh · Abraham Thomas
 <i>
 **Marsh**  
 Senjōgahara, Nikkō -- 2006  
-Canon Rebel XT + EF-S 10-22mm; 14mm 1/200s at f/10
+Canon Rebel XT + EF-S 10-22mm: 14mm 1/200s f/10
 </i>

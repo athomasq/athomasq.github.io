@@ -8,5 +8,5 @@ title: Canoes · Abraham Thomas
 <i>
 **Canoes**  
 Lake Louise, Alberta -- 2017  
-Sony A7 + FE 24-240mm lens; 28mm 1/200s at f/11  
+Sony A7 + FE 24-240mm lens: 28mm 1/200s f/11  
 </i>
