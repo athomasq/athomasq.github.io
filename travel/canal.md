@@ -7,6 +7,6 @@ title: Canal · Abraham Thomas
 
 <i>
 **Canal**  
-Amsterdam -- 2014  
+De Wallen, Amsterdam -- 2014  
 Sony A7 + Zeiss 55mm: 1/400s f/8  
 </i>

@@ -7,6 +7,6 @@ title: Tram · Abraham Thomas
 
 <i>
 **Tram**  
-Amsterdam -- 2014  
+Damrak, Amsterdam -- 2014  
 Sony A7 + Zeiss 55mm: 1/400s f/8  
 </i>

@@ -7,6 +7,6 @@ title: Scooter · Abraham Thomas
 
 <i>
 **Scooter**  
-Amsterdam -- 2014  
+Damrak, Amsterdam -- 2014  
 Sony A7 + Zeiss 55mm: 1/1600s f/1.8  
 </i>
