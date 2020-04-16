@@ -9,16 +9,9 @@ title: Essays · Abraham Thomas
 
 <br/>
 
-### Events
-
-[Data in the Time of COVID-19](data-in-the-time-of-covid-19)  
-[Why Might ICE Bid for eBay?](why-might-ice-bid-for-ebay)  
-[Visa's Acquisition of Plaid](APIs-are-eating-the-world)  
-
-<br/>
-
 ### Data
 
+[Data in the Time of COVID-19](data-in-the-time-of-covid-19)  
 [APIs Are Eating the World](APIs-are-eating-the-world)  
 [Data-Driven Versus Data-Informed](data-driven-data-informed)  
 
@@ -41,5 +34,13 @@ title: Essays · Abraham Thomas
 ### Decisions
 
 [Being Contrarian Has To Hurt](a-fine-line-between-stupid-and-clever)  
+
+<br/>
+
+### Events
+
+[Data in the Time of COVID-19](data-in-the-time-of-covid-19)  
+[Why Might ICE Bid for eBay?](why-might-ice-bid-for-ebay)  
+[Visa's Acquisition of Plaid](APIs-are-eating-the-world)  
 
 <br/>
