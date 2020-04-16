@@ -8,5 +8,5 @@ title: Louvre · Abraham Thomas
 <i>
 **Louvre**  
 Paris -- 2014  
-Sony A7 + Zeiss 35mm; 1/125 at f/8  
+Sony A7 + Zeiss 35mm; 1/125s at f/8  
 </i>

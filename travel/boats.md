@@ -8,5 +8,5 @@ title: Boats · Abraham Thomas
 <i>
 **Boats**  
 Amsterdam -- 2014  
-iPhone 5s; 4mm 1/586 at f/2.2
+iPhone 5s; 4mm 1/586s at f/2.2
 </i>

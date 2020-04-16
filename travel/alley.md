@@ -8,5 +8,5 @@ title: Alley · Abraham Thomas
 <i>
 **Alley**  
 Shinjuku, Tōkyō -- 2014  
-iPhone 6s Plus; 4mm 1/400 at f/2.2
+iPhone 6s Plus: 4mm 1/400s f/2.2
 </i>

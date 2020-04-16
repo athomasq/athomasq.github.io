@@ -8,5 +8,5 @@ title: Emerald · Abraham Thomas
 <i>
 **Emerald**  
 Emerald Lake, Alberta -- 2017  
-Sony A7 + FE 24-240mm lens; 24mm 1/100 at f/11  
+Sony A7 + FE 24-240mm lens; 24mm 1/100s at f/11  
 </i>

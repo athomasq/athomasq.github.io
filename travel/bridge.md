@@ -8,5 +8,5 @@ title: Bridge · Abraham Thomas
 <i>
 **Bridge**  
 Mistaya Canyon, Alberta -- 2017  
-Sony A7 + Zeiss 16-35mm lens; 27mm 1/10 at f/22  
+Sony A7 + Zeiss 16-35mm lens; 27mm 1/10s at f/22  
 </i>

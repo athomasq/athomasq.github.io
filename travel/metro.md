@@ -8,5 +8,5 @@ title: Métro · Abraham Thomas
 <i>
 **Métro**  
 Saint-Michel, Paris -- 2014  
-Sony A7 + Zeiss 35mm; 1/100 at f/5   
+Sony A7 + Zeiss 35mm; 1/100s at f/5   
 </i>
