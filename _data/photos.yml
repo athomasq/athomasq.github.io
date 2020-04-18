@@ -45,33 +45,33 @@
 
 - album: Alberta
   pictures:
-    - name: Waterfall
-      link: /travel/waterfall
-      smol: /assets/smol/Waterfall_.jpg
+    - name: Canoes
+      link: /travel/canoes
+      smol: /assets/smol/Canoes_.jpg
       width: 120px
+    - name: Canyon
+      link: /travel/canyon
+      smol: /assets/smol/Canyon_.jpg
+      width: 270px    
     - name: Reflection
       link: /travel/reflection
       smol: /assets/smol/Reflection_.jpg
       width: 270px
-    - name: Canyon
-      link: /travel/canyon
-      smol: /assets/smol/Canyon_.jpg
-      width: 270px
-
+    
 - album: newline
   pictures:
     - name: Bridge
       link: /travel/bridge
       smol: /assets/smol/Bridge_.jpg
       width: 270px
-    - name: Emerald
-      link: /travel/emerald
-      smol: /assets/smol/Emerald_.jpg
-      width: 270px
-    - name: Canoes
-      link: /travel/canoes
-      smol: /assets/smol/Canoes_.jpg
+    - name: Waterfall
+      link: /travel/waterfall
+      smol: /assets/smol/Waterfall_.jpg
       width: 120px
+    - name: Glacier
+      link: /travel/glacier
+      smol: /assets/smol/Glacier_.jpg
+      width: 270px
 
 - album: Amsterdam
   pictures:
