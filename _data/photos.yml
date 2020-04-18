@@ -125,3 +125,18 @@
       link: /travel/tree
       smol: /assets/smol/Tree_.jpg
       width: 270px
+
+- album: Cities
+  pictures:
+    - name: Dome
+      link: /travel/dome
+      smol: /assets/smol/Dome_.jpg
+      width: 270px
+    - name: Cobbles
+      link: /travel/cobbles
+      smol: /assets/smol/Cobbles_.jpg
+      width: 120px
+    - name: Night
+      link: /travel/night
+      smol: /assets/smol/Night_.jpg
+      width: 270px
