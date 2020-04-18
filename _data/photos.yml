@@ -110,3 +110,18 @@
       link: /travel/orsay
       smol: /assets/smol/Orsay_.jpg
       width: 210px
+
+- album: Parks
+  pictures:
+    - name: Branch
+      link: /travel/branch
+      smol: /assets/smol/Branch_.jpg
+      width: 120px
+    - name: Path
+      link: /travel/path
+      smol: /assets/smol/Path_.jpg
+      width: 270px
+    - name: Tree
+      link: /travel/tree
+      smol: /assets/smol/Tree_.jpg
+      width: 270px
