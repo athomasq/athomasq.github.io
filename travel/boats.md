@@ -3,7 +3,7 @@ layout: photo
 title: Boats · Abraham Thomas
 ---
 
-<img src="/assets/photos/Boats.jpg" width="360px" class="photo">
+<img src="/assets/photos/Boats.jpg" width="400px" class="photo">
 
 <i>
 **Boats**  

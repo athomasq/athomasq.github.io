@@ -136,7 +136,62 @@
       link: /travel/cobbles
       smol: /assets/smol/Cobbles_.jpg
       width: 120px
-    - name: Night
-      link: /travel/night
-      smol: /assets/smol/Night_.jpg
+    - name: After
+      link: /travel/after
+      smol: /assets/smol/After_.jpg
       width: 270px
+
+- album: Japan 2
+  pictures:
+    - name: Buddha
+      link: /travel/buddha
+      smol: /assets/smol/Buddha_.jpg
+      width: 270px
+    - name: Incense
+      link: /travel/incense
+      smol: /assets/smol/Incense_.jpg
+      width: 270px
+    - name: Span
+      link: /travel/span
+      smol: /assets/smol/Span_.jpg
+      width: 120px
+
+- album: newline
+  pictures:
+    - name: Pavilion
+      link: /travel/pavilion
+      smol: /assets/smol/Pavilion_.jpg
+      width: 124px
+    - name: Moss
+      link: /travel/moss
+      smol: /assets/smol/Moss_.jpg
+      width: 279px
+    - name: Pink
+      link: /travel/pink
+      smol: /assets/smol/Pink_.jpg
+      width: 124px
+    - name: Bamboo
+      link: /travel/bamboo
+      smol: /assets/smol/Bamboo_.jpg
+      width: 124px
+
+- album: newline
+  pictures:
+    - name: Texture
+      link: /travel/texture
+      smol: /assets/smol/Texture_.jpg
+      width: 252px
+    - name: Ramen
+      link: /travel/ramen
+      smol: /assets/smol/Ramen_.jpg
+      width: 116px
+    - name: Rush
+      link: /travel/rush
+      smol: /assets/smol/Rush_.jpg
+      width: 116px
+    - name: Node
+      link: /travel/node
+      smol: /assets/smol/Node_.jpg
+      width: 168px
+
+

@@ -7,6 +7,6 @@ title: Dome · Abraham Thomas
 
 <i>
 **Dome**  
-Il Duomo, Firenze -- 2007  
+Santa Maria del Fiore, Firenze -- 2007  
 Canon Rebel XT + EF-S 10-22mm: 14mm 1/125s f/7.1
 </i>
