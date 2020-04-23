@@ -21,12 +21,21 @@ table, th, td {
 </head>
 
 <body>
+
+<!--
+{% for item in site.data.photos %}   
+  {% if item.album != "newline" %}  
+     <a href="/travel#{{ item.album }}"> {{item.album}} &emsp; &emsp;</a>
+  {% endif %}
+{% endfor %}
+-->
+
 {% for item in site.data.photos %}   
   {% if item.album != "newline" %}
     <br/>
     <br/>
     <br/>
-    <h3> {{ item.album }} </h3>
+    <h2 id="{{ item.album }}"> {{ item.album }} </h2>
     <br/>
   {% endif %}
     <table>

@@ -141,7 +141,7 @@
       smol: /assets/smol/After_.jpg
       width: 270px
 
-- album: Japan 2
+- album: Japan+
   pictures:
     - name: Buddha
       link: /travel/buddha
