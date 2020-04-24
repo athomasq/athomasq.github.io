@@ -11,4 +11,6 @@ Hōnen-in, Kyōto -- 2019
 Sony A7 + FE 24-105mm G lens: 25mm 1/200s f/8  
 </i>
 
-<a href="/travel/alley"> &laquo; Prev </a> &emsp; · &emsp; <a href="/travel/marsh"> Next &raquo; </a>
+<a href="/travel/alley"> &laquo; Prev </a> &emsp; · &emsp; 
+<a href="/travel"> Home </a> &emsp; · &emsp; 
+<a href="/travel/marsh"> Next &raquo; </a>

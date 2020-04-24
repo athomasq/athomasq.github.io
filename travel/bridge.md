@@ -11,4 +11,6 @@ Mistaya Canyon, Alberta -- 2017
 Sony A7 + Zeiss 16-35mm lens: 27mm 1/10s f/22  
 </i>
 
-<a href="/travel/reflection"> &laquo; Prev </a> &emsp; · &emsp; <a href="/travel/waterfall"> Next &raquo; </a>
+<a href="/travel/reflection"> &laquo; Prev </a> &emsp; · &emsp; 
+<a href="/travel"> Home </a> &emsp; · &emsp; 
+<a href="/travel/waterfall"> Next &raquo; </a>

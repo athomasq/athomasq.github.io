@@ -11,4 +11,6 @@ Athabasca River, Alberta -- 2017
 Sony A7 + FE 24-240mm lens: 24mm 1/100s f/9  
 </i>
 
-<a href="/travel/canyon"> &laquo; Prev </a> &emsp; · &emsp; <a href="/travel/bridge"> Next &raquo; </a>
+<a href="/travel/canyon"> &laquo; Prev </a> &emsp; · &emsp; 
+<a href="/travel"> Home </a> &emsp; · &emsp; 
+<a href="/travel/bridge"> Next &raquo; </a>
