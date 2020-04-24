@@ -10,3 +10,5 @@ title: Marsh · Abraham Thomas
 Senjōgahara, Nikkō -- 2006  
 Canon Rebel XT + EF-S 10-22mm: 14mm 1/200s f/10
 </i>
+
+<a href="/travel/green"> &laquo; Prev </a> &emsp; · &emsp; <a href="/travel/canoes"> Next &raquo; </a>

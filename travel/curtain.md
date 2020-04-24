@@ -10,3 +10,5 @@ title: Curtain · Abraham Thomas
 Sensō-ji, Tōkyō -- 2019  
 Sony A7 + FE 24-105mm G lens: 105mm 1/125s f/8  
 </i>
+
+<a href="/travel/umbrella"> &laquo; Prev </a> &emsp; · &emsp; <a href="/travel/rocks"> Next &raquo; </a>
