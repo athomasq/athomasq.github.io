@@ -10,3 +10,7 @@ title: Moss · Abraham Thomas
 Jishō-ji, Kyōto -- 2019  
 Sony A7 + FE 24-105mm G lens: 37mm 1/200s f/11  
 </i>
+
+<a href="/travel/pavilion"> &laquo; Prev </a> &emsp; · &emsp; 
+<a href="/travel"> Home </a> &emsp; · &emsp; 
+<a href="/travel/pink"> Next &raquo; </a>

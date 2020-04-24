@@ -10,3 +10,7 @@ title: Ramen · Abraham Thomas
 Akihabara, Tōkyō -- 2019  
 Sony A7 + FE 24-105mm G lens: 83mm 1/10s f/8  
 </i>
+
+<a href="/travel/texture"> &laquo; Prev </a> &emsp; · &emsp; 
+<a href="/travel"> Home </a> &emsp; · &emsp; 
+<a href="/travel/rush"> Next &raquo; </a>

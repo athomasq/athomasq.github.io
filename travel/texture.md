@@ -10,3 +10,7 @@ title: Texture · Abraham Thomas
 Shōyō-en, Nikkō -- 2006  
 Canon Rebel XT + Sigma 30mm: 1/30s f/5.6
 </i>
+
+<a href="/travel/bamboo"> &laquo; Prev </a> &emsp; · &emsp; 
+<a href="/travel"> Home </a> &emsp; · &emsp; 
+<a href="/travel/ramen"> Next &raquo; </a>
