@@ -10,3 +10,7 @@ title: Orsay · Abraham Thomas
 Musée d'Orsay, Paris -- 2016  
 iPhone 5s: 4mm 1/30s f/2.2  
 </i>
+
+<a href="/travel/metro"> &laquo; Prev </a> &emsp; · &emsp; 
+<a href="/travel"> Home </a> &emsp; · &emsp; 
+<a href="/travel/branch"> Next &raquo; </a>

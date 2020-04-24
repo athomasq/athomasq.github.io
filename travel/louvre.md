@@ -10,3 +10,5 @@ title: Louvre · Abraham Thomas
 Paris -- 2014  
 Sony A7 + Zeiss 35mm: 1/125s f/8  
 </i>
+
+<a href="/travel/boats"> &laquo; Prev </a> &emsp; · &emsp; <a href="/travel/cafe"> Next &raquo; </a>

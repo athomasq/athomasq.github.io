@@ -10,3 +10,5 @@ title: Canal · Abraham Thomas
 De Wallen, Amsterdam -- 2014  
 Sony A7 + Zeiss 55mm: 1/400s f/8  
 </i>
+
+<a href="/travel/tram"> &laquo; Prev </a> &emsp; · &emsp; <a href="/travel/scooter"> Next &raquo; </a>
