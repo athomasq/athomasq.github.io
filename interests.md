@@ -7,10 +7,10 @@ title: Interests · Abraham Thomas
 
 ----
 
+*Magic happens at the intersection of competences.  
+I have three: markets, technology and data.*
+
 <br/>
-
-
-Magic happens at the intersection of competences.  I have three: markets, technology and data.
 
 ### Markets
 
