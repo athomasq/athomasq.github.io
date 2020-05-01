@@ -30,7 +30,7 @@ While I'm no longer a full-time trader, I continue to find markets endlessly fas
 
 *(This section will be updated once a quarter -- at best.)*
 
-At the end of 2019, I moved largely into cash and bonds. As of 2019-12-31, my overall allocation is:
+At the end of 2019, I moved largely into cash and bonds. As of December 2019, my overall allocation is:
 
 - 57% medium-duration bonds 
 - 20% cash
@@ -38,7 +38,7 @@ At the end of 2019, I moved largely into cash and bonds. As of 2019-12-31, my ov
 - 4% small-cap (startup) equities
 - 4% residential real estate
 
-I assign a higher probability than the market currently does to a U-shaped recovery and possible debt-deflation in the United States.
+**Update, April 2020:** I assign a higher probability than the market currently does to a U-shaped recovery and debt-deflation in the USA.  My allocations remain unchanged.
 
 ----
 
@@ -46,7 +46,7 @@ I assign a higher probability than the market currently does to a U-shaped recov
 
 ### My Startup Portfolio
 
-I occasionally invest in startups, thought I don't consider myself an active angel investor.  Here are my investments as of 2019-12-31:
+I occasionally invest in startups, thought I don't consider myself an active angel investor.  Here are my startup investments as of December 2019:
 
 - [Locus](https://locus.sh/): logistics intelligence (Series B - Tiger Global, Falcon Edge)
 - [Vue](https://vue.ai/): computer vision for commerce (Series A - Sequoia)
