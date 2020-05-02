@@ -6,7 +6,7 @@ title: Portfolio · Abraham Thomas
 
 ----
 
-*Money is boring, but markets are endlessly fascinating.*
+*Money is kind of boring, but markets are endlessly fascinating.*
 
 <br/>
 
