@@ -12,15 +12,15 @@ title: Portfolio · Abraham Thomas
 
 ### My Investing Background
 
-I fell into finance by accident.  After graduating from university, I was (somewhat serendipitously) offered a job as a programmer slash analyst slash odd jobs person at a hedge fund.  At the time hedge funds were not as famous (or notorious) as they are now, and I certainly didn't know a stock from a bond, but the idea of building mathematical models to predict the market sounded amazingly cool, so I took the plunge.
+I fell into finance by accident.  After graduating from university, I was (somewhat serendipitously) offered a job as a quant-analyst-programmer-odd-jobs-person at a hedge fund.  At the time hedge funds were not as famous (or notorious) as they are now, and I hardly knew the difference between a stock and a bond, but the idea of building mathematical models to predict the market sounded amazingly cool, so I took the plunge.
 
-I loved it.  I programmed other people's models, then created models of my own, then built systems to trade those models, then began trading them myself, and eventually I found myself a full-fledged quant portfolio manager.  I started out doing fixed income arbitrage (bonds, swaps, futures, options etc), then branched out into long-short relative value and global macro.  I was pretty damn good at it too (if I say so myself).
+I loved it.  I programmed other people's models, then created models of my own, then built systems to trade those models, then began trading them myself, and eventually I found myself a full-fledged portfolio manager.  I started out in fixed income arbitrage, then branched out into long-short relative value and global macro.  I was pretty damn good at it too.
 
 My best trade was my last one.  In early 2007, around my 30th birthday, I wound down my portfolio near its all-time high water mark, and walked away.  Partly this was because the market as a whole felt unhealthy to me -- too much capital and leverage, not enough opportunity -- but mostly this was because I was getting bored.  I didn't want to spend the rest of my live moving money around, so I left.
 
-I still invest, but only for myself.  I believe markets are incredibly efficient at a micro level, so I prefer not to invest in specific securities, only indexes.  At the same time, I believe markets are often inefficient at the macro level, so I'm not afraid to rotate aggressively.  I don't aim to beat the market or generate alpha; I aim to minimize my maximum regret. 
+I still invest, but only for myself.  I believe markets are quite efficient at the micro level, so I prefer not to invest in specific securities, only indexes.  At the same time, I believe markets are often inefficient at the macro level, so I'm not afraid to rotate aggressively.  I don't aim to beat the market or generate alpha *per se*; I aim to minimize my maximum regret. 
 
-While I'm no longer a full-time trader, I continue to find markets endlessly fascinating.  The interplay of logic and reason and psychology and emotion; of mathematics and analysis and fear and greed; the feedback loops and non-linearity; the game theory and dynamic behaviour and emergent phenomena; the newness of every episode but also the deep rhymes with the past -- it's rich and rewarding and worthy of study for many lifetimes.
+While I'm no longer a full-time trader, I continue to find markets endlessly fascinating.  The interplay of logic and reason and psychology and emotion; of mathematics and analysis and fear and greed; the feedback loops and non-linearity; the game theory and dynamic behaviour and emergent phenomena; the newness of every episode but also the deep rhymes with the past -- it's rich and rewarding and worthy of many lifetimes' study.
 
 ----
 
@@ -38,7 +38,7 @@ At the end of 2019, I moved largely into cash and bonds. As of December 2019, my
 - 4% small-cap (startup) equities
 - 4% residential real estate
 
-**Update, April 2020:** I assign a higher probability than the market currently does to a U-shaped recovery and debt-deflation in the USA.  My allocations remain unchanged.
+**Update, April 2020:** I assign a higher probability than the market currently does to a deep recession and slow recovery in the USA.  My allocations remain unchanged. 
 
 ----
 
