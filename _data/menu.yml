@@ -2,6 +2,8 @@
   link: /about
 - name: Essays
   link: /essays
+- name: Gallery
+  link: /gallery
 - name: Interests
   link: /interests
 - name: Library
@@ -12,8 +14,6 @@
   link: /press
 - name: Resources
   link: /resources
-- name: Travel
-  link: /travel
 - name: Credits
   link: /credits
 - name: Contact

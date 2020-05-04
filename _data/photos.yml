@@ -1,196 +1,196 @@
 - album: Japan
   pictures:
     - name: Umbrella
-      link: /travel/umbrella
+      link: /gallery/umbrella
       smol: /assets/smol/Umbrella_.jpg
       width: 270px
     - name: Curtain
-      link: /travel/curtain
+      link: /gallery/curtain
       smol: /assets/smol/Curtain_.jpg
       width: 270px
     - name: Rocks
-      link: /travel/rocks
+      link: /gallery/rocks
       smol: /assets/smol/Rocks_.jpg
       width: 120px
 
 - album: newline
   pictures:
     - name: Lantern
-      link: /travel/lantern
+      link: /gallery/lantern
       smol: /assets/smol/Lantern_.jpg
       width: 120px
     - name: Scramble
-      link: /travel/scramble
+      link: /gallery/scramble
       smol: /assets/smol/Scramble_.jpg
       width: 270px
     - name: Fence
-      link: /travel/fence
+      link: /gallery/fence
       smol: /assets/smol/Fence_.jpg
       width: 270px
 
 - album: newline
   pictures:
     - name: Alley
-      link: /travel/alley
+      link: /gallery/alley
       smol: /assets/smol/Alley_.jpg
       width: 163px
     - name: Green
-      link: /travel/green
+      link: /gallery/green
       smol: /assets/smol/Green_.jpg
       width: 248px
     - name: Marsh
-      link: /travel/marsh
+      link: /gallery/marsh
       smol: /assets/smol/Marsh_.jpg
       width: 248px
 
 - album: Alberta
   pictures:
     - name: Canoes
-      link: /travel/canoes
+      link: /gallery/canoes
       smol: /assets/smol/Canoes_.jpg
       width: 120px
     - name: Canyon
-      link: /travel/canyon
+      link: /gallery/canyon
       smol: /assets/smol/Canyon_.jpg
       width: 270px    
     - name: Reflection
-      link: /travel/reflection
+      link: /gallery/reflection
       smol: /assets/smol/Reflection_.jpg
       width: 270px
     
 - album: newline
   pictures:
     - name: Bridge
-      link: /travel/bridge
+      link: /gallery/bridge
       smol: /assets/smol/Bridge_.jpg
       width: 270px
     - name: Waterfall
-      link: /travel/waterfall
+      link: /gallery/waterfall
       smol: /assets/smol/Waterfall_.jpg
       width: 120px
     - name: Glacier
-      link: /travel/glacier
+      link: /gallery/glacier
       smol: /assets/smol/Glacier_.jpg
       width: 270px
 
 - album: Amsterdam
   pictures:
     - name: Tram
-      link: /travel/tram
+      link: /gallery/tram
       smol: /assets/smol/Tram_.jpg
       width: 140px
     - name: Canal
-      link: /travel/canal
+      link: /gallery/canal
       smol: /assets/smol/Canal_.jpg
       width: 108px
     - name: Scooter
-      link: /travel/scooter
+      link: /gallery/scooter
       smol: /assets/smol/Scooter_.jpg
       width: 243px
     - name: Boats
-      link: /travel/boats
+      link: /gallery/boats
       smol: /assets/smol/Boats_.jpg
       width: 162px
 
 - album: Paris
   pictures:
     - name: Louvre
-      link: /travel/louvre
+      link: /gallery/louvre
       smol: /assets/smol/Louvre_.jpg
       width: 105px
     - name: Cafe
-      link: /travel/cafe
+      link: /gallery/cafe
       smol: /assets/smol/Cafe_.jpg
       width: 235px
     - name: Metro
-      link: /travel/metro
+      link: /gallery/metro
       smol: /assets/smol/Metro_.jpg
       width: 105px
     - name: Orsay
-      link: /travel/orsay
+      link: /gallery/orsay
       smol: /assets/smol/Orsay_.jpg
       width: 210px
 
 - album: Parks
   pictures:
     - name: Branch
-      link: /travel/branch
+      link: /gallery/branch
       smol: /assets/smol/Branch_.jpg
       width: 120px
     - name: Path
-      link: /travel/path
+      link: /gallery/path
       smol: /assets/smol/Path_.jpg
       width: 270px
     - name: Tree
-      link: /travel/tree
+      link: /gallery/tree
       smol: /assets/smol/Tree_.jpg
       width: 270px
 
 - album: Cities
   pictures:
     - name: Dome
-      link: /travel/dome
+      link: /gallery/dome
       smol: /assets/smol/Dome_.jpg
       width: 270px
     - name: Cobbles
-      link: /travel/cobbles
+      link: /gallery/cobbles
       smol: /assets/smol/Cobbles_.jpg
       width: 120px
     - name: After
-      link: /travel/after
+      link: /gallery/after
       smol: /assets/smol/After_.jpg
       width: 270px
 
 - album: Japan+
   pictures:
     - name: Buddha
-      link: /travel/buddha
+      link: /gallery/buddha
       smol: /assets/smol/Buddha_.jpg
       width: 270px
     - name: Incense
-      link: /travel/incense
+      link: /gallery/incense
       smol: /assets/smol/Incense_.jpg
       width: 270px
     - name: Span
-      link: /travel/span
+      link: /gallery/span
       smol: /assets/smol/Span_.jpg
       width: 120px
 
 - album: newline
   pictures:
     - name: Pavilion
-      link: /travel/pavilion
+      link: /gallery/pavilion
       smol: /assets/smol/Pavilion_.jpg
       width: 124px
     - name: Moss
-      link: /travel/moss
+      link: /gallery/moss
       smol: /assets/smol/Moss_.jpg
       width: 279px
     - name: Pink
-      link: /travel/pink
+      link: /gallery/pink
       smol: /assets/smol/Pink_.jpg
       width: 124px
     - name: Bamboo
-      link: /travel/bamboo
+      link: /gallery/bamboo
       smol: /assets/smol/Bamboo_.jpg
       width: 124px
 
 - album: newline
   pictures:
     - name: Texture
-      link: /travel/texture
+      link: /gallery/texture
       smol: /assets/smol/Texture_.jpg
       width: 252px
     - name: Ramen
-      link: /travel/ramen
+      link: /gallery/ramen
       smol: /assets/smol/Ramen_.jpg
       width: 116px
     - name: Rush
-      link: /travel/rush
+      link: /gallery/rush
       smol: /assets/smol/Rush_.jpg
       width: 116px
     - name: Node
-      link: /travel/node
+      link: /gallery/node
       smol: /assets/smol/Node_.jpg
       width: 168px
 
