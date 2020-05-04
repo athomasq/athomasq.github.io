@@ -9,6 +9,19 @@ title: Essays · Abraham Thomas
 
 <br/>
 
+### Latest
+
+2020-05 &emsp;&emsp;&emsp; [Sterner Stuff](sterner-stuff)  
+2020-04 &emsp;&emsp;&emsp; [Data in the Time of COVID-19](data-in-the-time-of-covid-19)  
+2020-02 &emsp;&emsp;&emsp; [A Tale of Two Marketplaces: ICE and eBay](why-might-ice-bid-for-ebay)  
+2020-01 &emsp;&emsp;&emsp; [APIs Are Eating the World](APIs-are-eating-the-world)   
+
+<br/>
+
+----
+
+<br/>
+
 ### Data
 
 [Data in the Time of COVID-19](data-in-the-time-of-covid-19)  
@@ -26,6 +39,7 @@ title: Essays · Abraham Thomas
 
 ### Technology
 
+[Sterner Stuff](sterner-stuff)  
 [Failure Modes of Leadership](failure-modes)  
 [Looking Back, Looking Forward](looking-back-looking-forward)  
 
@@ -37,10 +51,5 @@ title: Essays · Abraham Thomas
 
 <br/>
 
-### Events
-
-[Data in the Time of COVID-19](data-in-the-time-of-covid-19)  
-[Why Might ICE Bid for eBay?](why-might-ice-bid-for-ebay)  
-[Visa's Acquisition of Plaid](APIs-are-eating-the-world)  
 
 <br/>

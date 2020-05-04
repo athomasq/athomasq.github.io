@@ -5,7 +5,8 @@ title: Why might ICE bid for eBay?
 date: 2020-02-05
 ---
 
-*If ever there was a merger made for me to write about, it's this one: ICE is rumored to be bidding $30B for eBay.*
+*ICE is rumored to be bidding $30B for eBay.  
+If ever there was a merger made for me to write about, it's this one.*
 
 ----
 
