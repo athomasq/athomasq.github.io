@@ -54,7 +54,7 @@ But why haven't we been building?  What went wrong?*
 
 **12.** Our cities, our healthcare, our education, our factories, our transportation: none of them are transformationally improved from 50 years ago. And that's inexcusable.
 
-**13.** Quoting [Marc Andreessen](https://twitter.com/pmarca): "The problem is not technology.  The problem is not money.  The problem is desire.  The problem is inertia.  The problem is regulatory capture.  And the problem is will."
+**13.** [Marc Andreessen](https://twitter.com/pmarca) puts it bluntly: "The problem is not technology.  The problem is not money.  The problem is desire.  The problem is inertia.  The problem is regulatory capture.  And the problem is will."
 
 **14.** When large numbers of independent agents exhibit the same patterns of sub-optimal behaviour, it's worth investigating the underlying mechanisms and incentives that drive this behaviour.  Why don't we have the desire any more?
 
@@ -128,19 +128,19 @@ But why haven't we been building?  What went wrong?*
 
 <br/>
 
-**35.** A third, less benign set of explanations invokes the unintended consequences of technological and financial leverage.  
+**35.** A third, less benign set of explanations invokes the sheer power of software and money in the modern world.
 
-**36.** In tech, [Jeff Hammerbacher](https://twitter.com/hackingdata) wrote: "The best minds of my generation are thinking about how to make people click ads".  It feels so wasteful.
+**36.** At the cutting edge of software, [Jeff Hammerbacher](https://twitter.com/hackingdata) wrote: "The best minds of my generation are thinking about how to make people click ads".  It feels so wasteful.
 
 **37.** Finance is similar: there's a tremendous amount of ingenuity and innovation in that field, but to what end?  Making a few rich people marginally richer and a few other rich people marginally poorer?
 
-**38.** Together, finance and technology have hoovered up lots of talent and lots of capital.  They're the most influential industries in the world right now.  As go finance and technology, so goes the productive frontier of our economy.
+**38.** Together, finance and software have hoovered up lots of talent and lots of capital.  They're the most influential industries in the world right now.  As go finance and software, so goes the productive frontier of our economy.
 
-**39.** And for both good and bad, both of these industries are driven by what [Venkatesh Rao](https://twitter.com/vgr) brilliantly dubs [soft technology](https://breakingsmart.com/en/season-1/a-new-soft-technology/).  Which means they offer a very specific kind of operating leverage.
+**39.** And for both good and bad, both of these industries are examples of what [Venkatesh Rao](https://twitter.com/vgr) identifies as [soft technology](https://breakingsmart.com/en/season-1/a-new-soft-technology/).  Which means they offer a very specific kind of operating leverage.
 
 **40.** This is key.  The leverage offered by software at web scale, and by money at institutional scale, means that even small improvements or advantages can lead to immense returns for practitioners.
 
-**41.** It's easier (and safer) to aim for those small improvements than to swing for the fences -- which is why smart and ambitious individuals choose that option, and why institutions encourage them (while actively penalizing the non-conformists). 
+**41.** It's easier (and safer) to aim for those small improvements than to swing for the fences -- which is why smart and self-interested individuals choose that option. 
 
 **42.** As a result we seem to have traded step-function change for marginal efficiencies.
 
@@ -152,39 +152,22 @@ But why haven't we been building?  What went wrong?*
 
 <br/>
 
-**44.** This segues into our fourth set of explanations: systemic failures.
+**44.** The same incentives that discourage individual risk-taking apply at a company level.  As we move from installation to deployment, companies become ever more risk-averse.  And investors love it.
 
-**45.** [Peter Thiel](https://twitter.com/PeterThiel) points out that much of the progress we've had in recent decades has been in the field of bits, not atoms.  And perhaps not coincidentally, bits are far less regulated than atoms.
+**45.** It's easier to take proven technologies and bring them to new markets than it is to invent new technologies.  (Investors call this "executing a repeatable playbook".)
 
-**46.** More generally, costs are higher and progress is slower in fields that tend to have lots of regulations -- healthcare, education, finance and housing being the most obvious examples.  
+**46.** It's easier to win an audience through acquisitions and consolidation than it is to win customer hearts and minds.  (Investors call this "increasing economies of scale".)
 
-**47.** [Francis Fukuyama](https://twitter.com/FukuyamaFrancis) talks about internal clientelism: the idea that the US government is in thrall to interest groups associated with both right (big business, oligopolies, crony capitalism, rampant financialization) and left (NIMBYs, rent-seeking unions, public sector ossification).
+**47.** It's easier to grow revenue via oligopolies and customer capture than it is to engage in open competition.  (Investors calls this "fostering network effects".)
 
-**48.** Government capture leads to regulatory capture, which leads to stagnation.
+**48.** It's easier to boost reported EPS using buybacks and leverage than it is to actually improve earnings quality. (Investors call this "running an efficient balance sheet".)
 
-**49.** Tellingly, the Perez framework predicts increasing regulation of bits as the software stack becomes ubiquitous.  This pattern is true of every tech as it approaches maturity; it's not a cause for optimism.
+**49.** All of this makes perfect sense!  Why *should* a company do anything the hard way when an easier alternative exists?  Why *should* investors take risk if they don't have to?
 
-<br/>
+**50.** Perezian deployment coupled with the power of software and money leads to a world that looks awfully like the one we live in.
 
-----
+**51.** Large companies growing ever larger, protected by ever-stronger network effects, a lack of appetite for fundamental research, and a never-ending quest for optimization.
 
-<br/>
-
-**50.** Then there's demographics.  The centre of political power in the US has for a long time been the baby boomers.  
-
-**51.** Fifty years ago they may have been rebels.  Today, they largely favour the status quo -- which in turn favours them, via the tax code, the health, education and retirement systems, zoning regulations and more.  
-
-**52.** Society wide, there's a smugness, a complacency, a lack of imagination and compassion and courage, an unwillingness to accept criticism, and a pervasive selfishness that is disheartening and I have to say tragic.  
-
-**53.** As someone who grew up in a poor country, I will never understand how a society so incredibly rich can still have poverty, and homelessness, and malnutrition, and poor education, and preventable disease.  
-
-**54.** What's worse, endless infighting over the resources that could mitigate these ills means that there is no bandwidth left to actually build.
-
-**55.** What unites all of these systemic themes is rent-seeking over productivity.  Squabbling over slices from a fixed pie rather than trying to make the pie bigger.  
-
-**56.** Quoting [Ben Thompson](https://twitter.com/BenThompson): "There are countries that act, and there are countries that talk."  Talking (and policing talk) means fighting for your slice of the pie; not making the pie bigger.
-
-**57.** When rent-seeking is the goal, all your efforts become positional.  
 
 <br/>
 
@@ -192,19 +175,17 @@ But why haven't we been building?  What went wrong?*
 
 <br/>
 
-**58.** There's another troubling possibility.  It may be that -- atrophied by years of risk aversion and rent-seeking and financialization -- we've simply forgotten how to build.
+**52.** This segues into our fourth set of explanations: systemic failures.
 
-**59.** Institutional knowledge, once lost, is hard to recover.  The cure for scurvy was known, forgotten, rediscovered and forgotten again, before Szent-Györgyi isolated Vitamin C.  We still don't know exactly how to make Roman concrete or Damascus steel.   
+**53.** [Peter Thiel](https://twitter.com/PeterThiel) points out that much of the progress we've had in recent decades has been in the field of bits, not atoms.  And perhaps not coincidentally, bits are far less regulated than atoms.
 
-**60.** While modern historians have shown that the Dark Ages were not as tenebrous as previously thought, it remains the case that much of Western Europe was materially worse off in 700 CE than in 70.  And the loss of institutional knowledge has a lot to do with that.
+**54.** More generally, costs are higher and progress is slower in fields that tend to have lots of regulations -- healthcare, education, finance and housing being the most obvious examples.  
 
-**61.** This, I think, is what [Patrick Collison](https://twitter.com/patrickc) is getting at when he talks about [speed](https://patrickcollison.com/fast).  What starts as the inability to do things fast ends as the inability to do things at all.
+**55.** [Francis Fukuyama](https://twitter.com/FukuyamaFrancis) talks about internal clientelism: the idea that the US government is in thrall to interest groups associated with both right (big business, oligopolies, crony capitalism, rampant financialization) and left (NIMBYs, rent-seeking unions, public sector ossification).
 
-**62.** Fortunately, there may be a way out.  Quoting Andreessen again: "The things we build in huge quantities, like computers and TVs, drop rapidly in price. The things we don’t, like housing, schools, and hospitals, skyrocket in price".  
+**56.** Government capture leads to regulatory capture, which leads to stagnation.
 
-**63.** The best way to repair an atrophying muscle is to exercise it.  The more you build, the better a builder you become; and the more you *can* build.  Building well becomes a self-fulfilling prophecy. 
-
-**64.** This is the central thesis of the Foundation trilogy: a dedication to science and technology can counter an incipient Dark Age.  In the long run, humanist optimism defeats greedy obscurantism.  (Asimov is one of my heroes.)
+**57.** Tellingly, the Perezian framework predicts increasing regulation of bits as the software stack becomes ubiquitous.  This pattern is true of every tech as it approaches maturity; it's not a cause for optimism.
 
 <br/>
 
@@ -212,13 +193,57 @@ But why haven't we been building?  What went wrong?*
 
 <br/>
 
-**65.** Measurement, distribution, deployment, transitions, incentives, regulations, capture, leverage, positioning, knowledge, atrophy.  The truth of why we can't build is probably some combination of all of the above.  
+**58.** Then there's demographics.  The centre of political power in the US has for a long time been the baby boomers.  
 
-**66.** Change won't be easy.  We need to attack all of these impediments at once; fight a battle on many fronts.  
+**59.** Fifty years ago they may have been rebels.  Today, they largely favour the status quo -- which in turn favours them, via the tax code, the health, education and retirement systems, zoning regulations and more.  
 
-**67.** Create better incentives for risk-taking.  Fight regulatory capture.  End the zero-sum positional games and the rent-seeking and the jockeying for status.  Distribute opportunities.  Guard against lost knowledge.  And build, build, build.
+**60.** Society wide, there's a smugness, a complacency, a lack of imagination and compassion and courage, an unwillingness to accept criticism, and a pervasive selfishness that is disheartening and I have to say tragic.  
 
-**68.** **The best time to build was yesterday; the next best time is today.**
+**61.** As someone who grew up in a poor country, I will never understand how a society so incredibly rich can still have poverty, and homelessness, and malnutrition, and poor education, and preventable disease.  
+
+**62.** What's worse, endless infighting over the resources that could mitigate these ills means that there is no bandwidth left to actually build.
+
+**63.** What unites all of these systemic themes is rent-seeking over productivity.  Squabbling over slices from a fixed pie rather than trying to make the pie bigger.  
+
+**64.** [Ben Thompson](https://twitter.com/BenThompson) puts it vividly: "There are countries that act, and there are countries that talk."  Talking (and policing talk) means fighting for your slice of the pie; not making the pie bigger.
+
+**65.** When rent-seeking is the goal, all your efforts become positional.  
+
+<br/>
+
+----
+
+<br/>
+
+**66.** There's another troubling possibility.  It may be that -- atrophied by years of risk aversion and rent-seeking and financialization -- we've simply forgotten how to build.
+
+**67.** Institutional knowledge, once lost, is hard to recover.  The cure for scurvy was known, forgotten, rediscovered and forgotten again, before Szent-Györgyi isolated Vitamin C.  We still don't know exactly how to make Roman concrete or Damascus steel.   
+
+**68.** While modern historians have shown that the Dark Ages were not as tenebrous as previously thought, it remains the case that much of Western Europe was materially worse off in 700 CE than in 70.  And the loss of institutional knowledge has a lot to do with that.
+
+**69.** This, I think, is what [Patrick Collison](https://twitter.com/patrickc) is getting at when he talks about [speed](https://patrickcollison.com/fast).  What starts as the inability to do things fast ends as the inability to do things at all.
+
+**70.** Fortunately, there may be a way out.  Here's Andreessen again: "The things we build in huge quantities, like computers and TVs, drop rapidly in price. The things we don’t, like housing, schools, and hospitals, skyrocket in price".  
+
+**71.** The best way to repair an atrophying muscle is to exercise it.  The more you build, the better a builder you become; and the more you *can* build.  Building well becomes a self-fulfilling prophecy. 
+
+**72.** This is the central thesis of the Foundation trilogy: a dedication to science and technology can counter an incipient Dark Age.  In the long run, humanist optimism defeats greedy obscurantism.  (Asimov is one of my heroes.)
+
+<br/>
+
+----
+
+<br/>
+
+**73.** Measurement, distribution, deployment, incentives, risk-aversion, financialization, regulations, capture, leverage, positioning, knowledge, atrophy.  
+
+**74.** The truth of why we can't build is probably some combination of all of the above.  
+
+**75.** Change won't be easy.  We need to attack all of these impediments at once; fight a battle on many fronts.  
+
+**76.** Create better incentives for risk-taking.  Fight regulatory capture.  End the zero-sum positional games and the rent-seeking and the jockeying for status.  Distribute opportunities.  Guard against lost knowledge.  And build, build, build.
+
+**77.** **The best time to build was yesterday; the next best time is today.**
 
 <br/>
 
@@ -239,8 +264,12 @@ But why haven't we been building?  What went wrong?*
 
 * [Jerry Neumann](https://twitter.com/ganeumann) has the best summary I've read of the Perezian transition [from installation to deployment](http://reactionwheel.net/2015/10/the-deployment-age.html).  
 
+* [Ben Hunt](https://twitter.com/EpsilonTheory) offers an articulate and informed warning of the dangers of [excessive financialization](https://www.epsilontheory.com/tag/financialization/).
+
 * [Ben Thompson](https://twitter.com/BenThompson) describes the [difference](https://stratechery.com/2020/compaq-and-coronavirus/) between organizations that act and organizations that merely talk.
 
 * [Venkatesh Rao](https://twitter.com/@vgr) explains the idea of soft technology and its [implications](https://breakingsmart.com/en/season-1/).
+
+
 
 <br/>
