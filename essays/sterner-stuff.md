@@ -30,7 +30,7 @@ But why haven't we been building?  What went wrong?*
 
 **6.** For example, #1 on his list was "a new search engine".  Sure, replacing Google is *hard*, because Google has smart people and deep pockets and excellent tech and strong network effects.  And if you succeed, you'll almost certainly make pots of money.
 
-**7.** But is it really *ambitious*?  Not in my book.  Ambition should be made of sterner stuff.
+**7.** But is it really *ambitious*?  Not in my book.  It's evolutionary, not revolutionary.  (The original Google was revolutionary).  Ambition should be made of sterner stuff.
 
 <br/>
 
