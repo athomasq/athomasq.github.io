@@ -26,11 +26,11 @@ But why haven't we been building?  What went wrong?*
 
 <br/>
 
-**5.** There's an influential 2012 [Paul Graham](https://twitter.com/paulg) essay on [frighteningly ambitious startup ideas](http://www.paulgraham.com/ambitious.html).  What strikes me is how *unambitious* many of his ideas are, in every sense except perhaps the monetary.  
+**5.** There's an influential 2012 [Paul Graham](https://twitter.com/paulg) essay on [frighteningly ambitious startup ideas](http://www.paulgraham.com/ambitious.html).  It's a great essay as far as it goes, but I wish it went further! 
 
 **6.** For example, #1 on his list was "a new search engine".  Sure, replacing Google is *hard*, because Google has smart people and deep pockets and excellent tech and strong network effects.  And if you succeed, you'll almost certainly make pots of money.
 
-**7.** But is it really *ambitious*?  Not in my book.  
+**7.** But is it really *ambitious*?  Not in my book.  Ambition should be made of sterner stuff.
 
 <br/>
 
