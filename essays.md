@@ -12,7 +12,7 @@ title: Essays · Abraham Thomas
 ### Latest
 
 2020-05 &emsp;&emsp;&emsp; [Sterner Stuff](sterner-stuff)  
-2020-04 &emsp;&emsp;&emsp; [Data in the Time of COVID-19](data-in-the-time-of-covid-19)  
+2020-04 &emsp;&emsp;&emsp; [A Data Framework for COVID-19](a-data-framework-for-covid-19)  
 2020-02 &emsp;&emsp;&emsp; [A Tale of Two Marketplaces: ICE and eBay](why-might-ice-bid-for-ebay)  
 2020-01 &emsp;&emsp;&emsp; [APIs Are Eating the World](APIs-are-eating-the-world)   
 
@@ -24,7 +24,7 @@ title: Essays · Abraham Thomas
 
 ### Data
 
-[Data in the Time of COVID-19](data-in-the-time-of-covid-19)  
+[A Data Framework for COVID-19](a-data-framework-for-covid-19)  
 [APIs Are Eating the World](APIs-are-eating-the-world)  
 [Data-Driven Versus Data-Informed](data-driven-data-informed)  
 

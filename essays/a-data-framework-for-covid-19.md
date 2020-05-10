@@ -1,7 +1,7 @@
 ---
 layout: essay
 permalink: /:basename/
-title: Data in the Time of COVID-19
+title: A Data Framework for COVID-19
 date: 2020-04-13
 ---
 
@@ -17,12 +17,12 @@ date: 2020-04-13
 
 ### Table of Contents
 
-- [The Economic Impact of COVID-19](/data-in-the-time-of-covid-19#the-economic-impact-of-covid-19)
-- [The Garden of Forking Paths](/data-in-the-time-of-covid-19#the-garden-of-forking-paths)
-- [History: Just One Damn Thing After Another](/data-in-the-time-of-covid-19#history-just-one-damn-thing-after-another)
-- [In Data We Trust, Because We Must](/data-in-the-time-of-covid-19#in-data-we-trust-because-we-must)
-- [Fraught Loops](/data-in-the-time-of-covid-19#fraught-loops)  
-- [What I Think About When I Think About Data](/data-in-the-time-of-covid-19#what-i-think-about-when-i-think-about-data)  
+- [The Economic Impact of COVID-19](/a-data-framework-for-covid-19#the-economic-impact-of-covid-19)
+- [The Garden of Forking Paths](/a-data-framework-for-covid-19#the-garden-of-forking-paths)
+- [History: Just One Damn Thing After Another](/a-data-framework-for-covid-19#history-just-one-damn-thing-after-another)
+- [Data Rules Everything Around Me](/a-data-framework-for-covid-19#data-rules-everything-around-me)
+- [Loops and Linearity](/a-data-framework-for-covid-19#loops-and-linearity)  
+- [What I Think About When I Think About Data](/a-data-framework-for-covid-19#what-i-think-about-when-i-think-about-data)  
 
 ----
 
@@ -71,7 +71,7 @@ And the third domino is macro effects.  We know the disease directly impacts cer
 
 <br/>
 
-### In Data We Trust, Because We Must
+### Data Rules Everything Around Me
 
 How do we know which of these scenarios is actually playing out?  More precisely (and tying in with my personal proclivities), how should we **use data to confirm or reject** the above hypotheses for the economy?
 
@@ -84,7 +84,7 @@ For example, if we were to see data from an [NBER survey](https://www.nber.org/p
 
 <br/>
 
-### Fraught Loops
+### Loops and Linearity
 
 Of course, it's not that simple; it's never that simple.  The complicating factor here is feedback loops. 
 
@@ -93,6 +93,8 @@ Consider the small business example above.  If your prior estimate was that 50% 
 And it doesn't end there.  The very conditions necessary for small businesses to remain closed for 4 months (lockdowns, shelter-in-place, social distancing) are also likely to diminish the spread of the virus, buying time for healthcare system responses (fast test-and-trace, more ventilators and PPE, vaccines and treatment) that will lead to a long term "solution" or at least a stable equilibrium.  Meanwhile if small businesses do fail in large numbers, we may see even more aggressive government support.  Both of these *decrease* the probability of the third domino falling, even as the second domino teeters.  
 
 Then again, governments may react to the possibility of a small business apocalypse by rescinding lockdown orders, which would mitigate the immediate economic effects but at the risk of pushing on the third domino via a Q3 resurgence in cases and fatalities.
+
+The thing to watch out for here is positive feedback loops.  Most of the dynamics associated with COVID-19 are negative feedback.  Worse expected outcomes typically prompt stronger preemptive measures, which ameliorate those very outcomes.  (And vice versa).  But if that's not the case -- if bad news begets further bad news -- you can have cascading failures.  Financial systems are very familiar with this dynamic (Ponzi schemes, bank runs, short squeezes), but the example of northern Italy suggests that it can happen in healthcare systems as well.  
 
 <br/>
 
@@ -103,6 +105,8 @@ This is just one framework; there may be others that are equally robust.  But th
 **The point is not to get everything correct.**  In such a fast-moving situation with so many unknowns, that's an impossible and indeed counter-productive aspiration.  **The point is to be thoughtful and rigorous in our assimilation of new information.** 
 
 By examining data in this disciplined manner -- always keeping in mind asymmetric outcomes, the precautionary principle, fat tails and unknown unknowns, systemic fragility: in other words, the known limitations of any overly structured approach -- we put ourselves in the best possible situation to understand it, and hopefully act on it.
+
+But don't wait too long to take that action!  Analytical thinkers are especially prone to making this mistake: waiting until the data makes the right decision unambiguously clear.  I don't think we have that luxury with COVID-19; the virus moves a lot faster (both in terms of spread, but more importantly in terms of social and economic impact) than most individuals can react, let alone institutions.  And human brains are not equipped to truly intuit exponential processes.  It's better to take rapid action based on the data you have, even if it's not 100% certain, than to wait for perfection.
 
 *(To be continued... )*
 
