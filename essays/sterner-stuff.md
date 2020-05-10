@@ -18,7 +18,7 @@ But why haven't we been building?  What went wrong?*
 
 **3.** Today, a billion dollars gets you... what?  A single funding round based on [community-adjusted](https://www.bloomberg.com/opinion/articles/2018-04-27/wework-accounts-for-consciousness) EBITDA?  2% of a bailout for the airline industry?  500 yards of a new subway line in Manhattan?  Break me a fucking give.  
 
-**4.** Not all investments have to generate cash on cash!  If Voyager were venture-backed, it would be the greatest investment in the history of venture capital.  
+**4.** Not all investments have to generate cash on cash!  If Voyager were venture-backed, it would be one of the greatest investments in the history of venture capital.  
 
 <br/>
 
@@ -26,7 +26,7 @@ But why haven't we been building?  What went wrong?*
 
 <br/>
 
-**5.** There's an influential 2012 [Paul Graham](https://twitter.com/paulg) essay on [frighteningly ambitious startup ideas](http://www.paulgraham.com/ambitious.html).  It's a great essay as far as it goes, but I wish it went further! 
+**5.** There's an influential 2012 [Paul Graham](https://twitter.com/paulg) essay on [frighteningly ambitious startup ideas](http://www.paulgraham.com/ambitious.html).  It's a terrific essay as far as it goes, but I wish it went further! 
 
 **6.** For example, #1 on his list was "a new search engine".  Sure, replacing Google is *hard*, because Google has smart people and deep pockets and excellent tech and strong network effects.  And if you succeed, you'll almost certainly make pots of money.
 
@@ -66,7 +66,7 @@ But why haven't we been building?  What went wrong?*
 
 <br/>
 
-**16.** One set of explanations involves measurement error.  As [William Gibson](https://twitter.com/GreatDismal) wrote, "The future is here, it's just not evenly distributed".  Maybe we're not looking in the right places for ambition and innovation.
+**16.** One set of explanations involves measurement error.  As [William Gibson](https://twitter.com/GreatDismal) wrote, "The future is already here, it's just not very evenly distributed".  Maybe we're not looking in the right places for ambition and innovation.
 
 **17.** China can build a hospital in a week, and transform their entire society in a month (modulo data veracity as always).  
 
