@@ -17,7 +17,7 @@ Here are some articles in which I'm quoted or featured:
 - [The Globe and Mail](https://www.theglobeandmail.com/investing/article-quandl-and-the-invasive-use-of-data/) (Canada)
 - [Risk Magazine](https://www.risk.net/asset-management/6558871/privacy-risks-dash-funds-alternative-data-dreams)
 - [MIT Technology Review](https://www.technologyreview.com/s/613748/satellites-threaten-privacy/) 	
-- [Euromoney](https://www.euromoney.com/article/b1l63f2yrl2cmp/bank-research-embraces-alternative-data)  
+- Euromoney: [one](https://www.euromoney.com/article/b1l63f2yrl2cmp/bank-research-embraces-alternative-data), [two](https://www.euromoney.com/article/b1llht8hglzxy9/how-alternative-data-spread-through-finance) 
 - [Waters Technology](https://www.waterstechnology.com/management-strategy/4780806/the-proliferation-of-fake-information)
 - [HBS](https://www.hbs.edu/openforum/openforum.hbs.org/goto/challenge/understand-digital-transformation-of-business/quandl-a-marketplace-for-financial-data.html)
 
