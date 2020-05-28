@@ -63,7 +63,7 @@ The third scenario is the bleakest.  Here, the desolation of small business and 
 
 Another way to think about these 3 scenarios is as the outcomes of **a series of dominos** falling.  The first domino is healthcare; the second is direct economic impact; the third is indirect and macro impact.  
 
-The healthcare domino has already fallen.  It seems inevitable that we'll have hundreds of thousands of deaths worldwide this year, possibly millions.  And if that's the worst of it, we'll be lucky -- believe it or not, this is the optimistic scenario.
+The healthcare domino has already fallen.  It seems inevitable that we'll have hundreds of thousands of deaths worldwide this year.  And if that's the worst of it, we'll be lucky -- believe it or not, this is the optimistic scenario.
 
 The second domino is small business and individual consumers and specific vulnerable sectors.  How badly will the disease (and society's response to it) *directly* affect production, consumption and employment for these groups?  
 
