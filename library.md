@@ -53,6 +53,7 @@ The first Martin Gardner book I ever read; along with a (sadly lost) copy of Yak
 - **What If?**, Randall Munro
 - **Chaos**, James Gleick
 - **The Information**, James Gleick
+- **Time Travel**, James Gleick
 - **Fermat's Enigma**, Simon Singh
 - **The Code Book**, Simon Singh
 - **Big Bang**, Simon Singh
@@ -158,6 +159,7 @@ What can I say about GEB that hasn't been said by a thousand geeks before me?  N
 - **Apollo 13**, Jim Lovell & Jeffrey Kluger
 - **Chasing the Sun**, Richard Cohen
 - **The Flight of the Iguana**, David Quammen
+- **The Emperor of All Maladies**, Siddhartha Mukherjee
 
 [Back to Top ↩](/library#my-library)
 
@@ -362,6 +364,12 @@ What can I say about GEB that hasn't been said by a thousand geeks before me?  N
 - **Arabia Felix**, Thorkild Hansen
 - **Will in the World**, Stephen Greenblatt
 - **The Black Jacobins**, C. L. R. James
+- **The Path to Power**, Robert Caro
+- **Means of Ascent**, Robert Caro
+- **Master of the Senate**, Robert Caro
+- **The Passage of Power**, Robert Caro
+- **The Power Broker**, Robert Caro
+- **Lords of Finance**, Liaquat Ahamed
 
 
 [Back to Top ↩](/library#my-library)
