@@ -7,10 +7,13 @@ title: Threads · Abraham Thomas
 
 ----
 
-*I like the form factor of Twitter threads for the discipline and concision they enforce, but I dislike Twitter's ephemerality.  So I've created a more permanent home for a few of my favourite threads here.*
+*I like the form factor of Twitter threads for the discipline and concision they enforce, but I'm not a fan of Twitter's ephemerality.  So I've created a more permanent home for a few of my favourite threads here.*
 
 ----
 
 <br/>
 
-* [Alfred Winslow Jones](alfred-winslow-jones)
+* [Alfred Winslow Jones](../alfred-winslow-jones)  
+* [Silk Ties](../silk-ties)  
+* [Aliens](../aliens)  
+* [Bond Arbitrage](../bond-arbitrage)  
