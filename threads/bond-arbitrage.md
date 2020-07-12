@@ -2,8 +2,8 @@
 layout: thread
 permalink: /:basename/
 title: Bond Arbitrage
-threadurl: https://twitter.com/athomasq/status/1270765150367363072
-date: 2020-06-10
+threadurl: https://twitter.com/athomasq/status/543947678384947200
+date: 2014-12-13
 ---
 
 <br/>

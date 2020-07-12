@@ -2,8 +2,8 @@
 layout: thread
 permalink: /:basename/
 title: Silk Ties
-threadurl: https://twitter.com/athomasq/status/1270765150367363072
-date: 2020-06-10
+threadurl: https://twitter.com/athomasq/status/1225833647158317057
+date: 2020-02-07
 ---
 
 <br/>

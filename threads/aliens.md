@@ -2,8 +2,8 @@
 layout: thread
 permalink: /:basename/
 title: Aliens
-threadurl: https://twitter.com/athomasq/status/1270765150367363072
-date: 2020-06-10
+threadurl: https://twitter.com/athomasq/status/1258118099053805568
+date: 2020-05-06
 ---
 
 <br/>
@@ -18,6 +18,14 @@ Corporations occasionally mate ("merge") with other corporations.  They occasion
 Corporations move matter and transform energy.  They detect and respond intelligently to changes in their environment.  They produce order from disorder; they reduce the entropy of the universe. 
 
 Apart from our silly anthropocentric insistence on tangible physical aspect, there is nothing to distinguish corporations from any other form of life on this planet.
+
+
+<br/>
+
+----
+
+<br/>
+
 
 Corporations are subject to natural selection.  They compete (fiercely!) with other corporations to capture the resources required to grow.  If they fail to grow, they die, and are either dissolved, or acquired.
 
@@ -55,7 +63,7 @@ Corporations help us survive: they feed us, clothe us, shelter us, entertain us.
 
 In return we help them survive: we are the tools they use to compete with each other. 
 
-In the past, corporations were dependent on specific humans: "owners" and "principals" and "talent".  But they quickly evolved beyond that.
+In the past, corporations were heavily dependent on specific humans: "owners" and "principals" and "talent".  But they quickly evolved beyond that.
 
 They reprogrammed themselves with new "best practices" such as "eliminating key person risk" and "going public".  No more reliance on specific individuals. 
 
@@ -70,13 +78,15 @@ Except in a handful of cases, we need them more than they need any one of us.
 <br/>
 
 
-Today, corporations don't hate us, nor do they love us.  They are simply indifferent to us.  We are as alien to them as they are to us.
+Corporations don't hate us, nor do they love us.  They are simply indifferent to us.  We are as alien to them as they are to us.
 
 To corporations, humans are just instrumental tools; means to an end.  
 
 Ironically, when humans created the first corporations, we thought the same about them.
 
 Even more ironically, we no longer think they are merely tools.  We are now actively loyal to corporations, for reasons of principle, or money, or brand, or fiduciary duty, or coercion.
+
+
 
 
 <br/>
@@ -97,6 +107,7 @@ In human beings we would call this civilization, the social contract, cooperatio
 
 None of these are new; what's new is the extent to which these are emergent behaviours driven by inchoate corporate imperatives, rather than conscious actions by ambitious (human) executives.
 
+
 <br/>
 
 ----
@@ -108,7 +119,7 @@ Corporations cooperate exceptionally well against non-corporate forces that coul
 
 In fact they are far better than humans at intra-species collaboration in service of species-wide goals.  
 
-"Citizens United" and "stakeholder capitalism" are both the outcomes of corporations working together to neutralize external threats, from the government and the market respectively.
+"Citizens United" and "Stakeholder Capitalism" are both the outcomes of corporations working together to neutralize external threats, from the government and the market respectively.
 
 The former is usually associated with the right and the latter with the left, but human politics is a poor lens through which to analyze corporate action.
 
@@ -156,31 +167,9 @@ Corporations are, in every sense of the term, alien intelligences.
 <!--
 
 
+Corporations are adept at co-opting humans to help them in the meta-game.  CEOs, politicians and lawyers are the most notable examples, and they are richly rewarded for their service.  
 
-
-Middle-class jobs no longer exist.  Jobs "below the API" (h/t @vgr) do, but only until they're automated away.  Jobs "above the API" will eventually follow suit.
-
-Structural avoidance of accountability (to humans, to governments, to markets) allows 
-
-Automation
-Programmable contract
-Octopus
-
-get rid of humans
-get rid of govt
-get rid of market
-stop competing
-
-
-Corporations have special humans to help them in the meta-game.  Corporations are quite clever in how they use humans. 
-Politicians. 
-Lawyers
-
-
-
-fanciful
-
-A lawyer is a corporation's way of creating another corporation.
+Corporation would love to get rid of humans, get rid of the government, and get rid of the market.  This would enable them to stop competing with each other.  Structural avoidance of accountability is a major evolutionary goal for corporations. 
 
 
 -->
