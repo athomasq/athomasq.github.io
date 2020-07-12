@@ -1,7 +1,7 @@
 ---
 layout: essay
 permalink: /:basename/
-title: Failure Modes
+title: When Excellence Fails
 thread: https://twitter.com/athomasq/status/1215685984685383681
 date: 2020-01-10
 ---

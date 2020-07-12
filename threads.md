@@ -17,3 +17,4 @@ title: Threads · Abraham Thomas
 * [Silk Ties](../silk-ties)  
 * [Aliens](../aliens)  
 * [Bond Arbitrage](../bond-arbitrage)  
+* [Functional Failure](../functional-failure)  

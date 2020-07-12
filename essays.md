@@ -40,7 +40,7 @@ title: Essays · Abraham Thomas
 ### Technology
 
 [Sterner Stuff](sterner-stuff)  
-[Failure Modes of Leadership](failure-modes)  
+[When Excellence Fails](when-excellence-fails)  
 [Looking Back, Looking Forward](looking-back-looking-forward)  
 
 <br/>
