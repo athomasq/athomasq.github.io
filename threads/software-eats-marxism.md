@@ -23,6 +23,6 @@ That's where Uber, Airbnb, and their ilk come in. They get paid to coordinate th
 
 Software is eating the world: this is the breakthrough that eluded every previous top-down resource allocation method (eg socialism).
 
-Localization + computing power + increasing returns from network effects solves Hayek's information problem. Moore's Law wins.
+Localization + computing power + increasing returns from network effects solves Hayek's information problem. 
 
 People focus too much on the micro aspects of resource-sharing (labor policy, taxation, unit economics). They're missing the macro.
