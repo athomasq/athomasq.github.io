@@ -17,4 +17,6 @@ title: Threads · Abraham Thomas
 * [Silk Ties](../silk-ties)  
 * [Aliens](../aliens)  
 * [Bond Arbitrage](../bond-arbitrage)  
-* [Functional Failure](../functional-failure)  
+* [Failure Modes](../failure-modes)  
+* [COVID as a Quant Equity Factor](../covid-quant-equity)
+* [Software Eats Marxism](../software-eats-marxism)  

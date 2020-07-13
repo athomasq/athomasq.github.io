@@ -5,8 +5,10 @@ title: Silk Ties
 threadurl: https://twitter.com/athomasq/status/1225833647158317057
 date: 2020-02-07
 ---
+*This is a true story.*
 
-<br/>
+----
+
 <br/>
 
 One day in [redacted], a senior trader at a certain investment bank walked on to the trading floor carrying a suitcase.  

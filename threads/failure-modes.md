@@ -1,7 +1,7 @@
 ---
 layout: thread
 permalink: /:basename/
-title: Functional Failure
+title: Failure Modes
 threadurl: https://twitter.com/athomasq/status/1215685984685383681
 date: 2020-01-10
 ---
@@ -46,4 +46,4 @@ People who know the "why" are far more effective at executing the "how".
 <br/>
 <br/>
 
-*Essay version of this thread [here](../failure-modes).*
+*Essay version of this thread [here](../when-excellence-fails).*
