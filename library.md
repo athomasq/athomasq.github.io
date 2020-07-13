@@ -210,6 +210,7 @@ What can I say about GEB that hasn't been said by a thousand geeks before me?  N
 - **The Crimean War**, Orlando Figes
 - **Stalingrad**, Antony Beevor
 - **The Fall of Berlin 1945**, Antony Beevor
+- **Bloodlands**, Timothy Snyder
 - **Ten Days that Shook the World**, John Reed
 - **The Code-Breakers**, David Kahn
 - **Enigma**, Simon Sebag-Montefiore
