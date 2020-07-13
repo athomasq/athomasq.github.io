@@ -9,6 +9,7 @@ title: Essays · Abraham Thomas
 
 <br/>
 
+<!--
 ### Latest
 
 2020-05 &emsp;&emsp;&emsp; [Sterner Stuff](sterner-stuff)  
@@ -22,10 +23,13 @@ title: Essays · Abraham Thomas
 
 <br/>
 
+-->
+
+
 ### Data
 
-[A Data Framework for COVID-19](a-data-framework-for-covid-19)  
 [APIs Are Eating the World](APIs-are-eating-the-world)  
+[A Data Framework for COVID-19](a-data-framework-for-covid-19)  
 [Data-Driven Versus Data-Informed](data-driven-data-informed)  
 
 <br/>
