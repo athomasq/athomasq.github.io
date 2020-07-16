@@ -472,6 +472,7 @@ What can I say about GEB that hasn't been said by a thousand geeks before me?  N
 - **Serendipities**, Umberto Eco
 - **On Literature**, Umberto Eco
 - **Keeping an Eye Open**, Julian Barnes
+- **Lost at Sea**, Jon Ronson
 
 [Back to Top ↩](/library#my-library)
 
@@ -578,6 +579,7 @@ I have a minor obsession with collecting travel books. I doubt I'll visit all or
 - **Looking for the Lost**, Alan Booth
 - **Wild Wales**, George Borrow
 - **The Climb**, Anatoli Boukreev
+- **A Cook's Tour**, Anthony Bourdain
 - **The Taste of War**, Margaret Bourke-White
 - **The Way of the World**, Nicholas Bouvier
 - **South from Granada**, Gerald Brenan
@@ -1048,6 +1050,7 @@ I have a minor obsession with collecting travel books. I doubt I'll visit all or
 - **Black Dragon River**, Dominic Ziegler
 - **Train**, Tom Zoellner
 - **The Oxford Book of Exploration**, Robin Hanbury-Tenison
+- **The Explorers**, G. R. Crone
 
 [Back to Top ↩](/library#my-library)
 
@@ -1164,6 +1167,7 @@ I have a minor obsession with collecting travel books. I doubt I'll visit all or
 - **Absalom, Absalom**, William Faulkner
 - **Novels in Three Lines**, Felix Feneon
 - **My Brilliant Friend**, Elena Ferrante
+- **The Story of a New Name**, Elena Ferrante
 - **The Story of the Lost Child**, Elena Ferrante
 - **Those Who Leave and Those Who Stay**, Elena Ferrante
 - **City of Dark Magic**, Magnus Flyte
