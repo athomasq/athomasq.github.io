@@ -1049,8 +1049,22 @@ I have a minor obsession with collecting travel books. I doubt I'll visit all or
 - **In Search of Conrad**, Gavin Young
 - **Black Dragon River**, Dominic Ziegler
 - **Train**, Tom Zoellner
-- **The Oxford Book of Exploration**, Robin Hanbury-Tenison
-- **The Explorers**, G. R. Crone
+- **The Oxford Book of Travel Stories**, Patricia Craig (ed.)
+- **The Punch Book of Travel**, William Davis (ed.)
+- **The Picador Book of Travel**, Keath Fraser (ed.)
+- **The Norton Book of Travel**, Paul Fussell (ed.)
+- **The Best of Granta Travel**, Granta (ed.)
+- **Ox Travels**, Mark Ellingham (ed.)
+- **The Explorers**, G. R. Crone (ed.)
+- **Exploration**, John Keay (ed.)
+- **As Told at the Explorers Club**, George Plimpton (ed.)
+- **The Oxford Book of Exploration**, Robin Hanbury-Tenison (ed.)
+- **Maiden Voyages**, Mary Morris (ed.)
+- **A Thousand Leagues of Blue**, John A. Murray (ed.)
+- **A Book of Sea Journeys**, Ludovic Kennedy (ed.)
+- **A Book of Travellers' Tales**, Eric Newby (ed.)
+- **A Book of Lands and Peoples**, Eric Newby (ed.)
+- **A Taste for Travel**, John Julius Norwich (ed.)
 
 [Back to Top ↩](/library#my-library)
 
