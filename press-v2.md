@@ -31,17 +31,20 @@ Here are some articles about [Quandl](https://quandl.com), the company I co-foun
 https://www.wsj.com/articles/wall-streets-insatiable-lust-data-data-data-1473719535) - The Wall Street Journal
 - [The Hottest Area in Finance Right Now](https://qz.com/1082389/quant-hedge-funds-are-gorging-on-alternative-data-in-pursuit-of-an-investing-edge/) - Quartz
 - [Making Millions from Data](https://www.cnbc.com/2017/11/28/making-millions-from-the-data-hidden-in-plain-sight.html) - CNBC
-- [Quandl: Investors' Secret Weapon](https://business.financialpost.com/technology/its-beautiful-this-toronto-startup-is-investors-secret-weapon-to-beating-the-market) - The Financial Post (Canada)
+- [Quandl is Investors' Secret Weapon](https://business.financialpost.com/technology/its-beautiful-this-toronto-startup-is-investors-secret-weapon-to-beating-the-market) - The Financial Post (Canada)
+- [Data: The Next Frontier](https://www.ft.com/content/08a22da8-b587-11e6-ba85-95d1533d9a62) - The Financial Times
 - [The Extraordinary Rise of Alternative Data](https://www.cpacanada.ca/en/news/pivot-magazine/2019-12-19-quandl-data) - CPA Canada
 - [Stockpickers Turn to Big Data to Arrest Decline](https://www.ft.com/content/586b4ea6-48f4-11ea-aee2-9ddbdc86190d) - The Financial Times
 - [The Risks of Alternative Data](https://www.economist.com/finance-and-economics/2018/06/21/hedge-funds-worry-about-the-legal-risks-of-using-alternative-data) - The Economist
 - [In Defence of Hedge Fund Data Mining](https://ftalphaville.ft.com/2016/09/13/2174708/in-defence-of-hedge-fund-data-mining/) - The Financial Times
 - [Alternative Data Enters the Risk Management Toolkit](https://www.garp.org/#!/risk-intelligence/technology/data/a1Z40000003YfOjEAK) - GARP Risk
 - [Can Big Data Revolutionize Economic Policy?](https://www.ft.com/content/9f0a8838-fa25-11e7-9b32-d7d59aace167) - The Financial Times
+- [The Explosion of Alternative Data](
+https://www.marketwatch.com/story/the-explosion-of-alternative-data-gives-regular-investors-access-to-tools-previously-employed-only-by-hedge-funds-2019-09-05) - MarketWatch
 - [Quandl: A Marketplace for Data](https://www.hbs.edu/openforum/openforum.hbs.org/goto/challenge/understand-digital-transformation-of-business/quandl-a-marketplace-for-financial-data.html) - HBS Digital
-
-
-
+- [Nasdaq Dives into Alternative Data](https://www.barrons.com/articles/nasdaq-dives-into-alternative-data-1543943703) - Barron's
+- [Nasdaq Acquires Quandl](https://www.ft.com/content/e6de9e30-f743-11e8-af46-2022a0b02a6c) - The Financial Times
+- [An Inflection Point for the Industry](https://www.greenwich.com/blog/alternative-data-going-mainstream) - Greenwich Associates
 
 
 <!--
@@ -49,53 +52,29 @@ https://www.wsj.com/articles/wall-streets-insatiable-lust-data-data-data-1473719
 - [COVID-19 and the Surge in Alternative Data](https://www.garp.org/#!/risk-intelligence/technology/data/a1Z1W000005VKmaUAG) - GARP Risk Intelligence
 - [Satellites](https://www.technologyreview.com/s/613748/satellites-threaten-privacy/) - MIT Technology Review, June 2019
 
+https://seekingalpha.com/article/4227483-nasdaq-acquires-quandl-for-alternative-data
+
 -->
-
----- 
-
-
- [data: the next frontier in battle for investment returns](https://www.ft.com/content/08a22da8-b587-11e6-ba85-95d1533d9a62 )
-
-
-
-- The Financial Times: [one][1], [two][2], [three][3], [four][4]
-
-
-
-++
-
-
-
-[1]: https://ftalphaville.ft.com/2016/09/13/2174708/in-defence-of-hedge-fund-data-mining/
-[2]: 
-[3]: https://www.ft.com/content/586b4ea6-48f4-11ea-aee2-9ddbdc86190d
-[4]: 
-
-
-
-
-
-
-
-
 
 
 ----
 
 <br/>
 
-### Bylines and Op-Eds
+### Bylines
 
 Here are some articles by me:
 
 
-pharma
+pharma  
 fx  https://fxalgonews.com/issues/FXAlgoNewsMay2018.pdf 
-waste
-barrons
-bi
-nasdaq
+waste  
+barrons  
+bi  
+nasdaq  
 
+
+https://blog.quandl.com/quandl-the-next-chapter
 
 ----
 
