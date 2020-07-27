@@ -19,7 +19,7 @@ Here are some articles in which I'm quoted or featured:
 - [Bank Research Embraces Alternative Data](https://www.euromoney.com/article/b1l63f2yrl2cmp/bank-research-embraces-alternative-data) - Euromoney
 - [Fake Information](https://www.waterstechnology.com/management-strategy/4780806/the-proliferation-of-fake-information) - Waters Tech
 - [Alternative Data Comes of Age](https://www.cnbc.com/2019/04/23/alternative-data-comes-of-age.html) - CNBC
-- [The Data Game](https://www.theglobeandmail.com/investing/article-quandl-and-the-invasive-use-of-data/) - The Globe and Mail (Canada)
+- [The Data Game](https://www.theglobeandmail.com/investing/article-quandl-and-the-invasive-use-of-data/) - Globe and Mail (Canada)
 - [Privacy Risks in Alternative Data](https://www.risk.net/asset-management/6558871/privacy-risks-dash-funds-alternative-data-dreams) - Risk Magazine
 
 
@@ -28,22 +28,22 @@ Here are some articles about [Quandl](https://quandl.com), the company I co-foun
 
 
 - [Wall Street's Insatiable Lust for Data](
-https://www.wsj.com/articles/wall-streets-insatiable-lust-data-data-data-1473719535) - The Wall Street Journal
+https://www.wsj.com/articles/wall-streets-insatiable-lust-data-data-data-1473719535) - Wall Street Journal
 - [The Hottest Area in Finance Right Now](https://qz.com/1082389/quant-hedge-funds-are-gorging-on-alternative-data-in-pursuit-of-an-investing-edge/) - Quartz
 - [Making Millions from Data](https://www.cnbc.com/2017/11/28/making-millions-from-the-data-hidden-in-plain-sight.html) - CNBC
-- [Quandl is Investors' Secret Weapon](https://business.financialpost.com/technology/its-beautiful-this-toronto-startup-is-investors-secret-weapon-to-beating-the-market) - The Financial Post (Canada)
-- [Data: The Next Frontier](https://www.ft.com/content/08a22da8-b587-11e6-ba85-95d1533d9a62) - The Financial Times
+- [Quandl is Investors' Secret Weapon](https://business.financialpost.com/technology/its-beautiful-this-toronto-startup-is-investors-secret-weapon-to-beating-the-market) - Financial Post (Canada)
+- [Data: The Next Frontier](https://www.ft.com/content/08a22da8-b587-11e6-ba85-95d1533d9a62) - Financial Times
 - [The Extraordinary Rise of Alternative Data](https://www.cpacanada.ca/en/news/pivot-magazine/2019-12-19-quandl-data) - CPA Canada
-- [Stockpickers Turn to Big Data to Arrest Decline](https://www.ft.com/content/586b4ea6-48f4-11ea-aee2-9ddbdc86190d) - The Financial Times
+- [Stockpickers Turn to Big Data to Arrest Decline](https://www.ft.com/content/586b4ea6-48f4-11ea-aee2-9ddbdc86190d) - Financial Times [<small>pdf</small>](https://www.quandl.com)
 - [The Risks of Alternative Data](https://www.economist.com/finance-and-economics/2018/06/21/hedge-funds-worry-about-the-legal-risks-of-using-alternative-data) - The Economist
-- [In Defence of Hedge Fund Data Mining](https://ftalphaville.ft.com/2016/09/13/2174708/in-defence-of-hedge-fund-data-mining/) - The Financial Times
-- [Alternative Data Enters the Risk Management Toolkit](https://www.garp.org/#!/risk-intelligence/technology/data/a1Z40000003YfOjEAK) - GARP Risk
-- [Can Big Data Revolutionize Economic Policy?](https://www.ft.com/content/9f0a8838-fa25-11e7-9b32-d7d59aace167) - The Financial Times
+- [In Defence of Hedge Fund Data Mining](https://ftalphaville.ft.com/2016/09/13/2174708/in-defence-of-hedge-fund-data-mining/) - Financial Times
+- [Alternative Data Enters the Risk Management Toolkit](https://www.garp.org/#!/risk-intelligence/technology/data/a1Z40000003YfOjEAK) - GARP Risk 
+- [Can Big Data Revolutionize Economic Policy?](https://www.ft.com/content/9f0a8838-fa25-11e7-9b32-d7d59aace167) - Financial Times [<small>pdf</small>](https://www.quandl.com)
 - [The Explosion of Alternative Data](
 https://www.marketwatch.com/story/the-explosion-of-alternative-data-gives-regular-investors-access-to-tools-previously-employed-only-by-hedge-funds-2019-09-05) - MarketWatch
 - [Quandl: A Marketplace for Data](https://www.hbs.edu/openforum/openforum.hbs.org/goto/challenge/understand-digital-transformation-of-business/quandl-a-marketplace-for-financial-data.html) - HBS Digital
 - [Nasdaq Dives into Alternative Data](https://www.barrons.com/articles/nasdaq-dives-into-alternative-data-1543943703) - Barron's
-- [Nasdaq Acquires Quandl](https://www.ft.com/content/e6de9e30-f743-11e8-af46-2022a0b02a6c) - The Financial Times
+- [Nasdaq Acquires Quandl](https://www.ft.com/content/e6de9e30-f743-11e8-af46-2022a0b02a6c) - Financial Times
 - [An Inflection Point for the Industry](https://www.greenwich.com/blog/alternative-data-going-mainstream) - Greenwich Associates
 
 
