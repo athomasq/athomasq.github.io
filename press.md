@@ -92,9 +92,11 @@ https://seekingalpha.com/article/4227483-nasdaq-acquires-quandl-for-alternative-
 
 Here are some articles by me:
 
+https://www.fiercehealthcare.com/tech/industry-voices-how-healthcare-organizations-can-navigate-emerging-data-economy-and-address
 
 pharma  
 fx  https://fxalgonews.com/issues/FXAlgoNewsMay2018.pdf 
+
 waste  
 barrons  
 bi  
