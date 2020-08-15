@@ -90,12 +90,19 @@ https://seekingalpha.com/article/4227483-nasdaq-acquires-quandl-for-alternative-
 
 ### Bylines
 
-Here are some articles by me:
+I've written a few articles evangelizing data for different industries:
 
+pharma
 https://www.fiercehealthcare.com/tech/industry-voices-how-healthcare-organizations-can-navigate-emerging-data-economy-and-address
 
-pharma  
-fx  https://fxalgonews.com/issues/FXAlgoNewsMay2018.pdf 
+fx  
+https://fxalgonews.com/issues/FXAlgoNewsMay2018.pdf 
+
+insurance
+https://www.carriermanagement.com/features/2018/11/27/186996.htm 
+
+
+https://blog.quandl.com/quandl-the-next-chapter
 
 waste  
 barrons  
@@ -109,7 +116,7 @@ waste mgmt
 quandl acquires
 
 
-https://blog.quandl.com/quandl-the-next-chapter
+
 
 -->
 
