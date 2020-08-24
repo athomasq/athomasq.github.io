@@ -5,6 +5,22 @@ title: Press · Abraham Thomas
 
 ## Press
 
+
+----
+
+<br/>
+
+### Inquiries
+
+I welcome press inquiries; please [email me](mailto:athos1@gmail.com) if you'd like to speak.  Topics in which I have some expertise include: 
+
+- The use of data, AI/ML and technology in finance
+- Hedge funds, quantitative investing and capital markets
+- What alternative data tells us about the economy
+- Startups, fintech and venture capital in Canada
+
+Here are some useful assets: my [biography](/assets/docs/Abraham-Thomas-bio.txt) and my [profile picture](/assets/img/Abraham-Thomas.jpg).
+
 ----
 
 <br/>
@@ -45,6 +61,10 @@ https://www.marketwatch.com/story/the-explosion-of-alternative-data-gives-regula
 - [Nasdaq Dives into Alternative Data](https://www.barrons.com/articles/nasdaq-dives-into-alternative-data-1543943703) - Barron's [<small>pdf</small>](/assets/docs/B-dives.pdf)
 - [Acquisition of the Year](https://www.waterstechnology.com/awards-rankings/4351881/acquisition-of-the-year-nasdaqs-acquisition-of-quandl) - Waters Tech [<small>pdf</small>](/assets/docs/WT-award.pdf)
 - [An Inflection Point for the Industry](https://www.greenwich.com/blog/alternative-data-going-mainstream) - Greenwich Associates [<small>pdf</small>](/assets/docs/GA-mainstream.pdf)
+
+<br/>
+<br/>
+<br/>
 
 
 <!--
@@ -120,20 +140,3 @@ quandl acquires
 
 -->
 
-----
-
-<br/>
-
-### Inquiries
-
-- **Keywords:** hedge funds, capital markets, quant investing, data, technology startups, venture capital, fintech, AI & ML
-- **Assets:** [biography][5], [profile picture][6], [closeup][7]  
-- **Quandl inquiries:** [Matthew Luongo](mailto:mluongo@prosek.com) at [Prosek Partners](https://www.prosek.com/)  
-- **All other inquiries:** please [email me](mailto:athos1@gmail.com) directly  
-
-[5]: /assets/docs/Abraham-Thomas-bio.txt
-[6]: /assets/img/Abraham-Thomas.jpg
-[7]: /assets/img/Abraham-Thomas-Headshot.jpg
-
-<br/>
-  
