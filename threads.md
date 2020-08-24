@@ -13,6 +13,7 @@ title: Threads · Abraham Thomas
 
 <br/>
 
+* [Invasion!](../invasion)
 * [Alfred Winslow Jones](../alfred-winslow-jones)  
 * [Silk Ties](../silk-ties)  
 * [Aliens](../aliens)  

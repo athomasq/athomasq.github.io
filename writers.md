@@ -22,6 +22,7 @@ We live in a golden age for online content.  Here are some of my favourite long-
 * [Maciej Cegłowski](https://idlewords.com/about.htm "the role of tech in society")
 * [Martin Casado](https://a16z.com/author/martin-casado/ "enterprise software, GTM, AI/ML") 
 * [Matt Levine](https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine "capital markets oh boy")
+* [Matthew Ball](https://www.matthewball.vc/ "movies, gaming, the metaverse")
 * [Patrick McKenzie](https://www.kalzumeus.com/about/ "engineering, marketing, pricing")
 * [Ranjan Roy and Can Duruk](https://themargins.substack.com/ "how tech changes everything")
 * <a href="https://www.ribbonfarm.com/about/" title="new ways of seeing the world" target="_blank">Venkatesh Rao</a>

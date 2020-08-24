@@ -42,18 +42,20 @@ Empires of the Word
 
 **Threads**  
 [Aliens](aliens)  
-[Meet Mister Jones](alfred-winslow-jones)  
+[Alfred Winslow Jones](alfred-winslow-jones)  
 [Bond Arbitrage](bond-arbitrage)  
 [COVID as a Quant Equity Factor](covid-quant-equity)  
+[Invasion!](invasion)  
 [Failure Modes](failure-modes)  
 [Silk Ties](silk-ties)  
 [Software Eats Marxism](software-eats-marxism)  
 
+<!--
 **Twitter Hits**  
 [Invasion!](https://twitter.com/athomasq/status/1289957976749428740)  
 [Alfred Winslow Jones](https://twitter.com/athomasq/status/1270765150367363072)  
 [Failure Modes](https://twitter.com/athomasq/status/1215685984685383681)
-
+-->
 
 
 <!--
