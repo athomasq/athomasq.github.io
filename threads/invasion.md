@@ -1,7 +1,7 @@
 ---
 layout: thread
 permalink: /:basename/
-title: Invasion
+title: Invasion!
 threadurl: https://twitter.com/athomasq/status/1289957976749428740
 date: 2020-08-02
 ---
