@@ -44,7 +44,7 @@ Empires of the Word
 [Aliens](aliens)  
 [Alfred Winslow Jones](alfred-winslow-jones)  
 [Bond Arbitrage](bond-arbitrage)  
-[COVID as a Quant Equity Factor](covid-quant-equity)  
+[Disney and Amazon](amazon-disney-covid)  
 [Invasion!](invasion)  
 [Failure Modes](failure-modes)  
 [Silk Ties](silk-ties)  

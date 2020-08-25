@@ -1,7 +1,7 @@
 ---
 layout: thread
 permalink: /:basename/
-title: COVID as a Quant Equity Factor
+title: Disney, Amazon, and COVID-19
 threadurl: https://twitter.com/athomasq/status/1255873128611434503
 date: 2020-04-30
 ---

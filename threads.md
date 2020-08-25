@@ -19,5 +19,5 @@ title: Threads · Abraham Thomas
 * [Aliens](../aliens)  
 * [Bond Arbitrage](../bond-arbitrage)  
 * [Failure Modes](../failure-modes)  
-* [COVID as a Quant Equity Factor](../covid-quant-equity)
+* [DIS, AMZN, COVID](../amazon-disney-covid)
 * [Software Eats Marxism](../software-eats-marxism)  
