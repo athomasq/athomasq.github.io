@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /:basename/
 title: Technology · Abraham Thomas
 ---
 
@@ -11,11 +12,11 @@ Writing, agriculture, government, cities, money, industry: these and other techn
 
 Here are some writings and resources on software and startups: 
 
-* [Sterner Stuff](sterner-stuff)  
-* [When Excellence Fails](when-excellence-fails)  
-* [Aliens](aliens)  
-* [Looking Back, Looking Forward](looking-back-looking-forward) 
-* [Resources for Startup Founders](resources)
+* [Sterner Stuff](/sterner-stuff)  
+* [When Excellence Fails](/when-excellence-fails)  
+* [Aliens](/aliens)  
+* [Looking Back, Looking Forward](/looking-back-looking-forward) 
+* [Resources for Startup Founders](/resources)
 
  
 <br/>

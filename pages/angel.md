@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /:basename/
 title: Angel Investing · Abraham Thomas
 ---
 ## Angel Investing
