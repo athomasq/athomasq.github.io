@@ -112,6 +112,8 @@ https://seekingalpha.com/article/4227483-nasdaq-acquires-quandl-for-alternative-
 
 I've written a few articles evangelizing data for different industries:
 
+https://www.marketwatch.com/story/investors-have-discarded-this-common-sense-indicator-in-recent-months-and-that-shows-just-how-out-of-whack-this-record-setting-stock-market-is-2020-08-24?mod=newsviewer_click
+
 pharma
 https://www.fiercehealthcare.com/tech/industry-voices-how-healthcare-organizations-can-navigate-emerging-data-economy-and-address
 
