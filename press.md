@@ -5,22 +5,6 @@ title: Press · Abraham Thomas
 
 ## Press
 
-
-----
-
-<br/>
-
-### Inquiries
-
-I welcome press inquiries; please [email me](mailto:athos1@gmail.com) if you'd like to speak.  Topics in which I have some expertise include: 
-
-- The use of data, AI/ML and technology in finance
-- Hedge funds, quantitative investing and capital markets
-- What alternative data tells us about the economy
-- Startups, fintech and venture capital in Canada
-
-Here are some useful assets: my [biography](/assets/docs/Abraham-Thomas-bio.txt) and my [profile picture](/assets/img/Abraham-Thomas.jpg).
-
 ----
 
 <br/>
@@ -62,6 +46,23 @@ https://www.marketwatch.com/story/the-explosion-of-alternative-data-gives-regula
 - [Acquisition of the Year](https://www.waterstechnology.com/awards-rankings/4351881/acquisition-of-the-year-nasdaqs-acquisition-of-quandl) - Waters Tech [<small>pdf</small>](/assets/docs/WT-award.pdf)
 - [An Inflection Point for the Industry](https://www.greenwich.com/blog/alternative-data-going-mainstream) - Greenwich Associates [<small>pdf</small>](/assets/docs/GA-mainstream.pdf)
 
+----
+
+<br/>
+
+### Inquiries
+
+For press inquiries, please [email me](mailto:athos1@gmail.com).  Topics in which I have some expertise include: 
+
+- The use of data, AI/ML and technology in finance
+- Hedge funds, quantitative investing and capital markets
+- What alternative data tells us about the economy
+- Startups, fintech and venture capital in Canada
+
+Here are some useful assets: my [biography](/assets/docs/Abraham-Thomas-bio.txt) and my [profile picture](/assets/img/Abraham-Thomas.jpg).
+
+
+
 <br/>
 <br/>
 <br/>
@@ -79,6 +80,9 @@ A selection of blog posts that I think are worth reading:
 
 <!--
 
+https://www.fundfire.com/c/2704963/330163/will_data_help_hedge_funds_navigate_what_comes_next
+
+https://www.fundfire.com/c/2856273/354663
 
 https://www.risk.net/asset-management/6558871/privacy-risks-dash-funds-alternative-data-dreams
 
@@ -123,6 +127,10 @@ https://fxalgonews.com/issues/FXAlgoNewsMay2018.pdf
 insurance
 https://www.carriermanagement.com/features/2018/11/27/186996.htm 
 
+https://www.businessinsider.com/the-plight-of-the-99-in-15-charts-2013-5 
+
+https://www.businessinsider.com/the-history-of-china-in-16-charts-2013-4 
+
 
 https://blog.quandl.com/quandl-the-next-chapter
 
@@ -131,11 +139,6 @@ barrons
 bi  
 nasdaq  
 
-fx week
-barrons
-healthcare
-waste mgmt
-quandl acquires
 
 
 
