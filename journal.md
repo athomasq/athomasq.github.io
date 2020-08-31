@@ -1,4 +1,7 @@
 
+follow your dreams / selecion effct / hard work 
+
+
 
 I've long felt that a necessary (if not quite sufficient) condition for the blow-off top that often marks the end of a bull market is the entry of retail investors.  I saw this first-hand in 1999 (dot-com day traders) and in 2007 (house flippers and )
 
