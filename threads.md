@@ -13,10 +13,11 @@ title: Threads · Abraham Thomas
 
 <br/>
 
+* [Invasion!](../invasion)
 * [Alfred Winslow Jones](../alfred-winslow-jones)  
 * [Silk Ties](../silk-ties)  
 * [Aliens](../aliens)  
 * [Bond Arbitrage](../bond-arbitrage)  
 * [Failure Modes](../failure-modes)  
-* [COVID as a Quant Equity Factor](../covid-quant-equity)
+* [DIS, AMZN, COVID](../amazon-disney-covid)
 * [Software Eats Marxism](../software-eats-marxism)  

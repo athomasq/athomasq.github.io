@@ -1,22 +1,28 @@
-- name: About
+- name: Abraham Thomas
   link: /about
-- name: Essays
-  link: /essays
-- name: Gallery
+- name: newline
+
+- name: Data
+  link: /data
+- name: Markets
+  link: /markets
+- name: Technology
+  link: /technology
+- name: newline
+
+- name: Reading
+  link: /reading
+- name: Writing
+  link: /writing
+- name: Speaking
+  link: /speaking
+- name: Investing
+  link: /angel
+- name: Photography
   link: /gallery
-- name: Interests
-  link: /interests
-- name: Library
-  link: /library
-- name: Portfolio
-  link: /portfolio
+- name: newline
+
 - name: Press
   link: /press
-- name: Resources
-  link: /resources
-- name: Threads
-  link: /threads
-- name: Credits
-  link: /credits
 - name: Contact
   link: /contact
