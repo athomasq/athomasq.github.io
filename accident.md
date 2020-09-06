@@ -6,6 +6,8 @@ title: Portfolio · Abraham Thomas
 
 ----
 
+I fell into finance by accident.  I wanted to be a scientist. 
+
 *Money gets boring, but markets are endlessly fascinating.*
 
 <br/>

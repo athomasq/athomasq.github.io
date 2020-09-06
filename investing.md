@@ -13,7 +13,7 @@ I've been on "both sides of the table" in both public and private markets.
 
 In public markets, I was a trader and portfolio manager at Simplex, a large hedge fund.  I then co-founded Quandl, a startup whose customers are hedge funds, asset managers, fintechs and investment banks.  
 
-In private markets, I raised $20M in financing for Quandl from blue-chip venture capital firms.  And I invest regularly in other startups as an angel.
+In private markets, I raised $20M in financing for Quandl from blue-chip venture capital firms, before being acquired by Nasdaq in a successful exit.  And I both invest in and mentor other startup founders as an angel.
 
 I like to think these experiences give me useful perspective on multiple intersecting worlds: capital markets, technology and entrepreneurship. 
 
