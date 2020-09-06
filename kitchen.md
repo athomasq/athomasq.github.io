@@ -10,8 +10,6 @@ title: Kitchen · Abraham Thomas
 
 <br/>  
 
-I enjoy cooking; I cook a lot; and I think I'm a good cook.  I've spent a lot of time over the years building up a well-equipped kitchen; here are the items I use the most:
-
 ### Cookware
 
 - Cast-iron skillet
@@ -66,6 +64,8 @@ For occasional inspiration:
 
 ### Notes
 
-The above list is based on *a lot* of background reading -- I tend to do a ton of research before buying anything.  I generally follow a barbell strategy when buying stuff: either buy brands that offer everyday quality at low prices (IKEA, CostCo, PC etc) or buy the top of the line (Le Creuset, Ankarsrum etc).  Avoid the messy middle. 
+I enjoy cooking; I cook a lot; and I think I'm a good cook.  I've spent a lot of time over the years building up a well-equipped kitchen; these are the items I use the most.
+
+The above list is based on *a lot* of background reading -- I tend to do a ton of research before buying anything.  I generally follow a barbell strategy when buying stuff: either buy brands that offer everyday quality at low prices (IKEA, Costco, PC etc) or buy the top of the line (Le Creuset, Ankarsrum etc).  Avoid the messy middle. 
 
 What gear you need depends on what you plan to cook.  My own repertoire is fairly eclectic: most of the time I cook Indian (Kerala, Bengal, non-denominational desi), vaguely Asian (Hakka Chinese, Japanese, Korean, Thai) or when lazy, generic North American (grills, roasts, pastas, pizzas, tex-mex).  These days I'm exploring Middle Eastern and Mediterranean cuisine (Turkish, Israeli, Persian, Moroccan).
