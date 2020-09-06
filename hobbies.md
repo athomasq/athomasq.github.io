@@ -20,7 +20,7 @@ I like to play Euro-style [board games](/board-games).
 travel?
 tennis? 
 
-At various times in the past, I've been a top-rated trivia quizzer, a competitive (tournament) Scrabble player, and the creator of the world's most-bookmarked poetry website.   
+At various times in the past, I've been a top-rated trivia quizzer, a competitive (tournament) Scrabble player, and the creator of the world's [most-bookmarked poetry website](https://fundamatics.net/three-men-and-a-list-to-say-nothing-of-the-blog/).   
 
 <br/>
 <br/>

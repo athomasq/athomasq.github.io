@@ -10,7 +10,7 @@ title: Kitchen · Abraham Thomas
 
 <br/>  
 
-I enjoy cooking; I cook a lot; and I think I'm a good cook.  I've spent a lot of time over the years building up a well-equipped kitchen; here are the items I use a lot:
+I enjoy cooking; I cook a lot; and I think I'm a good cook.  I've spent a lot of time over the years building up a well-equipped kitchen; here are the items I use the most:
 
 ### Cookware
 
@@ -21,37 +21,35 @@ I enjoy cooking; I cook a lot; and I think I'm a good cook.  I've spent a lot of
 - Non-stick skillet
 - Tri-ply saute pan
 - Saucepan
-- Mini pot
-- Large pot
+- Mini sauce pot
+- Large stock pot
 - Baking tray
-- Pyrex
-
+- Baking sheet
 
 ### Appliances
 
-- Instant pot
-- Anova sous vide
-- Ankarsrum
-- Zojirushi
-- Spice grinder
-- Food processor
-- Juicer
-- Chemex
+- Pressure cooker by Instant Pot 
+- Sous vide circulator by Anova
+- Stand mixer by Ankarsrum
+- Boiler by Zojirushi
+- Spice grinder by Cuisinart
+- Food processor by PC
+- Pourover pot by Chemex
+- Vacuum sealer by FoodSaver
 
 ### Accessories
 
-- Scale
-- Thermometer
-- Large mortar and pestle
+- Instant read thermometer by ThermoPen
+- Digital scale
+- Large mortar and pestle for pastes
+- Small mortar and pestle for spices
 - Measuring cups
 - Measuring spoons
 - Digital timers
-- Wooden spatula
-- Silicone spatula
-- Tongs
-- Silicone oven gloves
+- Wooden spatulae, silicone spatulae
+- Metal tongs, silicone tongs
+- Silicone oven gloves and pot holders
 - Salad spinner
-- Knives
 
 ### Cookbooks
 
@@ -59,25 +57,22 @@ Workhorses:
 - The Food Lab
 - The Quick Cook
 - Salt Fat Acid Heat
-- Tuesday Night
 
+For occasional inspiration:
+- Every Grain of Rice
+- Thai Food
+- Milk Street Tuesday Night
 
-### Occasionals
+### Occasional use
 
-- dosa 
-- 
+- Non-stick dosa tawa
+- Panini press
+- French press
 
 ### Cuisines
 
-We eat an eclectic 
+My repertoire is fairly eclectic: most of the time I cook Indian (Kerala, Bengal, non-denominational desi), vaguely Asian (Hakka Chinese, Japanese, Korean, Thai) or when lazy, generic North American (grills, roasts, pastas, pizzas, tex-mex).  These days I'm exploring Middle Eastern and Mediterranean cuisine (Turkish, Israeli, Persian, Moroccan).
 
-Indian - Kerala, Bengali, generic north Indian
-Hakka Chinese, Japanese, Korean, Thai
-Occasional Italian - both classic and americanized, mexican
-generic north american - grills, roasts, pies, xs
+### 
 
-
-###
-
-As with most purchases, I follow a barbell strategy.  EIther go cheap -- ikea or pc -- or go fancy, le creuset and ankarsum -- avoid the messy middle. 
-
+The above list is based on a lot of background reading -- I tend to do a lot of research before buying anything.  I generally follow a barbell strategy when buying stuff: either buy brands that offer everyday quality at low prices (IKEA, CostCo, PC etc) or buy the top of the line (Le Creuset, Ankarsrum etc).  Avoid the messy middle. 
