@@ -22,11 +22,11 @@ I was in for a rude awakening.  I quickly realized that there was a world of dif
 This left me at a loose end.  While my departmental classmates were winning full-ride scholarships to Stanford and Princeton and MIT and Yale and Cornell and Caltech, I entered my senior year completely at a loss for what to do next.  I was accepted into IIM Ahmedabad, then as now India's top business school (there's that competitive exam thing again), but I didn't really want to go there;  I wanted to leave the cloister and experience the world.  At the same time, the types of jobs on offer to fresh graduates from my university -- management track at large Indian corporates, software development for offshoring firms -- didn't seem terribly appeaing.
 
 
-And that's when serendipity struck.  I was offered a very strange job via a strange set of circumstances.  The company making the offer was called Simplex Capital, they were 6 people (I would be the 7th), and they were setting up a "hedge fund" with a small pool of money.  They were based in Tokyo -- a world away from my experience! -- but one of their principals had grown up in Bombay, was connected to me, and offered me a rather vague role as a "quant odd jobs person".  
+And that's when serendipity struck.  I was offered a very strange job via a strange set of circumstances.  The company making the offer was called Simplex Capital, they were 6 people (I would be the 7th), and they were setting up a "hedge fund" with a small pool of money.  They were based in Tokyo -- !!!! -- but one of their principals had grown up in Bombay, was connected to me, and offered me a rather vague role as a "quant odd jobs person".  
 
 Now you have to remember that this was the mid 90s.  At the time, hedge funds were an extremely obscure corner of finance.  Quant investing was still in its infancy.  
 
-It was doub;y hard being in Inda.  The country was just emerging from 200 years of colonial rule followed by 40 years of socialism.  Markets were either moribund or corrupt.
+It was doub;y hard being in Inda.  The country was just emerging from 200 years of colonial rule followed by 40 years of socialism.  Markets were either non-existent, or moribund, or corrupt.
 
 The pipeline from Princeton or Harvard to analyst to associate to VP to MD certainly did not exist for Indian graduates, even from the top schools. 
 
@@ -34,9 +34,9 @@ Not helping matters was the fact that I was clueless about finance.  I didn't kn
 
 On the other hand --  sounded so cool!  They explained it to me as "building mathematical models of the market, and then profiting if those models were correct"
 
-My friends thought I was nuts.  To give up IIMA, to give up safe job offers at known-brand ompanies ,only to join a tiny little firm that nobody had heard of, in an industry that nobody knew anything about, in a country I'd never been -- 
+My friends thought I was nuts.  To give up IIM-A, to give up safe job offers at known-brand ompanies ,only to join a tiny little firm that nobody had heard of, in an industry that nobody knew anything about, in a country I'd never been -- 
 
-But to me these were all bonuses.  New horizons!  It was an adventure.  What's the worst that could happen  I'd get to see Japan.  In the supreme confidence of youth, I was sure that if I hated it, or if they hated me, i would quit, come home, write the b-school admission tests again, and breeze through.  (I later realized how arrogant this was).
+But to me these were all bonuses.  New horizons!  It was an adventure.  What's the worst that could happen?  They'd fire me, or I'd quit -- no big deal; I'd coe back to India,  I'd get to see Japan.  In the supreme confidence of youth, I was sure that if I hated it, or if they hated me, i would quit, come home, write the b-school admission tests again, and breeze through.  (I later realized how arrogant this was).
 
 Tody of course hedge funds are very different.  Evyrbody knows about them; they're gamous, notorous.  Hit television shows are made abou them.  
 
@@ -50,8 +50,15 @@ I loved it.  I started out
 
 I programmed other people's models, then created models of my own, then built systems to trade those models, then began trading them myself, and eventually I found myself a full-fledged portfolio manager.  I started out in fixed income arbitrage, then branched out into long-short relative value and global macro.  I was pretty darn good at it too.
 
-
 We were building infra from scratch so
+
+One day I woke up and realized I hadn't written any production code in over a year; I was now a full-fledged portfolio manager.
+
+I was good at it too!  The same skills that helped me ace exams -- an analytical mind, calmness under pressure, and the sense that this was all game -- helped me .  (I think my childhood experience of war and invasion and ref gave me some perspective on the stakes; sure it was millions of dollars, but it was only money.)
+
+I ended up going from junior trader to senior trader to head of trading.  At one point the opp set in Japan was limted so I started looking at the US treasury market -- the most liquid, the most eyeballed market in the world, and ground zero for a great many quant strategies.  (think liar's poker, when genius failed).  If you can make money trading treasuries, you can do it anywhere.  (think masters of the universe from bonfire).  
+
+And then, of course, I walked away.  Read about that here. 
 
 
 ; Carl Sagan was my hero.  I 
