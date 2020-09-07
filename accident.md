@@ -1,13 +1,12 @@
 ---
 layout: default
-title: Finance by Accident · Abraham Thomas
+title: Accident · Abraham Thomas
 ---
-## My Portfolio
+## Title Goes Here
 
 ----
 
-*This is not meant to be advice, and frankly it's not likely to be very useful to anyone other than as a memoir; the world is vey different now than it was back then*
-
+*This is not meant to be career advice, and frankly it's not likely to be very useful to anyone other than as a memoir; the world is vey different now than it was back then*
 
 I fell into finance by accident.  Growing up, I wanted to be a scientist -- either astrophysics, or biotech -- Carl Sagan or Jurassic Park :)
 
@@ -70,7 +69,8 @@ That was what gave me the courage to quit the hf industry cold turkey, a decade 
 
 
 
-
+Be lucky
+Be open to luck
 
 
 
