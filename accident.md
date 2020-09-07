@@ -1,12 +1,15 @@
 ---
-layout: default
-title: Accident · Abraham Thomas
+layout: essay
+permalink: /:basename/
+title: The Accidental Trader
+date: 2020-09-07
 ---
-## Title Goes Here
+
+*This is 100% not career advice.*
 
 ----
 
-*This is not meant to be career advice, and frankly it's not likely to be very useful to anyone other than as a memoir; the world is vey different now than it was back then*
+<br/>
 
 I fell into finance by accident.  Growing up, I wanted to be a scientist -- either astrophysics, or biotech -- Carl Sagan or Jurassic Park :)
 
@@ -14,26 +17,22 @@ This in itself was an unusual inclination for a middle-class kid in 1990s India.
 
 And I had that option!  I was accepted into India's top medical school, and also into India's top engineering school.  (I've always been good at competitive exams).  But I took the path somewhat less trodden; I joined IIT Bombay, but instead of mechanical or electrical or chemical engineering, I chose to major in physics.  Academia beckoned.
 
-I was in for a rude awakening.  I quickly realized that there was a world of difference between liking physics, and doing physics as a career.  I realized that I didn't have the singleminded focus required to be an academic; also, I was too impatient. lacked the patience to do a 7-year PhD followed by postdocs and tenure track and everything else.  I still loved physics, but a physics career was not for me.
+I was in for a rude awakening.  I quickly realized that there was a world of difference between liking physics as a subject, and doing physics as a career.  I simply didn't have the singlemindedness required to be a successful academic.  I also lacked the patience to do a 5-year PhD followed by multiple post-docs that would hopefully lead to a tenure-track job.  (This is also why I rejected medicine: I didn't want to spend my 20s and 30s studying).  To this day, quantum mechanics, classical mechanics and statistical mechanics remain some of the most beautiful intellectual constructs I have ever come across, but a physics career was not for me.
 
-This left me at a loose end.  While my departmental classmates were winning full-ride scholarships to Stanford and Princeton and MIT and Yale and Cornell and Caltech, I entered my senior year compltely at a loss for what to do next.  I was accepted into IIMA but didn't really want to go ;  I wanted to leave school and experience the world.  At the same time, the types of jobs on offer -- management track, software development, -- didn't seem very appeaing.
+This left me at a loose end.  While my departmental classmates were winning full-ride scholarships to Stanford and Princeton and MIT and Yale and Cornell and Caltech, I entered my senior year completely at a loss for what to do next.  I was accepted into IIM Ahmedabad, then as now India's top business school (there's that competitive exam thing again), but I didn't really want to go there;  I wanted to leave the cloister and experience the world.  At the same time, the types of jobs on offer to fresh graduates from my university -- management track at large Indian corporates, software development for offshoring firms -- didn't seem terribly appeaing.
 
 
-And that's when I was presented with an intriguing 
-
-A very small fnd -- 7 people at the time. 
-Seed money from 
-
-Mikami, Kawamura, Kuriyan, Kamel, Thomas, Tanudjaja and Cheung. 
-
-They wanted a quant odd jobs person .
-
+And that's when serendipity struck.  I was offered a very strange job via a strange set of circumstances.  The company making the offer was called Simplex Capital, they were 6 people (I would be the 7th), and they were setting up a "hedge fund" with a small pool of money.  They were based in Tokyo -- a world away from my experience! -- but one of their principals had grown up in Bombay, was connected to me, and offered me a rather vague role as a "quant odd jobs person".  
 
 Now you have to remember that this was the mid 90s.  At the time, hedge funds were an extremely obscure corner of finance.  Quant investing was still in its infancy.  
 
-And I certainly  
+It was doub;y hard being in Inda.  The country was just emerging from 200 years of colonial rule followed by 40 years of socialism.  Markets were either moribund or corrupt.
 
-On the other hand -- oti sounded so cool!
+The pipeline from Princeton or Harvard to analyst to associate to VP to MD certainly did not exist for Indian graduates, even from the top schools. 
+
+Not helping matters was the fact that I was clueless about finance.  I didn't know the difference between a stock and a bond; I had only the faintest grasp of economics
+
+On the other hand --  sounded so cool!  They explained it to me as "building mathematical models of the market, and then profiting if those models were correct"
 
 My friends thought I was nuts.  To give up IIMA, to give up safe job offers at known-brand ompanies ,only to join a tiny little firm that nobody had heard of, in an industry that nobody knew anything about, in a country I'd never been -- 
 
