@@ -30,7 +30,7 @@ And that's when serendipity struck.  I was offered a very strange job via a stra
 
 Now you have to remember that this was the mid 1990s.  At the time, hedge funds were still a rather obscure corner of finance; they had none of the glamour (or notoriety) they have today.  Quantitative investing was in its infancy; firms like Citadel, D E Shaw, Millennium and AQR were just a few years old, while others like Winton and Two Sigma hadn't yet been launched.  Most people didn't know a hedge fund from a hedgehog. 
 
-It was doubly hard given that I was in India.  The country was just emerging from 40 years of soft socialism.  Markets were either moribund or corrupt; people who worked with money were looked at with either suspicion or disdain.  The best universities in India were very good indeed, but unlike the Ivies or Oxbridge, there was no pipeline linking their graduates to the analyst-associate-VP-MD path on Wall Street.
+It was doubly hard given that I was in India.  The country was just emerging from 40 years of soft socialism.  Markets were either moribund or corrupt; people who worked with money were looked at with either suspicion or disdain.  The best universities in India produced excellent graduates, but unlike the Ivies or Oxbridge, there was no pipeline linking them to the analyst-associate-VP-MD path on Wall Street.
 
 Not helping matters was the fact that I was utterly clueless about finance.  I didn't know the difference between a stock and a bond; I had only the faintest grasp of macroeconomics; and I confess that I too looked upon the business of money with a mixture of suspicion and disdain.
 
@@ -46,7 +46,17 @@ So in August of 1998, knowing no Japanese and knowing nothing about finance and 
 
 ----
 
-I loved it.  I started out 
+I loved it.  
+
+I started out as a true quant odd jobs -- everything from data entry (manually transcribing bond prices from broker emails) to SQL queries to yes, fetching sandwiches and coffee for the traders.
+
+Eventually I started doing some front office work: 
+
+
+The best part was that since the firm was so young, we had to build everything from scratch, and so I was \
+
+I remember creating a "cashflow" object (good old C++) as the base f
+this is a truly fundamental way of looking at stocks, bonds, derivatives, you name it. 
 
 I programmed other people's models, then created models of my own, then built systems to trade those models, then began trading them myself, and eventually I found myself a full-fledged portfolio manager.  I started out in fixed income arbitrage, then branched out into long-short relative value and global macro.  I was pretty darn good at it too.
 
