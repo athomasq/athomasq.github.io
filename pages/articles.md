@@ -39,7 +39,11 @@ It's not so much the specific investment or corporate strategy; it's the window 
 
 <br/>
 
-Finally, there's an enormous amount of insight and wisdom contained in the *internal* documents of large organizations, but most of them are confidential.  Sriram Krishnan has a great collection of [memos](https://sriramk.com/memos) that are in the public domain.
+Finally, there's an enormous amount of insight and wisdom contained in the *internal* documents of large organizations, but most of them are confidential.  Here are some collections that aren't:
+
+* [Sriram Krishnan](https://sriramk.com/memos) 
+* [Bessemer Venture Partners](https://www.bvp.com/memos) 
+
 
 <br/>
 <br/>

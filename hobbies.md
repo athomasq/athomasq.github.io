@@ -10,7 +10,7 @@ title: Hobbies · Abraham Thomas
 <br/>
 
 I like to [cook](/kitchen).  
-I like to take [photographs](/gallery).  
+I like to [travel](/japan) and take [photographs](/gallery).  
 I like to collect [books](/library).  
 &emsp;&emsp;(and read them of course!)  
 I like to overanalyze [sports](/sports).  
