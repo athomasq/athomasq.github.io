@@ -14,6 +14,7 @@ title: Press · Abraham Thomas
 Here are some articles in which I'm quoted or featured:
 
 - [The Data Game](https://www.theglobeandmail.com/investing/article-quandl-and-the-invasive-use-of-data/) - Globe and Mail (Canada) [<small>pdf</small>](/assets/docs/GM-data-game.pdf)
+- [Alternative Data and Long-Term Investing](https://www.forbes.com/sites/michaelmolnar/2020/09/11/yes-alternative-data-is-useful-beyond-next-quarters-results/#1c5eae0a1ec5) - Forbes [<small>pdf</small>](/assets/docs/F-mm-interview.pdf)
 - [Everybody's a Macro Trader Now](https://www.businessinsider.com/hedge-funds-rethink-alternative-data-pandemic-macro-2020-7) - Business Insider [<small>pdf</small>](/assets/docs/BI-macro.pdf)
 - [Data Hunters Search for Recovery Clues](https://www.bloomberg.com/news/articles/2020-06-02/fence-posts-transit-apps-give-alt-data-hunters-recovery-clues?sref=sZB6YyEo) - Bloomberg [<small>pdf</small>](/assets/docs/BBG-hunters.pdf)
 - [How Alternative Data Spread Through Finance](https://www.euromoney.com/article/b1llht8hglzxy9/how-alternative-data-spread-through-finance) - Euromoney [<small>pdf</small>](/assets/docs/EM-spread.pdf)
