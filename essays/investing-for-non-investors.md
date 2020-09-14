@@ -27,11 +27,11 @@ I can summarize best practices in a single sentence: *invest in a passive, diver
 
 While concise, that's not necessarily informative.  So let's break this sentence down into its constituent parts.  The basic principles are simple enough:
 
-- Compound: Make time your friend
-- Diversify: Spread out your portfolio
-- Economize: Avoid fees and friction
-- Conform: Don't try to beat the market
-- Introspect: Know your own preferences 
+- Make time your friend
+- Diversify your portfolio
+- Minimize fees and friction
+- Don't try to beat the market
+- Know your own preferences 
 
 In the following sections, I explain these principles in greater detail.  I also explore a few other ideas:
 
