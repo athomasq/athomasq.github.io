@@ -17,7 +17,7 @@ People often ask me how they should manage their money.  Not in the sense of hot
 
 Why should you listen to me?  Well, first, because I know what I'm talking about: I spent many years as a portfolio manager at a large hedge fund.  I know how markets work and how the financial services industry works.  And second, because I'm disinterested: I don't manage other people's money any more, and I don't have a book, course, podcast, newsletter or youtube channel to sell you.  This essay describes what I do myself, and what I tell my friends and family to do when they ask for guidance. 
 
-<!-- Who is this guide for?   -->
+Who is this guide for?   People who have the patience to read 3000+ words of advice from a stranger on the internet :).  More seriously: early to mid career professionals, typically in knowledge industries, who have some investable income and want to know how best to deploy it.
 
 <br/>
 
