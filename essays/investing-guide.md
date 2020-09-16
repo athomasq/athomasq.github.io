@@ -228,6 +228,8 @@ I think you'll find that lower consumption does not negatively impact your day-t
 
 ### The Question of Housing
 
+<img src="/assets/img/just-a-house.jpg" class="image">
+
 Ah, housing.  Are house prices going up or down?  Should new construction be permitted or banned?  Should I buy or rent?  Big city or small town?  Downtown or suburbs?  Cars or transit?  Location or square footage?  
 
 Few topics excite as much passion, and for good reason.  Buying a house is the single largest transaction most people will ever make.  And home equity is usually the single largest component of a family's savings, often accounting for 300% or more of their wealth.  
