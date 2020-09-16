@@ -351,22 +351,24 @@ Please don't do it.
 <br/>
 
 
-<!--
-### Windfalls and market timing
+### Windfalls and Market Timing
 
-For many of us, the concept of a regular, predictable monthly pay cheque is outdated. 
+Most investment guides assume you have a regular monthly income, and advise you to save and invest a fixed percentage of it every month.  But this is no longer a good assumption.  
 
-Most investment guides are predicated on 
-tell you what to do with regular income: put away some fixed percentage every monht
+Many people today have income that is lumpy, irregular, or unpredictable.  Consulting or gig work.  Equity that has finally vested.  A large bonus or commission.  An inheritance or earnout.  Sales from your side-hustle.  All of these vary in frequency and in size; how do you create a prudent savings and investment plan given this volatility? 
 
-But what about income that is lumpy.  An unexpected windfall.  Equity vesting cliffs.  A large bonus.  An inheritance.
-Or sales from your shopify store or youtube channel or substack.  Variable from month to moneht
-At the extreme is windfall like lottery or exit.
+First, on the saving and spending side: the key is to not let temporarily elevated income become your new baseline.  By all means calibrate your consumption to your average income -- just make sure it's your actual average, not your wishful-thinking average.  Expensive new habits and impulse purchases are the biggest dangers for people with unexpected riches. 
 
-How do you manage such amounts?
+On the investment side, you might worry that irregular income makes you 
 
-Impulse
-Ratchets
+market timgin,  If you have a truly life-changin event -- say you sell your company for 50x your annual income -- then it makes sense to dca.  But otherwise, minor variances are .  Just like it's hard to beat, it's also hard to underperform.  Stick with the program.
+
+
+
+ the concern is that irregular income forces you to take "active" investment decisions even though you don't want to (and shouldn't).  For example if you get a large bonus in January and nothing in February, you might end up investing more in the former month -- congratulations, you've become a market timer!  
+
+Most of the time, It's not worth overthinking this. 
+
 
 THe biggest concern is that you are forced into makret timing even though you don't want to be.  If you earn a ton in Jan and not much in Feb, you end up investing more in Jan than in Feb, despite your best intentions of staying agnostuc.  This makes you vulnerabl to sequence risk.  
 
@@ -388,9 +390,9 @@ Dollar cost averaging.
 ### Paying for Advice?
 
 
+Sim
 
-
-
+<!--
 ### One Final Note
 
 As someone who has had a successful financial career by almost any reasonable metric, I will point out -- and yes, this is a cliche -- that money can't buy happiness.  Happiness comes from fulfilment: friends, family, work, experience.  You may own possessions, but please don't let your possessions own you.  Good luck!
