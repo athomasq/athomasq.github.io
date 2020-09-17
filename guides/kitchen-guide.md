@@ -1,14 +1,17 @@
 ---
 layout: default
 permalink: /:basename/
-title: Kitchen · Abraham Thomas
+title: The Well-Equipped Kitchen
 ---
-
 ## The Well-Equipped Kitchen
 
 ----
 
-<br/>  
+*I enjoy cooking, I cook a lot, and I think I'm a reasonably good cook.  I've spent a lot of time over the years building up a well-equipped kitchen.  These are the items I use the most.*
+
+----
+
+<br/>
 
 ### Cookware
 
@@ -21,7 +24,7 @@ title: Kitchen · Abraham Thomas
 - Saucepan
 - Mini sauce pot
 - Large stock pot
-- Baking tray
+- Roasting pan with rack
 - Baking sheet
 - Non-stick dosa tawa
 
@@ -33,12 +36,13 @@ title: Kitchen · Abraham Thomas
 - Boiler by Zojirushi
 - Spice grinder by Cuisinart
 - Food processor by PC
-- Pourover pot by Chemex
+- Pourover coffee pot by Chemex
 - Vacuum sealer by FoodSaver
+- Instant read thermometer by ThermoPen
+
 
 ### Accessories
 
-- Instant read thermometer by ThermoPen
 - Digital scale
 - Large mortar and pestle for pastes
 - Small mortar and pestle for spices
@@ -64,8 +68,8 @@ For occasional inspiration:
 
 ### Notes
 
-I enjoy cooking; I cook a lot; and I think I'm a good cook.  I've spent a lot of time over the years building up a well-equipped kitchen; these are the items I use the most.
-
-The above list is based on *a lot* of background reading -- I tend to do a ton of research before buying anything.  I generally follow a barbell strategy when buying stuff: either buy brands that offer everyday quality at low prices (IKEA, Costco, PC etc) or buy the top of the line (Le Creuset, Ankarsrum etc).  Avoid the messy middle. 
+The above list is based on *a lot* of background reading -- I tend to do a ton of research before buying anything.  I generally follow a barbell strategy when acquiring stuff: either buy brands that offer everyday quality at low prices (IKEA, Costco, PC etc) or buy the top of the line (Le Creuset, Ankarsrum etc).  Avoid the messy middle. 
 
 What gear you need depends on what you plan to cook.  My own repertoire is fairly eclectic: most of the time I cook Indian (Kerala, Bengal, non-denominational desi), vaguely Asian (Hakka Chinese, Japanese, Korean, Thai) or when lazy, generic North American (grills, roasts, pastas, pizzas, tex-mex).  These days I'm exploring Middle Eastern and Mediterranean cuisine (Turkish, Israeli, Persian, Moroccan).
+
+*Itadakimasu!*

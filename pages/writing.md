@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /:basename/
 title: Writing · Abraham Thomas
 ---
 
@@ -11,6 +12,10 @@ title: Writing · Abraham Thomas
 
 
 I like to write.  Here are some things I've written:
+
+* [Essays](/essays)
+* [Threads](/threads)
+* [Guides](/guides)
 
 
 <!--
@@ -27,7 +32,7 @@ The Worst Journey in the World
 Cosmos  
 Empires of the Word  
 
--->
+
 
 **Essays**  
 [APIs Are Eating the World](APIs-are-eating-the-world)  
@@ -49,6 +54,9 @@ Empires of the Word
 [Failure Modes](failure-modes)  
 [Silk Ties](silk-ties)  
 [Software Eats Marxism](software-eats-marxism)  
+
+-->
+
 
 <!--
 **Twitter Hits**  

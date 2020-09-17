@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /:basename/
 title: Investing · Abraham Thomas
 ---
 

@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /:basename/
 title: Writers · Abraham Thomas
 ---
 
@@ -28,5 +29,5 @@ We live in a golden age for online content.  Here are some of my favourite long-
 * <a href="https://www.ribbonfarm.com/about/" title="new ways of seeing the world" target="_blank">Venkatesh Rao</a>
 
 
-For further reading, see my collection of [resources](/resources) for startup founders.
+For further reading, see my collection of [resourcesfor startup founders]((/founders-guide).
 
