@@ -1,15 +1,17 @@
 ---
-layout: essay
+layout: default
 permalink: /:basename/
 title: Investing for Non-Professionals
-date: 2020-09-13
 ---
+## Investing for Non-Professionals
+
+----
 
 *Does the world really need another guide to investing?  Yes, say I.*
 
 ----
 
-<br/>
+<img src="/assets/img/buy-sell.png" class="image">
 
 ### Introduction
 
@@ -17,7 +19,7 @@ People often ask me how they should manage their money.  Not in the sense of hot
 
 Why should you listen to me?  Well, first, because I know what I'm talking about: I spent many years as a portfolio manager at a large hedge fund.  I know how markets work and how the financial services industry works.  And second, because I'm disinterested: I don't manage other people's money any more, and I don't have a book, course, podcast, newsletter or youtube channel to sell you.  This essay describes what I do myself, and what I tell my friends and family to do when they ask for guidance. 
 
-Who is this guide for?   People who have the patience to read 3000+ words of advice from a stranger on the internet :).  More seriously: early- to mid-career folks who don't work in finance and have limited market experience, but who have some investable income and are curious about how best to deploy it and why.
+Who is this guide for?   People who have the patience to read 4000+ words of advice from a stranger on the internet :).  More seriously: early- to mid-career folks who don't work in finance and have limited market experience, but who have some investable income and are curious about how best to deploy it and why.
 
 <br/>
 
@@ -274,7 +276,7 @@ But housing also has several things going for it!
 
 So what does all these contradictory factors mean for your portfolio?  I'll tell you my personal view.
 
-I think real estate should be part of every properly diversified portfolio.  But you don't have to live in the property you own!  If homeownership gives you emotional satisfaction (joy, security), go for it.  If not, investing in real estate funds or rental units works just as well.  And if you are indifferent, I would base the decision on the rent-to-price ratio where you live.  If annual rent is above 4% of house price, buy; if it's below 2%, rent and put the saved money into equities.
+I think real estate should be part of every properly diversified portfolio.  But you don't have to live in the property you own!  If homeownership gives you emotional satisfaction (joy, security, pride), go for it.  If not, investing in real estate funds or rental units works just as well.  And if you are indifferent, I would base the decision on the rent-to-price ratio where you live.  If annual rent is above 4% of house price, buy; if it's below 2%, rent and put the saved money into equities.
 
 [Back to Top ↩](/investing-guide#tldr)
 
@@ -299,7 +301,9 @@ Probably not.  Successful angel investing requires:
 - Investor **credibility**, to win an allocation; and
 - **Good luck**.
 
-If you don't have these, you're just competing on an even footing in an efficient market, and everything I said previously about beating the market applies.  Also, people, especially those who have had some career success, tend to over-estimate the extent to which they possess these attributes.  Don't let that be you.  
+If you don't have these, you're just competing on an even footing in an efficient market, and everything I said previously about beating the market applies.  Also, people tend to over-estimate the extent to which they possess these attributes.  Don't let that be you.  
+
+<br/>
 
 Now, it's true that putting money into the right startup at the right time can lead to outsize returns.  But there's no such thing as a free lunch!  Investing in startups comes with some extra challenges:
 
@@ -363,9 +367,9 @@ Please don't do it.
 
 ### Windfalls and Market Timing
 
-Most investment guides assume you have a regular monthly income, and advise you to save and invest a fixed percentage of it every month.  But this is no longer a good assumption.  
+Most investment guides assume you have a regular monthly income, and advise you to save and invest a fixed percentage of it every month.  
 
-Many people today have income that is lumpy, irregular, or unpredictable.  Consulting or gig work.  Equity that has finally vested.  A large bonus or commission.  An inheritance or earnout.  Sales from your side-hustle.  All of these vary in frequency and in size; how do you create a prudent savings and investment plan given this volatility? 
+This is no longer a good assumption.  People today have income that is lumpy, irregular, or unpredictable.  Consulting or gig work.  Equity that has finally vested.  A large bonus or commission.  An inheritance or earnout.  Sales from your side-hustle.  All of these vary in frequency and in size; given this volatility, how do you create a prudent savings and investment plan? 
 
 First, on the saving and spending side: the key is to not let temporarily elevated income become your new baseline.  By all means calibrate your consumption to your average income -- just make sure it's your actual average, not your wishful-thinking average, and not your one-off high point.  Expensive new habits and impulse purchases are the biggest dangers for people with unexpected riches. 
 
@@ -389,7 +393,7 @@ The only exception is if you have truly life-changing event that generates many 
 <img src="/assets/img/customer-yachts.jpg" class="image2">
 <br/>
 
-Finance is an extremely profitable industry, and those profits are not driven by undue generosity to customers.  When using financial services, there are four dangers to be aware of.
+Finance is an extremely profitable industry, and those profits are not accompanied by a reputation for undue generosity to customers.  When using financial services, there are four dangers to be aware of.
 
 First, beware of anyone telling you that you can beat the market.  Remember, it's not just Jim Cramer and Dave Portnoy; it's anyone touting active investing, including many "respectable" advisors.  The more you trade, the more they get paid.
 
@@ -399,45 +403,44 @@ Third, beware of fees based on assets.  Unless you're getting actual alpha (whic
 
 (This is why I can't bring myself to unequivocally recommend robo-advisors.  They implement all the best practices listed above, but they charge too much.  I'm happy to pay $700 a year on $100,000 of assets to have someone else deal with tax-loss harvesting, portfolio rebalancing, dividend reinvestment and so on; they're simple, mechanical tasks that are perfect for automation.  I'm much less happy to pay $6,000 on $1,000,000 of assets for the exact same tasks taking the exact same time and effort -- at that price, I'd rather spend an hour a month to do those tasks myself.)
 
-Fourth, beware of little details.  Banks especially are very good at preying on customer inattention and inexperience and disinterest; they will soak you on fees, rates, returns, you name it, and you won't even notice.
+Fourth, beware of little details.  Banks especially are very good at preying on customer inattention and inexperience and disinterest; they will soak you on fees, rates and returns, and you won't even notice.
 
-So is all finance a grift?  Not at all.  
+<br/>
 
-A good tax accountant is invaluable.  This is one of the higheest return investments you can mae, thanks to the baroque tax code.
+All of finance is not a grift.  Here are some areas where I think spending on financial services is justified: 
 
-Fixed-fee financial planners can help you 
+- A good tax accountant is invaluable.  In fact, this is one of the highest return investments you can make, thanks to the baroque tax codes in many parts of the world, not to mention the asymmetric risk-reward of tax complications.
 
-Finally, some individuals and some institutions can indeed consistently beat the market.  It; Unfortunately Its probably not you or anyone you know.  Markets are effcient.  I've seen successful funds and I know exacyl how rare they are.
+- Fixed-fee financial planners can help you model out your income, savings, spending, allocations, retirement and more.  Ideally, you'll only have to do this once.
+
+- Fintech startups are unbundling banks; by picking and choosing the right ones for your needs, you can access almost all the services that banks offer, but cheaper and better.
+
+[Back to Top ↩](/investing-guide#tldr)
+
+<br/>
+
+-----
+
+<br/>
 
 
-<!--
 ### One Final Note
 
 As someone who has had a successful financial career by almost any reasonable metric, I will point out -- and yes, this is a cliche -- that money can't buy happiness.  Happiness comes from fulfilment: friends, family, work, experience.  You may own possessions, but please don't let your possessions own you.  Good luck!
 
 
-(On a related note, I don't mind buying stocks at all-time-high just because they're all-time-highs.  There's a misconception that buying stocks cheap means buying them cheap relative to their own history.  That's fallacious.  What you should be trying to do is buy stocks cheap to their future value.  And over a long-enough horizon, real future value is almost always higher than real current value.)
-----
 
 <br/>
-
-### Disclaimer
-
-This is not investment advice.  I'm not recommending that you buy or sell any specific asset or security.  Use at your own risk.  
+<br/>
+<br/>
 
 
-<img src="https://cdn.shopify.com/s/files/1/0535/3509/products/buy_sell_1024x1024.jpg" class="image">
+----
 
+<i><b>Disclaimer:</b> This is not investment advice.  I'm not recommending that you buy or sell any specific asset or security.  Use at your own risk.</i>
 
-
-### On market timing
-
-What's your opinion of FIRE?
-Student loans
-Career
-
--->
-
-
-
+<i><b>Acknowledgements:</b> I'd like to thank Prakash Swaminathan, Biju James, Amit Chakrabarti and Sidharth Jaggi for nudging me to write this essay, and for helpful feedback.  All opinions are my own.</i>
+<br/>
+<br/>
+<br/>
 

@@ -79,8 +79,6 @@ th, td {
   margin-right: auto;
   margin-top: 30px;
   margin-bottom: 30px;
-  border-top: 1px solid #eee;
-  border-bottom: 1px solid #eee;
   width: 500px;
 }
 
@@ -90,8 +88,6 @@ th, td {
   margin-right: auto;
   margin-top: 20px;
   margin-bottom: 0px;
-  border-top: 1px solid #eee;
-  border-bottom: 1px solid #eee;
   width: 400px;
 }
 
