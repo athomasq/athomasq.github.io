@@ -195,7 +195,7 @@ But the process of asking these questions is important!  Too many people get cau
 
 -----
 
-*This concludes part 1.  But wait, there's more!  Here are some thoughts on investing that don't fit the sections above:*
+*This concludes part 1.  But wait, there's more!  Here are some thoughts on investing that don't fit the sections above.*
 
 -----
 
