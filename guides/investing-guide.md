@@ -377,6 +377,10 @@ On the investment side, you might worry that irregular income forces you to "tim
 
 The only exception is if you have truly life-changing event that generates many times what you ordinarily make -- a major inheritance, or a lottery win, or a startup exit.  In this case, it makes sense to dollar-cost-average into your target allocation over a period of 18 to 36 months.
 
+<br/>
+
+**Update, Sep 2020:** A reader asks about the wisdom of buying US stocks at all-time-highs.  Philosophically, I don't mind buying at ATHs.  Markets are not mean-reverting; I expect equity markets to continually make new ATHs over decade-long horizons.  That's the whole point of equity investing!  Still, if you've just come into a windfall and you're worried about sequence risk, disciplined dollar-cost-averaging is the way to go.
+
 [Back to Top ↩](/investing-guide#tldr)
 
 <br/>
