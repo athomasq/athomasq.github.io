@@ -12,14 +12,14 @@ title: Articles · Abraham Thomas
 
 Here are some articles I thought worth saving and returning to:
 
-* [A Mathematician's Apology](/assets/docs/hardy.pdf) -- G. H. Hardy
-* [Judgement Under Uncertainty](/assets/docs/kahneman-tversky.pdf) -- Tversky & Kahneman
-* [Information Theory for Intelligent People](/assets/docs/dedeo.pdf) -- Simon DeDeo 
-* [The Use of Knowledge in Society](/assets/docs/hayek.pdf) -- F. A. Hayek
-* [A Person Paper on Purity in Language](/assets/docs/hofstadter.pdf) -- Douglas Hofstadter
+* [A Mathematician's Apology](https://www.math.ualberta.ca/mss/misc/A%20Mathematician%27s%20Apology.pdf) -- G. H. Hardy [<small>pdf</small>](/assets/docs/hardy.pdf)
+* [Judgement Under Uncertainty](https://www2.psych.ubc.ca/~schaller/Psyc590Readings/TverskyKahneman1974.pdf) -- Tversky & Kahneman [<small>pdf</small>](/assets/docs/kahneman-tversky.pdf)
+* [Information Theory for Intelligent People](http://tuvalu.santafe.edu/~simon/it.pdf) -- Simon DeDeo [<small>pdf</small>](/assets/docs/dedeo.pdf)
+* [The Use of Knowledge in Society](https://www.econlib.org/library/Essays/hykKnw.html) -- F. A. Hayek [<small>pdf</small>](/assets/docs/hayek.pdf)
+* [A Person Paper on Purity in Language](https://www.cs.virginia.edu/~evans/cs655/readings/purity.html) -- Douglas Hofstadter [<small>pdf</small>](/assets/docs/hofstadter.pdf)
 * [Quantum Computing for the Very Curious](https://quantum.country) -- Matuschak & Nielsen 
-* [You and Your Research](/assets/docs/hamming.pdf) -- Richard Hamming
-* [How the MtG Color Wheel Explains Humanity](/assets/docs/sabien-magic.pdf) -- [Duncan Sabien](https://humanparts.medium.com/the-mtg-color-wheel-c9700a7cf36d)
+* [You and Your Research](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html) -- Richard Hamming [<small>pdf</small>](/assets/docs/hamming.pdf)
+* [How the MtG Color Wheel Explains Humanity](https://humanparts.medium.com/the-mtg-color-wheel-c9700a7cf36d) -- Duncan Sabien [<small>pdf</small>](/assets/docs/sabien-magic.pdf)
 
 ----
 
