@@ -19,6 +19,7 @@ Here are some articles I thought worth saving and returning to:
 * [A Person Paper on Purity in Language](/assets/docs/hofstadter.pdf) -- Douglas Hofstadter
 * [Quantum Computing for the Very Curious](https://quantum.country) -- Matuschak & Nielsen 
 * [You and Your Research](/assets/docs/hamming.pdf) -- Richard Hamming
+* [How the MtG Color Wheel Explains Humanity](/assets/docs/sabien-magic.pdf) -- [Duncan Sabien](https://humanparts.medium.com/the-mtg-color-wheel-c9700a7cf36d)
 
 ----
 
