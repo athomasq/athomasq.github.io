@@ -443,7 +443,7 @@ As someone who has had a successful financial career by almost any reasonable me
 
 <i><b>Disclaimer:</b> This is not investment advice.  I'm not recommending that you buy or sell any specific asset or security.  Use at your own risk.</i>
 
-<i><b>Acknowledgements:</b> I'd like to thank Prakash Swaminathan, Biju James, Amit Chakrabarti and Sidharth Jaggi for nudging me to write this essay, and for helpful feedback.  All opinions are my own.</i>
+<i><b>Acknowledgements:</b> I'd like to thank Prakash Swaminathan for nudging me to write this essay, and for helpful feedback.  All opinions are my own.</i>
 <br/>
 <br/>
 <br/>
