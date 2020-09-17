@@ -10,7 +10,6 @@ title: Guides · Abraham Thomas
 
 <br/>
 
-
 When I get interested in something, I like to go deep.  Here are some guides I've written:
 
 * [Investing for Non-Professionals](/investing-guide)
