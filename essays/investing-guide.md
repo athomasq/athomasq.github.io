@@ -40,8 +40,8 @@ In the following sections, I explain these principles in greater detail.  I also
 - [The question of housing](/investing-guide/#the-question-of-housing)
 - [Should you angel invest?](/investing-guide/#should-you-angel-invest)
 - [What about options?](/investing-guide/#what-about-options)
-- Windfalls and market timing
-- Paying for financial services
+- [Windfalls and market timing](/investing-guide/#windfalls-and-market-timing)
+- [Paying for financial services](/investing-guide/#paying-for-financial-services)
 
 Read on!
 
@@ -49,7 +49,9 @@ Read on!
 
 ### Make Time Your Friend
 
-<img src="/assets/img/hatter.png" class="image">
+<br/>
+<img src="/assets/img/hatter.png" class="image2">
+<br/>
 
 In most endeavours, time is the enemy.  Whether it's deadlines at work or in school, competition in sports or business, or just old age: the clock is constantly ticking.
 
@@ -73,7 +75,9 @@ So make time your friend!  Invest early and stay invested.  If you haven't inves
 
 ### Diversify Your Portfolio
 
-<img src="/assets/img/diversification.png" class="image">
+<br/>
+<img src="/assets/img/diversification.png" class="image2">
+<br/>
 
 **Diversification is the only free lunch in the market.**
 
@@ -87,7 +91,7 @@ Of course it's not that easy to find perfectly uncorrelated assets.  But even so
 
 What are the axes across which one can diversify?
 
-* **Asset class:** you should invest in stocks, bonds, commodities and real estate.  
+* **Asset class:** at the very least, you should invest in stocks, bonds and real estate.  Commodities and currencies (both fiat and crypto) are also worth looking at.
 
 * **Sector:** within each asset class, you should cover different sectors.  For example, within commodities you may want to have money in energy, in ags, and in metals.  Within stocks, you may want to have money in tech, in finance, in utilities, and so on.
 
@@ -147,7 +151,7 @@ Keep in mind here that you are competing with intelligent, motivated, well-resou
 
 Remember also that there are two large and lucrative industries dedicated to the proposition that you can beat the market.  There's retail investing -- financial advisors, discount brokerages, YOLO trading apps, newsletters and discussion boards, Dave Portnoy and Jim Cramer.  And there's active management -- all those hedge funds and mutual funds and venture funds that in aggregate fail to break even, let alone generate profits for investors.  They both want you to believe that beating the market is easy; that's how they get paid.  Caveat emptor! 
 
-To be fair, I do think it's possible to beat the market.  I just think it's incredibly hard.  Investment skill is real; edge exists; alpha can be captured.  Rentec and Sequoia are the classic examples.  But be honest with yourself: you are not Rentec or Sequoia.  Unless the stars line up just right, you are unlikely to have an edge.  (And if you can't identify the mark at the table, it's probably you).  So please don't try.
+To be fair, I do think it's possible to beat the market.  I just think it's incredibly hard.  Investment skill is real; edge exists; alpha can be captured.  Rentec and Sequoia are the classic examples.  But they had to work long and hard to build their advantages.  Be honest with yourself: you are not Rentec or Sequoia.  Unless the stars line up just right, you are unlikely to have an edge.  (And if you can't identify the mark at the table, it's probably you).  So please don't try.
 
 A few other points to round out this section:
 
@@ -228,7 +232,9 @@ I think you'll find that lower consumption does not negatively impact your day-t
 
 ### The Question of Housing
 
-<img src="/assets/img/just-a-house.jpg" class="image">
+<br/>
+<img src="/assets/img/just-a-house.jpg" class="image2">
+<br/>
 
 Ah, housing.  Are house prices going up or down?  Should new construction be permitted or banned?  Should I buy or rent?  Big city or small town?  Downtown or suburbs?  Cars or transit?  Location or square footage?  
 
@@ -280,7 +286,9 @@ I think real estate should be part of every properly diversified portfolio.  But
 
 ### Should You Angel Invest?
 
-<img src="/assets/img/good-omens.png" class="image">
+<br/>
+<img src="/assets/img/good-omens.png" class="image2">
+<br/>
 
 In the professional circles I move in -- mostly finance and tech -- angel investing has become quite popular.  Should you become an angel investor?
 
@@ -323,7 +331,9 @@ Finally, note that there are several non-economic reasons why many people become
 
 ### What About Options?
 
-<img src="/assets/img/options.jpg" class="image">
+<br/>
+<img src="/assets/img/options.jpg" class="image2">
+<br/>
 
 Ha ha ha oh my god no.  Just no.
 
@@ -357,46 +367,56 @@ Most investment guides assume you have a regular monthly income, and advise you 
 
 Many people today have income that is lumpy, irregular, or unpredictable.  Consulting or gig work.  Equity that has finally vested.  A large bonus or commission.  An inheritance or earnout.  Sales from your side-hustle.  All of these vary in frequency and in size; how do you create a prudent savings and investment plan given this volatility? 
 
-First, on the saving and spending side: the key is to not let temporarily elevated income become your new baseline.  By all means calibrate your consumption to your average income -- just make sure it's your actual average, not your wishful-thinking average.  Expensive new habits and impulse purchases are the biggest dangers for people with unexpected riches. 
+First, on the saving and spending side: the key is to not let temporarily elevated income become your new baseline.  By all means calibrate your consumption to your average income -- just make sure it's your actual average, not your wishful-thinking average, and not your one-off high point.  Expensive new habits and impulse purchases are the biggest dangers for people with unexpected riches. 
 
-On the investment side, you might worry that irregular income makes you 
+On the investment side, you might worry that irregular income forces you to "time the market": invest more in some months, less in others.  And timing the market is generally a bad idea.  But keep in mind that it's just as hard to underperform the market as it is to outperform it!  So don't overthink things too much; minor variances probably won't matter.  
 
-market timgin,  If you have a truly life-changin event -- say you sell your company for 50x your annual income -- then it makes sense to dca.  But otherwise, minor variances are .  Just like it's hard to beat, it's also hard to underperform.  Stick with the program.
+The only exception is if you have truly life-changing event that generates many times what you ordinarily make -- a major inheritance, or a lottery win, or a startup exit.  In this case, it makes sense to dollar-cost-average into your target allocation over a period of 18 to 36 months.
 
+[Back to Top ↩](/investing-guide#tldr)
 
+<br/>
 
- the concern is that irregular income forces you to take "active" investment decisions even though you don't want to (and shouldn't).  For example if you get a large bonus in January and nothing in February, you might end up investing more in the former month -- congratulations, you've become a market timer!  
+-----
 
-Most of the time, It's not worth overthinking this. 
-
-
-THe biggest concern is that you are forced into makret timing even though you don't want to be.  If you earn a ton in Jan and not much in Feb, you end up investing more in Jan than in Feb, despite your best intentions of staying agnostuc.  This makes you vulnerabl to sequence risk.  
-
-
-Dont change too much
-Dont step out of your lane
-
-
-I never mind buying stocks at all-time-high just because they're all-time-highs.  There's a misconception that buying stocks cheap means buying them cheap relative to their own history.  That's fallacious.  What you should be trying to do is buy stocks cheap to their future value.  And over a long-enough horizon, real future value is almost always higher than real current value.
-
-Dollar cost averaging.
+<br/>
 
 
 
+### Paying for Financial Services
 
+<br/>
+<img src="/assets/img/customer-yachts.jpg" class="image2">
+<br/>
 
+Finance is an extremely profitable industry, and those profits are not driven by undue generosity to customers.  When using financial services, there are four dangers to be aware of.
 
+First, beware of anyone telling you that you can beat the market.  Remember, it's not just Jim Cramer and Dave Portnoy; it's anyone touting active investing, including many "respectable" advisors.  The more you trade, the more they get paid.
 
-### Paying for Advice?
+Second, beware of anyone telling you that *they* can beat the market.  They may believe it -- they may even be right! -- but statistically, you're better off investing in the index.
 
+Third, beware of fees based on assets.  Unless you're getting actual alpha (which, see above *ad nauseam*, you're probably not), there's no reason for you to pay 10x the fees just because your assets are 10x larger.
 
-Sim
+(This is why I can't bring myself to unequivocally recommend robo-advisors.  They implement all the best practices listed above, but they charge too much.  I'm happy to pay $700 a year on $100,000 of assets to have someone else deal with tax-loss harvesting, portfolio rebalancing, dividend reinvestment and so on; they're simple, mechanical tasks that are perfect for automation.  I'm much less happy to pay $6,000 on $1,000,000 of assets for the exact same tasks taking the exact same time and effort -- at that price, I'd rather spend an hour a month to do those tasks myself.)
+
+Fourth, beware of little details.  Banks especially are very good at preying on customer inattention and inexperience and disinterest; they will soak you on fees, rates, returns, you name it, and you won't even notice.
+
+So is all finance a grift?  Not at all.  
+
+A good tax accountant is invaluable.  This is one of the higheest return investments you can mae, thanks to the baroque tax code.
+
+Fixed-fee financial planners can help you 
+
+Finally, some individuals and some institutions can indeed consistently beat the market.  It; Unfortunately Its probably not you or anyone you know.  Markets are effcient.  I've seen successful funds and I know exacyl how rare they are.
+
 
 <!--
 ### One Final Note
 
 As someone who has had a successful financial career by almost any reasonable metric, I will point out -- and yes, this is a cliche -- that money can't buy happiness.  Happiness comes from fulfilment: friends, family, work, experience.  You may own possessions, but please don't let your possessions own you.  Good luck!
 
+
+(On a related note, I don't mind buying stocks at all-time-high just because they're all-time-highs.  There's a misconception that buying stocks cheap means buying them cheap relative to their own history.  That's fallacious.  What you should be trying to do is buy stocks cheap to their future value.  And over a long-enough horizon, real future value is almost always higher than real current value.)
 ----
 
 <br/>
