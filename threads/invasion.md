@@ -5,7 +5,7 @@ title: Invasion!
 threadurl: https://twitter.com/athomasq/status/1289957976749428740
 date: 2020-08-02
 ---
-*When I was 13 years old, I spent 3 days in the hold of a converted cargo ship, escaping a war zone with nothing more than what I could carry in a backpack.  This is my story.* 
+*When I was 13 years old, I spent 3 days in the hold of a converted cargo ship, escaping a war zone with nothing more than what I could carry in a backpack.  This is how it happened.* 
 
 ----
 
