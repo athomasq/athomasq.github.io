@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /:basename/
-title: Japan: An Opinionated Travel Guide
+title: Japan · Abraham Thomas
 ---
 ## Japan: An Opinionated Travel Guide
 
