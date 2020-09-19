@@ -11,7 +11,7 @@ title: Writing · Abraham Thomas
 <br/>
 
 
-I like to write.  Here are some things I've written:
+Here are some things I've written:
 
 * [Essays](/essays)
 * [Threads](/threads)
