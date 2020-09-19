@@ -184,7 +184,7 @@ A final vital piece of advice: **think for yourself**.  You can't build a startu
 
 Back in the early 2010s, a number of VCs discovered the power of blogging to attract talented founders **[1a]**, and they competed with each other to share their secrets with the world.  It was a golden age.
 
-Unfortunately, the very success of this content marketing strategy attracted more creators.  Not everybody has great insights to share, and the competition for eyeballs is fierce, so the content on offer rapidly devolved into platitudes or click-bait.  The median "how to startup" article published today is pretty terrible.
+Unfortunately, the very success of this content marketing strategy attracted more creators.  Not everybody has great insights to share, and the competition for eyeballs is fierce, so the content on offer rapidly devolved into platitudes or click-bait.  The median "how to startup" article published today is pretty terrible, though the best ones are better than ever.
 
 **[1a]** Good content boosts your profile as an investor; it attracts the kinds of founders you want to invest in; and it makes them more likely to pick you as their partner.  VC is a business with funnels and conversion rates just like any other! 
 
