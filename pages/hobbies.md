@@ -12,13 +12,14 @@ title: Hobbies · Abraham Thomas
 
 I like to [cook](/kitchen-guide).  
 I like to <!--[travel](/japan-guide) and -->take [photographs](/gallery).  
+I like to discover [new music](/music).  
 I like to collect [books](/library).  
 &emsp;&emsp;(and read them of course!)  
 
 
 <!--
 I like to overanalyze [sports](/sports).  
-I like to discover [new music](/music).  
+
 I like to play Euro-style [board games](/board-games).  
 I like to play tennis
 -->
