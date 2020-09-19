@@ -1,3 +1,18 @@
+
+
+Renaissance Technologies' Medallion fund is, undoubtedly, the most successful hedge fund in history.  The WSJ's Greg Zuckerman estimates that Medallion has returned 66% a year since 1998 (before fees).  That's ... basically insane.
+
+Like all hedge funds, Rentec is pretty secretive about what it does.  But there are smart people at Two Sigma and D E Shaw and Winton as well.  How come they don't generate the same returns?  What's Rentec doing that they don't?
+
+The source of Rentec's returns is one of the great unsolved mysteries of modern quant finance.  (Note: it can't be a Ponzi, because Rentec doesn't accept outside money, and hasn't for years.)
+
+This has led to all sorts of outlandish speculation: from insider trading to market manipulation to breakthroughs in linguistics and computing to even time travel.
+
+But you don't have 
+
+has a truly spectacular track record: supposedly 66% a year 
+
+
 You don't have to invoke magic or time travel to explain Renaissance Technologies and their amazing track record.  First-mover advantage suffices.   (1/N)
 
 Consider this sequence of events: 
