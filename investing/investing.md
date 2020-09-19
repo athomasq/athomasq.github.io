@@ -12,7 +12,7 @@ title: Investing · Abraham Thomas
 
 Here are some writings on investing and investments:
 
-* [Investing for non-professionals](/investing-guide)
+* [Investing for non-professionals](/investing-for-non-professionals)
 * Falling into finance by accident
 * [My angel portfolio](/angel)
 

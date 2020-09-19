@@ -30,20 +30,20 @@ I can summarize best practices in a single sentence:
 
 While concise, that's not necessarily informative.  So let's break this sentence down into its constituent parts.  The basic principles are simple enough:
 
-- [Make time your friend](/investing-guide/#make-time-your-friend)
-- [Diversify your portfolio](/investing-guide/#diversify-your-portfolio)
-- [Minimize fees and friction](/investing-guide/#minimize-fees-and-friction)
-- [Don't try to beat the market](/investing-guide/#dont-try-to-beat-the-market)
-- [Know your preferences](/investing-guide/#know-your-preferences)
+- [Make time your friend](/investing-for-non-professionals/#make-time-your-friend)
+- [Diversify your portfolio](/investing-for-non-professionals/#diversify-your-portfolio)
+- [Minimize fees and friction](/investing-for-non-professionals/#minimize-fees-and-friction)
+- [Don't try to beat the market](/investing-for-non-professionals/#dont-try-to-beat-the-market)
+- [Know your preferences](/investing-for-non-professionals/#know-your-preferences)
 
 In the following sections, I explain these principles in greater detail.  I also explore a few other ideas:
 
-- [The consumer-industrial complex](/investing-guide/#the-consumer-industrial-complex)
-- [The question of housing](/investing-guide/#the-question-of-housing)
-- [Should you angel invest?](/investing-guide/#should-you-angel-invest)
-- [What about options?](/investing-guide/#what-about-options)
-- [Windfalls and market timing](/investing-guide/#windfalls-and-market-timing)
-- [Paying for financial services](/investing-guide/#paying-for-financial-services)
+- [The consumer-industrial complex](/investing-for-non-professionals/#the-consumer-industrial-complex)
+- [The question of housing](/investing-for-non-professionals/#the-question-of-housing)
+- [Should you angel invest?](/investing-for-non-professionals/#should-you-angel-invest)
+- [What about options?](/investing-for-non-professionals/#what-about-options)
+- [Windfalls and market timing](/investing-for-non-professionals/#windfalls-and-market-timing)
+- [Paying for financial services](/investing-for-non-professionals/#paying-for-financial-services)
 
 Read on!
 
@@ -72,7 +72,7 @@ Not so in investing!  **The longer you allow your investment portfolio to grow, 
 
 So make time your friend!  Invest early and stay invested.  If you haven't invested in the past, do so today.  It's never too late to start!  Make decisions over a 20+ year horizon.  Then stop worrying and get on with your life :)
 
-[Back to Top ↩](/investing-guide#tldr)
+[Back to Top ↩](/investing-for-non-professionals#tldr)
 
 <br/>
 
@@ -110,7 +110,7 @@ The obvious next question is, what's a good allocation?  Reams have been written
 
 My own somewhat unorthodox opinion on this is that *it doesn't matter*.  What matters is that you diversify; how precisely you do so is of secondary importance.  Any of the model portfolios linked to above should work fine, and *all* of them will dominate an undiversified portfolio.
 
-[Back to Top ↩](/investing-guide#tldr)
+[Back to Top ↩](/investing-for-non-professionals#tldr)
 
 <br/>
 
@@ -134,7 +134,7 @@ So don't waste your money paying high fees to an active fund manager, unless you
  
 Active management fees are not the only frictions that can (and should) be avoided.  It's 2020, you shouldn't be paying brokerage fees or trading commissions!  Also, many countries have tax policies are explicitly designed to encourage saving and investment; take advantage of them!  A good tax accountant can help you structure your portfolio to be maximally efficient in this regard.
 
-[Back to Top ↩](/investing-guide#tldr)
+[Back to Top ↩](/investing-for-non-professionals#tldr)
 
 <br/>
 
@@ -170,7 +170,7 @@ A few other points to round out this section:
 
 - Having said all that, if you think you know an industry, or a company, or a region, or an asset class, better than the broad investor consensus -- go for it.  Just be very sure that you are not deluding yourself.
 
-[Back to Top ↩](/investing-guide#tldr)
+[Back to Top ↩](/investing-for-non-professionals#tldr)
 
 <br/>
 
@@ -194,7 +194,7 @@ You may not know the answers yet.  Perhaps it's all of the above; perhaps it's n
 
 But the process of asking these questions is important!  Too many people get caught up in the cycle of earn-spend-invest-borrow without examining their own life goals.  It's worth spending some time to think about why you're doing what you're doing. 
 
-[Back to Top ↩](/investing-guide#tldr)
+[Back to Top ↩](/investing-for-non-professionals#tldr)
 
 <br/>
 
@@ -229,7 +229,7 @@ The answer is not skipping avocado toast and daily lattes.  Those are marginal c
 
 I think you'll find that lower consumption does not negatively impact your day-to-day happiness!  Meanwhile the positive effects of spending less than you earn will contribute mightily to your year-over-year happiness.  That's a strong trade.
 
-[Back to Top ↩](/investing-guide#tldr)
+[Back to Top ↩](/investing-for-non-professionals#tldr)
 
 <br/>
 
@@ -283,7 +283,7 @@ So what does all these contradictory factors mean for your portfolio?  I'll tell
 
 I think real estate should be part of every properly diversified portfolio.  But you don't have to live in the property you own!  If homeownership gives you emotional satisfaction (joy, security, pride), go for it.  If not, investing in real estate funds or rental units works just as well.  And if you are indifferent, I would base the decision on the rent-to-price ratio where you live.  If annual rent is above 4% of house price, buy; if it's below 2%, rent and put the saved money into equities.
 
-[Back to Top ↩](/investing-guide#tldr)
+[Back to Top ↩](/investing-for-non-professionals#tldr)
 
 <br/>
 
@@ -329,7 +329,7 @@ If you do decide to take the plunge nonetheless, here are a few guidelines to fo
 Finally, note that there are several non-economic reasons why many people become angel investors: expanding their networks, learning about new industries or technologies, or boosting their status.  These are all perfectly valid reasons! Just be sure your investment amounts are proportionate to the value you receive.
 
 
-[Back to Top ↩](/investing-guide#tldr)
+[Back to Top ↩](/investing-for-non-professionals#tldr)
 
 <br/>
 
@@ -361,7 +361,7 @@ Unaligned?  Check.  Unless your explicit life goal is to get rich quick through 
 Please don't do it.  
 
 
-[Back to Top ↩](/investing-guide#tldr)
+[Back to Top ↩](/investing-for-non-professionals#tldr)
 
 <br/>
 
@@ -386,7 +386,7 @@ The only exception is if you have truly life-changing event that generates many 
 
 **Update, Sep 2020:** A reader asks about the wisdom of buying US stocks at all-time-highs.  Philosophically, I don't mind buying at ATHs.  Markets are not mean-reverting; I expect equity markets to continually make new ATHs over decade-long horizons.  That's the whole point of equity investing!  Still, if you've just come into a windfall and you're worried about sequence risk, disciplined dollar-cost-averaging is the way to go.
 
-[Back to Top ↩](/investing-guide#tldr)
+[Back to Top ↩](/investing-for-non-professionals#tldr)
 
 <br/>
 
@@ -424,7 +424,7 @@ All of finance is not a grift.  Here are some areas where I think spending on fi
 
 - Fintech startups are unbundling banks; by picking and choosing the right ones for your needs, you can access almost all the services that banks offer, but cheaper and better.
 
-[Back to Top ↩](/investing-guide#tldr)
+[Back to Top ↩](/investing-for-non-professionals#tldr)
 
 <br/>
 
