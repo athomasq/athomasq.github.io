@@ -16,7 +16,7 @@ Here are some writings and resources on software and startups:
 * [When Excellence Fails](/when-excellence-fails)  
 * [Aliens](/aliens)  
 * [Looking Back, Looking Forward](/looking-back-looking-forward) 
-* [Resources for Startup Founders](/founders-guide)
+* [Web Resources for Startup Founders](/web-resources-for-founders)
 
  
 <br/>

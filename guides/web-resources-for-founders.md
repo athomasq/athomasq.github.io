@@ -1,10 +1,10 @@
 ---
 layout: default
 permalink: /:basename/
-title: Resources · Abraham Thomas
+title: Web Resources for Founders
 ---
 
-## Resources for Startup Founders
+## Web Resources for Founders
 
 ----
 
@@ -14,14 +14,14 @@ There's a lot of startup advice out there.  **Much of it is useless**.
 
 When quantity increases and quality declines, curation becomes valuable [1].  So I've put together some of the resources that I found most useful in my own journey [2].  I've organized them by theme:
 
-- [Oracles](/resources#oracles): the voices that define this era of tech
-- [Ideas](/resources#ideas): find something worth building
-- [Product](/resources#product): build it right
-- [Growth](/resources#growth): get noticed by the world
-- [Metrics](/resources#metrics): measure what matters
+- [Oracles](/web-resources-for-founders#oracles): the voices that define this era of tech
+- [Ideas](/web-resources-for-founders#ideas): find something worth building
+- [Product](/web-resources-for-founders#product): build it right
+- [Growth](/web-resources-for-founders#growth): get noticed by the world
+- [Metrics](/web-resources-for-founders#metrics): measure what matters
 - (More sections to be added over time)
-- [Comments](/resources#comments)
-- [Footnotes](/resources#footnotes)
+- [Comments](/web-resources-for-founders#comments)
+- [Footnotes](/web-resources-for-founders#footnotes)
 
 There is a lot of material here, and for that I make no excuses.  **If you're serious about building a startup, you have to put in the work.**  I know of no successful founders who are not also learning machines [3].
 
@@ -43,7 +43,7 @@ Let's start with the classics.  You can't be part of the tech ecosystem without 
 
 These 5 writers are essential to understanding the modern era of tech (2009 to 2019: Uber's founding to WeWork's non-IPO).  You can find all of them in this [excellent series of videos](http://startupclass.samaltman.com/lists/about/) with accompanying notes and resources.
 
-[Back to Top ↩](/resources#resources-for-startup-founders)
+[Back to Top ↩](/web-resources-for-founders#web-resources-for-founders)
 
 <br/>  
 
@@ -75,7 +75,7 @@ How do you find a good idea?  How do you find a problem worth solving?
 
 - More ideas on ideas: look for [hobbies](https://cdixon.org/2013/03/02/what-the-smartest-people-do-on-the-weekend-is-what-everyone-else-will-do-during-the-week-in-ten-years); look for [narrative violations](http://www.bedrockcap.com/letter); look for [secrets](https://blakemasters.com/post/22866240816/peter-thiels-cs183-startup-class-11-notes); navigate the [idea maze](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture5-market-wireframing-design.pdf).
 
-[Back to Top ↩](/resources#resources-for-startup-founders)
+[Back to Top ↩](/web-resources-for-founders#web-resources-for-founders)
 
 <br/>  
 
@@ -98,7 +98,7 @@ Building and delivering the *right* product, efficiently and effectively, tying 
 - Tools for quick wins: creating [effective customer surveys](https://stripe.com/en-ca/atlas/guides/survey-design-principles); unblocking [high-intent users](https://twitter.com/andrewchen/status/992114899991060481), and starting with [self-serve](https://medium.com/@gokulrajaram/self-serve-first-the-overlooked-but-essential-paradigm-underlying-great-software-companies-45a67dbec4c4).
 
 
-[Back to Top ↩](/resources#resources-for-startup-founders)
+[Back to Top ↩](/web-resources-for-founders#web-resources-for-founders)
 
 <br/>  
 
@@ -130,7 +130,7 @@ In the later stages of a startup, it's exactly the opposite.  There is a well-es
 
 - Tren Griffin [summarizes](https://25iq.com/2014/05/17/a-dozen-things-ive-learned-about-marketing-distribution-and-sales/) wisdom on distribution from Thiel, Bezos, Ellison and Andreessen; Dan Kaplan [does the same](https://techcrunch.com/2014/03/22/the-real-engines-of-growth-on-the-internet/) for Chudnovsky, Elman, Johns and Chen.
 
-[Back to Top ↩](/resources#resources-for-startup-founders)
+[Back to Top ↩](/web-resources-for-founders#web-resources-for-founders)
 
 <br/>  
 
@@ -154,7 +154,7 @@ In the later stages of a startup, it's exactly the opposite.  There is a well-es
 
 - Finally, metrics matter for fund-raising.  A16z defines some of the most commonly used (and asked for) [startup](https://a16z.com/2015/08/21/16-metrics/) [metrics](https://a16z.com/2015/09/23/16-more-metrics/).  Gigi Levy-Weiss explains how VCs use these metrics to construct their [investment narrative](https://www.nfx.com/post/how-vcs-see-your-kpis).  
 
-[Back to Top ↩](/resources#resources-for-startup-founders)
+[Back to Top ↩](/web-resources-for-founders#web-resources-for-founders)
 
 <br/>  
 
@@ -172,7 +172,7 @@ I welcome recommendations for new articles to add to this list -- please [email 
 
 A final vital piece of advice: **think for yourself**.  You can't build a startup the way you build a piece of IKEA furniture, by following instructions.  Reading all these articles is just table stakes; the necessary context and framework and background required for you to make smart, contrarian, correct decisions.  But only you can make those decisions.
 
-[Back to Top ↩](/resources#resources-for-startup-founders)
+[Back to Top ↩](/web-resources-for-founders#web-resources-for-founders)
 
 -----
 
@@ -192,7 +192,7 @@ Unfortunately, the very success of this content marketing strategy attracted mor
 
 **[3]** If you can benefit from other people's wisdom (instead of learning yourself by trial and error or deducing everything from first principles), why wouldn't you? 
 
-[Back to Top ↩](/resources#resources-for-startup-founders)
+[Back to Top ↩](/web-resources-for-founders#web-resources-for-founders)
 
 <br/>  
 

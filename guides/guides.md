@@ -13,7 +13,7 @@ title: Guides · Abraham Thomas
 Here are some guides I've written:
 
 * [Investing for Non-Professionals](/investing-for-non-professionals)
-* [Web Resources for Founders](/founders-guide)
+* [Web Resources for Founders](/web-resources-for-founders)
 
 
 
