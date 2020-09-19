@@ -31,7 +31,14 @@ title: Bio · Abraham Thomas
 
 **I was 41** when Tammer and I sold Quandl to [Nasdaq](https://www.nasdaq.com/), in one of Canada's largest tech startup acquisitions of 2018.  
 
-Stay tuned for what happens next! 
+**I'm 43 now**, and as always, excited for what the future holds!
+
+----
+
+<br/>
+
+
+**With gratitude:** Over my career, I've benefited from privilege, serendipity and kindness, from friends, family, mentors, partners and complete strangers.  I thank you all.  *We are none of us alone.*
 
 <br/>
 <br/>
