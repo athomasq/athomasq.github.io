@@ -10,10 +10,10 @@
   link: /technology
 - name: newline
 
-- name: Reading
-  link: /reading
 - name: Writing
   link: /writing
+- name: Reading
+  link: /reading
 - name: Speaking
   link: /speaking
 - name: Investing
