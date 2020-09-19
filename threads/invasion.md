@@ -152,3 +152,8 @@ And finally: in the right context, a simple apple can be tastier than even the f
 <br/>
 <br/>
 <br/>
+
+
+----
+
+<i><b>Post script:</b> My family were extremely fortunate.  My parents had "portable" careers, as a doctor and a teacher; we had savings to tide us over the dislocation; and we had extended family that we could return to in India.  It's true that in some ways we had to start over again after leaving Kuwait, but we were (and are) immensely privileged.  Many others had to deal with far worse than us, and lost far more; I have nothing but respect for them, and for all who have had to face adversity in their lives.</i>
