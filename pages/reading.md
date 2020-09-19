@@ -10,7 +10,7 @@ title: Reading · Abraham Thomas
 
 <br/>
 
-Here are some: 
+You can learn a lot about a person from what they read. Here are some: 
 
 * [Books](/library) I own  
 * [Articles](/articles) I've saved  
