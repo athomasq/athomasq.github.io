@@ -6,6 +6,8 @@ thread: https://twitter.com/athomasq/status/1214691372227280896
 date: 2020-01-05
 ---
 
+<br/>
+
 There are two extremes of market efficiency that are bad for active investors.  
 
 At one extreme, markets are perfectly efficient and prices exactly reflect underlying economic reality.  Nothing is ever cheap or rich relative to its "fair value", and hence there are no oppportunities to profit.  

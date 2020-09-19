@@ -13,13 +13,13 @@ title: Guides · Abraham Thomas
 Here are some guides I've written:
 
 * [Investing for Non-Professionals](/investing-guide)
-* [The Well-Equipped Kitchen](/kitchen-guide)
 * [Web Resources for Founders](/founders-guide)
 
 
 
 
 <!--
+* [The Well-Equipped Kitchen](/kitchen-guide)
 * Japan: An Opinionated Guide
 [Euro Board Games](sdfa)  
 [The Well-Equipped Kitchen](sdf)  

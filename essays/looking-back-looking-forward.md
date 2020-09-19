@@ -9,6 +9,8 @@ date: 2020-01-03
 
 ----
 
+<br/>
+
 Ten years ago, I was very very good at a very very specific skill: quantitative investing for hedge funds.  To be sure, it was a lucrative skill to be good at, and certainly stimulating and interesting on a day-to-day basis.  But on a year-to-year basis, it was stultifying.  I felt I was just solving elaborate puzzles to make some already-wealthy people marginally better off, and others marginally worse off: not what I wanted to do with my life.
 
 And so I quit, took some time off, and eventually co-founded Quandl with my friend Tammer.  We spent most of the decade building the company, and every year brought different challenges:
