@@ -10,12 +10,11 @@ title: Reading · Abraham Thomas
 
 <br/>
 
-You can learn a lot about a person from what they read.  
+You can learn a lot about a person from what they read: 
 
-Here is my [bookshelf](/library).  
-<!--Here are some [book reviews](/reviews).  -->
-Here are some [articles](/articles) I've saved.  
-Here are some [writers](/writers) I follow.  
+* [Books](/library) I own  
+* [Articles](/articles) I've saved  
+* [Writers](/writers) I follow  
 
 Happy reading! 
 
