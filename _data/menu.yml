@@ -22,6 +22,8 @@
   link: /gallery
 - name: newline
 
+- name: Bio
+  link: /bio
 - name: Press
   link: /press
 - name: Contact
