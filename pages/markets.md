@@ -19,6 +19,7 @@ Here are some writings and resources on markets:
 * [Bond Arbitrage](/bond-arbitrage)  
 * [Two Extremes of Market Efficiency](/two-extremes-of-market-efficiency)  
 * [A Tale of Two Marketplaces: ICE and eBay](/why-might-ice-bid-for-ebay)  
+* [Investing for Non-Professionals](/investing-for-non-professionals)  
 
 
 <br/>
