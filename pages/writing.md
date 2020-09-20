@@ -11,12 +11,19 @@ title: Writing · Abraham Thomas
 <br/>
 
 
-I like to write.  Here are some things I've written:
+I like to write.  Here are some things I've written, by form factor:
 
 * [Essays](/essays)
 * [Threads](/threads)
 * [Guides](/guides)
 
+<br/>
+
+Here are the 3 newest articles on this website:
+
+* [Investing for Non-Professionals](/investing-for-non-professionals)  
+* [Data Pricing Curves](/data-pricing-curves)  
+* [Invasion!](/invasion)   
 
 <!--
 **Guides**  
