@@ -14,7 +14,8 @@ title: Threads · Abraham Thomas
 
 <br/>
 
-* [Invasion!](../invasion)
+* [Invasion!](/invasion)
+* [Rentec's Returns](/rentecs-returns)
 * [Alfred Winslow Jones](../alfred-winslow-jones)  
 * [Silk Ties](../silk-ties)  
 * [Aliens](../aliens)  

@@ -17,9 +17,7 @@ title: Bio · Abraham Thomas
 
 **At 17**, I graduated from high school in south India as valedictorian and head boy; I was also on my school's basketball, soccer, debate, quiz and math teams. I was accepted into both [AIIMS](https://en.wikipedia.org/wiki/All_India_Institute_of_Medical_Sciences,_New_Delhi) and [IIT Bombay](https://en.wikipedia.org/wiki/Indian_Institute_of_Technology_Bombay), and chose to study [Engineering Physics](https://en.wikipedia.org/wiki/Engineering_physics) at the latter.
 
-**In university**, I threw myself into extracurricular activities. I was institute general secretary, on the core group for [Mood Indigo](https://en.wikipedia.org/wiki/Mood_Indigo_(festival)), helped launch the first [TechFest](https://en.wikipedia.org/wiki/Techfest), and set up India's first campus internet.  I also won a bunch of awards and competitions.
-
-**At 21**, I was accepted into [IIM-A](https://en.wikipedia.org/wiki/Indian_Institute_of_Management_Ahmedabad) but opted instead to join a tiny firm that "used math to predict the market".  One of Asia's first hedge funds, [Simplex](https://www.simplexasset.com/en/) eventually grew to hundreds of people and billions of dollars. I joined as employee #7.
+**At 21**, I turned down graduate school to join a tiny firm that "used math to predict the market".  One of Asia's first hedge funds, [Simplex](https://www.simplexasset.com/en/) eventually grew to hundreds of people and billions of dollars. I joined as employee #7.
 
 **By 26**, I was a portfolio manager at the fund.  I set up and ran the fund's US office; I also led development of our real-time arbitrage infrastructure, a precursor to modern [algorithmic trading](https://en.wikipedia.org/wiki/Algorithmic_trading) systems.
 

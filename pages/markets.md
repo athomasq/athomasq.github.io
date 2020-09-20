@@ -12,10 +12,11 @@ Markets are the most effective and resilient mechanism we have found to solve a 
 
 Here are some writings and resources on markets: 
 
-* [Software Eats Marxism](/software-eats-marxism)  
-* [Bond Arbitrage](/bond-arbitrage)  
+* [Rentec's Returns](/rentecs-returns)
 * [Alfred Winslow Jones](/alfred-winslow-jones)  
 * [Silk Ties](/silk-ties)  
+* [Software Eats Marxism](/software-eats-marxism)  
+* [Bond Arbitrage](/bond-arbitrage)  
 * [Two Extremes of Market Efficiency](/two-extremes-of-market-efficiency)  
 * [A Tale of Two Marketplaces: ICE and eBay](/why-might-ice-bid-for-ebay)  
 
