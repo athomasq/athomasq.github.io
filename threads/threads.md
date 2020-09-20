@@ -15,6 +15,7 @@ title: Threads · Abraham Thomas
 <br/>
 
 * [Invasion!](/invasion)
+* [Data Pricing Curves](/data-pricing-curves)
 * [Rentec's Returns](/rentecs-returns)
 * [Alfred Winslow Jones](../alfred-winslow-jones)  
 * [Silk Ties](../silk-ties)  

@@ -12,6 +12,7 @@ As a species, we are defined by our ability to manipulate information: language,
 
 I'm fascinated by data and all the ways it can be used.  Here are some writings and resources on data:
 
+* [Data Pricing Curves](/data-pricing-curves)
 * [APIs Are Eating the World](/APIs-are-eating-the-world)  
 * [A Data Framework for COVID-19](/a-data-framework-for-covid-19)  
 * [Data-Driven Versus Data-Informed](/data-driven-data-informed)  
