@@ -1,9 +1,9 @@
 ---
 layout: default
 permalink: /:basename/
-title: Investing for Non-Professionals
+title: Investing for Muggles
 ---
-## Investing for Non-Professionals
+## Investing for Muggles
 
 ----
 
@@ -15,37 +15,41 @@ title: Investing for Non-Professionals
 
 ### Introduction
 
+
+This is not a get-rich-quick guide.
+
+
 People often ask me how they should manage their money.  Not in the sense of hot stock tips or is the market going up or down this month; more in the sense of: what's a set of **sensible best practices** they should follow?  I've searched high and low on the interwebs, and have yet to find a satisfactory, single-page guide.  So I decided to write one.
 
-Why should you listen to me?  Well, first, because I know what I'm talking about: I spent many years as a portfolio manager at a large hedge fund.  I know how markets work and how the financial services industry works.  And second, because I'm disinterested: I don't manage other people's money any more, and I don't have a book, course, podcast, newsletter or youtube channel to sell you.  This essay describes what I do myself, and what I tell my friends and family to do when they ask for guidance. 
+Why should you listen to me?  Well, first, because I know what I'm talking about: I spent many years as a portfolio manager at a large hedge fund.  I like to think I know how markets work and how the financial services industry works.  And second, because I'm disinterested: I don't manage other people's money any more, and I don't have a book, course, podcast, newsletter or youtube channel to sell you.  This essay describes what I do myself, and what I tell my friends and family to do when they ask for guidance. 
 
-Who is this guide for?   People who have the patience to read 4000+ words of advice from a stranger on the internet :).  More seriously: early- to mid-career folks who don't work in finance and have limited market experience, but who have some investable income and are curious about how best to deploy it and why.
+Who is this guide for?   People who have the patience to read 4000+ words of advice from a stranger on the internet :).  More seriously: early- to mid-career folks who don't work in finance and have limited investing experience, but who have some investable income and are curious about how best to deploy it and why.
 
 <br/>
 
-### TLDR
+-----
 
-I can summarize best practices in a single sentence:  
-&emsp;&emsp;&emsp;**Invest in a passive, diversified, low-fee, tax-efficient portfolio that aligns with your goals, and hold it for a long time.** 
+<br/>  
 
-While concise, that's not necessarily informative.  So let's break this sentence down into its constituent parts.  The basic principles are simple enough:
+### Investing in 2020
 
-- [Make time your friend](/investing-for-non-professionals/#make-time-your-friend)
-- [Diversify your portfolio](/investing-for-non-professionals/#diversify-your-portfolio)
-- [Minimize fees and friction](/investing-for-non-professionals/#minimize-fees-and-friction)
-- [Don't try to beat the market](/investing-for-non-professionals/#dont-try-to-beat-the-market)
-- [Know your preferences](/investing-for-non-professionals/#know-your-preferences)
 
-In the following sections, I explain these principles in greater detail.  I also explore a few other ideas:
+<img src="/assets/img/this-is-fine.jpg" class="image">
 
-- [The consumer-industrial complex](/investing-for-non-professionals/#the-consumer-industrial-complex)
-- [The question of housing](/investing-for-non-professionals/#the-question-of-housing)
-- [Should you angel invest?](/investing-for-non-professionals/#should-you-angel-invest)
-- [What about options?](/investing-for-non-professionals/#what-about-options)
-- [Windfalls and market timing](/investing-for-non-professionals/#windfalls-and-market-timing)
-- [Paying for financial services](/investing-for-non-professionals/#paying-for-financial-services)
+2020 has been, let us say, a crazy year.
 
-Read on!
+Macro: Covid, blm, wildfires, elections.
+
+Markets: recov.  oil, htz. tsla. snow, zoom. yolo.  negative. 
+
+Nothing makes sense.  Uncertaintiy.  But also fortunes.
+
+There are also longer term trendsat play.  Demographics. Geopolitcs.  Climate change.
+
+What is an investor to do?  Do the old truisms hold?  
+
+
+[Back to Top ↩](/investing-for-muggles#introduction)
 
 <br/>
 
@@ -54,31 +58,230 @@ Read on!
 <br/>  
 
 
-### Make Time Your Friend
+### Know Your Preferences
 
-<br/>
-<img src="/assets/img/hatter.png" class="image2">
-<br/>
+<img src="/assets/img/treasure.jpeg" class="image">
 
-In most endeavours, time is the enemy.  Whether it's deadlines at work or in school, competition in sports or business, or just old age: the clock is constantly ticking.
+**Investing is a means to an end.  What is that end?** 
 
-Not so in investing!  **The longer you allow your investment portfolio to grow, the better your expected outcome.** 
+Is it to retire early?  Is it to fund a more luxurious lifestyle?  Is it to be worry-free in old age?  Is it to put your kids through college?  Is it to protect against inflation and recession, or war and climate change and other macroeconomic calamities?  Is it to travel the world or write the novel you know you have within you?  Is it to build generational wealth so that your grandchildren never have to work a day in their lives?
 
-* The power of compound growth is much talked about, rarely intuitively grasped.  A portfolio compounding at 8% a year -- the US long-run average -- grows 2x in 9 years; it grows **22x** in 40 years.  That's substantial.
+Is it to help others?  Is it to pay off debt?  Is it to leave the rat race and follow the vocation of your dreams?  Is it to hedge against illness, or job loss, or other catastrophic events?  Is it to buy cool toys?  Is it to say F-U to the many people you want to say F-U to?  Is it to achieve a certain image, or status, or position?  Is it to protect your purchasing power?  
 
-* Long horizons allow you to ignore short-term volatility and timing of entry points.  It doesn't matter if the market drops next year, or if you buy at an elevated valuation; over a 30-year horizon, your portfolio will almost certainly go substantially higher.  This fact alone should do wonders for your stress level.   
+Are you a return maximizer or a risk minimizer?  Are you an optimizer or a satisficer?  What financial outcomes would cause you the most regret?  And what would bring you the greatest joy?
 
-* Long horizons also give you a genuine edge versus professional investors who are constantly measured on their monthly or quarterly or annual P&L.  This is one of the few advantages that non-professionals have; use it.
+The single most important piece of investment advice comes from Socrates, 2500 years ago: Know Thyself.
 
-So make time your friend!  Invest early and stay invested.  If you haven't invested in the past, do so today.  It's never too late to start!  Make decisions over a 20+ year horizon.  Then stop worrying and get on with your life :)
+Know yourself.  Risk, reward, variance, timing,
 
-[Back to Top ↩](/investing-for-non-professionals#tldr)
+This then feeds into your plan.
+
+investor profiles
+
+
+You may not know the answers yet.  Perhaps it's all of the above; perhaps it's none.  Most likely, the answers won't change your plan by much -- at best, maybe you'll tilt your asset allocation slightly differently based on what you decide. 
+
+But the process of asking these questions is important!  Too many people get caught up in the cycle of earn-spend-invest-borrow without examining their own life goals.  It's worth spending some time to think about why you're doing what you're doing. 
+
+[Back to Top ↩](/investing-for-muggles#introduction)
 
 <br/>
 
 -----
 
 <br/>  
+
+
+### Make a Plan
+
+
+Ultimately your financial future depends on just a few
+
+- how much you earn and when
+- how much you spend and when
+
+in a given month if you earn more than you spend, the rest is saved and invested, or ysed to pay off detbt
+
+conversly, you have to borrow.
+
+many people 
+
+
+You control:
+- earn
+- spend
+
+diff is invest or borrow
+
+timing
+
+tolerance
+
+risks - catastrophe, inflation, sol 
+
+this guide is mostly about investing,  however i do talk a bit about borrowing (houses) and spending (ci).
+
+how do we align investing with our timing  and tolerance and goals?
+
+the answer is asset allocation
+
+[Back to Top ↩](/investing-for-muggles#introduction)
+
+<br/>
+
+-----
+
+<br/>  
+
+### Asset Allocation
+
+different assets have different r/r profiles.
+
+- stocks
+- bonds
+- real estate
+- commodities
+- currencies
+- alternatives
+
+Stocks and bonds are "financial assets" -- they depend on cashflow
+
+Housing and commodities are "real assets"
+
+Your residence is a "local" asset.  Meanwhile currencies and 
+
+Your earnings are an asset.  Your debts are the opposite.
+
+what a financial planner does is to figure out a balance that works.  
+
+most f/ps are biased
+
+There are a few different allocations
+
+Here's the secret.  THey probably dont matter too much.
+
+50 stocks
+30 house
+10 bonds, cash, currencies
+10 alternatives
+
+[Back to Top ↩](/investing-for-muggles#introduction)
+
+<br/>
+
+-----
+
+<br/>  
+
+### Macro Currents
+
+This is where it gets 
+
+inflation
+demographics
+global macro
+fiat
+index
+
+remember: your allocation is dirve by your prefes
+not by your forecsats 
+
+[Back to Top ↩](/investing-for-muggles#introduction)
+
+<br/>
+
+-----
+
+<br/>  
+
+
+### Put money to work
+
+be regular, systematic
+
+invest regulatrly
+
+dollar cost averaging
+
+smoohes out vol
+
+
+this is where temptation lies
+
+there are two types: security selection, and market timing.
+
+selection:
+timing: 
+
+they're both bad ideas.
+
+[Back to Top ↩](/investing-for-muggles#introduction)
+
+<br/>
+
+-----
+
+<br/>  
+
+
+### Don't Try to Outsmart the Market
+
+<br/>
+<img src="/assets/img/casino.jpg" class="image2">
+<br/>
+
+**Every time you buy a stock, you are saying that the market price of that stock is wrong.**  You had better have a really good reason for making that assertion.
+
+You may think the company's financials are strong, or the business model is solid, or the macro trends are favourable, or the product is delightful, or the management team is ace.  
+
+But here's the catch.  Everybody already knows all of these facts!  All this information is totally public.  Millions of investors with billions of dollars have, collectively, taken all this information into account when negotiating and re-negotiating the company's stock price, which they do thousands of times every day.  What do you know that they don't?  What do you see that they can't?
+
+Keep in mind here that you are competing with intelligent, motivated, well-resourced professionals who do this for a living.  They probably have better (faster and more granular) information than you, deeper pockets, smarter analytic tools, you name it.  And they work in a ruthless Darwinian landscape that constantly weeds out bad investors and replaces them with good ones.  Professional forecasters with incredible track records nonetheless fail; what makes you think you can succeed?
+
+Remember also that there are two large and lucrative industries dedicated to the proposition that you can beat the market.  There's retail investing -- financial advisors, discount brokerages, gamified trading apps, newsletters and discussion boards.  And there's active management -- all those hedge funds and mutual funds and venture funds that in aggregate fail to break even, let alone generate profits for investors.  They both want you to believe that beating the market is easy; that's how they get paid.  Caveat emptor! 
+
+Full disclosure, I do think it's possible to beat the market.  In fact I've spent most of my career dedicated to that proposition -- first as a PM, second as a startup founder dedicaed to information edges.
+
+I just think it's incredibly hard.  Investment skill is real; edge exists; alpha can be captured.  Rentec and Sequoia are the classic examples.  But they had to work long and hard to build their advantages.  Be honest with yourself: you are not Rentec or Sequoia.  Unless the stars line up just right, you are unlikely to have an edge.  (And if you can't identify the mark at the table, it's probably you).  So please don't try.
+
+A few other points to round out this section:
+
+- If you're buying specific stocks because you think the market as a whole will go up, you're better off buying the market as a whole, in the form of an index.  Diversification ftw!
+
+- If you want to trade actively for fun, be my guest!  Just be sure you think of it like going to a casino: you may hit the jackpot occasionally, but your "expected value" over the long run is negative.  (For house vig, substitute transaction costs).  Take it out of your entertainment budget; don't gamble with your life savings.
+
+- Even professionals often fail to accurately measure the quality of their own performance (perhaps intentionally).  No amateur I know even comes close.  You may think you're beating the market, but thanks to survivorship bias, selection bias, measurement bias, attribution bias, opportunity cost bias and benchmarking bias, you probably have no idea whether you actually did so, and if you did, whether it was by skill or luck.  Being in a multi-year bull market exacerbates this. 
+
+- Having said all that, if you think you know an industry, or a company, or a region, or an asset class, better than the broad investor consensus -- go for it.  Just be very sure that you are not deluding yourself.
+
+
+
+[Back to Top ↩](/investing-for-muggles#introduction)
+
+<br/>
+
+-----
+
+<br/>  
+
+### Markets Are Efficient
+
+
+what does this mean
+
+efficient markets are a good thing for you, the retail investor!
+
+the choice is not between medicore and excelelnt.  the choice is medioce, and mediocre with fees.
+
+how can you take adv of efficient markets?  the next 3 sectiosn tell you.
+
+[Back to Top ↩](/investing-for-muggles#introduction)
+
+<br/>
+
+-----
+
+<br/>
 
 ### Diversify Your Portfolio
 
@@ -110,13 +313,41 @@ The obvious next question is, what's a good allocation?  Reams have been written
 
 My own somewhat unorthodox opinion on this is that *it doesn't matter*.  What matters is that you diversify; how precisely you do so is of secondary importance.  Any of the model portfolios linked to above should work fine, and *all* of them will dominate an undiversified portfolio.
 
-[Back to Top ↩](/investing-for-non-professionals#tldr)
+[Back to Top ↩](/investing-for-muggles#introduction)
 
 <br/>
 
 -----
 
 <br/>
+
+
+### Make Time Your Friend
+
+<br/>
+<img src="/assets/img/hatter.png" class="image2">
+<br/>
+
+In most endeavours, time is the enemy.  Whether it's deadlines at work or in school, competition in sports or business, or just old age: the clock is constantly ticking.
+
+Not so in investing!  **The longer you allow your investment portfolio to grow, the better your expected outcome.** 
+
+* The power of compound growth is much talked about, rarely intuitively grasped.  A portfolio compounding at 8% a year -- the US long-run average -- grows 2x in 9 years; it grows **22x** in 40 years.  That's substantial.
+
+* Long horizons allow you to ignore short-term volatility and timing of entry points.  It doesn't matter if the market drops next year, or if you buy at an elevated valuation; over a 30-year horizon, your portfolio will almost certainly go substantially higher.  This fact alone should do wonders for your stress level.   
+
+* Long horizons also give you a genuine edge versus professional investors who are constantly measured on their monthly or quarterly or annual P&L.  This is one of the few advantages that non-professionals have; use it.
+
+So make time your friend!  Invest early and stay invested.  If you haven't invested in the past, do so today.  It's never too late to start!  Make decisions over a 20+ year horizon.  Then stop worrying and get on with your life :)
+
+[Back to Top ↩](/investing-for-muggles#introduction)
+
+<br/>
+
+-----
+
+<br/>  
+
 
 ### Minimize Fees and Friction
 
@@ -134,7 +365,7 @@ So don't waste your money paying high fees to an active fund manager, unless you
  
 Active management fees are not the only frictions that can (and should) be avoided.  It's 2020, you shouldn't be paying brokerage fees or trading commissions!  Also, many countries have tax policies are explicitly designed to encourage saving and investment; take advantage of them!  A good tax accountant can help you structure your portfolio to be maximally efficient in this regard.
 
-[Back to Top ↩](/investing-for-non-professionals#tldr)
+[Back to Top ↩](/investing-for-muggles#introduction)
 
 <br/>
 
@@ -142,61 +373,58 @@ Active management fees are not the only frictions that can (and should) be avoid
 
 <br/>
 
-### Don't Try to Beat the Market
 
-<br/>
-<img src="/assets/img/casino.jpg" class="image2">
-<br/>
 
-**Every time you buy a stock, you are saying that the market price of that stock is wrong.**  You had better have a really good reason for making that assertion.
+### Is It Different This Time?
 
-You may think the company's financials are strong, or the business model is solid, or the macro trends are favourable, or the product is delightful, or the management team is ace.  
+Malkiel
+It's been 47 years
+no counterexamples
+when discoverd, quickly arbitrage away
 
-But here's the catch.  Everybody already knows all of these facts!  All this information is totally public.  Millions of investors with billions of dollars have, collectively, taken all this information into account when negotiating and re-negotiating the company's stock price, which they do thousands of times every day.  What do you know that they don't?  What do you see that they can't?
 
-Keep in mind here that you are competing with intelligent, motivated, well-resourced professionals who do this for a living.  They probably have better (faster and more granular) information than you, deeper pockets, smarter analytic tools, you name it.  And they work in a ruthless Darwinian landscape that constantly weeds out bad investors and replaces them with good ones.  Professional forecasters with incredible track records nonetheless fail; what makes you think you can succeed?
-
-Remember also that there are two large and lucrative industries dedicated to the proposition that you can beat the market.  There's retail investing -- financial advisors, discount brokerages, gamified trading apps, newsletters and discussion boards.  And there's active management -- all those hedge funds and mutual funds and venture funds that in aggregate fail to break even, let alone generate profits for investors.  They both want you to believe that beating the market is easy; that's how they get paid.  Caveat emptor! 
-
-To be fair, I do think it's possible to beat the market.  I just think it's incredibly hard.  Investment skill is real; edge exists; alpha can be captured.  Rentec and Sequoia are the classic examples.  But they had to work long and hard to build their advantages.  Be honest with yourself: you are not Rentec or Sequoia.  Unless the stars line up just right, you are unlikely to have an edge.  (And if you can't identify the mark at the table, it's probably you).  So please don't try.
-
-A few other points to round out this section:
-
-- If you're buying specific stocks because you think the market as a whole will go up, you're better off buying the market as a whole, in the form of an index.  Diversification ftw!
-
-- If you want to trade actively for fun, be my guest!  Just be sure you think of it like going to a casino: you may hit the jackpot occasionally, but your "expected value" over the long run is negative.  (For house vig, substitute transaction costs).  Take it out of your entertainment budget; don't gamble with your life savings.
-
-- Even professionals often fail to accurately measure the quality of their own performance (perhaps intentionally).  No amateur I know even comes close.  You may think you're beating the market, but thanks to survivorship bias, selection bias, measurement bias, attribution bias, opportunity cost bias and benchmarking bias, you probably have no idea whether you actually did so, and if you did, whether it was by skill or luck.  Being in a multi-year bull market exacerbates this. 
-
-- Having said all that, if you think you know an industry, or a company, or a region, or an asset class, better than the broad investor consensus -- go for it.  Just be very sure that you are not deluding yourself.
-
-[Back to Top ↩](/investing-for-non-professionals#tldr)
+[Back to Top ↩](/investing-for-muggles#introduction)
 
 <br/>
 
 -----
 
+<br/>  
+
+
+<!--
+
+### TLDR
+
+I can summarize best practices in a single sentence:  
+&emsp;&emsp;&emsp;**Invest in a passive, diversified, low-fee, tax-efficient portfolio that aligns with your goals, and hold it for a long time.** 
+
+While concise, that's not necessarily informative.  So let's break this sentence down into its constituent parts.  The basic principles are simple enough:
+
+- [Make time your friend](/investing-for-muggles/#make-time-your-friend)
+- [Diversify your portfolio](/investing-for-muggles/#diversify-your-portfolio)
+- [Minimize fees and friction](/investing-for-muggles/#minimize-fees-and-friction)
+- [Don't try to beat the market](/investing-for-muggles/#dont-try-to-beat-the-market)
+- [Know your preferences](/investing-for-muggles/#know-your-preferences)
+
+In the following sections, I explain these principles in greater detail.  I also explore a few other ideas:
+
+- [The consumer-industrial complex](/investing-for-muggles/#the-consumer-industrial-complex)
+- [The question of housing](/investing-for-muggles/#the-question-of-housing)
+- [Should you angel invest?](/investing-for-muggles/#should-you-angel-invest)
+- [What about options?](/investing-for-muggles/#what-about-options)
+- [Windfalls and market timing](/investing-for-muggles/#windfalls-and-market-timing)
+- [Paying for financial services](/investing-for-muggles/#paying-for-financial-services)
+
+Read on!
+
 <br/>
 
-### Know Your Preferences
+-----
 
-<img src="/assets/img/treasure.jpeg" class="image">
+<br/>  
+-->
 
-**Investing is a means to an end.  What is that end?** 
-
-Is it to retire early?  Is it to fund a more luxurious lifestyle?  Is it to be worry-free in old age?  Is it to put your kids through college?  Is it to protect against inflation and recession, or war and climate change and other macroeconomic calamities?  Is it to travel the world or write the novel you know you have within you?  Is it to build generational wealth so that your grandchildren never have to work a day in their lives?
-
-Is it to help others?  Is it to pay off debt?  Is it to leave the rat race and follow the vocation of your dreams?  Is it to hedge against illness, or job loss, or other catastrophic events?  Is it to buy cool toys?  Is it to say F-U to the many people you want to say F-U to?  Is it to achieve a certain image, or status, or position?  Is it to protect your purchasing power?  
-
-Are you a return maximizer or a risk minimizer?  Are you an optimizer or a satisficer?  What financial outcomes would cause you the most regret?  And what would bring you the greatest joy?
-
-You may not know the answers yet.  Perhaps it's all of the above; perhaps it's none.  Most likely, the answers won't change your plan by much -- at best, maybe you'll tilt your asset allocation slightly differently based on what you decide. 
-
-But the process of asking these questions is important!  Too many people get caught up in the cycle of earn-spend-invest-borrow without examining their own life goals.  It's worth spending some time to think about why you're doing what you're doing. 
-
-[Back to Top ↩](/investing-for-non-professionals#tldr)
-
-<br/>
 
 -----
 
@@ -229,7 +457,7 @@ The answer is not skipping avocado toast and daily lattes.  Those are marginal c
 
 I think you'll find that lower consumption does not negatively impact your day-to-day happiness!  Meanwhile the positive effects of spending less than you earn will contribute mightily to your year-over-year happiness.  That's a strong trade.
 
-[Back to Top ↩](/investing-for-non-professionals#tldr)
+[Back to Top ↩](/investing-for-muggles#introduction)
 
 <br/>
 
@@ -283,7 +511,7 @@ So what does all these contradictory factors mean for your portfolio?  I'll tell
 
 I think real estate should be part of every properly diversified portfolio.  But you don't have to live in the property you own!  If homeownership gives you emotional satisfaction (joy, security, pride), go for it.  If not, investing in real estate funds or rental units works just as well.  And if you are indifferent, I would base the decision on the rent-to-price ratio where you live.  If annual rent is above 4% of house price, buy; if it's below 2%, rent and put the saved money into equities.
 
-[Back to Top ↩](/investing-for-non-professionals#tldr)
+[Back to Top ↩](/investing-for-muggles#introduction)
 
 <br/>
 
@@ -329,7 +557,7 @@ If you do decide to take the plunge nonetheless, here are a few guidelines to fo
 Finally, note that there are several non-economic reasons why many people become angel investors: expanding their networks, learning about new industries or technologies, or boosting their status.  These are all perfectly valid reasons! Just be sure your investment amounts are proportionate to the value you receive.
 
 
-[Back to Top ↩](/investing-for-non-professionals#tldr)
+[Back to Top ↩](/investing-for-muggles#introduction)
 
 <br/>
 
@@ -338,6 +566,32 @@ Finally, note that there are several non-economic reasons why many people become
 <br/>
 
 
+### Debt
+
+When is it justified to borrow? 
+
+Debt compounds against you
+
+The only time is if you think the debt allows you to spend on something that will pay back even more.
+
+For example, a degree from harvard med or yale law is expensive, but it will probably oay bacl
+
+Education in general,  but it's tricky.  there's a wide spread between schools.  personally i think you pay for the very top, or you go cheap.  avoid the middle.  barbell strategy,
+
+
+housing is another area where.  the good news is that its collateralied 
+
+
+
+[Back to Top ↩](/investing-for-muggles#introduction)
+
+<br/>
+
+-----
+
+<br/>
+
+<!--
 ### What About Options?
 
 <br/>
@@ -361,7 +615,7 @@ Unaligned?  Check.  Unless your explicit life goal is to get rich quick through 
 Please don't do it.  
 
 
-[Back to Top ↩](/investing-for-non-professionals#tldr)
+[Back to Top ↩](/investing-for-muggles#introduction)
 
 <br/>
 
@@ -369,6 +623,10 @@ Please don't do it.
 
 <br/>
 
+-->
+
+
+<!--
 
 ### Windfalls and Market Timing
 
@@ -386,7 +644,7 @@ The only exception is if you have truly life-changing event that generates many 
 
 **Update, Sep 2020:** A reader asks about the wisdom of buying US stocks at all-time-highs.  Philosophically, I don't mind buying at ATHs.  Markets are not mean-reverting; I expect equity markets to continually make new ATHs over decade-long horizons.  That's the whole point of equity investing!  Still, if you've just come into a windfall and you're worried about sequence risk, disciplined dollar-cost-averaging is the way to go.
 
-[Back to Top ↩](/investing-for-non-professionals#tldr)
+[Back to Top ↩](/investing-for-muggles#introduction)
 
 <br/>
 
@@ -394,7 +652,7 @@ The only exception is if you have truly life-changing event that generates many 
 
 <br/>
 
-
+-->
 
 ### Paying for Financial Services
 
@@ -424,7 +682,7 @@ All of finance is not a grift.  Here are some areas where I think spending on fi
 
 - Fintech startups are unbundling banks; by picking and choosing the right ones for your needs, you can access almost all the services that banks offer, but cheaper and better.
 
-[Back to Top ↩](/investing-for-non-professionals#tldr)
+[Back to Top ↩](/investing-for-muggles#introduction)
 
 <br/>
 
