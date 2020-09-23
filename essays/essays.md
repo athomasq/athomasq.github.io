@@ -12,7 +12,7 @@ title: Essays · Abraham Thomas
 
 
 **Latest**  
-<span style="color:#A9A9A9;">2020-09</span> &emsp;&emsp;&emsp; [Investing for Non-Professionals](/investing-for-non-professionals)  
+<!--<span style="color:#A9A9A9;">2020-09</span> &emsp;&emsp;&emsp; [Investing for Non-Professionals](/investing-for-non-professionals)  -->
 <span style="color:#A9A9A9;">2020-08</span> &emsp;&emsp;&emsp; [The Iraqi Invasion of Kuwait](/invasion)  
 <span style="color:#A9A9A9;">2020-05</span> &emsp;&emsp;&emsp; [Sterner Stuff](/sterner-stuff)  
 <span style="color:#A9A9A9;">2020-04</span> &emsp;&emsp;&emsp; [A Data Framework for COVID-19](/a-data-framework-for-covid-19)  

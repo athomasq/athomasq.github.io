@@ -11,21 +11,24 @@ title: Writing · Abraham Thomas
 <br/>
 
 
-I like to write.  Here are some things I've written, by form factor:
+I like to write.  Here are some things I've written:
 
 * [Essays](/essays)
 * [Threads](/threads)
-* [Guides](/guides)
+<!--* [Guides](/guides)-->
 
 <br/>
 
 Here are the 3 newest articles on this website:
 
-* [Investing for Non-Professionals](/investing-for-non-professionals)  
-* [Data Pricing Curves](/data-pricing-curves)  
 * [Invasion!](/invasion)   
+* [Data Pricing Curves](/data-pricing-curves)  
+* [Rentec's Returns](/rentecs-returns)
 
 <!--
+
+* [Investing for Non-Professionals](/investing-for-non-professionals)  
+
 **Guides**  
 [14 Days in Japan]()  
 [Resources for Startup Founders](asdf)  

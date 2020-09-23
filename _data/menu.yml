@@ -14,10 +14,10 @@
   link: /writing
 - name: Reading
   link: /reading
+- name: Investing
+  link: /investing
 - name: Speaking
   link: /speaking
-- name: Investing
-  link: /angel
 - name: Photography
   link: /gallery
 - name: newline
@@ -28,3 +28,5 @@
   link: /press
 - name: Contact
   link: /contact
+- name: Founders
+  link: /founders

@@ -24,12 +24,13 @@ Here are my startup investments as of August 2019:
 - [Mero](https://mero.co/): sensors for smart buildings (early)  
 - [Terra.do](https://terra.do): climate school (early)
 - [Setyl](https://www.setyl.com/): inventory management (early)
+- [Canopy](https://www.canopyanalytics.com/): ERP for property managers (early)
 - FastFox: platform for rentals (acquired by Housing.com)  
 - GoMoLo: IMDB for Bollywood (failed)  
 - Qyk: marketplace for local services (failed)  
 - TableHero: restaurant platform (failed)  
 
-It's early days, but so far the outcomes seem to follow a classic power law distribution.  Out of 15 investments over 6 years, I have 1 at >10x, 1 at >5x, 4 at 2-5x, 6 at 1x, and 3 at 0x.  My IRR on angel investments is over 30% (including the failures), though it's hard to tell how much of that is skill and how much is luck.
+It's early days, but so far the outcomes seem to follow a classic power law distribution.  Out of 16 investments over 6 years, I have 1 at >10x, 1 at 5-10x, 5 at 2-5x, 6 at 1x, and 3 at 0x.  My IRR on angel investments is over 30% (including the failures), though it's hard to tell how much of that is skill and how much is luck.
 
 ----
 
