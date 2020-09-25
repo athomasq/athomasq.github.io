@@ -12,6 +12,8 @@ title: COVID-19 and the Economy
 
 Over spring and early summer 2020, I compiled a variety of real-time "alternative" datasets on the impact of COVID-19 on the economy.  Some of this data is summarized in the threads below:
 
+[24 Sep](/covid-19-and-high-frequency-macro)  
+Macro research using high-frequency data on the economy: consumer spending by region and income tier; employment, hours worked and vacancies at businesses small and large; the reach and efficacy of policy responses to COVID-19.
 
 [29 May](https://twitter.com/athomasq/status/1266435260444749824)   
 US railroad traffic, intermodal vs railcar divergence, air freight volumes and prices, west coast container ports, trade imbalances, trucking spot rates, commercial and personal vehicle traffic, subway usage, foot traffic at stores, new shopping patterns. 

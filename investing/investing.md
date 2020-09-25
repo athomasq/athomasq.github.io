@@ -12,7 +12,7 @@ title: Investing · Abraham Thomas
 
 * [Invitation to founders](/founders)
 * [My angel portfolio](/angel)
-* [COVID-19 and the economy](/covid-19-and-the-economy)
+* [My public portfolio](/public)
 
 <br/>
 

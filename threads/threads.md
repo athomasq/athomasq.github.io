@@ -24,3 +24,5 @@ title: Threads · Abraham Thomas
 * [Failure Modes](../failure-modes)  
 * [DIS, AMZN, COVID](../amazon-disney-covid)
 * [Software Eats Marxism](../software-eats-marxism)  
+* [Real-Time Reports on COVID-19](/covid-19-and-the-economy)
+* [High-Frequency Macro](/covid-19-and-high-frequency-macro)

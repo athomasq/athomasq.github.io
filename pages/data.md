@@ -15,6 +15,8 @@ I'm fascinated by data and all the ways it can be used.  Here are some writings 
 * [Data Pricing Curves](/data-pricing-curves)
 * [APIs Are Eating the World](/APIs-are-eating-the-world)  
 * [A Data Framework for COVID-19](/a-data-framework-for-covid-19)  
+* [Real-Time Reports on COVID-19](/covid-19-and-the-economy)
+* [High-Frequency Macro Data](/covid-19-and-high-frequency-macro)
 * [Data-Driven Versus Data-Informed](/data-driven-data-informed)  
 
 
