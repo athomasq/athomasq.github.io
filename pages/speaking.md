@@ -12,10 +12,9 @@ title: Speaking · Abraham Thomas
 
 Here are some talks I've given:
 
-<!--
+
 **"2020 Vision: New Data Sources for the COVID Economy"** <br/>
-Princeton Fintech and Quant Conference, virtual, September 2020
--->
+Princeton Fintech and Quant Conference, virtual, September 2020  
 
 **"A Tale of Two Economies: COVID-19 and Consumer Retail"** <br/>
 VUE Digital Summit, virtual, August 2020
