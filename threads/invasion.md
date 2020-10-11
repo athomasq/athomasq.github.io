@@ -111,45 +111,6 @@ A volunteer at the airport gave me a fresh red apple.  It was the best thing I h
 
 
 <br/>
-
-----
-
-<br/>
-
-
-I'm not big on platitudes or absolutes.  Real life rarely lends itself to convenient morals.  But I will say that the invasion and occupation of Kuwait was a formative experience for me.  In many ways, it made me who I am today.
-
-I saw tremendous examples of humanity.  People who had lost nearly everything, still stopping to help those who needed help.  
-
-I also saw execrable selfishness.  People who were comparatively fortunate to begin with, looking out for themselves at all costs.
-
-I saw people respond to pressure in different ways.  Some merchants opened up their warehouses and distributed food; others profiteered.  Some leaders organized and coordinated and negotiated; others fled.  Some people donated; others looted.
-
-I don't condemn them; it's not for me to judge.  Everybody has their own challenges.  But I think back to my invasion experience to help navigate difficult choices in my own life.  When the chips are down, who do I want to be?
-
-
-<br/>
-
-----
-
-<br/>
-
-
-I learned a few other lessons that have stayed with me to this day.
-
-Life is what you make of it.  An open mind, an optimistic attitude, a cheerful outlook, a kind heart -- these help you get through the most challenging circumstances.  
-
-Don't be too attached to your possessions.  Health and happiness, friends and family, safety and security -- they matter more than material goods. 
-
-We are all human.  "Enemy combatants" are often just scared, confused, little kids.  Understanding and empathy open more doors than aggression and othering.
-
-Character is grace under pressure.  How you respond is who you are.  You may not win, but you should not crumble. 
-
-Be excellent to each other.  We're on this planet together; life is not a zero-sum game.  Be resourceful; be flexible; be open.  Don't be scared.  Never underestimate the resilience of the human spirit.
-
-And finally: in the right context, a simple apple can be tastier than even the fanciest fine dining.  Remember this context when you make your life choices. 
-
-<br/>
 <br/>
 <br/>
 
