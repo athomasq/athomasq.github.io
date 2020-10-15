@@ -7,6 +7,8 @@ title: Abraham at First Round
 
 ----
 
+It's nice to meet you.  
+
 **Why are you interested in this role at First Round?**
 
 A role at First Round would be my third career.  My first career was in finance -- I was a senior portfolio manager at Simplex, a large hedge fund.  My second career was in technology -- I am the co-founder of Quandl, a startup acquired by Nasdaq in one of Canada's largest tech exits of 2018.
@@ -62,6 +64,3 @@ Investing is a team sport.  I believe I have several attributes that will streng
 - my many different flavors of experience -- as a wartime refugee, as a graduate from an elite engineering school, and as leader of a startup that went through many ups and downs before its final successful exit.
 
 While any one of these might be shared with others, I do think the combination is unique, and powerful, and valuable. 
-
-Finally, I'd love to share my website -- www.abrahamthomas.info/firstround -- it tells you a lot more about who I am and what makes me tick.
-
