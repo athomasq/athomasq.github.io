@@ -20,6 +20,7 @@ Here are some articles in which I'm quoted or featured:
 - [Data Hunters Search for Recovery Clues](https://www.bloomberg.com/news/articles/2020-06-02/fence-posts-transit-apps-give-alt-data-hunters-recovery-clues?sref=sZB6YyEo) - Bloomberg [<small>pdf</small>](/assets/docs/BBG-hunters.pdf)
 - [How Alternative Data Spread Through Finance](https://www.euromoney.com/article/b1llht8hglzxy9/how-alternative-data-spread-through-finance) - Euromoney [<small>pdf</small>](/assets/docs/EM-spread.pdf)
 - [Bank Research Embraces Alternative Data](https://www.euromoney.com/article/b1l63f2yrl2cmp/bank-research-embraces-alternative-data) - Euromoney [<small>pdf</small>](/assets/docs/EM-banks.pdf)
+- [Quandl Celebrates Data Standardization](https://www.etfexpress.com/2020/10/26/291335/quandl-celebrates-growing-standardisation-data-across-etf-industry) - ETF Express  
 - [Fake Information](https://www.waterstechnology.com/management-strategy/4780806/the-proliferation-of-fake-information) - Waters Tech [<small>pdf</small>](/assets/docs/WT-deepfakes.pdf)
 - [Alternative Data Comes of Age](https://www.cnbc.com/2019/04/23/alternative-data-comes-of-age.html) - CNBC [<small>pdf</small>](/assets/docs/CNBC-of-age.pdf)
 - [Privacy Risks in Alternative Data](https://www.risk.net/asset-management/6558871/privacy-risks-dash-funds-alternative-data-dreams) - Risk Magazine
