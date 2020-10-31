@@ -196,6 +196,7 @@ What can I say about GEB that hasn't been said by a thousand geeks before me?  N
 - **A Short History of Byzantium**, John Julius Norwich
 - **A History of Venice**, John Julius Norwich
 - **A Traveler's Companion to Venice**, John Julius Norwich
+- **The Italians**, John Julius Norwich
 - **Europe: A History**, Norman Davies
 - **The Thirty Years War**, C. K. Wedgewood
 - **The Monks of War**, Desmond Seward
@@ -248,6 +249,7 @@ What can I say about GEB that hasn't been said by a thousand geeks before me?  N
 - **Silk Roads, China Ships**, John Vollmer
 - **The Silk Road**, Frances Wood
 - **Xanadu**, John Man
+- **Marco Polo**, John Man
 - **Tournament of Shadows**, Karl Meyer & Shareen Brysac
 - **A History of the Arab Peoples**, Albert Hourani 
 - **Arabs**, Tim Mackintosh-Smith
@@ -399,6 +401,7 @@ What can I say about GEB that hasn't been said by a thousand geeks before me?  N
 - **The First John McPhee Reader**, John McPhee
 - **The Second John McPhee Reader**, John McPhee
 - **Annals of the Former World**, John McPhee
+- **The Survival of the Bark Canoe**, John McPhee
 - **The Purple Decades**, Tom Wolfe
 - **The New Journalism**, Tom Wolfe
 - **The Faber Book of Journalism**, John Carey
@@ -465,6 +468,7 @@ What can I say about GEB that hasn't been said by a thousand geeks before me?  N
 - **The Signal and the Noise**, Nate Silver
 - **The Affluent Society**, John Kenneth Galbraith
 - **Confessions of an Advertising Man**, David Ogilvy
+- **Medium Raw**, Anthony Bourdain
 - **Poison Penmanship**, Jessica Mitford
 - **Cider With Rosie**, Laurie Lee
 - **As I Walked Out One Midsummer Morning**, Laurie Lee
@@ -1202,7 +1206,8 @@ I have a minor obsession with collecting travel books. I doubt I'll visit all or
 - **Chronicle of a Death Foretold**, Gabriel Garcia Marquez
 - **Collected Stories**, Gabriel Garcia Marquez
 - **Cold Comfort Farm**, Stella Gibbons
-- **Dead Souls**, Nikolai Gogol
+- **Dead Souls**, Nikolai 
+- **Collected Tales**, Nikolai Gogol
 - **The Tin Drum**, Gunter Grass
 - **Travels with My Aunt**, Graham Greene
 - **The Curious Incident of the Dog in the Night Time**, Mark Haddon
@@ -1269,6 +1274,11 @@ I have a minor obsession with collecting travel books. I doubt I'll visit all or
 - **Skippy Dies**, Paul Murray
 - **The Stories of Vladimir Nabokov**, Vladimir Nabokov
 - **Pale Fire**, Vladimir Nabokov
+- **Speak, Memory**, Vladimir Nabokov
+- **Pnin**, Vladimir Nabokov
+- **Bend Sinister**, Vladimir Nabokov
+- **Ada, or Ardor**, Vladimir Nabokov
+- **The Luzhin Defense**, Vladimir Nabokov
 - **A House for Mr. Biswas**, V. S. Naipaul
 - **Wizard of the Crow**, Ngũgĩ wa Thiong'o
 - **The Understudy**, David Nicholls
@@ -1350,6 +1360,16 @@ I have a minor obsession with collecting travel books. I doubt I'll visit all or
 - **The Ruby in Her Navel**, Barry Unsworth
 - **Laurus**, Eugene Vodolazkin
 - **Expelled from Eden**, William T. Vollmann
+- **Slaughterhouse-Five**, Kurt Vonnegut
+- **The Sirens of Titan**, Kurt Vonnegut
+- **Mother Night**, Kurt Vonnegut
+- **Player Piano**, Kurt Vonnegut
+- **God Bless You, Mr. Rosewater**, Kurt Vonnegut
+- **Deadeye Dick**, Kurt Vonnegut
+- **Cat's Cradle**, Kurt Vonnegut
+- **Timequake**, Kurt Vonnegut
+- **Palm Sunday**, Kurt Vonnegut
+- **Welcome to the Monkey House**, Kurt Vonnegut
 - **Infinite Jest**, David Foster Wallace
 - **The Paying Guests**, Sarah Waters
 - **Fingersmith**, Sarah Waters
