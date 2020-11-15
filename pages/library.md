@@ -119,6 +119,7 @@ What can I say about GEB that hasn't been said by a thousand geeks before me?  N
 - **The Blind Watchmaker**, Richard Dawkins
 - **Genome**, Matt Ridley
 - **The Red Queen**{: style="color: green"}, Matt Ridley
+- **The Rational Optimist**, Matt Ridley
 - **The Language Instinct**, Steven Pinker
 - **The Goshawk**, T. H. White
 - **The Peregrine's Saga**, Henry Williamson
@@ -132,6 +133,7 @@ What can I say about GEB that hasn't been said by a thousand geeks before me?  N
 - **Sapiens**, Yuval Noah Harari
 - **Homo Deus**, Yuval Noah Harari
 - **Abundance**, Peter Diamandis
+- **Range**, David Epstein
 - **Hackers**, Steven Levy
 - **Geek Sublime**, Vikram Chandra
 - **Infrastructure**{: style="color: green"}, Brian Hayes
@@ -308,6 +310,7 @@ What can I say about GEB that hasn't been said by a thousand geeks before me?  N
 - **Dead Wake**, Erik Larson
 - **Thunderstruck**, Erik Larson
 - **The Devil in the White City**, Erik Larson
+- **The Splendid and the Vile**, Erik Larson
 - **Vermeer's Hat**, Timothy Brook
 - **Color**, Victoria Finlay
 - **Eighty Days**, Matthew Goodman
@@ -375,6 +378,10 @@ What can I say about GEB that hasn't been said by a thousand geeks before me?  N
 - **The Power Broker**, Robert Caro
 - **Lords of Finance**, Liaquat Ahamed
 - **Unruly Waters**, Sunil Amrith
+- **Class**, Paul Fussell
+- **Debt**, David Graeber
+- **The Box**, Marc Levinson
+- **The Boundless Sea**, David Abulafia
 
 
 [Back to Top ↩](/library#my-library)
@@ -479,6 +486,8 @@ What can I say about GEB that hasn't been said by a thousand geeks before me?  N
 - **On Literature**, Umberto Eco
 - **Keeping an Eye Open**, Julian Barnes
 - **Lost at Sea**, Jon Ronson
+- **How Asia Works**, Joe Studwell
+- **One From Many**, Dee Hock
 
 [Back to Top ↩](/library#my-library)
 
@@ -545,6 +554,7 @@ This is a terrific book and one of the top 5 non-fiction books I've ever read. (
 - **Three Mozart Operas**, Richard Moberly
 - **The Band: A Musical History**, Robbie Robertson
 - **Really the Blues**, Mezz Mezzrow
+- **Heroes of Blues, Jazz & Country**, R. Crumb
 
 
 [Back to Top ↩](/library#my-library)
@@ -1168,9 +1178,10 @@ I have a minor obsession with collecting travel books. I doubt I'll visit all or
 - **The Deportees**, Roddy Doyle
 - **The Woman Who Walked Into Doors**, Roddy Doyle
 - **A Star Called Henry**, Roddy Doyle
+- **Oh, Play That Thing**, Roddy Doyle
+- **The Dead Republic**, Roddy Doyle
 - **Paddy Clarke Ha Ha Ha**, Roddy Doyle
 - **Bullfighting**, Roddy Doyle
-- **Oh, Play That Thing**, Roddy Doyle
 - **The World As I Found It**, Bruce Duffy
 - **Ella Minnow Pea**, Mark Dunn
 - **Faith in Fakes**, Umberto Eco
