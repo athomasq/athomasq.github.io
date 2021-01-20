@@ -15,8 +15,8 @@ Here are some talks I've given:
 **"Generating Data Insights at Scale: The Data Factory"** <br/>
 OTPP Seminar Series, virtual, December 2020
 
-**"Seeing the Whole Picture with External Data"** *(fireside chat)* <br/>
-Joint Webinar with Coatue Management, virtual, December 2020
+**"Seeing the Whole Picture with External Data"** <br/>
+Webinar with Coatue Management, virtual, December 2020
 
 **"2020 Vision: New Data Sources for the COVID Economy"** <br/>
 Princeton Fintech and Quant Conference, virtual, September 2020  
