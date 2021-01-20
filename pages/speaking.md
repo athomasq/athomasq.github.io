@@ -12,6 +12,11 @@ title: Speaking · Abraham Thomas
 
 Here are some talks I've given:
 
+**"Generating Data Insights at Scale: The Data Factory"** <br/>
+OTPP Seminar Series, virtual, December 2020
+
+**"Seeing the Whole Picture with External Data"** <br/>
+Joint webinar with Unsupervised + Coatue , virtual, December 2020
 
 **"2020 Vision: New Data Sources for the COVID Economy"** <br/>
 Princeton Fintech and Quant Conference, virtual, September 2020  

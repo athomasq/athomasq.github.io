@@ -382,7 +382,8 @@ What can I say about GEB that hasn't been said by a thousand geeks before me?  N
 - **Debt**, David Graeber
 - **The Box**, Marc Levinson
 - **The Boundless Sea**, David Abulafia
-
+- **The Outlaw Sea**, William Langewiesche
+- **Churchill's Secret War**, Madhusree Mukerjee
 
 [Back to Top ↩](/library#my-library)
 

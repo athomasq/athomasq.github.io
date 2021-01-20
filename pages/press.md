@@ -24,6 +24,8 @@ Here are some articles in which I'm quoted or featured:
 - [Fake Information](https://www.waterstechnology.com/management-strategy/4780806/the-proliferation-of-fake-information) - Waters Tech [<small>pdf</small>](/assets/docs/WT-deepfakes.pdf)
 - [Alternative Data Comes of Age](https://www.cnbc.com/2019/04/23/alternative-data-comes-of-age.html) - CNBC [<small>pdf</small>](/assets/docs/CNBC-of-age.pdf)
 - [Privacy Risks in Alternative Data](https://www.risk.net/asset-management/6558871/privacy-risks-dash-funds-alternative-data-dreams) - Risk Magazine
+- [Quants Find New Ways to Identify Inventive Companies](https://www.risk.net/investing/7726091/quants-find-new-ways-to-identify-inventive-companies) - Risk Magazine [<small>pdf</small>](/assets/docs/RISK-patents.pdf)
+
 
 
 Here are some articles about [Quandl](https://quandl.com), the company I co-founded, and [alternative data](https://en.wikipedia.org/wiki/Alternative_data_(finance)), the field we pioneered:
