@@ -28,6 +28,6 @@ We live in a golden age for online content.  Here are some of my favourite long-
 * [Ranjan Roy and Can Duruk](https://themargins.substack.com/ "how tech changes everything")
 * <a href="https://www.ribbonfarm.com/about/" title="new ways of seeing the world" target="_blank">Venkatesh Rao</a>
 
-
+<!--
 For further reading, see my collection of [web resourcesfor startup founders]((/web-resources-for-founders).
-
+-->
