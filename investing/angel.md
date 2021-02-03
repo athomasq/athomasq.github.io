@@ -39,7 +39,7 @@ Here are my startup investments as of December 2020:
 
 
 
-It's early days, but so far the outcomes seem to follow a classic power law distribution.  Out of 16 investments over 6 years, I have 1 at >10x, 1 at 5-10x, 5 at 2-5x, 6 at 1x, and 3 at 0x.  My IRR on angel investments is over 30% (including the failures), though it's hard to tell how much of that is skill and how much is luck.
+It's early days, but so far the outcomes seem to follow a classic power law distribution.  Out of 17 investments over 6 years, I have 2 at >10x, 5 at 2-10x, 7 at 1x, and 3 at 0x.  My IRR on angel investments is over 30% (including the failures), though it's too early to tell how much of that is skill and how much is luck.
 
 ----
 
