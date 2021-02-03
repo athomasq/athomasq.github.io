@@ -11,7 +11,7 @@ title: Angel Investing · Abraham Thomas
 
 ### Portfolio
 
-Here are my startup investments as of August 2019:
+Here are my startup investments as of December 2020:
 
 **Asia:**
 - [Locus](https://locus.sh/): logistics intelligence (Series B - Tiger Global, Falcon Edge)
@@ -31,6 +31,7 @@ Here are my startup investments as of August 2019:
 - [Daloopa](https://www.daloopa.com/): AI-powered financial models (early)  
 - [Mero](https://mero.co/): sensors for smart buildings (early)  
 - [Terra.do](https://terra.do): climate school (early)  
+- [Buy Properly](https://buyproperly.ca/): fractional real estate (early)  
 - TableHero: restaurant platform (failed)  
 
 **Other:**
