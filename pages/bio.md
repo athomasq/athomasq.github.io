@@ -19,7 +19,7 @@ title: Bio · Abraham Thomas
 
 **At 21**, I turned down graduate school to join a tiny firm that "used math to predict the market".  One of Asia's first hedge funds, [Simplex](https://www.simplexasset.com/en/) eventually grew to hundreds of people and billions of dollars. I joined as employee #7.
 
-**By 26**, I was a portfolio manager at the fund.  I set up and ran the fund's US office; I also co-led the team that designed, built and traded one of the industry's first [high-frequency arbitrage](https://en.wikipedia.org/wiki/Algorithmic_trading) systems.
+**By 26**, I was a portfolio manager at the fund.  I set up and ran the fund's US office; I also co-led the team that designed, built and traded one of the bond market's first [algorithmic trading](https://en.wikipedia.org/wiki/Algorithmic_trading) systems.
 
 **At 30**, I quit my hedge fund job.  I exited all my positions near the high-water mark of the portfolio in 2007, and moved to Canada.  (I've been an immigrant three times!)
 
