@@ -12,6 +12,9 @@ title: Speaking · Abraham Thomas
 
 Here are some talks I've given:
 
+**"Data Deployment: The Secret Ingredient"** <br/>
+AI & Data Science in Trading, virtual, March 2021 
+
 **"Generating Data Insights at Scale: The Data Factory"** <br/>
 OTPP Seminar Series, virtual, December 2020
 
@@ -99,8 +102,8 @@ IRMAC, Toronto, January 2014
 
 If you'd like me to speak at your event, please [email me](mailto:athos1@gmail.com).  Topics I often speak about include: 
 
-- Data, especially unusual sources and applications of data
 - Modern financial markets and quantitative investing
+- Data, especially unusual sources and applications of data
 - Building data-driven organizations
 - Launching, scaling and exiting a tech startup
 
