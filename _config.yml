@@ -2,3 +2,6 @@ name: Abraham Thomas
 markdown: kramdown
 description: Personal Website · Abraham Thomas
 url: https://abrahamthomas.info
+
+plugins:
+  - jemoji
