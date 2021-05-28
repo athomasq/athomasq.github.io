@@ -8,104 +8,156 @@ title: About · Abraham Thomas
 
 ----
 
-|<img style="width:200px" src="/assets/img/Abraham-Thomas.jpg">|Hello, I'm Abraham. <br/><br/>I'm a technology entrepreneur and private investor, currently on sabbatical between ventures. <br/><br/>I'm the co-founder and former Chief Data Officer of [Quandl](https://www.quandl.com), a technology startup that was acquired by [Nasdaq](https://www.nasdaq.com) in 2018. <br/><br/>Before Quandl, I was a trader and portfolio manager at [Simplex](https://www.simplexasset.com), a multi-billion-dollar hedge fund in Tokyo.|
-
+|<img style="width:200px" src="/assets/img/Abraham-Thomas.jpg">|:wave: Hello, I'm Abraham.<br/><br/>I'm the co-founder and former Chief Data Officer of [Quandl](https://www.quandl.com), a technology startup that was acquired by [Nasdaq](https://www.nasdaq.com) in 2018. <br/><br/>Before Quandl, I was a trader and portfolio manager at [Simplex](https://www.simplexasset.com), a multi-billion-dollar hedge fund in Tokyo.<br/><br/>I'm currently on sabbatical between ventures.|
 
 -----
 
-// todo
-campus internet
-nasdaq acquires
-
-test 
-
-:smiley:
-
+<!--
+<br/>
 
 Use the links below to jump to any section on this overview page.  Use the links on the right to explore topics in more detail.
 
-* Experience
-* Expertise
-* Investing
-* Consulting
-* Writing
-* Media
-* Contact
+|🚀Work|🚀Investing|Consulting|Media|
+|Expertise|🚀Writing|Interests|Contact|
 
-### Experience
 
-My career has been at the intersection of data, markets, and technology.  In reverse chrono order
 
-* Founded quandl.  saas-enabled b2b data marketplace. Pioneered category of alt data for finance.  most hfs and ams customers. exit Nasdaq.
+<br/>
 
-solving a lot of technological, behavioural and commercial problems along the way.
+-----
+-->
 
-* Joined a hedge fund.  Co-led team that built industry first algo system. Youngest ever PM.  Head of US trading.
 
-* Studied EP at IITB.  First campus internet, first techfest.  Also gsha, roll of honour, bunch of extra curriculars.
-	
+<br/>
+
+### Work
+
+I work at the intersection of data, markets, and technology.  Here are a few things I've done:
+
+🚀 Founded Quandl, a SaaS-enabled B2B marketplace for data. We pioneered the category of [alternative data](https://en.wikipedia.org/wiki/Alternative_data_(finance)) for finance, changing the industry along the way. Quandl was acquired by Nasdaq in 2018. 
+
+📈 Early employee at Simplex Asset Management, a quant hedge fund. I built one of the bond market's first [algorithmic trading](https://en.wikipedia.org/wiki/Algorithmic_trading) systems, and headed US Treasury trading for Simplex before retiring in 2007.
+
+🎓 Studied Engineering Physics at IIT Bombay, India's top technology school.  While there, I helped set up India's first campus data network, and won a bunch of awards, mostly for extra-curriculars and leadership.
+
+<br/>
+
+-----
+
+<br/>	
 
 
 ### Expertise
 
-A few subjects I have particularly deep professional expertise in:
+Here are a few topics I have particularly deep professional expertise in:
 
-* data business models
-* building and scaling data organizations
+🎛️ B2B and SaaS-enabled marketplaces  
+🔢 Data business models and the modern data ecosystem  
+👩‍💻 Designing, building and scaling effective data organizations  
+🏧 Modern quantitative and quantamental investing  
+🛰️ Alternative data and untapped sources of alpha  
+💳 Capital markets and B2B fintech  
+🦄 Building a valley-style startup outside the Bay Area  
 
-* quant investing
-* alternative data 
+<br/>
 
-* sv startups outsude sv
-* b2b and se mktplaces
+-----
 
-In addition, as CDO i obv know a lot about data science and data teams. Founders wear many hats, mine are in positioning, marketing, cutlure. 
-
-As you can see, they tend to fall into the same 3 categories: data, markets, technology.
-
+<br/>	
 
 
 ### Investing
 
-I'm an active angel investor. 
+🦋 I'm an active angel investor in early-stage B2B startups.  I'm flexible on industry, commercial model and geography.  *View my portfolio.*
 
-I'm a keen observer of public markets, but very rarely deviate from passive index positions.  Markets are astonishingly efficient; many successful practitioners conflate skill and luck; and I'm keenly aware that I rarely have an edge.  
+💽 I’m most familiar with businesses involving data, APIs, and network effects. I also know capital markets and fintech well.  
 
-Quant 
+🔧 I can help on almost all operational aspects of early-stage startups.  I'm especially strong on story-telling, hybrid g2m, recruiting/culture, and of course all things data.  
 
-I advise a few VC firms and edge funds.  
+📫 **Founders, if any of this sounds interesting, please reach out!**    
 
+🌐 I'm also building out my network, and welcome inquiries from fellow angels looking for co-investors, doing diligence, or simply sharing ideas.  
+
+<!-- portfolio, more about, co-investing --> 
+
+<br/>
+
+-----
+
+<br/>	
 
 ### Consulting
 
-I have a very limited number
+I have a very limited number of hours available for professional consulting. My clients are typically venture capital firms, hedge funds, pension funds, sovereign wealth funds, and similar institutions. 
 
-Expert data consultatnt.  Topics:
+Topics I advise on include:
 
-I advise and mentor a few startups, board advisro.
+alt data
+data teams
+quant process
+specific data bus
+due dil
+data sets
+data infra
+specific tech
+data strategy
+investments in data space
 
 
-### Writing
-
-Tjis website is home to my writing.  Some recent essays:
+To inquire about professional services, email \< consult at abrahamthomas dot info \> .
 
 
+<br/>
 
+-----
+
+<br/>	
 
 
 ### Media
 
 
-My workQuandl has been covered by the WSJ, FT, G&M.  You can see a full list here.
+My work at Quandl has been covered by the Wall Street Journal, the Financial Times, the Economist, CNBC, Bloomberg, Forbes, Business Insider, Quartz, the Globe and Mail (Canada) and many others. You can see a full list here.
 
-I speak semi-regularly at conferences.; sminmost recently I was the keynotw
+I often speak at conferences, seminars and other public events.  Some recent venues include asset managers Winton, OTPP, CPPIB, Coatue, UBS and Franklin Templeton; conferences Strata, AIDST, Princeton and Montgomery; and tech events at Toronto City Hall and the Toronto Stock Exchange. You can see a full list here.
 
-seminars at hedge funds, otpp, coatue, winton, conferences like AIDST, talks at princeton, city hall
-
-Topics I often cover.  For press inquires, email. 
+Topic I often address:
 
 
 
+For press inquires, email. 
+
+
+<br/>
+
+-----
+
+<br/>	
+
+
+
+
+
+### Interests
+
+:camera: I like to take artsy photographs  
+:airplane: I like to travel  
+:game_die: I like to play Euro-style board games  
+:books: I'm an unrepentant bibliophile  
+:bento: I like to cook, as well as eat well  
+:notes: I have eclectic taste in music  
+:tennis: I play semi-competitive tennis (NTRP 4.5)  
+:clipboard: I'm an incorrigible list-maker, curator and reviewer  
+:black_nib: I like to write, as this website makes abundantly clear  
+
+
+
+
+
+
+### Writing
+
+Tjis website is home to my writing.  Some recent essays:
 
 ### Contact
 
@@ -127,7 +179,7 @@ Do not contact me on Lined in.
 ### 
 
 
-Use the links below to jump to any section on this overview page.  Use the links on the right to explore topics in more detail.
+
 
 
 
@@ -230,6 +282,12 @@ hobbies?
 	biblio
 	writing
 	reviews
+
+
+
+
+training
+studio
 
 
 Press
