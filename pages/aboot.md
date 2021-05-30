@@ -12,35 +12,24 @@ title: About · Abraham Thomas
 
 -----
 
-<!--
-<br/>
-
-Use the links below to jump to any section on this overview page. Use the links on the right to explore topics in more detail.
-
-|🚀Work|🚀Investing|Consulting|Media|
-|Expertise|🚀Writing|Interests|Contact|
-
-
-
-<br/>
-
------
--->
-
-
 <br/>
 
 ### Work
 
 I work at the intersection of data, markets, and technology. Here are a few things I've done:
 
-🚀 Founded Quandl, a SaaS-enabled B2B marketplace for data. We pioneered the category of [alternative data](https://en.wikipedia.org/wiki/Alternative_data_(finance)) for finance, changing the industry along the way. Quandl was acquired by Nasdaq in 2018. 
+🚀 Founded Quandl, a SaaS-enabled B2B marketplace for data. We pioneered the category of alternative data for finance, changing the industry along the way. Quandl was acquired by Nasdaq in 2018.  
 
-📈 Early employee at Simplex Asset Management, a quant hedge fund. I built one of the bond market's first [algorithmic trading](https://en.wikipedia.org/wiki/Algorithmic_trading) systems, and headed US Treasury trading for Simplex before retiring in 2007.
+📈 Early employee at Simplex Asset Management, a quant hedge fund. I built one of the bond market's first algorithmic trading systems, and headed US investing and operations for Simplex before retiring in 2007.
 
 🎓 Studied Engineering Physics at IIT Bombay, India's top technology school. While there, I helped set up India's first campus data network, and won a bunch of awards, mostly for extra-curriculars and leadership.
 
-<!--I'm currently on sabbatical between ventures.-->
+<!--
+https://en.wikipedia.org/wiki/Alternative_data_(finance)
+https://blog.quandl.com/quandl-the-next-chapter 
+https://en.wikipedia.org/wiki/Algorithmic_trading 
+https://abrahamthomas.info/bond-arbitrage/ 
+-->
 
 <br/>
 
@@ -74,7 +63,7 @@ Here are a few topics I have particularly deep professional expertise in:
 
 🔗 I’m most familiar with businesses involving data, APIs, and network effects. I also know capital markets and fintech well.  
 
-🔧 I can help on almost all operational aspects of early-stage startups. I'm especially strong on story-telling, hybrid g2m, culture+talent, fund-raising, and of course all things data.  
+🔧 I can help on almost all operational aspects of early-stage startups. I'm especially strong on story-telling, hybrid g2m, culture+talent, fund-raising, and of course all things data.  *[Learn more](/founders).*  
 
 📫 **Founders, if any of this sounds interesting, [please reach out!](mailto:athos1@gmail.com)**    
 
@@ -90,7 +79,7 @@ Here are a few topics I have particularly deep professional expertise in:
 
 ### Consulting
 
-I have a very limited number of hours available for professional consulting. My clients are typically venture capital firms, hedge funds, pension funds, sovereign wealth funds, and similar institutions. 
+I have a limited number of hours available for professional consulting. My clients are typically venture capital firms, hedge funds, sovereign wealth funds, and similar institutions. 
 
 Topics I advise on include:
 
@@ -115,15 +104,11 @@ To inquire about professional services, please [email me](mailto:athos1@gmail.co
 ### Media
 
 
-My work at Quandl has been covered by the Wall Street Journal, the Financial Times, the Economist, CNBC, Bloomberg, Forbes, Business Insider, Quartz, the Globe and Mail (Canada) and many others. You can see a full list here.
+My work at Quandl has been covered by the Wall Street Journal, the Financial Times, the Economist, CNBC, Bloomberg, Forbes, Business Insider, Quartz, the Globe and Mail (Canada) and many others. You can see a full list of articles [here](/press).
 
-I often speak at conferences, seminars and other public events. Recent seminar venues include asset managers Winton, OTPP, CPPIB, UBS and Franklin Templeton; conferences include Strata, AIDST, Princeton and Montgomery; and tech events include Toronto City Hall, TechTO, and the Toronto Stock Exchange. You can see a full list here.
+I often speak at conferences, seminars and other public events. Recent seminar venues include asset managers Winton, OTPP, CPPIB, UBS and Franklin Templeton; conferences include Strata, AIDST, Princeton and Montgomery; and tech events include Toronto City Hall, TechTO, and the Toronto Stock Exchange. You can see a full list of talks [here](/speaking).
 
-Here are some topics I've spoken about in the past:
-
-
-
-For press inquires, email. 
+For press inquires, please [email me](mailto:athos1@gmail.com).
 
 
 <br/>
@@ -133,18 +118,13 @@ For press inquires, email.
 <br/>	
 
 
-
-
-
-
-
 ### Interests
 
 I have a number of hobbies and interests that keep me pleasantly busy:
 
-📚 I'm an unrepentant bibliophile  
-📷 I like to take artsy photographs  
-✈️ I like to travel, both physically and in spirit    
+📚 I'm an unapologetic [bibliophile](/library)  
+📷 I like to take artsy [photographs](/gallery)  
+✈️ I like to travel, both physically and [in spirit](/library/#travel-adventure--exploration)    
 🎲 I like to play Euro strategy board games  
 🎨 I haunt art galleries and museums whenever I can  
 🍱 I like to cook, and also to eat well  
@@ -156,26 +136,20 @@ I have a number of hobbies and interests that keep me pleasantly busy:
 📋 I'm a prolific list-maker, curator and reviewer  
 ✒️ I like to write, as this website makes abundantly clear    
 
+<br/>
 
+-----
 
-
-
-
-
-### Writing
-
-Tjis website is home to my writing. Some recent essays:
-
-twiiter
+<br/>	
 
 
 ### Contact
 
-Founders:
-Press
-buyside:
-Consulting
+<img style="width:15px" src="/assets/img/email-icon.svg"> Email is the best way to [contact me](mailto:athos1@gmail.com).  
+<img style="width:15px" src="/assets/img/twitter-icon.svg"> I'm moderately active on [Twitter](https://twitter.com/athomasq).  
+<img style="width:15px" src="/assets/img/linkedin-icon.svg"> I also have a [LinkedIn profile](https://www.linkedin.com/in/athomasq/).  
+<img style="width:15px" src="/assets/img/coffee-icon.svg"> If you're in Toronto, I'd be happy to meet for a coffee.  
 
-Twiiter.
+<br/>
+<br/>
 
-Do not contact me on Lined in. 
