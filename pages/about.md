@@ -108,7 +108,7 @@ My work at Quandl has been covered by the Wall Street Journal, the Financial Tim
 
 I often speak at conferences, seminars and other public events. Recent seminar venues include asset managers Winton, OTPP, CPPIB, UBS and Franklin Templeton; conferences include Strata, AIDST, Princeton and Montgomery; and tech events include Toronto City Hall, TechTO, and the Toronto Stock Exchange. You can see a full list of talks [here](/speaking).
 
-For press inquires, please [email me](mailto:athos1@gmail.com).
+For press and speaker inquires, please [email me](mailto:athos1@gmail.com).
 
 
 <br/>
@@ -129,7 +129,7 @@ I have a number of hobbies and interests that keep me pleasantly busy:
 🎨 I haunt art galleries and museums whenever I can  
 🍱 I like to cook, and also to eat well  
 🎶 I like to discover new music of almost every genre  
-🎾 I play semi-competitive tennis (NTRP 4.5)  
+🎾 I play semi-competitive tennis (NTRP 4-5)  
 🔠 I used to play tournament Scrabble, but haven't for a while   
 🌸 I used to curate a rather popular poetry newsletter  
 🏋🏾 I work out, sleep well, and practise happiness  
