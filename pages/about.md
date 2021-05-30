@@ -65,7 +65,7 @@ Here are a few topics I have particularly deep professional expertise in:
 
 🔧 I can help on almost all operational aspects of early-stage startups. I'm especially strong on story-telling, hybrid g2m, culture+talent, fund-raising, and of course all things data.  *[Learn more](/founders).*  
 
-📫 **Founders, if any of this sounds interesting, [please reach out!](mailto:athos1@gmail.com)**    
+📫 **Founders, if this sounds like a fit, [please reach out!](mailto:athos1@gmail.com)**    
 
 🌐 I'm also building out my network, and welcome inquiries from fellow angels looking for co-investors, doing diligence, or simply sharing ideas.  
 
@@ -86,9 +86,9 @@ Topics I advise on include:
 🏭 **Ops:** Managing data teams, processes and operations  
 🏗️ **Infra:** Modern data infrastructure and technical approaches  
 💱 **Edge:** Data advantages and using data to generate alpha  
-🏛️ **Strategy:** Data strategy, business models and the data ecosystem  
-🚚 **Applications:** Specific datasets, use cases and opportunities  
-☑️ **Diligence:** Expert evaluations of data-related ventures of every stripe  
+🏛️ **Strategy:** Data strategy, business models and ecosystem  
+🚚 **Applications:** Specific datasets, usage and opportunities  
+☑️ **Diligence:** Expert evaluations of data-related ventures   
 
 
 To inquire about professional services, please [email me](mailto:athos1@gmail.com).
@@ -125,16 +125,17 @@ I have a number of hobbies and interests that keep me pleasantly busy:
 📚 I'm an unapologetic [bibliophile](/library)  
 📷 I like to take artsy [photographs](/gallery)  
 ✈️ I like to travel, both physically and [in spirit](/library/#travel-adventure--exploration)    
-🎲 I like to play Euro strategy board games  
+🎲 I like to play Euro-style board games  
 🎨 I haunt art galleries and museums whenever I can  
 🍱 I like to cook, and also to eat well  
 🎶 I like to discover new music of almost every genre  
+🏅 I over-analyze sports, using data of course  
 🎾 I play semi-competitive tennis (NTRP 4-5)  
 🔠 I used to play tournament Scrabble, but haven't for a while   
 🌸 I used to curate a rather popular poetry newsletter  
 🏋🏾 I work out, sleep well, and practise happiness  
 📋 I'm a prolific list-maker, curator and reviewer  
-✒️ I like to write, as this website makes abundantly clear    
+✒️ I like to write, as this website makes abundantly clear :)   
 
 <br/>
 
@@ -144,6 +145,8 @@ I have a number of hobbies and interests that keep me pleasantly busy:
 
 
 ### Contact
+
+I enjoy hearing from people doing interesting things. 
 
 <img style="width:15px" src="/assets/img/email-icon.svg"> Email is the best way to [contact me](mailto:athos1@gmail.com).  
 <img style="width:15px" src="/assets/img/twitter-icon.svg"> I'm moderately active on [Twitter](https://twitter.com/athomasq).  
