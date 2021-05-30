@@ -8,7 +8,7 @@ title: About · Abraham Thomas
 
 ----
 
-|<img style="width:200px" src="/assets/img/Abraham-Thomas.jpg">|👋 Hello, I'm Abraham.<br/><br/>I'm a [technology entrepreneur](/about/#work) and [angel investor](/about/#investing) living in Toronto.<br/><br/>I'm the co-founder and former Chief Data Officer of [Quandl](https://www.quandl.com), a tech startup that was acquired by [Nasdaq](https://www.nasdaq.com) in 2018. <br/><br/>Before Quandl, I was a trader and portfolio manager at [Simplex](https://www.simplexasset.com), a multi-billion-dollar hedge fund in Tokyo.|
+|<img style="width:200px" src="/assets/img/Abraham-Thomas.jpg">|👋 Hello, I'm Abraham.<br/><br/>I'm a [technology entrepreneur](/about#work) and [angel investor](/about#investing) living in Toronto.<br/><br/>I'm the co-founder and former Chief Data Officer of [Quandl](https://www.quandl.com), a tech startup that was acquired by [Nasdaq](https://www.nasdaq.com) in 2018. <br/><br/>Before Quandl, I was a trader and portfolio manager at [Simplex](https://www.simplexasset.com), a multi-billion-dollar hedge fund in Tokyo.|
 
 -----
 
@@ -146,7 +146,7 @@ I have a number of hobbies and interests that keep me pleasantly busy:
 
 ### Contact
 
-I enjoy hearing from people doing interesting things. 
+I enjoy meeting new people.
 
 <img style="width:15px" src="/assets/img/email-icon.svg"> Email is the best way to [contact me](mailto:athos1@gmail.com).  
 <img style="width:15px" src="/assets/img/twitter-icon.svg"> I'm moderately active on [Twitter](https://twitter.com/athomasq).  

@@ -10,21 +10,15 @@ title: Contact · Abraham Thomas
 
 <br/>
 
-### Email
 
-The best way to reach me is by [email](mailto:athos1@gmail.com).  I try to read everything I receive, though I can't always promise a response.
+I enjoy meeting new people.
 
+<img style="width:15px" src="/assets/img/email-icon.svg"> Email is the best way to [contact me](mailto:athos1@gmail.com).  
+<img style="width:15px" src="/assets/img/twitter-icon.svg"> I'm moderately active on [Twitter](https://twitter.com/athomasq).  
+<img style="width:15px" src="/assets/img/linkedin-icon.svg"> I also have a [LinkedIn profile](https://www.linkedin.com/in/athomasq/).  
+<img style="width:15px" src="/assets/img/coffee-icon.svg"> If you're in Toronto, I'd be happy to meet for a coffee.  
+
+To maximize your odds of a quick and positive response: be concise, be clear, be specific, offer two-way value if you can, and follow up once but not more than that. Thanks!
+<br/>
 <br/>
 
-### Twitter  
-I'm moderately active on [Twitter](https://twitter.com/athomasq), which is also the best way to keep up with new material on this website.
-
-<br/>
-
-### IRL
-If you're in Toronto and would like to meet over coffee, [email me](mailto:athos1@gmail.com), and perhaps we can set up a post-COVID chat.
-
-<br/>
-
-### Notes
-Please don't contact me on LinkedIn; your message will probably get lost amidst all the sales spam and fake profiles.  Please don't ask for generic advice, or to "pick my brain"; the more precise your request, the more likely I'll be able to help.  Finally, if you've sent an email and I haven't responded within a week or two, please do [send a followup](mailto:athos1@gmail.com).  
