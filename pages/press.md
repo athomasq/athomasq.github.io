@@ -14,6 +14,7 @@ title: Press · Abraham Thomas
 
 Here are some articles in which I'm quoted or featured:
 
+- [Alternative Data Comes of Age](https://www.cnbc.com/2019/04/23/alternative-data-comes-of-age.html) - CNBC [<small>pdf</small>](/assets/docs/CNBC-of-age.pdf)
 - [The Data Game](https://www.theglobeandmail.com/investing/article-quandl-and-the-invasive-use-of-data/) - Globe and Mail (Canada) [<small>pdf</small>](/assets/docs/GM-data-game.pdf)
 - [Alternative Data and Long-Term Investing](https://www.forbes.com/sites/michaelmolnar/2020/09/11/yes-alternative-data-is-useful-beyond-next-quarters-results/#1c5eae0a1ec5) - Forbes [<small>pdf</small>](/assets/docs/F-mm-interview.pdf)
 - [Everybody's a Macro Trader Now](https://www.businessinsider.com/hedge-funds-rethink-alternative-data-pandemic-macro-2020-7) - Business Insider [<small>pdf</small>](/assets/docs/BI-macro.pdf)
@@ -22,7 +23,6 @@ Here are some articles in which I'm quoted or featured:
 - [Bank Research Embraces Alternative Data](https://www.euromoney.com/article/b1l63f2yrl2cmp/bank-research-embraces-alternative-data) - Euromoney [<small>pdf</small>](/assets/docs/EM-banks.pdf)
 - [Quandl Celebrates Data Standardization](https://www.etfexpress.com/2020/10/26/291335/quandl-celebrates-growing-standardisation-data-across-etf-industry) - ETF Express  
 - [Fake Information](https://www.waterstechnology.com/management-strategy/4780806/the-proliferation-of-fake-information) - Waters Tech [<small>pdf</small>](/assets/docs/WT-deepfakes.pdf)
-- [Alternative Data Comes of Age](https://www.cnbc.com/2019/04/23/alternative-data-comes-of-age.html) - CNBC [<small>pdf</small>](/assets/docs/CNBC-of-age.pdf)
 - [Privacy Risks in Alternative Data](https://www.risk.net/asset-management/6558871/privacy-risks-dash-funds-alternative-data-dreams) - Risk Magazine
 - [New Ways to Identify Inventive Companies](https://www.risk.net/investing/7726091/quants-find-new-ways-to-identify-inventive-companies) - Risk Magazine [<small>pdf</small>](/assets/docs/RISK-patents.pdf) 
 - [Big Data Gives Investors a Big Edge](https://www.theglobeandmail.com/investing/markets/inside-the-market/article-alternative-data-gives-some-investors-a-big-edge-in-finding-stocks-on/) - Globe and Mail (Canada) [<small>pdf</small>](/assets/docs/GM-big-edge.pdf)
