@@ -18,7 +18,7 @@ title: About · Abraham Thomas
 
 I work at the intersection of data, markets, and technology. Here are a few things I've done:
 
-🌱 Founded Quandl, a SaaS-enabled B2B marketplace for data. We pioneered the category of alternative data for finance, changing the industry along the way. Quandl was acquired by Nasdaq in 2018.  
+🚀 Founded Quandl, a SaaS-enabled B2B marketplace for data. We pioneered the category of alternative data for finance, changing the industry along the way. Quandl was acquired by Nasdaq in 2018.  
 
 📈 Early employee at Simplex Asset Management, a quant hedge fund. I built one of the bond market's first algorithmic trading systems, and headed US investing and operations for Simplex before retiring in 2007.
 
