@@ -11,19 +11,43 @@ title: Writing · Abraham Thomas
 <br/>
 
 
-I like to write.  Here are some things I've written:
-
-* [Essays](/essays)
-* [Threads](/threads)
-<!--* [Guides](/guides)-->
+**Data**  
+* [Data Pricing Curves](/data-pricing-curves)
+* [APIs Are Eating the World](/APIs-are-eating-the-world)  
+* [DIS, AMZN, COVID](/amazon-disney-covid)  
+* [A Data Framework for COVID-19](/a-data-framework-for-covid-19)  
+* [Real-Time Reports on COVID-19](/covid-19-and-the-economy)
+* [High-Frequency Macro Data](/covid-19-and-high-frequency-macro)
+* [Data-Driven Versus Data-Informed](/data-driven-data-informed)  
 
 <br/>
 
-Here are the 3 newest articles on this website:
-
-* [Invasion!](/invasion)   
-* [Data Pricing Curves](/data-pricing-curves)  
+**Markets**  
 * [Rentec's Returns](/rentecs-returns)
+* [Alfred Winslow Jones](/alfred-winslow-jones)  
+* [Silk Ties](/silk-ties)  
+* [Software Eats Marxism](/software-eats-marxism)  
+* [Bond Arbitrage](/bond-arbitrage)  
+* [Two Extremes of Market Efficiency](/two-extremes-of-market-efficiency)  
+* [A Tale of Two Marketplaces: ICE and eBay](/why-might-ice-bid-for-ebay)  
+
+<br/>
+
+**Technology**  
+* [Sterner Stuff](/sterner-stuff)  
+* [Failure Modes](/failure-modes)  
+* [When Excellence Fails](/when-excellence-fails)  
+* [Aliens](/aliens)  
+* [Looking Back, Looking Forward](/looking-back-looking-forward) 
+
+<br/>
+
+**Other**
+* [Invasion!](/invasion)
+* [Being Contrarian Has To Hurt](/a-fine-line-between-stupid-and-clever)  
+* [The Accidental Investor](/the-accidental-investor)
+
+
 
 <!--
 

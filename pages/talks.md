@@ -1,10 +1,10 @@
 ---
 layout: default
 permalink: /:basename/
-title: Speaking · Abraham Thomas
+title: Talks · Abraham Thomas
 ---
 
-## Speaking
+## Talks
 
 ----
 

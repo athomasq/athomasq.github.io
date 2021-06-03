@@ -2,6 +2,12 @@
   link: /about
 - name: newline
 
+- name: Investing
+  link: /portfolio
+- name: Writing
+  link: /writing
+- name: newline
+
 - name: Data
   link: /data
 - name: Markets
@@ -10,16 +16,12 @@
   link: /technology
 - name: newline
 
-- name: Writing
-  link: /writing
-- name: Reading
-  link: /reading
-- name: Investing
-  link: /portfolio
-- name: Speaking
-  link: /speaking
-- name: Photography
+- name: Gallery
   link: /gallery
+- name: Library
+  link: /library
+- name: Talks
+  link: /talks
 - name: newline
 
 - name: Bio
@@ -28,5 +30,3 @@
   link: /press
 - name: Contact
   link: /contact
-- name: Founders
-  link: /founders

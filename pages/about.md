@@ -106,7 +106,7 @@ To inquire about professional services, please [email me](mailto:athos1@gmail.co
 
 My work at Quandl has been covered by the Wall Street Journal, the Financial Times, the Economist, CNBC, Bloomberg, Forbes, Business Insider, Quartz, the Globe and Mail (Canada) and many others. You can see a full list of articles [here](/press).
 
-I often speak at conferences, seminars and other public events. Recent seminar venues include asset managers Winton, OTPP, CPPIB, UBS and Franklin Templeton; conferences include Strata, AIDST, Princeton and Montgomery; and tech events include Toronto City Hall, TechTO, and the Toronto Stock Exchange. You can see a full list of talks [here](/speaking).
+I often speak at conferences, seminars and other public events. Recent seminar venues include asset managers Winton, OTPP, CPPIB, UBS and Franklin Templeton; conferences include Strata, AIDST, Princeton and Montgomery; and tech events include Toronto City Hall, TechTO, and the Toronto Stock Exchange. You can see a full list of talks [here](/talks).
 
 For press and speaker inquires, please [email me](mailto:athos1@gmail.com).
 
