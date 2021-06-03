@@ -59,7 +59,7 @@ Here are a few topics I have particularly deep professional expertise in:
 
 ### Investing
 
-🦋 I'm an active angel investor in early-stage B2B startups. I'm flexible on industry, commercial model and geography. *[View my portfolio](/angel).*  
+🦋 I'm an active angel investor in early-stage B2B startups. I'm flexible on industry, commercial model and geography. *[View my portfolio](/portfolio).*  
 
 🔗 I’m most familiar with businesses involving data, APIs, and network effects. I also know capital markets and fintech well.  
 
