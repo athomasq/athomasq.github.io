@@ -79,7 +79,7 @@ Here are a few topics I have particularly deep professional expertise in:
 
 ### Consulting
 
-I have a limited number of hours available for professional consulting. My clients are typically venture capital firms, hedge funds, sovereign wealth funds, and similar institutions. 
+I have a limited number of hours available for professional consulting. My clients are typically institutional investors: hedge funds, pension funds, sovereign wealth funds, venture capital firms etc.  
 
 Topics I advise on include:
 
