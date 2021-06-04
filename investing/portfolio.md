@@ -45,7 +45,7 @@ Between 2015 and 2017 I invested in 9 startups in India:
 🏘️ FastFox  
 🧰 Qyk  
 
-These companies have gone on to raise further funding from Sequoia, Tiger Global, Falcon Edge and similar investors. As of June 2021, my legacy portfolio is at a 5.4x multiple and 40% IRR.
+These companies have gone on to raise further funding from Sequoia, Tiger Global, Falcon Edge, GIC and more. As of June 2021, my legacy portfolio is at a 5.4x multiple and 40% IRR.
 
 ----
 
