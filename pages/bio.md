@@ -27,7 +27,7 @@ title: Bio · Abraham Thomas
 
 **I was 37** when we launched the Quandl data marketplace.  We pioneered the category of [alternative data for finance](https://en.wikipedia.org/wiki/Alternative_data_(finance)), and acquired many of the world's top hedge funds, asset managers, fintechs and investment banks as our customers.
 
-**I was 41** when Tammer and I sold Quandl to [Nasdaq](https://www.nasdaq.com/), in one of Canada's largest tech startup acquisitions of 2018.  
+**I was 41** when Quandl was acquired by [Nasdaq](https://www.nasdaq.com/), in a successful and substantial exit.  
 
 **I'm 44 now**, and as always, excited for what the future holds!
 
