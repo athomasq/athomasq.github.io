@@ -8,17 +8,9 @@
   link: /writing
 - name: newline
 
-- name: Data
-  link: /data
-- name: Markets
-  link: /markets
-- name: Technology
-  link: /technology
-- name: newline
-
-- name: Gallery
+- name: Photos
   link: /gallery
-- name: Library
+- name: Books
   link: /library
 - name: Talks
   link: /talks
