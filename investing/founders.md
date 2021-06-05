@@ -21,7 +21,6 @@ title: For Founders · Abraham Thomas
 I aim to be an investor who founders respect and can rely on.  In practice, this means:
 
 * **Support:** I try to be a resource for you beyond just my dollars.
-* **Empathy:** I've been a founder and I know how tough it is.  
 * **Expertise:** I'm always happy to share any knowledge I have.  
 * **Low maintenance:** I help if I can, and get out of the way if I can't.  
 * **Low ego:** I respect your judgement, and don't mind being corrected.  
@@ -65,6 +64,17 @@ I can help on almost all operational aspects of early-stage startups. I’m espe
 
 <br/>
 
+### 📫 Founders, if this sounds like a fit, [please reach out!](/contact)    
+
+<br/>
+<br/>
+<br/>
+
+
+
+
+<!--
+
 ### Investment Process
 
 I typically reach investment decisions using no more than 2 meetings and 10 days of calendar time.  Here's how it works:
@@ -83,12 +93,4 @@ I typically reach investment decisions using no more than 2 meetings and 10 days
 
 I find that this process works well for me, but I'm happy to use a different process if you prefer.
 
-----
-
-<br/>
-
-### 📫 Founders, if this sounds like a fit, [please reach out!](/contact)    
-
-<br/>
-<br/>
-<br/>
+-->
