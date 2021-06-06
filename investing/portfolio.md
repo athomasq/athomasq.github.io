@@ -8,7 +8,7 @@ title: Portfolio · Abraham Thomas
 
 ----
 
-🦋 I angel invest in early-stage technology startups, mostly B2B.  
+🦋 I angel invest in early-stage tech startups, mostly B2B.  
 🌏 I'm flexible on business model, industry and geography.  
 📫 Founders: [learn more](/founders) or **[contact me!](/contact)**  
 
