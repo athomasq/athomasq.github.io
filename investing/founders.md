@@ -8,7 +8,7 @@ title: For Founders · Abraham Thomas
 
 ----
 
-🦋 I angel invest in early-stage technology startups, mostly B2B.  
+🦋 I angel invest in early-stage tech startups, mostly B2B.  
 🌏 I'm flexible on business model, industry and geography.  
 📫 Founders: [view my portfolio](/portfolio) or **[contact me!](/contact)**
 
@@ -18,15 +18,14 @@ title: For Founders · Abraham Thomas
 
 ### Working With Me
 
-I aim to be an investor who founders respect and can rely on.  In practice, this means:
+I aim to be an investor who founders trust and can rely on.  In practice, this means:
 
-* **Support:** I try to be a resource for you beyond just my dollars.
-* **Expertise:** I'm always happy to share any knowledge I have.  
-* **Low maintenance:** I help if I can, and get out of the way if I can't.  
-* **Low ego:** I respect your judgement, and don't mind being corrected.  
-* **High trust:** I trust you to act with integrity and professionalism.  
-* **High time value:** Fast replies, quick decisions, no needless friction.
-* **No games:** Aligned interests, honest feedback. I win when you win.  
+* **Support:** I'm a resource for you beyond just my dollars.
+* **Expertise:** I'm happy to share any knowledge I have.  
+* **Low ego:** I help if I can, and get out of the way if I can't.  
+* **High trust:** I act with integrity and professionalism.  
+* **Respect for your time:** Quick responses, minimal friction.
+* **No games:** I win when you win.  
 
 ----
 
