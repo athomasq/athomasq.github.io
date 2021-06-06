@@ -47,6 +47,17 @@ I aim to be an investor who founders trust and can rely on.  In practice, this m
 
 <br/>
 
+### 📫 Founders, if this sounds like a fit, [please reach out!](/contact)    
+
+<br/>
+<br/>
+<br/>
+
+
+
+
+<!--
+
 ### How I Can Help
 
 I can help on almost all operational aspects of early-stage startups. I’m especially strong on:  
@@ -62,17 +73,6 @@ I can help on almost all operational aspects of early-stage startups. I’m espe
 ----
 
 <br/>
-
-### 📫 Founders, if this sounds like a fit, [please reach out!](/contact)    
-
-<br/>
-<br/>
-<br/>
-
-
-
-
-<!--
 
 ### Investment Process
 
