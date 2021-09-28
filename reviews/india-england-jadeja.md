@@ -60,6 +60,4 @@ Jadeja's utility was especially pronounced in the middle overs of each innings: 
 None of these show up in Jadeja's bowling average, strike rate, or wickets column.  But they do show up in his colleagues' figures.  And they show up in the most important stat of all: his team's win-loss record.  When Jadeja plays, India are 36-9-11.  When he doesn't, India are 13-13-6 (considering all matches since his debut in 2012).  And this is not solely due to Jadeja being preferentially selected in favourable home conditions; the corresponding numbers for away tests are 10-8-5 (with Jadeja) and 8-12-6 (without) -- a bump in win rate from from 31% to 43%. That's a special player.
 
 
-
-
-</br>
+<br/>
