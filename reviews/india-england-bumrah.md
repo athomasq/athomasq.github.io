@@ -8,7 +8,7 @@ date: 2021-09-28
 
 The biggest irony of the entire Ashwin debate is that India have in their ranks -- for perhaps the first time in their 90-year history as a test-playing nation -- a bowler who is a genuine threat to take wickets in all conditions: Jasprit Bumrah.
 
-Most good bowlers have a plan A and a plan B.  When the conditions favour their style (swing, seam or spin), they are threatening  When the conditions are against them, they revert to bowling dry; offering control.
+Most good bowlers have a plan A and a plan B.  When the conditions favour their style (swing, seam or spin), they are threatening.  When the conditions are against them, they revert to bowling dry; offering control.
 
 Jimmy Anderson is a great example of this.  Since 2008 (when he became a regular in the England team), he has been consistently masterful in English conditions: 4.3 wickets per test in 37 overs bowled, at an average of 23.1, sr 51.1, econ 2.70.  He has been less successful in India: 2.3 wickets per test in 28 overs bowled, at an average of 32.8, sr 73.8, but crucially, an econ of 2.66 -- less, in fact, than his economy rate at home.
 
