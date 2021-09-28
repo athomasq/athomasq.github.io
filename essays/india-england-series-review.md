@@ -1,11 +1,11 @@
 ---
 layout: essay
 permalink: /:basename/
-title: Thoughts on India in England 
+title: Thoughts on India in England 2021
 date: 2021-09-28
 ---
 
-*This is not exactly a review of India's recent test series in England; more a set of essays and digressions inspired by the series, framed around a few individual players.*
+*This is not exactly a series review; more a set of essays and digressions inspired by the series.*
 
 ----
 
