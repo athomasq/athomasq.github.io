@@ -1,6 +1,6 @@
 ---
 layout: essay
-permalink: /india-england-jadeja
+permalink: /india-england-jadeja/
 title: Ravindra Jadeja and the Value of Control
 date: 2021-09-28
 ---
