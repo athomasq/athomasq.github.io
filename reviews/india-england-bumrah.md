@@ -16,7 +16,7 @@ Much rarer are bowlers whose plan A is good enough to succeed irrespective of th
 
 Similarly, Malcolm Marshall averaged 19 in Eng, 20 at home, 21 in Pak, 23 in Aus and 25 in India.  Muthiah Muralidaran averaged 19 in England, 20 in NZ, 23 in WI, 25 in Pak and 26 in SA.  Shane Warne averaged 22 in Eng, 21 in NZ and 24 in SA.  Others with similar records include Michael Holding, Curtly Ambrose, Pat Cummins, Dale Steyn, Wasim Akram and Waqar Younis.
 
-These bowlers attack all the time.  They rarely bowl dry; they're always looking to take wickets.  And they're good enough to get wickets no matter where they play.  When everything clicks, their performances are legendary: think Marshall in Kanpur, Steyn in Nagpur, Murali at the Oval.
+These bowlers attack all the time.  They rarely bowl dry; they're always looking to take wickets (though the very best of them are parsimonious even while they attack).  And they're good enough to get wickets no matter where they play.  When everything clicks, their performances are legendary: think Marshall in Kanpur, Steyn in Nagpur, Murali at the Oval.
 
 You'll notice that with the exception of two genius wrist spinners, every name on this list is a fast bowler.  I find this oddly gratifying.
 
