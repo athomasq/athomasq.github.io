@@ -7,7 +7,7 @@ date: 2021-09-28
 
 When is it reasonable to select an average seam bowler over an excellent spin bowler?
 
-If the pitch is likely to offer even a smidgen of help for spin, and you have a top-class spinner, then you should probably select him.  But if the pitch is utterly unhelpful for spin, then it's perfectably reasonable to select even an average seamer over an exceptional spinner. 
+If the pitch is likely to offer even a smidgen of help for spin, and you have a top-class spinner, then you should probably select them.  But if the pitch is utterly unhelpful for spin, then it's perfectably reasonable to select even an average seamer over an exceptional spinner. 
 
 As it happens, India have two exceptional spin bowlers, Ashwin and Jadeja.  England have none.  *And England know this*.
 
