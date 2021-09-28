@@ -1,5 +1,17 @@
+---
+layout: essay
+permalink: /:basename/
+title: Thoughts on India in England 
+date: 2021-09-28
+---
 
-# Ravindra Jadeja and the value of control
+*This is not exactly a review of India's recent test series in England; more a set of essays and digressions inspired by the series, framed around a few individual players.*
+
+----
+
+<br/>
+
+### Ravindra Jadeja and the value of control
 
 It's easy to focus on first-order statistics: runs scored, wickets taken, batting and bowling averages.  Many of cricket's most famous numbers are of this type: 99.94, 800, 365, 19 for 90, 153 not out, 15921.
 
@@ -56,9 +68,11 @@ Jadeja's utility was especially pronounced in the middle overs of each innings: 
 None of these show up in Jadeja's bowling average, strike rate, or wickets column.  But they do show up in his colleagues' figures.  And they show up in the most important stat of all: his team's win-loss record.  When Jadeja plays, India are 36-9-11.  When he doesn't, India are 13-13-6 (considering all matches since his debut in 2012).  And this is not solely due to Jadeja being preferentially selected in favourable home conditions; the corresponding numbers for away tests are 10-8-5 (with Jadeja) and 8-12-6 (without) -- a bump in win rate from from 31% to 43%. That's a special player.
 
 
+----
 
+</br>
 
-# Rohit Sharma and the nature of form
+### Rohit Sharma and the nature of form
 
 
 Athletes sometimes speak of being "in the zone" -- the tennis ball or cricket ball appears as big as a football, the game unfolds before your eyes, you know what opponents are going to do before they do it, and time itself seems to slow down.  
@@ -89,7 +103,12 @@ Most interesting of all is the possibility that form is just a self-fulfilling p
 
 
 
-# KL Rahul and the calibration of risk
+
+----
+
+</br>
+
+### KL Rahul and the calibration of risk
 
 India's test squad has two genuine all-format batters: Rohit Sharma and KL Rahul.  (Virat Kohli, for all his excellence in tests and ODIs, is not in the same class as those two when in comes to T20s.  Rishabh Pant han't yet proved himself in ODIs).  
 
@@ -121,7 +140,12 @@ Of note: India's top order (1 to 7) scored slower than Australia's in Australia,
 
 
 
-# Ravichandran Ashwin and the tyranny of conditions
+
+----
+
+</br>
+
+### Ravichandran Ashwin and the tyranny of conditions
 
 When is it reasonable to select an average seam bowler over an excellent spin bowler?
 
@@ -145,7 +169,12 @@ Which is not to say that their's is the only way!  Picking Ashwin would have bee
 [Incidentally you see the same pattern, in reverse, in the return fixtures.  Australia, England, South Africa and New Zealand all pick average spinners over very good fast bowlers when visiting India.  India's only home series loss in the last 15 years was when England, for once, had spinners as good as India's (Swann and Panesar in 2012).  The rest of the time, India faced the likes of Dane Piedt, George Linde, Zafar Ansari and Liam Dawson.]
 
 
-# Jasprit Bumrah and the transcendence of conditions
+
+----
+
+</br>
+
+### Jasprit Bumrah and the transcendence of conditions
 
 The biggest irony of the entire Ashwin debate is that India have in their ranks -- for perhaps the first time in their 90-year history as a test-playing nation -- a bowler who is a genuine threat to take wickets in all conditions: Jasprit Bumrah.
 
@@ -183,7 +212,12 @@ Yet despite his unorthodoxy and his variety, Bumrah never loses his accuracy, an
 
 
 
-# Hanuma Vihari and the casualties of greatness
+
+----
+
+</br>
+
+### Hanuma Vihari and the casualties of greatness
 
 What elevates a cricket team from best-in-the-world to all-time-great?
 
