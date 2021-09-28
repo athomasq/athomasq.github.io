@@ -14,8 +14,8 @@ date: 2021-09-28
 Update: I broke this up into 6 smaller essays because it was getting unwieldy.  Here you go:
 
 - [Ravindra Jadeja and the value of control](/india-england-jadeja)
-- [Rohit Sharma and the nature of form](/india-england-rohit)
 - [KL Rahul and the calibration of risk](/india-england-rahul)
+- [Rohit Sharma and the nature of form](/india-england-rohit)
 - [Ravichandran Ashwin and the tyranny of conditions](/india-england-ashwin)
 - [Jasprit Bumrah and the transcendence of conditions](/india-england-bumrah)
 - [Hanuma Vihari and the casualties of greatness](/india-england-vihari)
