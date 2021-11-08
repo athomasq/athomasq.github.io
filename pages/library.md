@@ -347,6 +347,8 @@ What can I say about GEB that hasn't been said by a thousand geeks before me?  N
 - **The Ottoman Centuries**, Patrick Balfour, Lord Kinross
 - **The Making of the Atomic Bomb**, Richard Rhodes
 - **The Best and the Brightest**, David Halberstam
+- **The Reckoning**, David Halberstam
+- **The Coldest Winter**, David Halberstam
 - **Dispatches**, Michael Herr
 - **Five Families**, Selywn Raab
 - **Atrocities**, Matthew White
@@ -453,7 +455,6 @@ What can I say about GEB that hasn't been said by a thousand geeks before me?  N
 - **Clearing a Space**, Amit Chaudhuri
 - **Democracy in America**, Alexis de Tocqueville
 - **Akenfield**, Ronald Morton
-- **The Reckoning**, David Halberstam
 - **Republic**, Plato
 - **The Golden Bough**, James Frazier
 - **The Art of War**, Sun Tzu
@@ -489,6 +490,7 @@ What can I say about GEB that hasn't been said by a thousand geeks before me?  N
 - **Lost at Sea**, Jon Ronson
 - **How Asia Works**, Joe Studwell
 - **One From Many**, Dee Hock
+- **Empires of Light**, Jill Jonnes
 
 [Back to Top ↩](/library#my-library)
 
@@ -633,6 +635,7 @@ I have a minor obsession with collecting travel books. I doubt I'll visit all or
 - **The Island**, Anton Chekhov
 - **The Worst Journey in the World**{: style="color: red"}, Apsley Cherry-Garrard
 - **Poets and Pahlevans**, Marcello di Cintio
+- **Driven**, Marcello di Cintio
 - **Equator**, Thurston Clarke
 - **Mr China**, Tim Clissold
 - **Burmese Lessons**, Karen Connelly
@@ -777,6 +780,7 @@ I have a minor obsession with collecting travel books. I doubt I'll visit all or
 - **Eiger Dreams**, Jon Krakauer
 - **In Search of Zarathustra**, Paul Kriwaczek
 - **Sahara Unveiled**, William Langewiesche
+- **Endurance**, Alfred Lansing
 - **High Tartary**, Owen Lattimore
 - **In Bolivia**, Eric Lawlor
 - **Looking for Osman**, Eric Lawlor
@@ -914,6 +918,7 @@ I have a minor obsession with collecting travel books. I doubt I'll visit all or
 - **Cry of the Kalahari**, Mark and Delia Owens
 - **Pole to Pole**, Michael Palin
 - **New Europe**, Michael Palin
+- **Erebus**, Michael Palin
 - **Istanbul**, Orhan Pamuk
 - **Miracle in the Andes**, Nando Parrado
 - **Inca-Kola**, Matthew Parris
@@ -936,6 +941,7 @@ I have a minor obsession with collecting travel books. I doubt I'll visit all or
 - **Coasting**, Jonathan Raban
 - **Driving Home**, Jonathan Raban
 - **Around India in 80 Trains**, Monisha Rajesh
+- **Around the World in 80 Trains**, Monisha Rajesh
 - **Dead Man's Chest**, Nicholas Rankin
 - **Alive**, Piers Paul Read
 - **Starlight and Storm**, Gaston Rebuffat
