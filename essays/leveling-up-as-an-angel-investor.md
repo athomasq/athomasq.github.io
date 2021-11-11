@@ -12,7 +12,7 @@ date: 2021-11-11
 <br/>
 
 
-## Why This Post?
+### Building in Public
 
 I've been angel investing, off and on, for close to a decade, but it's only in the last 6 months or so that I've become more intentional and systematic about it.  
 
@@ -23,7 +23,7 @@ I've tried to keep editorial commentary to a minimum; but you can read an expand
 ----
 <br/>
 
-## Portfolio Construction
+### Portfolio Construction
 
 My first step in leveling up was being more deliberate about portfolio construction.  I've settled on a framework that fits my risk and return preferences:
 
@@ -38,7 +38,7 @@ Within these companies, I aim to achieve a power-law-ish distribution of outcome
 
 
 
-## Funnel Stats
+### Funnel Stats
 
 Here's what my funnel looked like over the last 6 months:
 
@@ -53,7 +53,7 @@ Unfortunately, I didn't track my funnel prior to this spring, so I don't know ho
 
 
 
-## Portfolio Composition
+### Portfolio Composition
 
 Here are a few different ways to slice my portfolio.
 
@@ -75,7 +75,7 @@ By founder demographics:
 
 
 
-## Portfolio Performance
+### Portfolio Performance
 
 Here's a table showing markups and IRR by year of investment.  (Markups are based on latest closed rounds.)
 
@@ -94,7 +94,7 @@ Of course, it can't be emphasized enough that these numbers are mostly meaningle
 
 
 
-## Portfolio Notes
+### Portfolio Notes
 
 
 #### Company Selection
