@@ -27,11 +27,11 @@ I've tried to keep editorial commentary to a minimum; but you can read an expand
 
 My first step in leveling up was being more deliberate about portfolio construction.  I've settled on a framework that fits my risk and return preferences:
 
-<img src="/assets/img/portfolio-parameters.jpg" class="image2">
+<img src="/assets/img/portfolio-parameters.jpg" class="image">
 
 Within these companies, I aim to achieve a power-law-ish distribution of outcomes: 
 
-<img src="/assets/img/distribution-outcomes.jpg" class="image2">
+<img src="/assets/img/distribution-outcomes.jpg" class="image">
 
 ----
 <br/>
@@ -42,7 +42,7 @@ Within these companies, I aim to achieve a power-law-ish distribution of outcome
 
 Here's what my funnel looked like over the last 6 months:
 
-<img src="/assets/img/funnel-stats.jpg" class="image2">
+<img src="/assets/img/funnel-stats.jpg" class="image">
 
 These 3 investments join the 7 investments I made in the preceding 2 years, giving me a portfolio of 10 companies (so far).  
 
@@ -79,11 +79,11 @@ By founder demographics:
 
 Here's a table showing markups and IRR by year of investment.  (Markups are based on latest closed rounds.)
 
-<img src="/assets/img/irr-table.png" class="image2">
+<img src="/assets/img/irr-table.png" class="image">
 
 So far the distribution of markups seems to follow a power law reasonably closely:
 
-<img src="/assets/img/distribution-markups.jpg" class="image2">
+<img src="/assets/img/distribution-markups.jpg" class="image">
 
 Of course, it can't be emphasized enough that these numbers are mostly meaningless, given the short timespans involved.
 
