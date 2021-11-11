@@ -23,7 +23,7 @@ Note that these stats are about process, not about outcomes.  I've tried to keep
 
 ## Portfolio Construction
 
-My first step was being more deliberate about portfolio construction.  I've settled on a framework that fits my risk and return preferences:
+My first step in leveling up was being more deliberate about portfolio construction.  I've settled on a framework that fits my risk and return preferences:
 
 - 6-8 new investments a year for 4-6 years
 - 30-40 investments in total
@@ -112,7 +112,7 @@ I don't think I've passed on any startup that's gone on to be super successful, 
 
 #### Post-Investment Support
 
-On average I spend 3-4 hours with each of my portfolio companies every 1-2 months, helping them on various tactical and strategic issues.  The topics which come up most often are go-to-market, narrative creation, recruiting and team structure, and financing strategy.  I try to stay at the meta level -- "how should we be thinking about this? -- rather than be too prescriptive -- "here's what you should do".
+On average I spend 3-4 hours with each of my portfolio companies every 1-2 months, helping them on various tactical and strategic issues.  The topics which come up most often are go-to-market, narrative creation, recruiting and team structure, and financing strategy.  
 
 ----
 <br/>
