@@ -34,9 +34,14 @@ My first step was being more deliberate about portfolio construction.  I've sett
 
 Within these companies, I aim to achieve a power-law-ish distribution of outcomes: 
 
-<img src="/assets/img/buy-sell.png" class="image">
+<img src="/assets/img/power-law.svg" class="image">
 
 DONE expected portfolio outcomes
+
+Within these companies, I aim to achieve a power-law-ish distribution of outcomes: Within these companies, I aim to achieve a power-law-ish distribution of outcomes: Within these companies, I aim to achieve a power-law-ish distribution of outcomes: 
+
+<img src="/assets/img/power-law-outcomes.jpg" class="image">
+
 
 
 ## Funnel stats
@@ -53,10 +58,12 @@ These 3 investments join the 7 investments I made in the preceding 2 years, givi
 
 Here are a few different ways to slice my portfolio.
 
-- By geography: 6 Canada, 3 USA, 1 Europe. 
-- By deal source: 4 cold inbound, 4 warm intros, 2 personal network. 
-- By founder demographics: 16 of 22 founders are women and/or minorities and/or first-generation immigrants.  
-- By business category: 2 AI, 2 SaaS, 2 infrastructure, 1 fintech, 1 logistics, 1 HR, 1 climate.
+* By geography: 6 Canada, 3 USA, 1 Europe. 
+<img src="/assets/img/funnel-stats.jpeg" class="image">
+
+* By deal source: 4 cold inbound, 4 warm intros, 2 personal network. 
+* By founder demographics: 16 of 22 founders are women and/or minorities and/or first-generation immigrants.  
+* By business category: 2 AI, 2 SaaS, 2 infrastructure, 1 fintech, 1 logistics, 1 HR, 1 climate.
 
 
 ## Company selection
