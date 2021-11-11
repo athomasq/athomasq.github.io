@@ -58,16 +58,16 @@ These 3 investments join the 7 investments I made in the preceding 2 years, givi
 
 Here are a few different ways to slice my portfolio.
 
-* By geography: 6 Canada, 3 USA, 1 Europe. 
+By geography:
 <img src="/assets/img/slice-geography.jpg" class="image3">
 
-* By deal source: 4 cold inbound, 4 warm intros, 2 personal network. 
+By source:
 <img src="/assets/img/slice-channel.jpg" class="image3">
 
-* By founder demographics: 16 of 22 founders are women and/or minorities and/or first-generation immigrants.  
+By founder demographics:
 <img src="/assets/img/slice-founders.jpg" class="image3">
 
-* By business category: 2 AI, 2 SaaS, 2 infrastructure, 1 fintech, 1 logistics, 1 HR, 1 climate.
+By business category:
 <img src="/assets/img/slice-category.jpg" class="image3">
 
 ----
