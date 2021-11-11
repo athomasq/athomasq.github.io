@@ -34,7 +34,7 @@ My first step was being more deliberate about portfolio construction.  I've sett
 
 Within these companies, I aim to achieve a power-law-ish distribution of outcomes: 
 
-<img src="/assets/img/power-law-outcomes.jpg" class="image">
+<img src="/assets/img/power-law-outcomes.jpg" class="image2">
 
 
 
@@ -42,7 +42,7 @@ Within these companies, I aim to achieve a power-law-ish distribution of outcome
 
 Here's what my funnel looked like over the last 6 months:
 
-<img src="/assets/img/funnel-stats.jpeg" class="image">
+<img src="/assets/img/funnel-stats.jpeg" class="image2">
 
 These 3 investments join the 7 investments I made in the preceding 2 years, giving me a portfolio of 10 companies (so far).  Unfortunately, I didn't track my funnel prior to this spring, so I don't know how this has evolved over time. 
 
@@ -53,7 +53,7 @@ These 3 investments join the 7 investments I made in the preceding 2 years, givi
 Here are a few different ways to slice my portfolio.
 
 * By geography: 6 Canada, 3 USA, 1 Europe. 
-<img src="/assets/img/slice-geography.jpg" class="image">
+<img src="/assets/img/slice-geography.jpg" class="image2">
 
 * By deal source: 4 cold inbound, 4 warm intros, 2 personal network. 
 <img src="/assets/img/slice-geography.jpg" class="image">
