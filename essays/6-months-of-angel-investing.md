@@ -34,12 +34,6 @@ My first step was being more deliberate about portfolio construction.  I've sett
 
 Within these companies, I aim to achieve a power-law-ish distribution of outcomes: 
 
-<img src="/assets/img/power-law.svg" class="image">
-
-DONE expected portfolio outcomes
-
-Within these companies, I aim to achieve a power-law-ish distribution of outcomes: Within these companies, I aim to achieve a power-law-ish distribution of outcomes: Within these companies, I aim to achieve a power-law-ish distribution of outcomes: 
-
 <img src="/assets/img/power-law-outcomes.jpg" class="image">
 
 
@@ -86,11 +80,12 @@ On average I spend 3-4 hours with each of my portfolio companies every 1-2 month
 
 3 out of my 10 portfolio companies have closed new funding rounds after I invested; 3 more have received term sheets in recent weeks. Here's a table showing markups and IRR by year of investment (closed rounds only):
 
-DONE irr table
+<img src="/assets/img/irr-table.png" class="image">
 
-So far the distribution of markups seems to follow a power law reasonably closely:
+DONE irr table.  So far the distribution of markups seems to follow a power law reasonably closely:
 
-DONE outcomes
+
+<img src="/assets/img/portfolio-markups.jpg" class="image">
 
 Of course, it can't be emphasize enough that these numbers are mostly meaningless, given the short timespans involved.
 
