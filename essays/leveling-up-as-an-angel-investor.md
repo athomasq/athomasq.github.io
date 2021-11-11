@@ -14,9 +14,11 @@ date: 2021-11-11
 
 ## Why This Post?
 
-I've been angel investing, off and on, for close to a decade, but it's only in the last 6 months or so that I've become more intentional and systematic about it.  One aspect of this is more careful measurement of everything I do; and in the spirit of "building in public", I thought I'd share some high-level portfolio stats.  
+I've been angel investing, off and on, for close to a decade, but it's only in the last 6 months or so that I've become more intentional and systematic about it.  
 
-Note that these stats are about process, not about outcomes.  I've tried to keep editorial commentary to a minimum; but you can read an expanded version of this post with commentary <strike>here</strike> when I write it.  
+One aspect of this leveling up is more careful measurement of everything I do; and in the spirit of "building in public", I thought I'd share some high-level portfolio stats.  
+
+I've tried to keep editorial commentary to a minimum; but you can read an expanded version of this post with commentary <strike>here</strike> when I write it.  
 
 ----
 <br/>
@@ -25,16 +27,11 @@ Note that these stats are about process, not about outcomes.  I've tried to keep
 
 My first step in leveling up was being more deliberate about portfolio construction.  I've settled on a framework that fits my risk and return preferences:
 
-- 6-8 new investments a year for 4-6 years
-- 30-40 investments in total
-- first cheque into pre-seed and seed rounds
-- follow-on cheques into seed, A and possibly B rounds
-- 1:1 reserve ratio
-- 4-6 years expected time to exit
+<img src="/assets/img/portfolio-parameters.jpg" class="image2">
 
 Within these companies, I aim to achieve a power-law-ish distribution of outcomes: 
 
-<img src="/assets/img/power-law-outcomes.jpg" class="image2">
+<img src="/assets/img/distribution-outcomes.jpg" class="image2">
 
 ----
 <br/>
@@ -45,7 +42,7 @@ Within these companies, I aim to achieve a power-law-ish distribution of outcome
 
 Here's what my funnel looked like over the last 6 months:
 
-<img src="/assets/img/funnel-stats.jpeg" class="image2">
+<img src="/assets/img/funnel-stats.jpg" class="image2">
 
 These 3 investments join the 7 investments I made in the preceding 2 years, giving me a portfolio of 10 companies (so far).  
 
@@ -70,7 +67,7 @@ By source:
 <img src="/assets/img/slice-channel.jpg" class="image3">
 
 By founder demographics:
-<img src="/assets/img/slice-founders.jpg" class="image3">
+<img src="/assets/img/slice-demographics.jpg" class="image3">
 
 
 ----
@@ -82,11 +79,11 @@ By founder demographics:
 
 Here's a table showing markups and IRR by year of investment.  (Markups are based on latest closed rounds.)
 
-<img src="/assets/img/irr-table.png" class="image">
+<img src="/assets/img/irr-table.png" class="image2">
 
 So far the distribution of markups seems to follow a power law reasonably closely:
 
-<img src="/assets/img/portfolio-markups.jpg" class="image">
+<img src="/assets/img/distribution-markups.jpg" class="image2">
 
 Of course, it can't be emphasized enough that these numbers are mostly meaningless, given the short timespans involved.
 
