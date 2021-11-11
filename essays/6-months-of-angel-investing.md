@@ -56,13 +56,13 @@ Here are a few different ways to slice my portfolio.
 <img src="/assets/img/slice-geography.jpg" class="image">
 
 * By deal source: 4 cold inbound, 4 warm intros, 2 personal network. 
-<img src="/assets/img/slice-geography.jpg" class="image">
+<img src="/assets/img/slice-channel.jpg" class="image">
 
 * By founder demographics: 16 of 22 founders are women and/or minorities and/or first-generation immigrants.  
-<img src="/assets/img/slice-geography.jpg" class="image">
+<img src="/assets/img/slice-founders.jpg" class="image">
 
 * By business category: 2 AI, 2 SaaS, 2 infrastructure, 1 fintech, 1 logistics, 1 HR, 1 climate.
-<img src="/assets/img/slice-geography.jpg" class="image">
+<img src="/assets/img/slice-category.jpg" class="image">
 
 
 
@@ -89,7 +89,6 @@ On average I spend 3-4 hours with each of my portfolio companies every 1-2 month
 <img src="/assets/img/irr-table.png" class="image">
 
 DONE irr table.  So far the distribution of markups seems to follow a power law reasonably closely:
-
 
 <img src="/assets/img/portfolio-markups.jpg" class="image">
 
