@@ -92,6 +92,16 @@ th, td {
 }
 
 
+.image3 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  width: 400px;
+}
+
+
 .footer {
   font-size: 15px;
   line-height: 1.5;
