@@ -8,14 +8,11 @@ title: Leveling Up As an Angel Investor
 
 ----
 
-<br/>
-
-
 ### Building in Public
 
-I've been angel investing, off and on, for close to a decade, but it's only in the last 6 months or so that I've become more intentional and systematic about it.  
+*I've been angel investing, off and on, for close to a decade, but it's only in the last 6 months or so that I've become more intentional and systematic about it.*  
 
-One aspect of this leveling up is more careful measurement of everything I do; and in the spirit of building in public, I thought I'd share some high-level portfolio stats.  
+*One aspect of this leveling up is more careful measurement of everything I do; and in the spirit of building in public, I thought I'd share some high-level portfolio stats.*  
 
 
 ----
