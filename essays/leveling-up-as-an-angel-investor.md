@@ -23,7 +23,7 @@ My first step in leveling up was being more deliberate about portfolio construct
 
 Within these companies, I aim to achieve a power-law-ish distribution of outcomes: 
 
-<img src="/assets/img/dist-outcomes.jpg" class="image">
+<img src="/assets/img/distribution-outcomes.jpg" class="image">
 
 ----
 <br/>
@@ -75,7 +75,7 @@ Here's a table showing markups and IRR by year of investment.  (Markups are base
 
 So far the distribution of individual-company markups seems to follow a power law reasonably closely:
 
-<img src="/assets/img/distrib-markups.jpg" class="image">
+<img src="/assets/img/distribution-markups.jpg" class="image">
 
 Of course, it can't be emphasized enough that these numbers are mostly meaningless, given the short timespans involved. 
 
