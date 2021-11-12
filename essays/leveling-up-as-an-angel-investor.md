@@ -79,7 +79,7 @@ Here's a table showing markups and IRR by year of investment.  (Markups are base
 
 <img src="/assets/img/irr-table.png" class="image">
 
-So far the distribution of markups seems to follow a power law reasonably closely:
+So far the distribution of individual-company markups seems to follow a power law reasonably closely:
 
 <img src="/assets/img/distribution-markups.jpg" class="image">
 
