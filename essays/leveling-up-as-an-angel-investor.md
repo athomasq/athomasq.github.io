@@ -90,7 +90,7 @@ So far the distribution of individual-company markups seems to follow a power la
 Of course, it can't be emphasized enough that these numbers are mostly meaningless, given the short timespans involved.
 
 
-----
+<br/>
 <br/>
 
 
