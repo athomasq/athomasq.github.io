@@ -1,23 +1,28 @@
 ---
 layout: default
 permalink: /:basename/
-title: Leveling Up As an Angel Investor
+title: Rocket Ships and Rising Tides
 ---
 
-## Leveling Up As an Angel Investor
+## Rocket Ships and Rising Tides
 
 ----
 
-*I've been angel investing, off and on, for close to a decade, but it's only in the last 6 months or so that I've become more intentional and systematic about it.*  
+### Interesting Times
 
-*One aspect of this leveling up is more careful measurement of everything I do; and in the spirit of building in public, I thought I'd share some high-level portfolio stats.*  
+I’ve been angel investing, off and on, for close to a decade, but it’s only in the last 6 months or so that I’ve become more intentional and systematic about it.  
+
+These past 6-12 months have also seen some of the wildest / most fun / most mind-bending events in the tech ecosystem since the late 90s.  So I thought I'd share my portfolio statistics: partly in the spirit of building in public; partly to help others calibrate, but mostly just to serve as a record of some interesting times.  Obviously, none of this is remotely statistically significant.
+
+<!-- *This is the TLDR version of this essay, with just the stats.  To read an expanded version with editorial commentary, click here.* -->
+
 
 ----
 <br/>
 
 ### Portfolio Goals
 
-My first step in leveling up was being more deliberate about portfolio construction.  I've settled on a framework that fits my risk and return preferences:
+I've become a lot more deliberate about portfolio construction in recent months.  Here's the framework I use:
 
 <img src="/assets/img/portfolio-parameters.jpg" class="image">
 
@@ -36,7 +41,7 @@ Here's what my funnel has looked like over the last 6 months:
 
 <img src="/assets/img/funnel-stats.jpg" class="image">
 
-These 3 investments join the 7 investments I made in the preceding 2 years, giving me a portfolio of 10 companies (so far).  
+These 3 investments join the 7 investments I made in the preceding 2 years, giving me a portfolio of 10 companies (so far). 
 
 Unfortunately, I didn't track my funnel prior to this spring, so I don't know how this has evolved over time. 
 
