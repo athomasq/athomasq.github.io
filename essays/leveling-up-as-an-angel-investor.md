@@ -8,10 +8,6 @@ title: Leveling Up As an Angel Investor
 
 ----
 
-*A rising tide lifts all boats.*
-
-----
-
 <br/>
 
 
@@ -87,7 +83,7 @@ So far the distribution of individual-company markups seems to follow a power la
 
 <img src="/assets/img/distribution-markups.jpg" class="image">
 
-Of course, it can't be emphasized enough that these numbers are mostly meaningless, given the short timespans involved.
+Of course, it can't be emphasized enough that these numbers are mostly meaningless, given the short timespans involved. 
 
 
 <br/>
