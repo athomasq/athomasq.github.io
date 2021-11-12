@@ -4,6 +4,10 @@ permalink: /:basename/
 title: Leveling Up As an Angel Investor
 ---
 
+## Leveling Up As an Angel Investor
+
+----
+
 *A rising tide lifts all boats.*
 
 ----
