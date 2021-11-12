@@ -23,7 +23,7 @@ My first step in leveling up was being more deliberate about portfolio construct
 
 Within these companies, I aim to achieve a power-law-ish distribution of outcomes: 
 
-<img src="/assets/img/distrib-outcomes.jpg" class="image">
+<img src="/assets/img/dist-outcomes.jpg" class="image">
 
 ----
 <br/>
