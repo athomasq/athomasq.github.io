@@ -8,11 +8,15 @@ title: Rocket Ships and Rising Tides
 
 ----
 
+<br/>
+
 ### Interesting Times
 
 I’ve been angel investing, off and on, for close to a decade, but it’s only in the last 6 months or so that I’ve become more intentional and systematic about it.  
 
-These past 6-12 months have also seen some of the wildest / most fun / most mind-bending events in the tech ecosystem since the late 90s.  So I thought I'd share my portfolio statistics: partly in the spirit of building in public; partly to help others calibrate, but mostly just to serve as a record of some interesting times.  Obviously, none of this is remotely statistically significant.
+These past 6-12 months have also seen some of the most stimulating developments in tech since the late 90s.  So I thought I'd share my portfolio statistics: partly in the spirit of building in public; partly to help others calibrate, but mostly just to serve as a record of some interesting times.  
+
+Obviously, none of this is remotely statistically significant.
 
 <!-- *This is the TLDR version of this essay, with just the stats.  To read an expanded version with editorial commentary, click here.* -->
 
