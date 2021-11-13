@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /:basename/
-title: Portfolio · Abraham Thomas
+title: Angel Portfolio · Abraham Thomas
 ---
 
 ## Angel Portfolio
@@ -10,7 +10,7 @@ title: Portfolio · Abraham Thomas
 
 🦋 I angel invest in early-stage tech startups, mostly B2B.  
 🌏 I'm flexible on business model, industry and geography.  
-📫 Founders: [learn more](/founders) or **[contact me!](/contact)**  
+📫 Founders: [learn more](/angel) or **[contact me!](/contact)**  
 
 ----
 

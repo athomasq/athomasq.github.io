@@ -3,69 +3,93 @@ layout: default
 permalink: /:basename/
 title: Angel Investing · Abraham Thomas
 ---
+
 ## Angel Investing
 
 ----
 
-<br/>
-
-### Portfolio
-
-Here are my startup investments as of December 2020:
-
-**Asia:**
-- [Locus](https://locus.sh/): logistics intelligence (Series B - Tiger Global, Falcon Edge)
-- [Vue](https://vue.ai/): computer vision for retail (Series B - Sequoia, Falcon Edge)
-- [Doxper](http://doxper.com/): smart tools for physicians (Series A - Alkemi)
-- [i2e1](https://i2e1.com/): internet for everyone, everywhere (Series A - Omidyar)  
-- [Wellthy](https://wellthytherapeutics.com/): digital therapeutics (Seed - Saama Capital)  
-- [Claro](https://www.claroenergy.in/): solar-powered irrigation (profitable)
-- [AdSparx](https://www.adsparx.com/): online video infrastructure (acquired by Discovery Channel)  
-- FastFox: platform for rentals (acquired by PropTiger)  
-- GoMoLo: IMDB for Bollywood (failed)  
-- Qyk: marketplace for local services (failed)  
-
-
-**Americas:**
-- [Canopy](https://www.canopyanalytics.com/): ERP for property managers (early)  
-- [Daloopa](https://www.daloopa.com/): AI-powered financial models (early)  
-- [Mero](https://mero.co/): sensors for smart buildings (early)  
-- [Terra.do](https://terra.do): climate school (early)  
-- [Buy Properly](https://buyproperly.ca/): fractional real estate (early)  
-- TableHero: restaurant platform (failed)  
-
-**Other:**
-- [Setyl](https://www.setyl.com/): inventory management (early)
-
-
-
-It's early days, but so far the outcomes seem to follow a classic power law distribution.  Out of 17 investments over 6 years, I have 2 at >10x, 5 at 2-10x, 7 at 1x, and 3 at 0x.  My IRR on angel investments is over 30% (including the failures), though it's too early to tell how much of that is skill and how much is luck.
+🦋 I angel invest in early-stage tech startups, mostly B2B.  
+🌏 I'm flexible on business model, industry and geography.  
+📫 Founders: [view my portfolio](/portfolio) or **[contact me!](/contact)**
 
 ----
 
 <br/>
 
-### GrowX
+### Working With Me
 
-In addition to investing directly in startups, I am an LP in and advisor to [GrowX Ventures](http://www.growxventures.com/), who I believe to be India's best seed-stage venture capital firm.  Through GrowX, I'm an investor in:
+I aim to be an investor who founders trust and can rely on.  In practice, this means:
 
-- [ProgCap](https://progcap.com/): credit for small-biz inventory (Series A - Sequoia)
-- [Pixxel](https://pixxel.space/): micro-satellites (Seed - Lightspeed)
-- [Advantage Club](https://www.workadvantage.in/): employee rewards and benefits
-- [Bellatrix](https://www.bellatrixaerospace.com/): next-gen rocket thrusters
-- [Meddo](https://www.meddo.in/): digital clinic
-- [CynLr](https://cynlr.com/): vision for industrial robots
+* **Support:** I'm a resource for you beyond just my dollars.
+* **Expertise:** I'm happy to share any knowledge I have.  
+* **Low ego:** I help if I can, and get out of the way if I can't.  
+* **High trust:** I act with integrity and professionalism.  
+* **Respect for your time:** Quick responses, minimal friction.
+* **No games:** I win when you win.  
 
 ----
 
 <br/>
 
-### For Founders
+### Investment Criteria
 
-If you're a startup founder looking for investment, I'd be happy to chat -- with the caveat that I say no to the vast majority of deals I see, and even when I do say yes, I invest fairly small amounts.
+🔮 I invest in startups that are building a future I want to be part of, and I try to help them make that future a reality. Beyond that, there are no rules.
 
-I prefer B2B to consumer.  I'm most familiar with business models that involve data, APIs and network effects, though I'm open to others.  I especially like startups solving tedious problems in unglamorous sectors.  If any of this sounds like you, please [email me](mailto:athos1@gmail.com)!
+🔥 Team ability and macro trends matter the most to me. Traction is useful but not as important. I don't care who else is investing or on your cap table. 
 
+🌎 I'm flexible on geography, industry, and business model. I prefer B2B to consumer. About half my portfolio is in Canada, and half outside it.
+
+🐶 I like both overdogs with "unfair advantages", and underdogs who are "scrappy, resilient, resourceful". I invest in both "brave new world" startups and "faster better cheaper" startups. 
+
+💼 Check out [my portfolio here](/portfolio)!
+
+----
+
+<br/>
+
+### 📫 Founders, if this sounds like a fit, [please reach out!](/contact)    
 
 <br/>
 <br/>
+<br/>
+
+
+
+
+<!--
+
+### How I Can Help
+
+I can help on almost all operational aspects of early-stage startups. I’m especially strong on:  
+
+📝 **Story-telling:** The ability to craft a compelling narrative -- for customers, for partners, for investors, for employees, for the press -- is an essential part of the founder's toolkit, and it's something I have a lot of experience with.
+
+🌻 **Go-to-market:** A great product won't change the world unless it's matched with great distribution. And modern distribution is complex: inbound, outbound, bottom-up, top-down, product-driven, sales-driven, community-driven, channel-driven, hybrid -- there are so many interacting options. I can help you navigate them.
+
+👩‍💻 **Recruiting and culture:** The team you build is the company you build. To attract and retain and empower and scale a truly world-class team is perhaps the biggest challenge for founders today. Creating a strong culture is the key to solving this challenge, and it's something I pride myself on.
+
+💽 **Data and API strategy**: I know the modern data ecosystem well, and can help on almost every aspect of data in your organization: business and commercial strategy, infrastructure and technical choices, and team construction and growth. 
+
+----
+
+<br/>
+
+### Investment Process
+
+I typically reach investment decisions using no more than 2 meetings and 10 days of calendar time.  Here's how it works:
+
+1️⃣ [Connect with me](/contact). I welcome cold emails! Send me a brief intro message along with a **deck or other collateral** of your choice.  
+
+2️⃣ Within 3 business days, I'll either pass, or ask for a meeting. If you don't hear from me in 3 days, I might be off-grid; please send me a nudge.  
+
+3️⃣ We do a **45-minute intro meeting**, in which you: describe the vision, product, company, team, traction, tech, and macro trends (why now?).  
+
+4️⃣ Within 2 business days of our first meeting, I'll either pass, or ask for a second meeting. I may send you some questions or ask for some docs, but I won't ask you to do any substantial new work or prep.  
+
+5️⃣ We do a **60-minute deep-dive meeting** in which I try to understand the opportunity in greater detail.  
+
+6️⃣ Within 3 business days of our second meeting, I'll either pass, or commit to invest.  
+
+I find that this process works well for me, but I'm happy to use a different process if you prefer.
+
+-->

@@ -8,7 +8,7 @@ title: About · Abraham Thomas
 
 ----
 
-|<img style="width:200px" src="/assets/img/Abraham-Thomas.jpg">|👋 Hello, I'm Abraham.<br/><br/>I'm a [technology entrepreneur](/about#work) and [angel investor](/about#investing) living in Toronto.<br/><br/>I'm the co-founder and former Chief Data Officer of [Quandl](https://www.quandl.com), a tech startup that was acquired by [Nasdaq](https://www.nasdaq.com) in 2018. <br/><br/>Before Quandl, I was a trader and portfolio manager at [Simplex](https://www.simplexasset.com), a multi-billion-dollar hedge fund in Tokyo.|
+|<img style="width:200px" src="/assets/img/Abraham-Thomas.jpg">|👋 Hello, I'm Abraham.<br/><br/>I'm a technology entrepreneur and [angel investor](/angel) living in Toronto.<br/><br/>I'm the co-founder and former Chief Data Officer of [Quandl](https://www.quandl.com), a tech startup that was acquired by [Nasdaq](https://www.nasdaq.com) in 2018. <br/><br/>Before Quandl, I was a trader and portfolio manager at [Simplex](https://www.simplexasset.com), a multi-billion-dollar hedge fund in Tokyo.|
 
 -----
 
@@ -38,32 +38,13 @@ https://abrahamthomas.info/bond-arbitrage/
 <br/>	
 
 
-### Expertise
-
-Here are a few topics I have particularly deep professional expertise in:
-
-⚖️ B2B and SaaS-enabled marketplaces  
-🔢 Data business models and the modern data ecosystem  
-👩‍💻 Designing, building and scaling effective data organizations  
-🏧 Modern quantitative and quantamental investing  
-🛰️ Alternative data and untapped sources of alpha  
-💳 Capital markets and B2B fintech  
-🦄 Building a venture-funded startup outside the Bay Area  
-
-<br/>
-
------
-
-<br/>	
-
-
 ### Investing
 
-🦋 I'm an active angel investor in early-stage B2B startups. I'm flexible on industry, commercial model and geography. *[View my portfolio](/portfolio).*  
+🦋 I'm an active angel investor in early-stage B2B startups. I'm flexible on industry, commercial model and geography. *[Learn more](/angel).*  
 
-🔗 I’m most familiar with businesses involving data, APIs, and network effects. I also know capital markets and fintech well.  
+🔗 I’m most familiar with businesses involving data, APIs, and network effects. I also know capital markets and fintech well.  *[View my portfolio](/portfolio).*  
 
-🔧 I can help on almost all operational aspects of early-stage startups. I'm especially strong on story-telling, hybrid g2m, culture+talent, fund-raising, and of course all things data.  *[Learn more](/founders).*  
+🔧 I can help on almost all operational aspects of early-stage startups. I'm especially strong on story-telling, hybrid g2m, culture+talent, fund-raising, and of course all things data.  
 
 📫 **Founders, if this sounds like a fit, [please reach out!](mailto:athos1@gmail.com)**    
 
@@ -77,18 +58,39 @@ Here are a few topics I have particularly deep professional expertise in:
 
 <br/>	
 
+
+### Expertise
+
+Here are a few topics I have particularly deep professional expertise in:
+
+⚖️ B2B and SaaS-enabled marketplaces  
+🔢 Data business models and the modern data ecosystem  
+👩‍💻 Designing, building and scaling effective data organizations  
+🏧 Modern quantitative and quantamental investing  
+🛰️ Alternative data and untapped sources of alpha  
+💳 Capital markets and B2B fintech  
+🦄 Building a venture-funded startup outside the Bay Area  
+
+
+
+<br/>
+
+-----
+
+<br/>	
+
 ### Consulting
 
 I have a limited number of hours available for professional consulting. My clients are typically institutional investors: hedge funds, pension funds, sovereign wealth funds, venture capital firms etc.  
 
 Topics I advise on include:
 
-🏭 **Ops:** Managing data teams, processes and operations  
-🏗️ **Infra:** Modern data infrastructure and technical approaches  
-💱 **Edge:** Data advantages and using data to generate alpha  
-🏛️ **Strategy:** Data strategy, business models and ecosystem  
-🚚 **Applications:** Specific datasets, usage and opportunities  
 ☑️ **Diligence:** Expert evaluations of data-related ventures   
+🏛️ **Strategy:** Data strategy, business models and ecosystem  
+💱 **Edge:** Data advantages and using data to generate alpha  
+🚚 **Applications:** Specific datasets, usage and opportunities  
+🏗️ **Infra:** Modern data infrastructure and technical approaches  
+🏭 **Ops:** Managing data teams, processes and operations  
 
 
 To inquire about professional services, please [email me](mailto:athos1@gmail.com).
