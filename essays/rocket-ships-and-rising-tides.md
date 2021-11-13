@@ -24,20 +24,6 @@ Obviously, none of this is remotely statistically significant.
 ----
 <br/>
 
-### Portfolio Goals
-
-I've become a lot more deliberate about portfolio construction in recent months.  Here's the framework I use:
-
-<img src="/assets/img/portfolio-parameters.jpg" class="image">
-
-Within these companies, I aim to achieve a power-law-ish distribution of outcomes: 
-
-<img src="/assets/img/distribution-outcomes.jpg" class="image">
-
-----
-<br/>
-
-
 
 ### Funnel Stats
 
@@ -49,9 +35,24 @@ These 3 investments join the 7 investments I made in the preceding 2 years, givi
 
 Unfortunately, I didn't track my funnel prior to this spring, so I don't know how this has evolved over time. 
 
+
 ----
 <br/>
 
+
+### Portfolio Goals
+
+I've become a lot more deliberate about portfolio construction in recent months.  Here's the framework I use:
+
+<img src="/assets/img/portfolio-parameters.jpg" class="image">
+
+Within these companies, I aim to achieve a power-law-ish distribution of outcomes: 
+
+<img src="/assets/img/distribution-outcomes.jpg" class="image">
+
+
+----
+<br/>
 
 
 ### Portfolio Composition
