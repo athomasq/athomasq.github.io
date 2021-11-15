@@ -3,20 +3,20 @@
 - name: newline
 
 - name: Investing
-  link: /portfolio
+  link: /angel
 - name: Writing
   link: /writing
 - name: newline
 
-- name: Photos
-  link: /gallery
-- name: Books
+- name: Library
   link: /library
+- name: Gallery
+  link: /gallery
 - name: Talks
   link: /talks
 - name: newline
 
-- name: Story
+- name: Bio
   link: /bio
 - name: Media
   link: /press
