@@ -211,7 +211,7 @@ So this all works, in the sense of building a performant and differentiated port
 
 ## 9. Thoughts on Valuation [6]
 
-Valuations, as any fule kno, have been going up across the board.  What does this imply for portfolio construction?  Should I double down on the trend and pay whatever it akes?  Or should I pull back and wait for the market to soften?
+Valuations, as any fule kno, have been going up across the board.  What does this imply for portfolio construction?  Should I chase the trend and pay whatever it takes to invest in good companies?  Or should I pull back and wait for the market to soften?
 
 I believe that two things can be true at the same time: valuations are rising for reasons that are mostly legitimate, and it's hard(er) to make money investing at high(er) valuations.
 
@@ -233,13 +233,12 @@ In this world, buying startups on the cheap usually means buying startups that a
 
 <image> 2x2 of quality vs valuation
 
-The challenge is seeing and getting a chance to invest in those exceptional companies on a consistent basis.  It's one thing if you're Benchmark, Sequoia, A16z or Tiger Global.  It's another thing entirely if you're a relatively low profile angel investor in Toronto. 
+The challenge is seeing and getting a chance to invest in those exceptional companies on a consistent basis.  It's one thing if you're Benchmark, Sequoia, A16z or Tiger Global.  It's another thing entirely if you're a relatively low-profile angel investor in Toronto. 
 
 And if you don't pick the best of the best, the math is [extremely challenging](https://avc.com/2021/11/seed-rounds-at-100mm-post-money/). 
 
 ----
 <br/>
-
 
 
 
@@ -258,9 +257,9 @@ So do data businesses, saas-enabled marketplaces, and a few other hybrid models.
 
 <image> where in quadrant 1
 
-
 Incidentally, these methods analogize nicely to meta-strategies that I'm familiar with from my time as a hedge fund investor.  Investing in blind-spot startups is just persistent-cognitive-bias arbitrage, and investing early is just risk-preference arbitrage.  To a quant with a hammer, everything looks like a nail.
 
+My markups so far suggest that this approach is working, but you can't eat markups. 
 
 ----
 <br/>
@@ -412,7 +411,7 @@ graph showing where i invested
 [4] If you don't know your edge, you're probably the sucker at the table.  
 
 
-[5] An angel's job is to see deals, evaluate deals, win deals and help deals.  I'd rate myself average, good, good and above-average on those 4 competences, respectively.  I think this works (though see a counterpoint to the "win" rating in section 13).
+[5] An angel's job is to see companies, select investments, win allocations and help founders.  I'd rate myself average, good, good and above-average on those 4 competences, respectively.  I think this works. (Though see a counterpoint to the "win" rating in section 13).
 
 
 [6] Yes, the world needs another hot take on tech valuations.
