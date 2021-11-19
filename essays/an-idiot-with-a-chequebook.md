@@ -262,7 +262,7 @@ So how do I square this circle?  I have two methods that work for me.
 
 The first is to swim upstream and invest "hilariously early", to use Hustle Fund's memorable phrase.  If the team, market and macro trends are strong, I don't care that the product is rudimentary, the business model is vague or the traction is non-existent.  I suspect most investors are not quite like that.
 
-<img src="/assets/img/team-market-product.jpg" class="image">
+<img src="/assets/img/pick-2-of-3.jpg" class="image">
 
 ### Think different
 
