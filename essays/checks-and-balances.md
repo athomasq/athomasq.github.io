@@ -1,10 +1,14 @@
 ---
 layout: default
 permalink: /:basename/
-title: Rocket Ships and Rising Tides
+title: Checks and Balances
 ---
 
-## Rocket Ships and Rising Tides
+## Checks and Balances: My Angel Portfolio
+
+----
+
+*Why even have an angel portfolio if you can't make bad puns about it?*
 
 ----
 
