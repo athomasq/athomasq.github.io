@@ -20,7 +20,7 @@ title: An Idiot With A Chequebook
 <br/>
 
 
-### Table of Contents:
+## Table of Contents:
 
 Jump to a section:
 
@@ -48,7 +48,7 @@ Jump to a section:
 
 
 
-### 1. Introduction: Interesting Times
+## 1. Introduction: Interesting Times
 
 I’ve been angel investing, off and on, for close to a decade, but it’s only in the last 6 months or so that I’ve become more intentional and systematic about it.  
 
@@ -60,7 +60,7 @@ This is the expanded version of this essay, with stats and editorial commentary.
 
 <br/>
 
-### 2. Caveats, Disclaimers, and Other Mealy-Mouthed Hedges
+## 2. Caveats, Disclaimers, and Other Mealy-Mouthed Hedges
 
 * None of this is remotely statistically significant.  I wouldn't advise drawing any sort of conclusions from my process, portfolio, or results so far.
 
@@ -94,9 +94,9 @@ IMAGE ikigai
 ----
 <br/>
 
-### 4. Portfolio Construction
+## 4. Portfolio Construction
 
-*"Without thoughtful [portfolio] construction, all you have is a pile of stones"* -- [Jerry Neumann]()http://reactionwheel.net, liberally paraphrased
+*"Without thoughtful [portfolio] construction, all you have is a pile of stones"* -- [Jerry Neumann](http://reactionwheel.net), liberally paraphrased
 
 
 This is perhaps the area where I've evolved the most.  Given power law outcomes and other unique-to-startup dynamics, current market conditions, my capital constraints and risk preferences, and not least my (self-assessed) strengths and weaknesses as an investor, how should I structure my portfolio?  How many investments a year, what cheque size, which rounds to participate in, what valuations to target, when to follow on and in what size, when to exit, what win/loss ratios to target, how to recycle and so on?  There are lot of moving parts. 
@@ -142,7 +142,7 @@ Intuitively I feel like if I invest in say 1 out of every 100 companies I see, I
 <br/>
 
 
-### 6. Company Selection
+## 6. Company Selection
 
 Should I pick based on team, or product, or market?  I like Andy Weissman's answer: **why choose?**  
 
