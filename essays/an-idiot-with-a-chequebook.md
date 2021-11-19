@@ -171,6 +171,8 @@ Empirically, it appears that I care about team, market and macro the most; produ
 
 ## 7. Post-Investment Support
 
+*(This entire section probably massively overestimates how much influence I have and how often my portfolio founders even think of me.)*
+
 I tell founders: "I try to help if I can, and get out of the way if I can't."  So far this seems to be working okay.  Pretty much every single founder I've invested in has reached out to me at some point to go deep into a particular problem they're facing, and the range of problems is wide. 
 
 On average I spend 2-3 hours with each of my portfolio companies every 2-3 months.  The topics which come up most often are go-to-market, narrative creation, recruiting and team structure, and financing strategy.  [2]
@@ -209,7 +211,9 @@ So this all works, in the sense of building a performant and differentiated port
 <br/>
 
 
-## 9. Thoughts on Valuation [6]
+## 9. Thoughts on Valuation
+
+*(Yes, what the world needs is another hot take on tech valuations.)*
 
 Valuations, as any fule kno, have been going up across the board.  What does this imply for portfolio construction?  Should I chase the trend and pay whatever it takes to invest in good companies?  Or should I pull back and wait for the market to soften?
 
@@ -409,7 +413,7 @@ graph showing where i invested
 
 
 
-[1] This entire section probably massively overestimates how much influence I have and how often my portfolio founders even think of me.
+[1] 
 
 [2] Some specific questions:
 
@@ -432,8 +436,6 @@ graph showing where i invested
 
 [5] An angel's job is to see companies, select investments, win allocations and help founders.  I'd rate myself average, good, good and above-average on those 4 competences, respectively.  I think this works. (Though see a counterpoint to the "win" rating in section 13).
 
-
-[6] Yes, the world needs another hot take on tech valuations.
 
 [7] The classic example here is US e-commerce: despite all the success of Amazon, Shopify et al, it's still [less than 20%](https://fred.stlouisfed.org/series/ECOMPCTSA) of retail sales.  That's only going to go up.  And there's a whole world out there beyond the USA.
 
