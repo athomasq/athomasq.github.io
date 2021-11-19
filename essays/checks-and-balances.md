@@ -8,7 +8,7 @@ title: Checks and Balances
 
 ----
 
-*Why even have an angel portfolio if you can't draw pretty pictures of it?*
+*Why even have an angel portfolio if you can't use it to generate pretty pictures?*
 
 ----
 
