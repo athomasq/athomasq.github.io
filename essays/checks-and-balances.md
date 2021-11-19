@@ -8,7 +8,7 @@ title: Checks and Balances
 
 ----
 
-*Why even have an angel portfolio if you can't make bad puns about it?*
+*Why even have an angel portfolio if you can't draw pretty pictures of it?*
 
 ----
 
