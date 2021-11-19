@@ -9,11 +9,9 @@ title: An Idiot With A Chequebook
 ----
 
 
-*"Any idiot with a checkbook looks like a genius right now."*   
-   -- Zach Coelius, [@zachcoelius](https://twitter.com/zachcoelius)
+*"Any idiot with a checkbook looks like a genius right now."* -- [Zach Coelius](https://twitter.com/zachcoelius)  
 
-*"Better to stay silent and be thought an idiot, than to speak out and remove all doubt"*   
-   -- apocryphal, usually attributed to Mark Twain or Abraham Lincoln
+*"Better to stay silent and be thought an idiot, than to speak out and remove all doubt"* -- apocryphal
 
 ----
 
