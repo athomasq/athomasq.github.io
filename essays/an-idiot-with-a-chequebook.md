@@ -86,7 +86,7 @@ I began by examining my own motivations for angel investing.  Why am I even doin
 
 It turns out you can put those 3 reasons neatly into an Ikigai-ish framework:
 
-IMAGE ikigai 
+<img src="/assets/img/angel-motivation.jpg" class="image">
 
 
 
