@@ -24,7 +24,7 @@ Jump to a section:
 
 * Introduction
 * Caveats and Such-like
-* Zooming Out: Motivation
+* Zooming Out
 * Portfolio Construction
 * Funnel Statistics
 * Company Selection
@@ -46,7 +46,7 @@ Jump to a section:
 
 
 
-## 1. Introduction: Interesting Times
+## 1. Introduction
 
 I’ve been angel investing, off and on, for close to a decade, but it’s only in the last 6 months or so that I’ve become more intentional and systematic about it.  
 
@@ -192,9 +192,7 @@ The other thing which I'm still working on is the balance between supporting fou
 
 I wouldn't do this if I didn't think I had an edge [4].  Here's what goes into mine:
 
-* I don't have an exceptional volume of dealflow, but I think I have somewhat *differentiated* dealflow, especially in certain under-favoured categories:
-
-<img src="/assets/img/slice-founders.jpg" class="image3">
+* I don't have an exceptional volume of dealflow, but I think I have somewhat *differentiated* dealflow, especially in certain under-favoured categories.
 
 * I think my own experience as a (successful) venture-backed tech founder helps me evaluate founders differently from most non-founders, let alone investors with zero startup operating experience, especially at the very earliest stages.
 
@@ -239,11 +237,16 @@ The next thing I believe is that "value investing" does not work in venture:
 
 In this world, buying startups on the cheap usually means buying startups that are unlikely to deliver large outcomes.  Conversely, almost no price is too high to pay for the truly exceptional companies. 
 
-IMAGE 2x2 of quality vs valuation
+
+*Enough with the Venn diagrams, have a 2x2 instead!* 
+
+<img src="/assets/img/quality-vs-valuation.jpg" class="image">
+
 
 The challenge is seeing and getting a chance to invest in those exceptional companies on a consistent basis.  It's one thing if you're Benchmark, Sequoia, A16z or Tiger Global.  It's another thing entirely if you're a relatively low-profile angel investor in Toronto. 
 
 And if you don't pick the best of the best, the math is [extremely challenging](https://avc.com/2021/11/seed-rounds-at-100mm-post-money/). 
+
 
 ----
 <br/>
@@ -259,15 +262,13 @@ So how do I square this circle?  I have two methods that work for me.
 
 The first is to swim upstream and invest "hilariously early", to use Hustle Fund's memorable phrase.  If the team, market and macro trends are strong, I don't care that the product is rudimentary, the business model is vague or the traction is non-existent.  I suspect most investors are not quite like that.
 
-IMAGE pick 2 of 3
+<img src="/assets/img/team-market-product.jpg" class="image">
 
 ### Think different
 
 The second method is identifying startups where the founder, market, product and business are all great, but they fall into VC blind spots.  Startups helmed by women, minorities, recent immigrants, or just people outside the big-city/fancy-school tech networks often fall into this category.  
 
 So do data businesses, saas-enabled marketplaces, and a few other hybrid models.  These are all (correctly) labelled by VCs as "tougher" to execute than your classic simple saas, ecommerce or marketplace business, but I find that the best of them have strong compensatory advantages.
-
-IMAGE where in quadrant 1
 
 Incidentally, these methods analogize nicely to meta-strategies that I'm familiar with from my time as a hedge fund investor.  Investing in blind-spot startups is just persistent-cognitive-bias arbitrage, and investing early is just risk-preference arbitrage.  To a quant with a hammer, everything looks like a nail.
 
