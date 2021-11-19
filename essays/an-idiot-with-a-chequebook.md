@@ -217,11 +217,15 @@ I believe that two things can be true at the same time: valuations are rising fo
 
 Let's start with the reasons.  Here's what I believe:
 
+### Tech has huge unrealized upside
+
 * Tech is eating every industry, and we're still in the early stages of market penetration [7].   There's a lot of value remaining to be created and captured as this transition continues.
 
 * There's an abundance of capital looking for profitable opportunites (especially given close-to-zero interest rates), and much of it will be allocated to tech as it eats up more of the world.
 
 * As a result, terminal outcomes for tech startups are at least 2 orders of magnitude larger than almost anyone had ever anticipated.  And this propagates upstream, to the earliest stages of venture investing. 
+
+### Value investing does not work in venture
 
 The next thing I believe is that "value investing" does not work in venture:
 
@@ -247,9 +251,13 @@ And if you don't pick the best of the best, the math is [extremely challenging](
 
 So how do I square this circle?  I have two methods that work for me.  
 
+### Invest early
+
 The first is to swim upstream and invest "hilariously early", to use Hustle Fund's memorable phrase.  If the team, market and macro trends are strong, I don't care that the product is rudimentary, the business model is vague or the traction is non-existent.  I suspect most investors are not quite like that.
 
 IMAGE pick 2 of 3
+
+### Think different
 
 The second method is identifying startups where the founder, market, product and business are all great, but they fall into VC blind spots.  Startups helmed by women, minorities, recent immigrants, or just people outside the big-city/fancy-school tech networks often fall into this category.  
 
