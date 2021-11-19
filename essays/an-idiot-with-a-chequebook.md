@@ -147,7 +147,7 @@ Should I pick based on team, or product, or market?  I like Andy Weissman's answ
 
 Nobody's forcing me to invest, so I should be willing to pass on deal after deal until I find one that has a great team *and* a great product *and* a great market.  Anything else is a compromise.
 
-IMAGE venn diagram 
+<img src="/assets/img/team-market-product.jpg" class="image">
 
 I'm getting better at this.  I can't honestly say that my first few angel investments ticked all the boxes, but my more recent ones do, or at least I think they do.  
 
@@ -155,7 +155,7 @@ What about traction?  Well, at the valuation ranges I invest, startups rarely ha
 
 Besides:
 
-*"The dirty secret is that there is no such thing as traction pitches anymore. Because as every company knows -- the best days are always yet to come."* -- [Kevin Kwok](https://kwokchain.com/2021/09/29/narrative-distillation-1/), [@kwokchain](https://twitter.com/kevinakwok)
+*"The dirty secret is that there is no such thing as traction pitches anymore. Because as every company knows -- the best days are always yet to come."* -- [Kevin Kwok](https://kwokchain.com/2021/09/29/narrative-distillation-1/)
 
 
 ----
@@ -169,7 +169,7 @@ Empirically, it appears that I care about team, market and macro the most; produ
 <br/>
 
 
-## 7. Post-Investment Support [1]
+## 7. Post-Investment Support
 
 I tell founders: "I try to help if I can, and get out of the way if I can't."  So far this seems to be working okay.  Pretty much every single founder I've invested in has reached out to me at some point to go deep into a particular problem they're facing, and the range of problems is wide. 
 
