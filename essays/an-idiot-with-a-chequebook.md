@@ -67,6 +67,7 @@ This is the expanded version of this essay, with stats and editorial commentary.
 * I'm trying hard not to be a tourist or trend-chaser, but it's hard to disentangle skill, luck, unsustainable market dynamics, and genuine macro trends.
 
 * I probably contradict myself a dozen times in these notes; partly because I don't believe consistency is necessarily a virtue for investors, and partly because I don't know all the answers so I'm thinking in public.  
+
 * This essay is verbose, opinionated and self-indulgent, but it has its flaws as well.  
 
 ----
