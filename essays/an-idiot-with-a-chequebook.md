@@ -152,7 +152,7 @@ Should I pick based on team, or product, or market?  I like Andy Weissman's answ
 Nobody's forcing me to invest, so I should be willing to pass on deal after deal until I find one that has a great team *and* a great product *and* a great market.  Anything else is a compromise.
 
 
-<img src="/assets/img/team-market-product_.jpg" class="image">
+<img src="/assets/img/team-market-product_.jpg" class="image2">
 
 
 I'm getting better at this.  I can't honestly say that my first few angel investments ticked all the boxes, but my more recent ones do, or at least I think they do.  
@@ -270,7 +270,7 @@ So how do I square this circle?  I have two methods that work for me.
 The first is to swim upstream and invest "hilariously early", to use Hustle Fund's memorable phrase.  If the team, market and macro trends are strong, I don't care that the product is rudimentary, the business model is vague or the traction is non-existent.  I suspect most investors are not quite like that.
 
 
-<img src="/assets/img/pick-2-of-3_.jpg" class="image">
+<img src="/assets/img/pick-2-of-3_.jpg" class="image2">
 
 
 ### Think different
