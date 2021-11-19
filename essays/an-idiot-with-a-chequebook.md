@@ -22,20 +22,20 @@ title: An Idiot With A Chequebook
 
 Jump to a section:
 
-* \1. Introduction
-* \2. Caveats and Such-like
-* \3. Zooming Out: Motivation
-* \4. Portfolio Construction
-* \5. Funnel Statistics
-* \6. Company Selection
-* \7. Post-Investment Support 
-* \8. Investment Edge
-* \9. Thoughts on Valuations
-* \10. Valuations and Portfolio Positioning
-* \11. My Portfolio
-* \12. Portfolio Decomposition
-* \13. Portfolio Performance
-* \14. Anti-Portfolio and Mistakes
+* Introduction
+* Caveats and Such-like
+* Zooming Out: Motivation
+* Portfolio Construction
+* Funnel Statistics
+* Company Selection
+* Post-Investment Support 
+* Investment Edge
+* Thoughts on Valuations
+* Valuations and Portfolio Positioning
+* My Portfolio
+* Portfolio Decomposition
+* Portfolio Performance
+* Anti-Portfolio and Mistakes
 
 
 ----
