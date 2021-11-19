@@ -11,7 +11,7 @@ title: An Idiot With A Chequebook
 
 *"Any idiot with a checkbook looks like a genius right now."* -- [Zach Coelius](https://twitter.com/zachcoelius)  
 
-*"Better to stay silent and be thought an idiot, than to speak out and remove all doubt"* -- apocryphal
+*"Better to stay silent and be thought an idiot, than to speak out and remove all doubt"* -- [apocryphal](https://quoteinvestigator.com/2010/05/17/remain-silent/)
 
 ----
 
@@ -22,20 +22,20 @@ title: An Idiot With A Chequebook
 
 Jump to a section:
 
-1. Introduction
-2. Caveats and Such-like
-3. Zooming Out: Motivation
-4. Portfolio Construction
-5. Funnel Statistics
-6. Company Selection
-7. Post-Investment Support 
-8. Investment Edge
-9. Thoughts on Valuations
-10. Valuations and Portfolio Positioning
-11. My Portfolio
-12. Portfolio Decomposition
-13. Portfolio Performance
-14. Anti-Portfolio and Mistakes
+* 1. Introduction
+* 2. Caveats and Such-like
+* 3. Zooming Out: Motivation
+* 4. Portfolio Construction
+* 5. Funnel Statistics
+* 6. Company Selection
+* 7. Post-Investment Support 
+* 8. Investment Edge
+* 9. Thoughts on Valuations
+* 10. Valuations and Portfolio Positioning
+* 11. My Portfolio
+* 12. Portfolio Decomposition
+* 13. Portfolio Performance
+* 14. Anti-Portfolio and Mistakes
 
 
 ----
@@ -281,7 +281,7 @@ My companies are the best.
 
 My editor (me) says I should probably write a little more about them, so here's a list.  For each company I've also included the category, a brief description, and why I invested (beyond the baseline reasons of team, macro and market, which are givens).
 
-* **AcuSpire** [AI] -- AI-driven software to generate better job *matches* (not just searches through listings or resumes).  Invested because I believe this is the next logical step in the evolution of job platforms; also, their enterprise offering is a great solution to the marketplace cold-start problem.
+* **[AcuSpire](https://www.acuspire.ai)** [AI] -- AI-driven software to generate better job *matches* (not just searches through listings or resumes).  Invested because I believe this is the next logical step in the evolution of job platforms; also, their enterprise offering is a great solution to the marketplace cold-start problem.
 
 * **BuyProperly** [Fintech] -- Amazon meets Robinhood for home ownership: a marketplace for fractional shares of property.  Invested because they've solved lots of hard and unglamorous back-end problems to make the magic work; also terrific founder-market fit and plenty of pent-up demand.
 
@@ -291,9 +291,9 @@ My editor (me) says I should probably write a little more about them, so here's 
 
 * **Daloopa** [AI] -- AI-driven data extraction and inference for financial back offices.  Another classic deployment-era pattern: using modern inference techniques to automate processes that are hugely costly and time-consuming for Wall St (and other) firms.
 
-* **Daylite** [AI] -- AI-driven insights from unstructured customer interactions, surfaced and summarized at scale for product teams.  Potential customer described this to me as a "no-brainer" purchase if it works as advertised and I agree.
-
 * **Erly** [Logistics] -- Amazon-Prime-as-a-service for D2C merchants.  Invested because of a terrific value prop for merchants, a really clever business model which I can't share too much about, and incredible speed of execution.
+
+* **Getware** [AI] -- AI-driven insights from unstructured customer interactions, surfaced and summarized at scale for product teams.  Potential customer described this to me as a "no-brainer" purchase if it works as advertised and I agree.
 
 * **Mero** [Infrastructure] -- Sensors, data and software for smarter, cleaner buildings.  Invested because of amazing capital efficiency (despite the hardware component), stickiness of solution, potential wedge into high-value data and analytics, and elegant portfolio gtm.
 
@@ -301,8 +301,8 @@ My editor (me) says I should probably write a little more about them, so here's 
 
 * **Terra.do** [Climate] -- climate community, education platform and job market.  Invested because it's a big and important idea with a huge surface area, and they have the highest NPS I've ever seen. 
 
+I try to maintain a balance between narrow / small / safe investments, and wide / big / speculative investments.  (The terms are all relative of course; nothing I invest in is "safe".)
 
-portfolio mix
 
 
 ----
@@ -356,11 +356,21 @@ Here's my performance sliced by year of deployment:
 
 <img src="/assets/img/irr-table.png" class="image">
 
-As the table makes clear, I've been ramping up my deal count every year.  I tell myself this is because I'm getting better at angel investing (spending more time on it, seeing more deals), but I could be fooling myself.
+As the table makes clear, I've been ramping up my deal count every year.
 
 So far the distribution of individual-company markups seems to follow a power law reasonably closely:
 
 <img src="/assets/img/distribution-markups.jpg" class="image">
+
+
+### Previous Experiments
+
+I had a couple of precursor portfolios before my current foray into angel investing.  From 2009 to 2014 I invested in 5 friends-and-family ventures in India.  All but one have sunk without a trace; the one is going strong and on track for a large, indeed possibly a very large outcome, but not any time soon.  
+
+From 2015 to to 2017 I invested in 8 arms-length ventures again in India; that portfolio has done quite well.  Two companies are on unicorn trajectories.  I exited one of them at a 40x markup, and am holding on to the other.  A couple of the others may return 1-3x but are unlikely to return more than that.  Standard power law dynamics, in fact. 
+
+The performance of these two portfolios has given me a little bit of encouragement that I'm on the right track; I wouldn't be increasing my annual investment count (or dollars) without that confirmation.
+
 
 
 
