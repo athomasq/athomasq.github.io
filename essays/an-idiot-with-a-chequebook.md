@@ -21,7 +21,7 @@ title: An Idiot With A Chequebook
 ## Table of Contents:
 
 
-Hello World! 
+Hellooo World! 
 
 Jump to a section:
 
@@ -89,9 +89,9 @@ I began by examining my own motivations for angel investing.  Why am I even doin
 
 It turns out you can put those 3 reasons neatly into an Ikigai-ish framework:
 
-<!--
-<img src="/assets/img/angel-motivation.jpg" class="image">
--->
+
+<img src="/assets/img/angel-motivation_.jpg" class="image">
+
 
 
 ----
@@ -151,9 +151,9 @@ Should I pick based on team, or product, or market?  I like Andy Weissman's answ
 
 Nobody's forcing me to invest, so I should be willing to pass on deal after deal until I find one that has a great team *and* a great product *and* a great market.  Anything else is a compromise.
 
-<!--
-<img src="/assets/img/team-market-product.jpg" class="image">
--->
+
+<img src="/assets/img/team-market-product_.jpg" class="image">
+
 
 I'm getting better at this.  I can't honestly say that my first few angel investments ticked all the boxes, but my more recent ones do, or at least I think they do.  
 
@@ -246,9 +246,9 @@ In this world, buying startups on the cheap usually means buying startups that a
 
 *Enough with the Venn diagrams, have a 2x2 instead!* 
 
-<!--
-<img src="/assets/img/quality-vs-valuation.jpg" class="image">
--->
+
+<img src="/assets/img/quality-vs-valuation_.jpg" class="image">
+
 
 The challenge is seeing and getting a chance to invest in those exceptional companies on a consistent basis.  It's one thing if you're Benchmark, Sequoia, A16z or Tiger Global.  It's another thing entirely if you're a relatively low-profile angel investor in Toronto. 
 
@@ -269,9 +269,9 @@ So how do I square this circle?  I have two methods that work for me.
 
 The first is to swim upstream and invest "hilariously early", to use Hustle Fund's memorable phrase.  If the team, market and macro trends are strong, I don't care that the product is rudimentary, the business model is vague or the traction is non-existent.  I suspect most investors are not quite like that.
 
-<!--
-<img src="/assets/img/pick-2-of-3.jpg" class="image">
--->
+
+<img src="/assets/img/pick-2-of-3_.jpg" class="image">
+
 
 ### Think different
 
