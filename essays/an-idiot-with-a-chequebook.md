@@ -302,6 +302,7 @@ My editor (me) says I should probably write a little more about them, so here's 
 * **Terra.do** [Climate] -- climate community, education platform and job market.  Invested because it's a big and important idea with a huge surface area, and they have the highest NPS I've ever seen. 
 
 
+portfolio mix
 
 
 ----
