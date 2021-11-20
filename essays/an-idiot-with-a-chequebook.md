@@ -196,7 +196,7 @@ The other thing which I'm still working on is the balance between supporting fou
 
 ## 8. Investment Edge
 
-I wouldn't do this if I didn't think I had an edge [4].  Here's what goes into mine:
+If you don't know your edge, you're probably the sucker at the table.  Here are the things that I think comprise my edge:
 
 * I don't have an exceptional volume of dealflow, but I think I have somewhat *differentiated* dealflow, especially in certain under-favoured categories.
 
@@ -206,9 +206,9 @@ I wouldn't do this if I didn't think I had an edge [4].  Here's what goes into m
 
 * In my expert judgement (and I'm not being sarcastic here, or hiding behind false modesty), most VCs are terrible -- not just wrong, but glaringly incompetent -- at evaluating data businesses and also capital markets startups.  Admitted, venture is an uncertain business, and anybody can be mistaken (including me), but the lack of basic knowledge of these fields is startling -- and an opportunity to be exploited.  
 
-So this all works, in the sense of building a performant and differentiated portfolio [5].  What I wonder about sometimes is, does it suffice to generate outlier outcomes?  Time will tell.
+So this all works, in the sense of building a performant and differentiated portfolio.  What I wonder about sometimes is, does it suffice to generate outlier outcomes?  Time will tell.
 
-
+Zooming out, an angel's job is to see lots of companies, select the winners, get allocations, and help founders after the investment.  I'd rate myself average, good, good and above-average in those four competences; it gives me something to work on.
 
 
 ----
@@ -227,7 +227,7 @@ Let's start with the reasons.  Here's what I believe:
 
 ### Tech has huge unrealized upside
 
-* Tech is eating every industry, and we're still in the early stages of market penetration [7].   There's a lot of value remaining to be created and captured as this transition continues.
+* Tech is eating every industry, and we're still in the early stages of market penetration.  (The canonical example here is US e-commerce: despite all the success of Amazon, Shopify et al, it's still [less than 20%](https://fred.stlouisfed.org/series/ECOMPCTSA) of retail sales.  That's only going to go up.  And there's a whole world out there beyond the USA.)  There's a lot of value remaining to be created and captured as this transition continues.
 
 * There's an abundance of capital looking for profitable opportunites (especially given close-to-zero interest rates), and much of it will be allocated to tech as it eats up more of the world.
 
@@ -331,7 +331,7 @@ Here are a few different ways to slice my portfolio.
 
 <img src="/assets/img/slice-geography.jpg" class="image3">
 
-I aim for 50-50 within and outside Canada, so this is mostly on track.  I tend to avoid Bay Area startups unless I have a pre-existing connection with the founder(s), on the grounds that a Bay Area startup that needs money from me is not a startup I want to invest in -- the Grouch Marx theory of portfolio selection.
+I aim for 50-50 within and outside Canada, so this is mostly on track.  I tend to avoid Bay Area startups unless they're in my AI/data/API sweet spot, on the grounds that a Bay Area startup that needs money from me is not a startup I want to invest in -- the Groucho Marx theory of portfolio selection.
 
 - By deal source: 
 
@@ -350,8 +350,6 @@ At a high level, 16 of 22 founders come from an underrepresented slice.  But it'
 <img src="/assets/img/slice-category.jpg" class="image3">
 
 Listing them out like this, it does seem that "anything goes", as long as it's B2B or at best B2B2C.  I'm not sure this is wise; maybe I'd do better specializing?  
-
-I do note that lmost all of my companies have some sort of data angle (usually, a learning-loop or system-of-record effect).  
 
 
 ----
@@ -405,6 +403,9 @@ On the other side, I don't really care about false positives.  I expect 50% of m
 Yet another piece of evidence that I need to improve my dealflow is my "win rate".  So far I haven't had any problem getting allocation into any deal I've wanted to participate in.  This probably has several causes: the general paucity of angel investors in Toronto (less competition for me), my credentials as a successful exited founder, the small size of my cheques etc.  But it's also probably because I'm simply not participating in (because I don't see) the most competitive rounds. 
 
 Apart from my anti-portfolio, I think my biggest weakness is a bias towards complexity.  Sometimes the simple and obvious solutions make the best investments; a lesson I'm still learning.    
+<!-- 
+This might be a hangover from my hedge fund days.  In public markets, if an opportunity is obvious, it will be arbitraged away; therefore you need to be contrarian to make money.  One way to do that is to embrace complexity that others avoid.  Early stage markets are not like that! 
+-->
 
 
 
@@ -412,41 +413,4 @@ Apart from my anti-portfolio, I think my biggest weakness is a bias towards comp
 <br/>
 
 
-images to create:
-venn diagram of startup scores
-venn diagram of motivations
-scatter of valuation and quality
-graph showing where i invested
 
-
-## Footnotes
-
-
-
-[1] 
-
-[2] Some specific questions:
-
-- how to make your first sales hire
-- how to work a conference
-- how to attract talent in a hot market
-- how to parse term sheets
-- how to write an effective cold email
-- how to structure a data science team within the org
-- how to find the right gtm channels
-- how to craft your narrative
-- how to trade off technical debt versus feature development
-- how to iterate and deploy data models fast
-
-
-[3] I benefited enormously from board members who were unfailingly steady and supportive, but also challenged us to do better all the time. 
-
-[4] If you don't know your edge, you're probably the sucker at the table.  
-
-
-[5] An angel's job is to see companies, select investments, win allocations and help founders.  I'd rate myself average, good, good and above-average on those 4 competences, respectively.  I think this works. (Though see a counterpoint to the "win" rating in section 13).
-
-
-[7] The classic example here is US e-commerce: despite all the success of Amazon, Shopify et al, it's still [less than 20%](https://fred.stlouisfed.org/series/ECOMPCTSA) of retail sales.  That's only going to go up.  And there's a whole world out there beyond the USA.
-
-[8] This too is a hangover from my hedge fund days: in public markets, if anm opportunity is obvious, it will be arbitraged away; therefore you need to be contrarian to make money; one way to do that is to seek out complexity that others avoid.  Early stage markets are not like that! 
