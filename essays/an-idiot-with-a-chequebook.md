@@ -328,6 +328,19 @@ My companies are the best.
 
 My editor (me) says I should probably write a little more about them, so here's a list.  For each company I've also included the category, a brief description, and why I invested (beyond the baseline reasons of team, macro and market, which are givens).
 
+<!--
+🤝 [AcuSpire](https://acuspire.ai/)  
+🏡 [BuyProperly](https://buyproperly.ca/)  
+🏫 [Canopy](https://www.canopyanalytics.com/)  
+🏗️ [Citylitics](https://citylitics.com/)  
+🧠 [Daloopa](https://www.daloopa.com/)  
+💡 [Daylite](https://www.daylite.ai)  
+🚚 [Erly](https://www.geterly.com)  
+🏢 [Mero](https://mero.co/)  
+🖥️ [Setyl](https://www.setyl.com/)  
+🌏 [Terra.do](https://terra.do)  
+-->
+
 * **[AcuSpire](https://www.acuspire.ai)** [AI] -- AI-driven software to generate better job *matches* (not just searches through listings or resumes).  Invested because I believe this is the next logical step in the evolution of job platforms; also, their enterprise offering is a great solution to the marketplace cold-start problem.
 
 * **BuyProperly** [Fintech] -- Amazon meets Robinhood for home ownership: a marketplace for fractional shares of property.  Invested because they've solved lots of hard and unglamorous back-end problems to make the magic work; also terrific founder-market fit and plenty of pent-up demand.
