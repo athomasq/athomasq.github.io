@@ -18,7 +18,7 @@ title: An Idiot With A Chequebook
 <br/>
 
 
-## Table of Contents:
+## Table of Contents
 
 
 * [Introduction](/an-idiot-with-a-chequebook#1-introduction)
