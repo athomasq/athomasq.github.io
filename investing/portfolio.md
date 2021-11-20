@@ -49,7 +49,7 @@ Between 2015 and 2017 I invested in 9 startups in India:
 💊 [Wellthy](https://wellthytherapeutics.com/)  
 
 
-These companies have gone on to raise further funding from Sequoia, Tiger Global, Falcon Edge, GIC and others. As of September 2021, my investments are at a 5.5x TVPI and 42% IRR, putting them in the 97th percentile of comparable portfolios.
+My portfolio companies have gone on to raise further funding from Sequoia, Tiger Global, Falcon Edge, GIC and others. 
 
 ----
 
