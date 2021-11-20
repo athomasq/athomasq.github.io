@@ -173,14 +173,16 @@ Nobody's forcing me to invest, so I should be willing to pass on deal after deal
 
 I'm getting better at this.  I can't honestly say that my first few angel investments ticked all the boxes, but my more recent ones do, or at least I think they do.  
 
-What about traction?  Well, at the valuation ranges I invest, startups rarely have any traction worth mentioning.  
-
-Besides:
+What about traction?  Well, at the valuation ranges I invest, startups rarely have any traction worth mentioning.  Besides:
 
 *"The dirty secret is that there is no such thing as traction pitches anymore. Because as every company knows -- the best days are always yet to come."* -- [Kevin Kwok](https://kwokchain.com/2021/09/29/narrative-distillation-1/)
 
+<br/>
 
 ----
+
+<br/>
+
 
 After writing the above, I went back and scored my actual portfolio on a number of factors: team, market, product, macro trends, biz model, traction and valuation.  I also scored companies that I passed on after doing deep dives, to see what factors influenced my cut. 
 
