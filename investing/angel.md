@@ -47,6 +47,24 @@ I aim to be an investor who founders trust and can rely on.  In practice, this m
 
 <br/>
 
+
+### Pick Me!  Pick Me!
+
+Founders, here are some reasons to work with me:
+
+⛰️ Being a founder is hard. As a founder who has been through the venture-backed journey myself, from inception to exit, I believe I can be more aligned, more insightful, and more empathetic about the challenges you face than most investors without that experience.
+
+🔧 I can help tactically on almost all operational aspects of early-stage startups: go-to-market strategy, sales & marketing; culture & team-building; narrative creation & fund-raising.
+
+🕸There are a few topics that I have specific deep expertise in: data and API business models; capital markets & B2B fintech; starting and scaling network-effects businesses; and building successful data-centric organizations.
+
+🤝 I'm reasonably well-connected in the tech ecosystem, and can help with introductions to partners, talent, and down-stream investors including many well-known VC firms.
+
+
+----
+
+<br/>
+
 ### 📫 Founders, if this sounds like a fit, [please reach out!](/contact)    
 
 <br/>
