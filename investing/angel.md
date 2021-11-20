@@ -16,7 +16,7 @@ title: Angel Investing · Abraham Thomas
 
 <br/>
 
-### Working With Me
+### My Approach
 
 I aim to be an investor who founders trust and can rely on.  In practice, this means:
 
