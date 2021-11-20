@@ -272,11 +272,13 @@ The next thing I believe is that "value investing" does not work in venture:
 In this world, buying startups on the cheap usually means buying startups that are unlikely to deliver large outcomes.  Conversely, almost no price is too high to pay for the truly exceptional companies. 
 
 
-*Enough with the Venn diagrams, have a 2x2 instead!* 
+
 
 
 <img src="/assets/img/quality-vs-valuation_.jpg" class="image">
 
+
+<center>*Enough with the Venn diagrams, have a 2x2 instead!*</center>
 
 The challenge is seeing and getting a chance to invest in those exceptional companies on a consistent basis.  It's one thing if you're Benchmark, Sequoia, A16z or Tiger Global.  It's another thing entirely if you're a relatively low-profile angel investor in Toronto. 
 
