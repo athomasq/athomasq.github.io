@@ -25,7 +25,7 @@ Hellooo World!
 
 Jump to a section:
 
-* Introduction
+* [Introduction](/an-idiot-with-a-chequebook#1-introduction)
 * Caveats and Such-like
 * Zooming Out
 * Portfolio Construction
