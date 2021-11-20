@@ -307,11 +307,11 @@ The first is to swim upstream and invest "hilariously early", to use Hustle Fund
 
 ### Think different
 
-The second method is identifying startups where the founder, market, product and business are all great, but they fall into VC blind spots.  Startups helmed by women, minorities, recent immigrants, or just people outside the big-city/fancy-school tech networks often fall into this category.  
+The second method is identifying startups where the founder, market, product and business are all great, but they fall into VC blind spots.  Data businesses, saas-enabled marketplaces, and a few other hybrid models often fall into this category; so do startups helmed by women, minorities, recent immigrants, and people outside the big-city/known-school tech networks.  The best of them don't stay in that category long.
 
-So do data businesses, saas-enabled marketplaces, and a few other hybrid models.  These are all (correctly) labelled by VCs as "tougher" to execute than your classic simple saas, ecommerce or marketplace business, but I find that the best of them have strong compensatory advantages.
+IMAGE HERE
 
-Incidentally, these methods analogize nicely to meta-strategies that I'm familiar with from my time as a hedge fund investor.  Investing in blind-spot startups is just persistent-cognitive-bias arbitrage, and investing early is just risk-preference arbitrage.  To a quant with a hammer, everything looks like a nail.
+[Incidentally, these methods analogize nicely to meta-strategies that I'm familiar with from my time as a hedge fund investor.  Investing in blind-spot startups is just persistent-cognitive-bias arbitrage, and investing early is just risk-preference arbitrage.  To a quant with a hammer, everything looks like a nail.]
 
 My markups so far suggest that this approach is working, but you can't eat markups. 
 
@@ -461,9 +461,8 @@ On the other side, I don't really care about false positives.  I expect 50% of m
 Yet another piece of evidence that I need to improve my dealflow is my "win rate".  So far I haven't had any problem getting allocation into any deal I've wanted to participate in.  This probably has several causes: the general paucity of angel investors in Toronto (less competition for me), my credentials as a successful exited founder, the small size of my cheques etc.  But it's also probably because I'm simply not participating in (because I don't see) the most competitive rounds. 
 
 Apart from my anti-portfolio, I think my biggest weakness is a bias towards complexity.  Sometimes the simple and obvious solutions make the best investments; a lesson I'm still learning.    
-<!-- 
-This might be a hangover from my hedge fund days.  In public markets, if an opportunity is obvious, it will be arbitraged away; therefore you need to be contrarian to make money.  One way to do that is to embrace complexity that others avoid.  Early stage markets are not like that! 
--->
+
+[This might be a hangover from my hedge fund days.  In public markets, if an opportunity is obvious, it will be arbitraged away; therefore you need to be contrarian to make money.  One way to do that is to embrace complexity that others avoid.  Early stage markets are not like that!]
 
 [Back to Top ↩](/an-idiot-with-a-chequebook#table-of-contents)
 
