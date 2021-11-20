@@ -48,7 +48,10 @@ https://abrahamthomas.info/bond-arbitrage/
 
 📫 **Founders, if this sounds like a fit, [please reach out!](mailto:athos1@gmail.com)**    
 
+
+<!--
 🌐 I'm also building out my network, and welcome inquiries from fellow angels looking for co-investors, doing diligence, or simply sharing ideas.  
+-->
 
 <!-- portfolio, more about, co-investing --> 
 
@@ -64,14 +67,29 @@ https://abrahamthomas.info/bond-arbitrage/
 Here are a few topics I have particularly deep professional expertise in:
 
 ⚖️ B2B and SaaS-enabled marketplaces  
-🔢 Data business models and the modern data ecosystem  
+🔢 Data and API business models and the modern data ecosystem  
 👩‍💻 Designing, building and scaling effective data organizations  
+💳 Capital markets and B2B fintech  
 🏧 Modern quantitative and quantamental investing  
 🛰️ Alternative data and untapped sources of alpha  
-💳 Capital markets and B2B fintech  
 🦄 Building a venture-funded startup outside the Bay Area  
 
 
+<br/>
+
+-----
+
+<br/>	
+
+
+### Media
+
+
+My work at Quandl has been covered by the Wall Street Journal, the Financial Times, the Economist, CNBC, Bloomberg, Forbes, Business Insider, Quartz, the Globe and Mail (Canada) and many others. You can see a full list of articles [here](/press).
+
+I often speak at conferences, seminars and other public events. Recent seminar venues include asset managers Winton, OTPP, CPPIB, UBS and Franklin Templeton; conferences include Strata, AIDST, Princeton and Montgomery; and tech events include Toronto City Hall, TechTO, and the Toronto Stock Exchange. You can see a full list of talks [here](/talks).
+
+For press and speaker inquires, please [email me](mailto:athos1@gmail.com).
 
 <br/>
 
@@ -94,23 +112,6 @@ Topics I advise on include:
 
 
 To inquire about professional services, please [email me](mailto:athos1@gmail.com).
-
-
-<br/>
-
------
-
-<br/>	
-
-
-### Media
-
-
-My work at Quandl has been covered by the Wall Street Journal, the Financial Times, the Economist, CNBC, Bloomberg, Forbes, Business Insider, Quartz, the Globe and Mail (Canada) and many others. You can see a full list of articles [here](/press).
-
-I often speak at conferences, seminars and other public events. Recent seminar venues include asset managers Winton, OTPP, CPPIB, UBS and Franklin Templeton; conferences include Strata, AIDST, Princeton and Montgomery; and tech events include Toronto City Hall, TechTO, and the Toronto Stock Exchange. You can see a full list of talks [here](/talks).
-
-For press and speaker inquires, please [email me](mailto:athos1@gmail.com).
 
 
 <br/>
