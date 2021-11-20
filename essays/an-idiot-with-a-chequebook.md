@@ -22,8 +22,8 @@ title: An Idiot With A Chequebook
 
 
 * [Introduction](/an-idiot-with-a-chequebook#1-introduction)
-* [Caveats](/an-idiot-with-a-chequebook#2-caveats-disclaimers-and-other-mealy-mouthed-hedges)
-* [Zooming Out](/an-idiot-with-a-chequebook#3-high-level-motivation)
+* [Caveats](/an-idiot-with-a-chequebook#2-caveats)
+* [Motivation](/an-idiot-with-a-chequebook#3-high-level-motivation)
 * [Portfolio Construction](/an-idiot-with-a-chequebook#4-portfolio-construction)
 * [Funnel Statistics](/an-idiot-with-a-chequebook#5-funnel-statistics)
 * [Company Selection](/an-idiot-with-a-chequebook#6-company-selection)
@@ -61,11 +61,14 @@ This is the expanded version of this essay, with copious editorial commentary.  
 
 <br/>
 
-## 2. Caveats, Disclaimers, and Other Mealy-Mouthed Hedges
+## 2. Caveats
+
+
+Caveats, disclaimers, and other mealy-mouthed hedges:
 
 * None of this is remotely statistically significant.  I wouldn't advise drawing any sort of conclusions from my process, portfolio, or results so far.
 
-* I'm an experienced investor in public markets (former hedge fund manager) and I know a fair bit about startups (successful exited founder) but I'm not a professional venture investor.  This puts me firmly in the Dunning-Kruger danger zone for this stuff.  Some of what I hypothesize is likely to be obvious; and some of it is likely to be flat out wrong.
+* I'm an experienced investor in public markets and I know a fair bit about running startups, but I'm not a professional venture investor.  This puts me firmly in the Dunning-Kruger danger zone for this stuff.  Some of what I hypothesize is likely to be obvious; and some of it is likely to be flat out wrong.
 
 * I'm trying hard not to be a tourist or trend-chaser, but it's hard to disentangle skill, luck, unsustainable market dynamics, and genuine macro trends.
 
@@ -84,7 +87,7 @@ This is the expanded version of this essay, with copious editorial commentary.  
 
 ## 3. High-Level Motivation
 
-I began by examining my own motivations for angel investing.  Why am I even doing this?  There are 3-ish main reasons:
+I began by examining my own motivations for angel investing.  Why am I even doing this?  There are 3 main reasons:
 
 * **Macro thesis**: Tech is taking over the world.  I'm a tech optimist and I believe we're still really early in tech's adoption across industries and geographies.  I want to be part of that ride. 
 
@@ -186,7 +189,7 @@ What about traction?  Well, at the valuation ranges I invest, startups rarely ha
 
 After writing the above, I went back and scored my actual portfolio on a number of factors: team, market, product, macro trends, biz model, traction and valuation.  I also scored companies that I passed on after doing deep dives, to see what factors influenced my cut. 
 
-Empirically, it appears that I care about team, market and macro the most; product and biz model slightly less; and traction and valuation the least of all.  I thought I'd be pickier on business model, but it appears that I have faith that strong teams in big markets supported by powerful trends will figure it out.  Revealed preferences ftw!
+Empirically, it appears that I care about **team, market and macro** the most; product and biz model slightly less; and traction and valuation the least of all.  I thought I'd be pickier on business model, but it appears that I have faith that strong teams in big markets supported by powerful trends will figure it out.  Revealed preferences ftw!
 
 [Back to Top ↩](/an-idiot-with-a-chequebook#table-of-contents)
 
@@ -203,11 +206,11 @@ Empirically, it appears that I care about team, market and macro the most; produ
 
 I tell founders: "I try to help if I can, and get out of the way if I can't."  So far this seems to be working okay.  Pretty much every single founder I've invested in has reached out to me at some point to go deep into a particular problem they're facing, and the range of problems is wide. 
 
-On average I spend 2-3 hours with each of my portfolio companies every 2-3 months.  The topics which come up most often are go-to-market, narrative creation, recruiting and team structure, and financing strategy.  [2]
+On average I spend 2-3 hours with each of my portfolio companies every 2-3 months.  The topics which come up most often are go-to-market, narrative creation, recruiting and team structure, and financing strategy.
 
 What I'm still trying to figure out is whether this pull-based, problem-driven interaction is optimal, or if I can be more effective by being more proactive.  The challenge is to add that proactivity without projecting an unearned authority or a certainty that doesn't exist.  (Yes, this is pompous).  Ideally I'd like to apply the same transform to value-addition that I've done to portfolio construction: make it less ad hoc, and more intentional.
 
-The other thing which I'm still working on is the balance between supporting founders with advice and encouragement, and pushing founders to do more, move faster, aim bigger.  [3]
+The other thing which I'm still working on is the balance between supporting founders with advice and encouragement, and pushing founders to do more, move faster, aim bigger.
 
 [Back to Top ↩](/an-idiot-with-a-chequebook#table-of-contents)
 
@@ -220,7 +223,7 @@ The other thing which I'm still working on is the balance between supporting fou
 
 ## 8. Investment Edge
 
-If you don't know your edge, you're probably the sucker at the table.  Here are the things that I think comprise my edge:
+If you don't know your edge, you're probably the sucker at the table.  Here are the things that comprise my edge:
 
 * I don't have an exceptional volume of dealflow, but I think I have somewhat *differentiated* dealflow, especially in certain under-favoured categories.
 
@@ -228,11 +231,11 @@ If you don't know your edge, you're probably the sucker at the table.  Here are 
 
 * Given that I'm investing my own money, I don't care too much about logos, headlines or even horizons; I think this lets me invest in companies that many others wouldn't touch.
 
-* In my expert judgement (and I'm not being sarcastic here, or hiding behind false modesty), most VCs are terrible -- not just wrong, but glaringly incompetent -- at evaluating data businesses and also capital markets startups.  Admitted, venture is an uncertain business, and anybody can be mistaken (including me), but the lack of basic knowledge of these fields is startling -- and an opportunity to be exploited.  
+* In my expert judgement (and I'm not being sarcastic here, or hiding behind false modesty), most VCs are terrible -- not just wrong, but glaringly incompetent -- at evaluating data businesses and also capital markets startups.  Yes, venture is an uncertain business, and anybody can be mistaken (including me), but the lack of basic knowledge of these fields is startling -- and an opportunity to be exploited.  
 
 So this all works, in the sense of building a performant and differentiated portfolio.  What I wonder about sometimes is, does it suffice to generate outlier outcomes?  Time will tell.
 
-Zooming out, an angel's job is to see lots of companies, select the winners, get allocations, and help founders after the investment.  I'd rate myself average, good, good and above-average in those four competences; it gives me something to work on.
+Zooming out, an angel's job is to see companies, select winners, get allocations, and help founders.  I'd rate myself average, good, good and above-average in those four competences; it gives me something to work on.
 
 [Back to Top ↩](/an-idiot-with-a-chequebook#table-of-contents)
 
@@ -255,9 +258,9 @@ Let's start with the reasons.  Here's what I believe:
 
 ### Tech has huge unrealized upside
 
-* Tech is eating every industry, and we're still in the early stages of market penetration.  (The canonical example here is US e-commerce: despite all the success of Amazon, Shopify et al, it's still [less than 20%](https://fred.stlouisfed.org/series/ECOMPCTSA) of retail sales.  That's only going to go up.  And there's a whole world out there beyond the USA.)  There's a lot of value remaining to be created and captured as this transition continues.
+* Tech is eating every industry, and we're still in the early stages of market penetration.  (The canonical example here is US e-commerce: it's still [less than 20%](https://fred.stlouisfed.org/series/ECOMPCTSA) of retail sales.  That's only going to go up.  And there's a whole world out there beyond the USA.)  There's a lot of value remaining to be created and captured as this transition continues.
 
-* There's an abundance of capital looking for profitable opportunites (especially given close-to-zero interest rates), and much of it will be allocated to tech as it eats up more of the world.
+* There's an abundance of capital looking for profitable opportunites (especially given ZIRP and QE and friends), and much of it will be allocated to tech as it eats up more of the world.
 
 * As a result, terminal outcomes for tech startups are at least 2 orders of magnitude larger than almost anyone had ever anticipated.  And this propagates upstream, to the earliest stages of venture investing. 
 
@@ -460,7 +463,7 @@ As far as I know, I have not passed on any startup that's gone on to be super su
 
 On the other side, I don't really care about false positives.  I expect 50% of my companies to lose every dollar, and a further 25% to lose most of it.  The fact that so far this has not happened is perhaps a bit concerning -- either my calibration is off, or I'm not investing in risky-enough startups, or the market is unsustainably supportive.  (Or it could just be too soon; lemons ripen early but my portfolio is earlier still.)
 
-Yet another piece of evidence that I need to improve my dealflow is my "win rate".  So far I haven't had any problem getting allocation into any deal I've wanted to participate in.  This probably has several causes: the general paucity of angel investors in Toronto (less competition for me), my credentials as a successful exited founder, the small size of my cheques etc.  But it's also probably because I'm simply not participating in (because I don't see) the most competitive rounds. 
+Yet another piece of evidence that I need to improve my dealflow is my "win rate".  So far I haven't had any problem getting allocation into any deal I've wanted to participate in.  This probably has several causes: the general paucity of angel investors in Toronto (less competition for me), my credentials as a successful exited founder, my specialist knowledge of data-AI-API businesses, the small size of my cheques etc.  But it's also probably because I'm simply not participating in (because I don't see) the most competitive rounds. 
 
 Apart from my anti-portfolio, I think my biggest weakness is a bias towards complexity.  Sometimes the simple and obvious solutions make the best investments; a lesson I'm still learning.    
 
