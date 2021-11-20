@@ -21,24 +21,20 @@ title: An Idiot With A Chequebook
 ## Table of Contents:
 
 
-Hellooo World! 
-
-Jump to a section:
-
 * [Introduction](/an-idiot-with-a-chequebook#1-introduction)
-* Caveats and Such-like
-* Zooming Out
-* Portfolio Construction
-* Funnel Statistics
-* Company Selection
-* Post-Investment Support 
-* Investment Edge
-* Thoughts on Valuations
-* Valuations and Portfolio Positioning
-* My Portfolio
-* Portfolio Decomposition
-* Portfolio Performance
-* Anti-Portfolio and Mistakes
+* [Caveats](/an-idiot-with-a-chequebook#2-caveats-disclaimers-and-other-mealy-mouthed-hedges)
+* [Zooming Out](/an-idiot-with-a-chequebook#3-high-level-motivation)
+* [Portfolio Construction](/an-idiot-with-a-chequebook#4-portfolio-construction)
+* [Funnel Statistics](/an-idiot-with-a-chequebook#5-funnel-statistics)
+* [Company Selection](/an-idiot-with-a-chequebook#6-company-selection)
+* [Post-Investment Support ](/an-idiot-with-a-chequebook#7-post-investment-support)
+* [Investment Edge](/an-idiot-with-a-chequebook#8-investment-edge)
+* [Valuations](/an-idiot-with-a-chequebook#9-valuations)
+* [Positioning](/an-idiot-with-a-chequebook#10-portfolio-positioning)
+* [My Portfolio](/an-idiot-with-a-chequebook#11-my-portfolio)
+* [Decomposition](/an-idiot-with-a-chequebook#12-portfolio-decomposition)
+* [Performance](/an-idiot-with-a-chequebook#13-portfolio-performance)
+* [Anti-Portfolio and Mistakes](/an-idiot-with-a-chequebook#14-anti-portfolio-and-mistakes)
 
 
 ----
@@ -55,7 +51,11 @@ I’ve been angel investing, off and on, for close to a decade, but it’s only 
 
 These past 6-12 months have also seen some of the most stimulating developments in tech since the late 90s.  So I thought I'd share my portfolio statistics: partly in the spirit of building in public; partly to help others calibrate, but mostly just to serve as a record of some interesting times.  
 
-This is the expanded version of this essay, with stats and editorial commentary.  For the TLDR version with just the stats, [click here](https://abrahamthomas.info/rocket-ships-and-rising-tides/).
+This is the expanded version of this essay, with copious editorial commentary.  For the TLDR version with just the stats, [click here](https://abrahamthomas.info/checks-and-balances/).
+
+[Back to Top ↩](/an-idiot-with-a-chequebook#table-of-contents)
+
+<br/>
 
 ----
 
@@ -73,7 +73,12 @@ This is the expanded version of this essay, with stats and editorial commentary.
 
 * This essay is verbose, opinionated and self-indulgent, but it has its flaws as well.  
 
+[Back to Top ↩](/an-idiot-with-a-chequebook#table-of-contents)
+
+<br/>
+
 ----
+
 <br/>
 
 
@@ -92,9 +97,12 @@ It turns out you can put those 3 reasons neatly into an Ikigai-ish framework:
 
 <img src="/assets/img/angel-motivation_.jpg" class="image">
 
+[Back to Top ↩](/an-idiot-with-a-chequebook#table-of-contents)
 
+<br/>
 
 ----
+
 <br/>
 
 ## 4. Portfolio Construction
@@ -121,8 +129,12 @@ What I found every bit as useful as the target numbers themselves was understand
 
 Once written out, these conclusions seem obvious, but the exercise of modeling them out is super helpful (to me at least). 
 
+[Back to Top ↩](/an-idiot-with-a-chequebook#table-of-contents)
+
+<br/>
 
 ----
+
 <br/>
 
 
@@ -140,8 +152,12 @@ One interesting question is, how big does the top of my funnel need to be to sup
 
 Intuitively I feel like if I invest in say 1 out of every 100 companies I see, I should end up with a pretty good portfolio, but it's not completely obvious.  (I'm currently at 1 out of every 20, more or less.)
 
+[Back to Top ↩](/an-idiot-with-a-chequebook#table-of-contents)
+
+<br/>
 
 ----
+
 <br/>
 
 
@@ -170,8 +186,12 @@ After writing the above, I went back and scored my actual portfolio on a number 
 
 Empirically, it appears that I care about team, market and macro the most; product and biz model slightly less; and traction and valuation the least of all.  I thought I'd be pickier on business model, but it appears that I have faith that strong teams in big markets supported by powerful trends will figure it out.  Revealed preferences ftw!
 
+[Back to Top ↩](/an-idiot-with-a-chequebook#table-of-contents)
+
+<br/>
 
 ----
+
 <br/>
 
 
@@ -187,11 +207,13 @@ What I'm still trying to figure out is whether this pull-based, problem-driven i
 
 The other thing which I'm still working on is the balance between supporting founders with advice and encouragement, and pushing founders to do more, move faster, aim bigger.  [3]
 
+[Back to Top ↩](/an-idiot-with-a-chequebook#table-of-contents)
 
-----
 <br/>
 
+----
 
+<br/>
 
 
 ## 8. Investment Edge
@@ -210,12 +232,16 @@ So this all works, in the sense of building a performant and differentiated port
 
 Zooming out, an angel's job is to see lots of companies, select the winners, get allocations, and help founders after the investment.  I'd rate myself average, good, good and above-average in those four competences; it gives me something to work on.
 
+[Back to Top ↩](/an-idiot-with-a-chequebook#table-of-contents)
+
+<br/>
 
 ----
+
 <br/>
 
 
-## 9. Thoughts on Valuation
+## 9. Valuations
 
 *(Yes, what the world needs is another hot take on tech valuations.)*
 
@@ -254,13 +280,17 @@ The challenge is seeing and getting a chance to invest in those exceptional comp
 
 And if you don't pick the best of the best, the math is [extremely challenging](https://avc.com/2021/11/seed-rounds-at-100mm-post-money/). 
 
+[Back to Top ↩](/an-idiot-with-a-chequebook#table-of-contents)
+
+<br/>
 
 ----
+
 <br/>
 
 
 
-## #10. Valuation and Portfolio Positioning
+## #10. Portfolio Positioning
 
 
 So how do I square this circle?  I have two methods that work for me.  
@@ -283,10 +313,13 @@ Incidentally, these methods analogize nicely to meta-strategies that I'm familia
 
 My markups so far suggest that this approach is working, but you can't eat markups. 
 
-----
+[Back to Top ↩](/an-idiot-with-a-chequebook#table-of-contents)
+
 <br/>
 
+----
 
+<br/>
 
 
 ## 11. My Portfolio
@@ -317,9 +350,12 @@ My editor (me) says I should probably write a little more about them, so here's 
 
 I try to maintain a balance between narrow / small / safe investments, and wide / big / speculative investments.  (The terms are all relative of course; nothing I invest in is "safe".)
 
+[Back to Top ↩](/an-idiot-with-a-chequebook#table-of-contents)
 
+<br/>
 
 ----
+
 <br/>
 
 
@@ -351,8 +387,12 @@ At a high level, 16 of 22 founders come from an underrepresented slice.  But it'
 
 Listing them out like this, it does seem that "anything goes", as long as it's B2B or at best B2B2C.  I'm not sure this is wise; maybe I'd do better specializing?  
 
+[Back to Top ↩](/an-idiot-with-a-chequebook#table-of-contents)
+
+<br/>
 
 ----
+
 <br/>
 
 
@@ -385,6 +425,9 @@ The performance of these two portfolios has given me a little bit of encourageme
 
 
 
+[Back to Top ↩](/an-idiot-with-a-chequebook#table-of-contents)
+
+<br/>
 
 ----
 <br/>
@@ -407,9 +450,12 @@ Apart from my anti-portfolio, I think my biggest weakness is a bias towards comp
 This might be a hangover from my hedge fund days.  In public markets, if an opportunity is obvious, it will be arbitraged away; therefore you need to be contrarian to make money.  One way to do that is to embrace complexity that others avoid.  Early stage markets are not like that! 
 -->
 
+[Back to Top ↩](/an-idiot-with-a-chequebook#table-of-contents)
 
+<br/>
 
 ----
+
 <br/>
 
 
