@@ -16,7 +16,7 @@ title: Angel Investing · Abraham Thomas
 
 <br/>
 
-### My Approach To Investing
+### How I Invest
 
 I aim to be an investor who founders trust and can rely on.  In practice, this means:
 
@@ -31,7 +31,7 @@ I aim to be an investor who founders trust and can rely on.  In practice, this m
 
 <br/>
 
-### Investment Criteria
+### What I Invest In
 
 🔮 I invest in startups that are building a future I want to be part of, and I try to help them make that future a reality. Beyond that, there are no rules.
 
@@ -48,9 +48,7 @@ I aim to be an investor who founders trust and can rely on.  In practice, this m
 <br/>
 
 
-### Pick Me!  Pick Me!
-
-Founders, here are some reasons to work with me:
+### Why Work With Me?
 
 ❤️ **Empathy:** Being a founder is hard. As a founder who has been through the venture-backed journey myself, from inception to exit, I believe I can be more aligned, more insightful, and more empathetic about the challenges you face than most investors without that experience.
 
