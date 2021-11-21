@@ -23,7 +23,7 @@ title: An Idiot With A Chequebook
 
 * [Introduction](/an-idiot-with-a-chequebook#1-introduction)
 * [Caveats](/an-idiot-with-a-chequebook#2-caveats)
-* [Motivation](/an-idiot-with-a-chequebook#3-high-level-motivation)
+* [Goals](/an-idiot-with-a-chequebook#3-investment-goals)
 * [Portfolio Construction](/an-idiot-with-a-chequebook#4-portfolio-construction)
 * [Funnel Statistics](/an-idiot-with-a-chequebook#5-funnel-statistics)
 * [Company Selection](/an-idiot-with-a-chequebook#6-company-selection)
@@ -85,7 +85,7 @@ Caveats, disclaimers, and other mealy-mouthed hedges:
 <br/>
 
 
-## 3. High-Level Motivation
+## 3. Investment Goals
 
 I began by examining my own motivations for angel investing.  Why am I even doing this?  There are 3 main reasons:
 
