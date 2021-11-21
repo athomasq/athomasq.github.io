@@ -231,7 +231,7 @@ If you don't know your edge, you're probably the sucker at the table.  Here are 
 
 * Given that I'm investing my own money, I don't care too much about logos, headlines or even horizons; I think this lets me invest in companies that many others wouldn't touch.
 
-* In my expert judgement (and I'm not being sarcastic here, or hiding behind false modesty), most VCs are terrible -- not just wrong, but glaringly incompetent -- at evaluating data businesses and also capital markets startups.  Yes, venture is an uncertain business, and anybody can be mistaken (including me), but the lack of basic knowledge of these fields is startling -- and an opportunity to be exploited.  
+* In my expert judgement (and I'm not being sarcastic here, or hiding behind false modesty), most VCs are terrible -- not just wrong, but glaringly incompetent -- at evaluating data businesses and also capital markets startups.  This is an opportunity to be exploited.  
 
 So this all works, in the sense of building a performant and differentiated portfolio.  What I wonder about sometimes is, does it suffice to generate outlier outcomes?  Time will tell.
 
