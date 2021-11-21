@@ -18,7 +18,7 @@ title: Angel Investing · Abraham Thomas
 
 ### How I Invest
 
-I aim to be an investor who founders trust and can rely on.  In practice, this means:
+I aim to be an investor who founders trust and can rely on.  This means:
 
 * **Support:** I'm a resource for you beyond just my dollars.
 * **Expertise:** I'm happy to share any knowledge I have.  
