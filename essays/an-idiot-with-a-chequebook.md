@@ -250,7 +250,7 @@ Zooming out, an angel's job is to see companies, select winners, get allocations
 
 *(Yes, what the world needs is another hot take on tech valuations.)*
 
-Valuations, as any fule kno, have been going up across the board.  What does this imply for portfolio construction?  Should I chase the trend and pay whatever it takes to invest in good companies?  Or should I pull back and wait for the market to soften?
+Valuations, as any fule kno, have been going up across the board.  What does this imply for portfolio construction?  
 
 I believe that two things can be true at the same time: valuations are rising for reasons that are mostly legitimate, and it's hard(er) to make money investing at high(er) valuations.
 
