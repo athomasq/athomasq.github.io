@@ -52,11 +52,11 @@ I aim to be an investor who founders trust and can rely on.  This means:
 
 ❤️ **Empathy:** Being a founder is hard. As a founder who has been through the venture-backed journey myself, from inception to exit, I believe I can be more aligned, more insightful, and more empathetic about the challenges you face than most investors without that experience.
 
-🔧 **Execution:** I can help tactically on almost all operational aspects of early-stage startups: go-to-market strategy; sales & marketing; product & engineering; culture & team-building; narrative creation & positioning; and fund-raising.
+🔧 **Execution:** I can help tactically on almost all operational aspects of early-stage startups: product & engineering; sales & marketing; culture & team-building; go-to-market strategy; narrative creation & positioning; and fund-raising.
 
-🧠 **Knowledge:** There are a few topics that I have specific deep expertise in: data & API business models; capital markets & B2B fintech; starting & scaling network-effects businesses; and building successful data-centric organizations.
+🧠 **Knowledge:** There are a few topics that I have specific deep expertise in: data & API business models; data science & data engineering; capital markets & B2B fintech; starting & scaling network-effects businesses; and building successful data-centric organizations.
 
-🤝 **Networks:** I can help with introductions to potential team-mates, customers, partners, and down-stream investors including many well-known VC firms.
+🤝 **Networks:** I can help with introductions and references for potential customers, partners, job candidates, expert operators, and down-stream investors including many well-known VC firms.
 
 
 ----
