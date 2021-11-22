@@ -1,10 +1,10 @@
 ---
 layout: default
 permalink: /:basename/
-title: An Idiot With A Chequebook
+title: Investing In Public
 ---
 
-## An Idiot With A Chequebook
+## Investing In Public
 
 ----
 
@@ -20,22 +20,20 @@ title: An Idiot With A Chequebook
 
 ## Table of Contents
 
-
-* [Introduction](/an-idiot-with-a-chequebook#1-introduction)
-* [Caveats](/an-idiot-with-a-chequebook#2-caveats)
-* [Goals](/an-idiot-with-a-chequebook#3-investment-goals)
-* [Portfolio Construction](/an-idiot-with-a-chequebook#4-portfolio-construction)
-* [Funnel Statistics](/an-idiot-with-a-chequebook#5-funnel-statistics)
-* [Company Selection](/an-idiot-with-a-chequebook#6-company-selection)
-* [Post-Investment Support ](/an-idiot-with-a-chequebook#7-post-investment-support)
-* [Investment Edge](/an-idiot-with-a-chequebook#8-investment-edge)
-* [Valuations](/an-idiot-with-a-chequebook#9-valuations)
-* [Positioning](/an-idiot-with-a-chequebook#10-portfolio-positioning)
-* [My Portfolio](/an-idiot-with-a-chequebook#11-my-portfolio)
-* [Decomposition](/an-idiot-with-a-chequebook#12-portfolio-decomposition)
-* [Performance](/an-idiot-with-a-chequebook#13-portfolio-performance)
-* [Anti-Portfolio and Mistakes](/an-idiot-with-a-chequebook#14-anti-portfolio-and-mistakes)
-
+* [Introduction](/investing-in-public#1-introduction)
+* [Caveats and Warnings](/investing-in-public#2-caveats-and-warnings)
+* [Portfolio Modeling](/investing-in-public#3-portfolio-modeling)
+* [Funnel Statistics](/investing-in-public#4-funnel-statistics)
+* [Company Selection](/investing-in-public#5-company-selection)
+* [Investment Edge](/investing-in-public#6-investment-edge)
+* [Early Stage Valuations](/investing-in-public#7-early-stage-valuations)
+* [Conscious Positioning](/investing-in-public#8-conscious-positioning)
+* [My Portfolio](/investing-in-public#9-my-portfolio)
+* [Portfolio Decomposition](/investing-in-public#10-portfolio-decomposition)
+* [Post-Investment Support ](/investing-in-public#11-post-investment-support)
+* [Portfolio Performance](/investing-in-public#12-portfolio-performance)
+* [Anti-Portfolio and Mistakes](/investing-in-public#13-anti-portfolio-and-mistakes)
+* [Motivation and Goals](/investing-in-public#14-motivation-and-goals)
 
 ----
 
@@ -43,9 +41,9 @@ title: An Idiot With A Chequebook
 
 
 
-
-
 ## 1. Introduction
+
+Lots of people build in public, sharing their ups and downs.  Fewer people invest in public. 
 
 I’ve been angel investing, off and on, for close to a decade, but it’s only in the last 6 months or so that I’ve become more intentional and systematic about it.  
 
@@ -53,7 +51,7 @@ These past 6-12 months have also seen some of the most stimulating developments 
 
 This is the expanded version of this essay, with copious editorial commentary.  For the TLDR version with just the stats, [click here](https://abrahamthomas.info/checks-and-balances/).
 
-[Back to Top ↩](/an-idiot-with-a-chequebook#table-of-contents)
+[Back to Top ↩](/investing-in-public#table-of-contents)
 
 <br/>
 
@@ -61,7 +59,7 @@ This is the expanded version of this essay, with copious editorial commentary.  
 
 <br/>
 
-## 2. Caveats
+## 2. Caveats and Warnings
 
 
 Caveats, disclaimers, and other mealy-mouthed hedges:
@@ -76,7 +74,9 @@ Caveats, disclaimers, and other mealy-mouthed hedges:
 
 * This essay is verbose, opinionated and self-indulgent, but it has its flaws as well.  
 
-[Back to Top ↩](/an-idiot-with-a-chequebook#table-of-contents)
+[Back to Top ↩](/investing-in-public#table-of-contents)
+
+
 
 <br/>
 
@@ -84,31 +84,7 @@ Caveats, disclaimers, and other mealy-mouthed hedges:
 
 <br/>
 
-
-## 3. Investment Goals
-
-I began by examining my own motivations for angel investing.  Why am I even doing this?  There are 3 main reasons:
-
-* **Macro thesis**: Tech is taking over the world.  I'm a tech optimist and I believe we're still really early in tech's adoption across industries and geographies.  I want to be part of that ride. 
-
-* **Micro thesis**: I think I have certain structural advantages as an angel investor.
-
-* **The real reason**: I enjoy it, it's intellectually stimulating and emotionally rewarding, I think I can actually make a difference, and maybe even make some money.  
-
-It turns out you can put those 3 reasons neatly into an Ikigai-ish framework:
-
-
-<img src="/assets/img/angel-motivation_.jpg" class="image">
-
-[Back to Top ↩](/an-idiot-with-a-chequebook#table-of-contents)
-
-<br/>
-
-----
-
-<br/>
-
-## 4. Portfolio Construction
+## 3. Portfolio Modeling
 
 *"Without thoughtful [portfolio] construction, all you have is a pile of stones"* -- [Jerry Neumann](http://reactionwheel.net), liberally paraphrased
 
@@ -132,7 +108,7 @@ What I found every bit as useful as the target numbers themselves was understand
 
 Once written out, these conclusions seem obvious, but the exercise of modeling them out is super helpful (to me at least). 
 
-[Back to Top ↩](/an-idiot-with-a-chequebook#table-of-contents)
+[Back to Top ↩](/investing-in-public#table-of-contents)
 
 <br/>
 
@@ -141,7 +117,7 @@ Once written out, these conclusions seem obvious, but the exercise of modeling t
 <br/>
 
 
-## 5. Funnel Statistics
+## 4. Funnel Statistics
 
 Here's what my funnel looks like over the last 6 months:
 
@@ -155,7 +131,7 @@ One interesting question is, how big does the top of my funnel need to be to sup
 
 Intuitively I feel like if I invest in say 1 out of every 100 companies I see, I should end up with a pretty good portfolio, but it's not completely obvious.  (I'm currently at 1 out of every 20, more or less.)
 
-[Back to Top ↩](/an-idiot-with-a-chequebook#table-of-contents)
+[Back to Top ↩](/investing-in-public#table-of-contents)
 
 <br/>
 
@@ -164,7 +140,7 @@ Intuitively I feel like if I invest in say 1 out of every 100 companies I see, I
 <br/>
 
 
-## 6. Company Selection
+## 5. Company Selection
 
 Should I pick based on team, or product, or market?  I like Andy Weissman's answer: **why choose?**  
 
@@ -191,7 +167,7 @@ After writing the above, I went back and scored my actual portfolio on a number 
 
 Empirically, it appears that I care about **team, market and macro** the most; product and biz model slightly less; and traction and valuation the least of all.  I thought I'd be pickier on business model, but it appears that I have faith that strong teams in big markets supported by powerful trends will figure it out.  Revealed preferences ftw!
 
-[Back to Top ↩](/an-idiot-with-a-chequebook#table-of-contents)
+[Back to Top ↩](/investing-in-public#table-of-contents)
 
 <br/>
 
@@ -200,28 +176,7 @@ Empirically, it appears that I care about **team, market and macro** the most; p
 <br/>
 
 
-## 7. Post-Investment Support
-
-*(This entire section probably massively overestimates how much influence I have and how often my portfolio founders even think of me.)*
-
-I tell founders: "I try to help if I can, and get out of the way if I can't."  So far this seems to be working okay.  Pretty much every single founder I've invested in has reached out to me at some point to go deep into a particular problem they're facing, and the range of problems is wide. 
-
-On average I spend 2-3 hours with each of my portfolio companies every 2-3 months.  The topics which come up most often are go-to-market, narrative creation, recruiting and team structure, and financing strategy.
-
-What I'm still trying to figure out is whether this pull-based, problem-driven interaction is optimal, or if I can be more effective by being more proactive.  The challenge is to add that proactivity without projecting an unearned authority or a certainty that doesn't exist.  (Yes, this is pompous).  Ideally I'd like to apply the same transform to value-addition that I've done to portfolio construction: make it less ad hoc, and more intentional.
-
-The other thing which I'm still working on is the balance between supporting founders with advice and encouragement, and pushing founders to do more, move faster, aim bigger.
-
-[Back to Top ↩](/an-idiot-with-a-chequebook#table-of-contents)
-
-<br/>
-
-----
-
-<br/>
-
-
-## 8. Investment Edge
+## 6. Investment Edge
 
 If you don't know your edge, you're probably the sucker at the table.  Here are the things that comprise my edge:
 
@@ -237,7 +192,7 @@ So this all works, in the sense of building a performant and differentiated port
 
 Zooming out, an angel's job is to see companies, select winners, get allocations, and help founders.  I'd rate myself average, good, good and above-average in those four competences; it gives me something to work on.
 
-[Back to Top ↩](/an-idiot-with-a-chequebook#table-of-contents)
+[Back to Top ↩](/investing-in-public#table-of-contents)
 
 <br/>
 
@@ -246,7 +201,7 @@ Zooming out, an angel's job is to see companies, select winners, get allocations
 <br/>
 
 
-## 9. Valuations
+## 7. Early Stage Valuations
 
 *(Yes, what the world needs is another hot take on tech valuations.)*
 
@@ -275,11 +230,7 @@ The next thing I believe is that "value investing" does not work in venture:
 In this world, buying startups on the cheap usually means buying startups that are unlikely to deliver large outcomes.  Conversely, almost no price is too high to pay for the truly exceptional companies. 
 
 
-
-
-
 <img src="/assets/img/quality-vs-valuation_.jpg" class="image">
-
 
 <center><i>Enough with the Venn diagrams, have a 2x2 instead!</i></center>
 
@@ -287,7 +238,7 @@ The challenge is seeing and getting a chance to invest in those exceptional comp
 
 And if you don't pick the best of the best, the math is [extremely challenging](https://avc.com/2021/11/seed-rounds-at-100mm-post-money/). 
 
-[Back to Top ↩](/an-idiot-with-a-chequebook#table-of-contents)
+[Back to Top ↩](/investing-in-public#table-of-contents)
 
 <br/>
 
@@ -297,7 +248,7 @@ And if you don't pick the best of the best, the math is [extremely challenging](
 
 
 
-## #10. Portfolio Positioning
+## #8. Conscious Positioning
 
 
 So how do I square this circle?  I have two methods that work for me.  
@@ -320,7 +271,7 @@ IMAGE HERE
 
 My markups so far suggest that this approach is working, but you can't eat markups. 
 
-[Back to Top ↩](/an-idiot-with-a-chequebook#table-of-contents)
+[Back to Top ↩](/investing-in-public#table-of-contents)
 
 <br/>
 
@@ -329,7 +280,7 @@ My markups so far suggest that this approach is working, but you can't eat marku
 <br/>
 
 
-## 11. My Portfolio
+## 9. My Portfolio
 
 My companies are the best.  
 
@@ -370,7 +321,7 @@ My editor (me) says I should probably write a little more about them, so here's 
 
 I try to maintain a balance between narrow / small / safe investments, and wide / big / speculative investments.  (The terms are all relative of course; nothing I invest in is "safe".)
 
-[Back to Top ↩](/an-idiot-with-a-chequebook#table-of-contents)
+[Back to Top ↩](/investing-in-public#table-of-contents)
 
 <br/>
 
@@ -379,7 +330,7 @@ I try to maintain a balance between narrow / small / safe investments, and wide 
 <br/>
 
 
-## 12. Portfolio Decomposition
+## 10. Portfolio Decomposition
 
 Here are a few different ways to slice my portfolio.
 
@@ -407,7 +358,7 @@ At a high level, 16 of 22 founders come from an underrepresented slice.  But it'
 
 Listing them out like this, it does seem that "anything goes", as long as it's B2B or at best B2B2C.  I'm not sure this is wise; maybe I'd do better specializing?  
 
-[Back to Top ↩](/an-idiot-with-a-chequebook#table-of-contents)
+[Back to Top ↩](/investing-in-public#table-of-contents)
 
 <br/>
 
@@ -416,7 +367,29 @@ Listing them out like this, it does seem that "anything goes", as long as it's B
 <br/>
 
 
-## 13. Portfolio Performance
+## 11. Post-Investment Support
+
+*(This entire section probably massively overestimates how much influence I have and how often my portfolio founders even think of me.)*
+
+I tell founders: "I try to help if I can, and get out of the way if I can't."  So far this seems to be working okay.  Pretty much every single founder I've invested in has reached out to me at some point to go deep into a particular problem they're facing, and the range of problems is wide. 
+
+On average I spend 2-3 hours with each of my portfolio companies every 2-3 months.  The topics which come up most often are go-to-market, narrative creation, recruiting and team structure, and financing strategy.
+
+What I'm still trying to figure out is whether this pull-based, problem-driven interaction is optimal, or if I can be more effective by being more proactive.  The challenge is to add that proactivity without projecting an unearned authority or a certainty that doesn't exist.  (Yes, this is pompous).  Ideally I'd like to apply the same transform to value-addition that I've done to portfolio construction: make it less ad hoc, and more intentional.
+
+The other thing which I'm still working on is the balance between supporting founders with advice and encouragement, and pushing founders to do more, move faster, aim bigger.
+
+[Back to Top ↩](/investing-in-public#table-of-contents)
+
+<br/>
+
+----
+
+<br/>
+
+
+
+## 12. Portfolio Performance
 
 (Admit it, this is the only section most of you care about.)
 
@@ -445,7 +418,7 @@ The performance of these two portfolios has given me a little bit of encourageme
 
 
 
-[Back to Top ↩](/an-idiot-with-a-chequebook#table-of-contents)
+[Back to Top ↩](/investing-in-public#table-of-contents)
 
 <br/>
 
@@ -454,8 +427,7 @@ The performance of these two portfolios has given me a little bit of encourageme
 
 
 
-
-## 14. Anti-Portfolio and Mistakes
+## 13. Anti-Portfolio and Mistakes
 
 There's two types of antiportfolio: companies you pass on, and companies you don't even see.
 
@@ -469,7 +441,7 @@ Apart from my anti-portfolio, I think my biggest weakness is a bias towards comp
 
 [This might be a hangover from my hedge fund days.  In public markets, if an opportunity is obvious, it will be arbitraged away; therefore you need to be contrarian to make money.  One way to do that is to embrace complexity that others avoid.  Early stage markets are not like that!]
 
-[Back to Top ↩](/an-idiot-with-a-chequebook#table-of-contents)
+[Back to Top ↩](/investing-in-public#table-of-contents)
 
 <br/>
 
@@ -478,4 +450,28 @@ Apart from my anti-portfolio, I think my biggest weakness is a bias towards comp
 <br/>
 
 
+
+## 14. Motivation and Goals
+
+Going through this exercise helped me examine my own motivations for angel investing.  Why am I even doing this?  There are 3 main reasons:
+
+* **Macro thesis**: Tech is taking over the world.  I'm a tech optimist and I believe we're still really early in tech's adoption across industries and geographies.  I want to be part of that ride. 
+
+* **Micro thesis**: I think I have certain structural advantages as an angel investor.
+
+* **The real reason**: I enjoy it, it's intellectually stimulating and emotionally rewarding, I think I can actually make a difference, and maybe even make some money.  
+
+It turns out you can put those 3 reasons neatly into an Ikigai-ish framework:
+
+
+<img src="/assets/img/angel-motivation_.jpg" class="image">
+
+[Back to Top ↩](/investing-in-public#table-of-contents)
+
+
+<br/>
+
+----
+
+<br/>
 
