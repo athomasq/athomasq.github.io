@@ -43,7 +43,22 @@ title: Investing In Public
 
 ## 1. Introduction
 
-Lots of people build in public, sharing their ups and downs.  Fewer people invest in public. 
+Lots of people build in public, sharing the ups and downs of the founder journey.  Far fewer invest in public.  
+
+Why is that?  Brand protection -- failure is not a badge of honour; competitive secrecy; abashedness -- being able to invest is a position of privilege, and many don't .
+
+Self promotion - I backed X in an early round
+Selection biase
+
+I've been angel investing, 
+
+Part. of that increased intent has been 
+and I thought I'd share what I'm doing: partly to fill the "investing in "
+
+I've been angel investing, off and on, for close to a decade, but it's only in the last 6 months or so that I've become more intentional and systematic about it.  One aspect of this is more careful measurement of everything I do; and in the spirit of "building in public", I thought I'd share some high-level portfolio stats.  
+
+Note that these stats are about process, not about outcomes.  I've tried to keep editorial commentary to a minimum; but you can read an expanded version of this post with commentary here.  
+
 
 I’ve been angel investing, off and on, for close to a decade, but it’s only in the last 6 months or so that I’ve become more intentional and systematic about it.  
 
