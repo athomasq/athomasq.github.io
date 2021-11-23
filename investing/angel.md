@@ -35,7 +35,7 @@ I aim to be an investor who founders trust and can rely on.  This means:
 
 🔮 I invest in startups that are building a future I want to be part of, and I try to help them make that future a reality. Beyond that, there are no rules.
 
-🔥 Team ability and macro trends matter the most to me. Big ideas and innovative tech are also attractive. Traction is useful but not as important. 
+🔥 Team ability and macro trends matter the most to me. Big ideas and innovative tech are also important. Traction is useful but not as relevant. 
 
 🌎 I'm flexible on geography, industry, and business model. I prefer B2B to consumer. About half my portfolio is in Canada, and half outside it.
 
