@@ -195,6 +195,11 @@ Empirically, it appears that I care about **team, market and macro** the most; p
 
 If you don't know your edge, you're probably the sucker at the table.  Here are the things that comprise my edge:
 
+
+Founder judgement
+Professional investor
+Deep tech
+
 * I don't have an exceptional volume of dealflow, but I think I have somewhat *differentiated* dealflow, especially in certain under-favoured categories.
 
 * I think my own experience as a (successful) venture-backed tech founder helps me evaluate founders differently from most non-founders, let alone investors with zero startup operating experience, especially at the very earliest stages.
