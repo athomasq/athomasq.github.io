@@ -18,16 +18,20 @@ title: Angel Portfolio · Abraham Thomas
 
 ### Current Portfolio: 2019-2021
 
-🤝 [AcuSpire](https://acuspire.ai/)  
-🏡 [BuyProperly](https://buyproperly.ca/)  
-🏫 [Canopy](https://www.canopyanalytics.com/)  
-🏗️ [Citylitics](https://citylitics.com/)  
 🧠 [Daloopa](https://www.daloopa.com/)  
-💡 [Daylite](https://www.daylite.ai)  
-🚚 [Erly](https://www.geterly.com)  
 🏢 [Mero](https://mero.co/)  
-🖥️ [Setyl](https://www.setyl.com/)  
 🌏 [Terra.do](https://terra.do)  
+🖥️ [Setyl](https://www.setyl.com/)  
+🏫 [Canopy](https://www.canopyanalytics.com/)  
+🏡 [BuyProperly](https://buyproperly.ca/)  
+🏗️ [Citylitics](https://citylitics.com/)  
+🤝 [AcuSpire](https://acuspire.ai/)  
+💡 [Getware](https://www.getware.ai)  
+🚚 [Erly](https://www.geterly.com)  
+💳 [Klanto](https://www.klanto.com)  
+🛒 [Arima](https://www.arimadata.com)  
+💵 [Requity](https://www.requityhomes.com)  
+⛵️ [Paysail](https://paysail.us)  
 
 
 ----
