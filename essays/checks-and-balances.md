@@ -4,7 +4,7 @@ permalink: /:basename/
 title: Checks and Balances
 ---
 
-## Checks and Balances: My Angel Portfolio
+## Angel Investing Year In Review
 
 ----
 
@@ -14,15 +14,11 @@ title: Checks and Balances
 
 <br/>
 
-### Interesting Times
+### Introduction
 
-I’ve been angel investing, off and on, for close to a decade, but it’s only in the last 6 months or so that I’ve become more intentional and systematic about it.  
+I’ve been angel investing, off and on, for close to a decade, but it’s only in the last 8 months that I’ve become more intentional and systematic about it.  Part of that involves keeping better records, and so in the spirit of building in public, I thought I'd share some of my portfolio metrics.
 
-These past 6-12 months have also seen some of the most stimulating developments in tech since the late 90s.  So I thought I'd share my portfolio statistics: partly in the spirit of building in public; partly to help others calibrate, but mostly just to serve as a record of some interesting times.  
-
-Obviously, none of this is remotely statistically significant.
-
-<!-- *This is the TLDR version of this essay, with just the stats.  To read an expanded version with editorial commentary, click here.* -->
+This is the TLDR version of this essay, with just the stats.  To read an expanded version with (way too much) editorial commentary, click here.  Obviously, none of this is remotely statistically significant, but hopefully it's interesting despite that.
 
 
 ----
@@ -31,11 +27,20 @@ Obviously, none of this is remotely statistically significant.
 
 ### Funnel Stats
 
-Here's what my funnel has looked like over the last 6 months:
+Here's what my funnel has looked like over the last 8 months:
 
 <img src="/assets/img/funnel-stats.jpg" class="image">
 
-These 3 investments join the 7 investments I made in the preceding 2 years, giving me a portfolio of 10 companies (so far). 
+
+87 deals seen
+39 initial calls
+14 deep dives
+7 yes (GEKRAPT) 
+
+
+? arima paysail tripleplay
+
+These 7 investments join the 8 investments I made in the preceding 2 years, giving me a portfolio of 15 companies (so far). 
 
 Unfortunately, I didn't track my funnel prior to this spring, so I don't know how this has evolved over time. 
 
@@ -83,7 +88,7 @@ By founder demographics:
 
 ### Portfolio Performance
 
-Here's a table showing markups and IRR by year of investment.  (Markups are based on latest closed rounds.)
+Here's a table showing markups and IRR by year of investment. 
 
 <img src="/assets/img/irr-table.png" class="image">
 
