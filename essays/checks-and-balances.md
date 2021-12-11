@@ -16,10 +16,7 @@ title: Checks and Balances
 
 ### Introduction
 
-I’ve been angel investing, off and on, for close to a decade, but it’s only in the last 8 months that I’ve become more intentional and systematic about it.  Part of that involves keeping better records, and so in the spirit of building in public, I thought I'd share some of my portfolio metrics.
-
-This is the TLDR version of this essay, with just the stats.  To read an expanded version with (way too much) editorial commentary, click here.  Obviously, none of this is remotely statistically significant, but hopefully it's interesting despite that.
-
+Here are some stats from my first full year of "serious" angel investing.  
 
 ----
 <br/>
@@ -40,7 +37,7 @@ Here's what my funnel has looked like over the last 8 months:
 
 ? arima paysail tripleplay
 
-These 7 investments join the 8 investments I made in the preceding 2 years, giving me a portfolio of 15 companies (so far). 
+These 7 investments join the 8 investments I made in the preceding 2 years, giving me a portfolio of 15 companies. 
 
 Unfortunately, I didn't track my funnel prior to this spring, so I don't know how this has evolved over time. 
 
@@ -48,23 +45,42 @@ Unfortunately, I didn't track my funnel prior to this spring, so I don't know ho
 ----
 <br/>
 
+### Portfolio Construction
 
-### Portfolio Goals
-
-I've become a lot more deliberate about portfolio construction in recent months.  Here's the framework I use:
+I've become a lot more deliberate about portfolio construction in recent months.  Here's the framework I try to adhere to:
 
 <img src="/assets/img/portfolio-parameters.jpg" class="image">
 
-Within these companies, I aim to achieve a power-law-ish distribution of outcomes: 
 
-<img src="/assets/img/distribution-outcomes.jpg" class="image">
+----
+<br/>
+
+### Company Selection
+
+I did a (post facto, completely subjective) scoring of my portfolio companies.  Empirically, it turns out that
+
+
+
+
+
+
+----
+<br/>
+
+### Entry Valuations
+
+
+Graph over time
+
+2 out of 3
+
 
 
 ----
 <br/>
 
 
-### Portfolio Composition
+### Portfolio Decomposition
 
 Here are a few different ways to slice my portfolio.
 
@@ -88,19 +104,38 @@ By founder demographics:
 
 ### Portfolio Performance
 
-Here's a table showing markups and IRR by year of investment. 
+Here's a table showing markups and IRR by year of investment.  
 
 <img src="/assets/img/irr-table.png" class="image">
 
-So far the distribution of individual-company markups seems to follow a power law reasonably closely:
 
-<img src="/assets/img/distribution-markups.jpg" class="image">
 
 Of course, it can't be emphasized enough that these numbers are mostly meaningless, given the short timespans involved. 
 
 
-<br/>
+----
 <br/>
 
+### Outcome Distributions
+
+I aim to achieve a power-law-ish distribution of terminal outcomes, like this: 
+
+<img src="/assets/img/distribution-outcomes.jpg" class="image">
+
+Here's the distribution of individual-company markups so far:
+
+<img src="/assets/img/distribution-markups.jpg" class="image">
+
+So far, so good.
+
+
+----
+<br/>
+
+### Further Reading
+
+This is the TLDR version of this essay, with just the stats.  To read an expanded version with (way too much) editorial commentary, click here.  
+
+If there;s any other information you;d like to see, I'd be happy to share; jsut email me. 
 
 
