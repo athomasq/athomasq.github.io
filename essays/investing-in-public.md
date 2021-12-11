@@ -495,3 +495,12 @@ It turns out you can put those 3 reasons neatly into an Ikigai-ish framework:
 
 <br/>
 
+
+
+
+
+
+areas for improvement
+decision process
+actual valuations
+big pic portfolio
