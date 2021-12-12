@@ -17,7 +17,7 @@ title: Investing In Public
 
 <br/>
 
-
+<!--
 ## Table of Contents
 
 * [Introduction](/investing-in-public#1-introduction)
@@ -39,32 +39,41 @@ title: Investing In Public
 
 <br/>
 
+-->
+
+## 0. Warning: Here Be Verbiage
+
+This is the expanded version of this essay, with copious editorial commentary.  For the TLDR version with just the stats, [click here](https://abrahamthomas.info/checks-and-balances/).
+
+<br/>
+
+----
+
+<br/>
 
 
 ## 1. Introduction
 
+I've been angel investing, off and on, for close to a decade, but it's only in the last year or so that I've become more intentional and systematic about it.  One aspect of this is more careful measurement of everything I do; and in the spirit of "building in public", I thought I'd share some high-level portfolio stats and commentary.  
+
+Be warned that the commentary is copious and unfiltered.  Think of it as a combination of an internal memo on process, an investor letter to my sole LP (myself), a documentary, and a record of some interesting times.
+
+
+<br/>
+
+----
+
+<br/>
+
+
+## 2. Why Invest in Public?
+
 Lots of people build in public, sharing the ups and downs of the founder journey.  Far fewer invest in public.  
 
-Why is that?  Brand protection -- failure is not a badge of honour; competitive secrecy; abashedness -- being able to invest is a position of privilege, and many don't .
+Why is that?  A mix of reasons.  There's reputation: failure is not a badge of honour for investors the way it can be for founders.  There's competition: the market is awash with capital, so why give away your secrets to your rivals?  And there's reticence: being able to angel invest is a privilege, and many don't want to flaunt that.
 
-Self promotion - I backed X in an early round
-Selection biase
+(The exception of course is the all-too-common humblebrag when a company exits: "Proud to be an early investor in Acme Corp, which is IPOing today.")  
 
-I've been angel investing, 
-
-Part. of that increased intent has been 
-and I thought I'd share what I'm doing: partly to fill the "investing in "
-
-I've been angel investing, off and on, for close to a decade, but it's only in the last 6 months or so that I've become more intentional and systematic about it.  One aspect of this is more careful measurement of everything I do; and in the spirit of "building in public", I thought I'd share some high-level portfolio stats.  
-
-Note that these stats are about process, not about outcomes.  I've tried to keep editorial commentary to a minimum; but you can read an expanded version of this post with commentary here.  
-
-
-I’ve been angel investing, off and on, for close to a decade, but it’s only in the last 6 months or so that I’ve become more intentional and systematic about it.  
-
-These past 6-12 months have also seen some of the most stimulating developments in tech since the late 90s.  So I thought I'd share my portfolio statistics: partly in the spirit of building in public; partly to help others calibrate, but mostly just to serve as a record of some interesting times.  
-
-This is the expanded version of this essay, with copious editorial commentary.  For the TLDR version with just the stats, [click here](https://abrahamthomas.info/checks-and-balances/).
 
 [Back to Top ↩](/investing-in-public#table-of-contents)
 
@@ -74,23 +83,22 @@ This is the expanded version of this essay, with copious editorial commentary.  
 
 <br/>
 
-## 2. Caveats and Warnings
+## 3. Caveats, Disclaimers, and Other Mealy-Mouthed Hedges
 
 
-Caveats, disclaimers, and other mealy-mouthed hedges:
+I'm an experienced investor in public markets and I know a fair bit about running startups, but I'm not a professional venture investor.  This puts me firmly in the Dunning-Kruger danger zone for this stuff.  
 
-* None of this is remotely statistically significant.  I wouldn't advise drawing any sort of conclusions from my process, portfolio, or results so far.
+Some of what I hypothesize is likely to be obvious; and some of it is likely to be flat out wrong.  I'm trying hard not to be a tourist or trend-chaser, but it's hard to disentangle skill, luck, unsustainable market dynamics, and genuine macro trends.
 
-* I'm an experienced investor in public markets and I know a fair bit about running startups, but I'm not a professional venture investor.  This puts me firmly in the Dunning-Kruger danger zone for this stuff.  Some of what I hypothesize is likely to be obvious; and some of it is likely to be flat out wrong.
+None of the data in this essay is remotely statistically significant.  I wouldn't advise drawing any sort of conclusions from my process, portfolio, or results so far.  (Except my general awesomeness of course).
 
-* I'm trying hard not to be a tourist or trend-chaser, but it's hard to disentangle skill, luck, unsustainable market dynamics, and genuine macro trends.
+I probably contradict myself a dozen times in these notes; partly because I don't believe consistency is necessarily a virtue for investors, and partly because I don't know all the answers, so I'm thinking out loud in public.  
 
-* I probably contradict myself a dozen times in these notes; partly because I don't believe consistency is necessarily a virtue for investors, and partly because I don't know all the answers so I'm thinking in public.  
+This essay is verbose, opinionated and self-indulgent, but it has its flaws as well.  
 
-* This essay is verbose, opinionated and self-indulgent, but it has its flaws as well.  
+With all that out of the way, let's get started! 
 
 [Back to Top ↩](/investing-in-public#table-of-contents)
-
 
 
 <br/>
@@ -99,20 +107,21 @@ Caveats, disclaimers, and other mealy-mouthed hedges:
 
 <br/>
 
-## 3. Portfolio Modeling
+
+## 4. Portfolio Construction and Modeling
 
 *"Without thoughtful [portfolio] construction, all you have is a pile of stones"* -- [Jerry Neumann](http://reactionwheel.net), liberally paraphrased
 
 
-This is perhaps the area where I've evolved the most.  Given power law outcomes and other unique-to-startup dynamics, current market conditions, my capital constraints and risk preferences, and not least my (self-assessed) strengths and weaknesses as an investor, how should I structure my portfolio?  How many investments a year, what cheque size, which rounds to participate in, what valuations to target, when to follow on and in what size, when to exit, what win/loss ratios to target, how to recycle and so on?  There are lot of moving parts. 
+This is perhaps the area where I've evolved the most -- so much so that I'm putting it first, even before dealflow, selection and winning.  Given power law outcomes and other unique-to-startup dynamics, current market conditions, my capital constraints and risk preferences, and not least my (self-assessed) strengths and weaknesses as an investor, how should I structure my portfolio?  How many investments a year, what cheque size, which rounds to participate in, what valuations to target, when to follow on and in what size, when to exit, what win/loss ratios to target, how to recycle and so on?  There are lot of moving parts. 
 
-So naturally, I built a model.
+So naturally, I built a model and scienced the shit out of it. 
 
-This has been of immense help to me.  Situating each angel cheque in the context of a larger portfolio imposes investment discipline, and it also suggests a coherent strategy with some assurance that it'll work, if my assumptions hold.  I think this has been the biggest single change in my investment approach in recent times.
-
-Here's where I ended up on portfolio parameters: 
+Here's where I ended up on optimal portfolio parameters: 
 
 <img src="/assets/img/portfolio-parameters.jpg" class="image">
+
+This has been of immense help.  Situating each angel cheque in the context of a larger portfolio imposes investment discipline.  I think this has been the biggest single change in my investment approach in recent times.
 
 What I found every bit as useful as the target numbers themselves was understanding their derivatives with respect to various changes in market assumptions or my behaviour.  For example:
 
@@ -132,19 +141,19 @@ Once written out, these conclusions seem obvious, but the exercise of modeling t
 <br/>
 
 
-## 4. Funnel Statistics
+## 5. Funnel Statistics and Dealflow Questions
 
 Here's what my funnel looks like over the last 6 months:
 
 <img src="/assets/img/funnel-stats.jpg" class="image">
 
-I feel like I need substantially more dealflow.  My goal is to make 6-8 investments a year, and so far I seem to be on track, but it's a lumpy process.  I made 2 investments on the same day (!) in June, but after that it was a long dry spell till almost the end of October.  
+I feel like I need substantially more dealflow.  My goal is to make 6-8 investments a year, and so far I seem to be on track, but it's a lumpy process.  2 investments on the same day (!) in June, none from July to September, 2 in October, 3 in November.  Should I expect a steady cadence, or is lumpiness part of the game?  Does dealflow follow a Poisson process?
 
-I'd like to reach a state where I see a dozen or more terrific opportunities every year and it genuinely hurts to have to say no to half of them.  I'm not there yet.  I *think* I avoid making mediocre investments just to hit my annual deal goal, but I could be utterly wrong on that; after all, I don't see the deals that I don't see.
+I don't know, but I'd like to reach a state where I see a dozen or more terrific opportunities every year and it genuinely hurts to have to say no to half of them.  I'm not there yet.  I *think* I avoid making mediocre investments just to hit my annual deal goal, but I could be utterly wrong on that; after all, I don't see the deals that I don't see.
 
 One interesting question is, how big does the top of my funnel need to be to support this?  Presumably an investor who sees 200 companies has better odds of finding 6 excellent ones than an investor who sees just 20.  But does one who sees 2000 do even better?  Does quantity imply quality?  At what point do diminishing returns set in?  Is there a point where the marginal value turns negative?  How much is just circularity (the best investors attract the best companies, and also more of the worst)?  
 
-Intuitively I feel like if I invest in say 1 out of every 100 companies I see, I should end up with a pretty good portfolio, but it's not completely obvious.  (I'm currently at 1 out of every 20, more or less.)
+Intuitively I feel like if I invest in say 1 out of every 50 companies I see, I should end up with a pretty good portfolio, but it's not completely obvious.  (I'm currently at 1 out of every 15, more or less.)
 
 [Back to Top ↩](/investing-in-public#table-of-contents)
 
@@ -155,15 +164,14 @@ Intuitively I feel like if I invest in say 1 out of every 100 companies I see, I
 <br/>
 
 
-## 5. Company Selection
+## 6. Company Selection
 
-Should I pick based on team, or product, or market?  I like Andy Weissman's answer: **why choose?**  
+Should I pick based on team, or product, or market?  I'm a big fan of Andy Weissman's answer: **why choose?**  
 
 Nobody's forcing me to invest, so I should be willing to pass on deal after deal until I find one that has a great team *and* a great product *and* a great market.  Anything else is a compromise.
 
 
 <img src="/assets/img/team-market-product_.jpg" class="image2">
-
 
 I'm getting better at this.  I can't honestly say that my first few angel investments ticked all the boxes, but my more recent ones do, or at least I think they do.  
 
@@ -171,16 +179,6 @@ What about traction?  Well, at the valuation ranges I invest, startups rarely ha
 
 *"The dirty secret is that there is no such thing as traction pitches anymore. Because as every company knows -- the best days are always yet to come."* -- [Kevin Kwok](https://kwokchain.com/2021/09/29/narrative-distillation-1/)
 
-<br/>
-
-----
-
-<br/>
-
-
-After writing the above, I went back and scored my actual portfolio on a number of factors: team, market, product, macro trends, biz model, traction and valuation.  I also scored companies that I passed on after doing deep dives, to see what factors influenced my cut. 
-
-Empirically, it appears that I care about **team, market and macro** the most; product and biz model slightly less; and traction and valuation the least of all.  I thought I'd be pickier on business model, but it appears that I have faith that strong teams in big markets supported by powerful trends will figure it out.  Revealed preferences ftw!
 
 [Back to Top ↩](/investing-in-public#table-of-contents)
 
@@ -191,9 +189,30 @@ Empirically, it appears that I care about **team, market and macro** the most; p
 <br/>
 
 
-## 6. Investment Edge
+## 7. Company Selection -- Revealed Preferences
 
-If you don't know your edge, you're probably the sucker at the table.  Here are the things that comprise my edge:
+
+After writing the above, I went back and scored my actual portfolio on a number of factors: team, market, product, macro trends, biz model, traction and valuation.  I also scored companies that I passed on after doing deep dives, to see what factors influenced my cut. 
+
+Empirically, it appears that I care about **team, market and macro** the most; product and biz model slightly less; and traction and valuation the least of all.  I thought I'd be pickier on business model, but it appears that I have faith that strong teams in big markets supported by powerful trends will figure it out.  Revealed preferences ftw!
+
+Next year I might try to score *all* the companies in my funnel, not just the investees, but I'm not sure that's the most productive use of my time, especially if I 2x or 3x my dealflow as planned.
+
+[Back to Top ↩](/investing-in-public#table-of-contents)
+
+<br/>
+
+----
+
+<br/>
+
+
+## 8. Investment Edge
+
+*If you don't know the mark at the table, it's probably you.*
+
+I spend a lot of time thinking about edge -- it's been one of the defining themes of my professioncal career.  After angel investing for some time, I now have a clearer sense of where my edge lies.  (This is the part where I blow my own trumpet).
+
 
 
 Founder judgement
@@ -512,6 +531,9 @@ It turns out you can put those 3 reasons neatly into an Ikigai-ish framework:
 <br/>
 
 
+I also think there's massive survivorship bias in public angel profiles.  Most angel investors and nearly all angel investments fail.  If you only look at the winners, you'll get a very skewed sense of the 
+
+(Case in point: if my first few investments hadn't done so well, I probably would have stopped investing some time ago, in which case this blog 
 
 
 

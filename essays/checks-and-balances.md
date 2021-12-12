@@ -29,17 +29,15 @@ Here's what my funnel has looked like over the last 8 months:
 <img src="/assets/img/funnel-stats.jpg" class="image">
 
 
-87 deals seen
-39 initial calls
+93 deals seen
+41 initial calls
 14 deep dives
 7 yes (GEKRAPT) 
 
 
-? arima paysail tripleplay
+These 7 investments join the 8 investments I made in the preceding 2 years, giving me a portfolio of 15 companies.  Here's a brief description of each company and why I invested.
 
-These 7 investments join the 8 investments I made in the preceding 2 years, giving me a portfolio of 15 companies. 
-
-Unfortunately, I didn't track my funnel prior to this spring, so I don't know how this has evolved over time. 
+Unfortunately, I didn't track my funnel prior to spring 2021, so I don't know how this has evolved over time. 
 
 
 ----
@@ -47,7 +45,7 @@ Unfortunately, I didn't track my funnel prior to this spring, so I don't know ho
 
 ### Portfolio Construction
 
-I've become a lot more deliberate about portfolio construction in recent months.  Here's the framework I try to adhere to:
+I've become a lot more deliberate about portfolio construction in recent months.  Here's the framework I try to follow:
 
 <img src="/assets/img/portfolio-parameters.jpg" class="image">
 
@@ -57,11 +55,9 @@ I've become a lot more deliberate about portfolio construction in recent months.
 
 ### Company Selection
 
-I did a (post facto, completely subjective) scoring of my portfolio companies.  Empirically, it turns out that
+I did a (post facto, completely subjective) scoring of my portfolio companies.  Empirically, it appears that I value team quality, market size and macro trends the most; and traction very little.
 
-
-
-
+*image here*
 
 
 ----
@@ -69,11 +65,11 @@ I did a (post facto, completely subjective) scoring of my portfolio companies.  
 
 ### Entry Valuations
 
+My median entry valuation for pre-seed and seed rounds has increased every year.
 
-Graph over time
+*image here*
 
-2 out of 3
-
+Note that I invested in a couple of higher-valued post-seed rounds in 2021, which are excluded from the above.
 
 
 ----
@@ -108,8 +104,6 @@ Here's a table showing markups and IRR by year of investment.
 
 <img src="/assets/img/irr-table.png" class="image">
 
-
-
 Of course, it can't be emphasized enough that these numbers are mostly meaningless, given the short timespans involved. 
 
 
@@ -134,8 +128,8 @@ So far, so good.
 
 ### Further Reading
 
-This is the TLDR version of this essay, with just the stats.  To read an expanded version with (way too much) editorial commentary, click here.  
+This is the TLDR version of this essay, with just the stats.  To read an expanded version with editorial commentary, click here.  
 
-If there;s any other information you;d like to see, I'd be happy to share; jsut email me. 
+
 
 
