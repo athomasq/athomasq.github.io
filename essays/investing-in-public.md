@@ -394,6 +394,8 @@ So far the distribution of individual-company markups seems to follow a power la
 <img src="/assets/img/distribution-markups.jpg" class="image">
 
 
+An interesting trick is to test performance with the best company omitted; my portfolio is still at 111%. 
+
 ### Previous Experiments
 
 I had a couple of precursor portfolios before my current foray into angel investing.  From 2009 to 2014 I invested in 5 friends-and-family ventures in India.  All but one have sunk without a trace; the one is going strong and on track for a large, indeed possibly a very large outcome, but not any time soon.  
