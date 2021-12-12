@@ -56,7 +56,7 @@ This is the expanded version of this essay, with copious editorial commentary.  
 
 I've been angel investing, off and on, for close to a decade, but it's only in the last year or so that I've become more intentional and systematic about it.  One aspect of this is more careful measurement of everything I do; and in the spirit of "building in public", I thought I'd share some high-level portfolio stats and commentary.  
 
-Be warned that the commentary is copious and unfiltered.  Think of it as a combination of an internal memo on process, an investor letter to my sole LP (myself), a documentary, and a record of some interesting times.
+Be warned that the commentary is copious and unfiltered.  Think of it as a combination of an internal memo on process, an investor letter to my sole LP (myself), a fly-on-the-wall documentary, and a record of some interesting times.
 
 
 <br/>
@@ -72,10 +72,9 @@ Lots of people build in public, sharing the ups and downs of the founder journey
 
 Why is that?  A mix of reasons.  There's reputation: failure is not a badge of honour for investors the way it can be for founders.  There's competition: the market is awash with capital, so why give away your secrets to your rivals?  And there's reticence: being able to angel invest is a privilege, and many don't want to flaunt that.
 
-(The exception of course is the all-too-common humblebrag when a company exits: "Proud to be an early investor in Acme Corp, which is IPOing today.")  
+(The exception of course is the all-too-common humblebrag when a company exits: "Proud to be an investor in Acme Corp, which is IPOing today.")  
 
-
-[Back to Top ↩](/investing-in-public#table-of-contents)
+<!-- These reasons apply to me as well, but I'm in a stage of my career where frankly, I don't give a damn. -->  
 
 <br/>
 
@@ -85,6 +84,7 @@ Why is that?  A mix of reasons.  There's reputation: failure is not a badge of h
 
 ## 3. Caveats, Disclaimers, and Other Mealy-Mouthed Hedges
 
+This essay is verbose, opinionated and self-indulgent, but it has its flaws as well.  
 
 I'm an experienced investor in public markets and I know a fair bit about running startups, but I'm not a professional venture investor.  This puts me firmly in the Dunning-Kruger danger zone for this stuff.  
 
@@ -94,11 +94,7 @@ None of the data in this essay is remotely statistically significant.  I wouldn'
 
 I probably contradict myself a dozen times in these notes; partly because I don't believe consistency is necessarily a virtue for investors, and partly because I don't know all the answers, so I'm thinking out loud in public.  
 
-This essay is verbose, opinionated and self-indulgent, but it has its flaws as well.  
-
 With all that out of the way, let's get started! 
-
-[Back to Top ↩](/investing-in-public#table-of-contents)
 
 
 <br/>
@@ -108,7 +104,7 @@ With all that out of the way, let's get started!
 <br/>
 
 
-## 4. Portfolio Construction and Modeling
+## 4. Portfolio Design and Modeling
 
 *"Without thoughtful [portfolio] construction, all you have is a pile of stones"* -- [Jerry Neumann](http://reactionwheel.net), liberally paraphrased
 
@@ -132,8 +128,6 @@ What I found every bit as useful as the target numbers themselves was understand
 
 Once written out, these conclusions seem obvious, but the exercise of modeling them out is super helpful (to me at least). 
 
-[Back to Top ↩](/investing-in-public#table-of-contents)
-
 <br/>
 
 ----
@@ -141,7 +135,7 @@ Once written out, these conclusions seem obvious, but the exercise of modeling t
 <br/>
 
 
-## 5. Funnel Statistics and Dealflow Questions
+## 5. Funnel Statistics and Open Questions
 
 Here's what my funnel looks like over the last 6 months:
 
@@ -154,8 +148,6 @@ I don't know, but I'd like to reach a state where I see a dozen or more terrific
 One interesting question is, how big does the top of my funnel need to be to support this?  Presumably an investor who sees 200 companies has better odds of finding 6 excellent ones than an investor who sees just 20.  But does one who sees 2000 do even better?  Does quantity imply quality?  At what point do diminishing returns set in?  Is there a point where the marginal value turns negative?  How much is just circularity (the best investors attract the best companies, and also more of the worst)?  
 
 Intuitively I feel like if I invest in say 1 out of every 50 companies I see, I should end up with a pretty good portfolio, but it's not completely obvious.  (I'm currently at 1 out of every 15, more or less.)
-
-[Back to Top ↩](/investing-in-public#table-of-contents)
 
 <br/>
 
@@ -170,7 +162,6 @@ Should I pick based on team, or product, or market?  I'm a big fan of Andy Weiss
 
 Nobody's forcing me to invest, so I should be willing to pass on deal after deal until I find one that has a great team *and* a great product *and* a great market.  Anything else is a compromise.
 
-
 <img src="/assets/img/team-market-product_.jpg" class="image2">
 
 I'm getting better at this.  I can't honestly say that my first few angel investments ticked all the boxes, but my more recent ones do, or at least I think they do.  
@@ -179,8 +170,6 @@ What about traction?  Well, at the valuation ranges I invest, startups rarely ha
 
 *"The dirty secret is that there is no such thing as traction pitches anymore. Because as every company knows -- the best days are always yet to come."* -- [Kevin Kwok](https://kwokchain.com/2021/09/29/narrative-distillation-1/)
 
-
-[Back to Top ↩](/investing-in-public#table-of-contents)
 
 <br/>
 
@@ -191,14 +180,13 @@ What about traction?  Well, at the valuation ranges I invest, startups rarely ha
 
 ## 7. Company Selection -- Revealed Preferences
 
-
 After writing the above, I went back and scored my actual portfolio on a number of factors: team, market, product, macro trends, biz model, traction and valuation.  I also scored companies that I passed on after doing deep dives, to see what factors influenced my cut. 
 
 Empirically, it appears that I care about **team, market and macro** the most; product and biz model slightly less; and traction and valuation the least of all.  I thought I'd be pickier on business model, but it appears that I have faith that strong teams in big markets supported by powerful trends will figure it out.  Revealed preferences ftw!
 
-Next year I might try to score *all* the companies in my funnel, not just the investees, but I'm not sure that's the most productive use of my time, especially if I 2x or 3x my dealflow as planned.
+*image*
 
-[Back to Top ↩](/investing-in-public#table-of-contents)
+Next year I might try to score *all* the companies in my funnel, not just those that made it to the final stage, but I'm not sure that's the most productive use of my time, especially if I 2x or 3x my dealflow as planned.
 
 <br/>
 
@@ -225,6 +213,8 @@ Deep tech
 
 * Given that I'm investing my own money, I don't care too much about logos, headlines or even horizons; I think this lets me invest in companies that many others wouldn't touch.
 
+only 1 customer
+
 * In my expert judgement (and I'm not being sarcastic here, or hiding behind false modesty), most VCs are terrible -- not just wrong, but glaringly incompetent -- at evaluating data businesses and also capital markets startups.  This is an opportunity to be exploited.  
 
 So this all works, in the sense of building a performant and differentiated portfolio.  What I wonder about sometimes is, does it suffice to generate outlier outcomes?  Time will tell.
@@ -240,86 +230,23 @@ Zooming out, an angel's job is to see companies, select winners, get allocations
 <br/>
 
 
-## 7. Early Stage Valuations
+## 9. Entry Valuations
 
-*(Yes, what the world needs is another hot take on tech valuations.)*
+Angel investing in 2021 is all about navigating the tension between two opposing truths:
 
-Valuations, as any fule kno, have been going up across the board.  What does this imply for portfolio construction?  
+* value investing does not work in venture;
+* it's hard(er) to make money investing at high(er) valuations. 
 
-I believe that two things can be true at the same time: valuations are rising for reasons that are mostly legitimate, and it's hard(er) to make money investing at high(er) valuations.
+I try to square this circle by first, investing in unfashionable businesses, and second, investing far earlier than would seem prudent.  
 
-Let's start with the reasons.  Here's what I believe:
+Despite this effort at discipline, my median entry valuation for pre-seed and seed rounds has increased every year, and I'm totally okay with that; I think it's a sign of macro strength.  I'd be much less sanguine investing in an asset class where valuations declined every year.
 
-### Tech has huge unrealized upside
+*image*
 
-* Tech is eating every industry, and we're still in the early stages of market penetration.  (The canonical example here is US e-commerce: it's still [less than 20%](https://fred.stlouisfed.org/series/ECOMPCTSA) of retail sales.  That's only going to go up.  And there's a whole world out there beyond the USA.)  There's a lot of value remaining to be created and captured as this transition continues.
-
-* There's an abundance of capital looking for profitable opportunites (especially given ZIRP and QE and friends), and much of it will be allocated to tech as it eats up more of the world.
-
-* As a result, terminal outcomes for tech startups are at least 2 orders of magnitude larger than almost anyone had ever anticipated.  And this propagates upstream, to the earliest stages of venture investing. 
-
-### Value investing does not work in venture
-
-The next thing I believe is that "value investing" does not work in venture:
-
-* Many markets tend to be winner-takes-most, thanks to network effects, data loops, self-fulfilling prophecies, system-of-record stickiness, and narrative control. 
-
-* Venture building has matured to the point that it's easier than ever to identify the top 1% or 10% of companies likely to succeed in any given market.
-
-In this world, buying startups on the cheap usually means buying startups that are unlikely to deliver large outcomes.  Conversely, almost no price is too high to pay for the truly exceptional companies. 
+I have many more thoughts on this subject; see my notes on navigating high valuations as an angel investor. 
 
 
-<img src="/assets/img/quality-vs-valuation_.jpg" class="image">
-
-<center><i>Enough with the Venn diagrams, have a 2x2 instead!</i></center>
-
-The challenge is seeing and getting a chance to invest in those exceptional companies on a consistent basis.  It's one thing if you're Benchmark, Sequoia, A16z or Tiger Global.  It's another thing entirely if you're a relatively low-profile angel investor in Toronto. 
-
-And if you don't pick the best of the best, the math is [extremely challenging](https://avc.com/2021/11/seed-rounds-at-100mm-post-money/). 
-
-[Back to Top ↩](/investing-in-public#table-of-contents)
-
-<br/>
-
-----
-
-<br/>
-
-
-
-## #8. Conscious Positioning
-
-
-So how do I square this circle?  I have two methods that work for me.  
-
-### Invest early
-
-The first is to swim upstream and invest "hilariously early", to use Hustle Fund's memorable phrase.  If the team, market and macro trends are strong, I don't care that the product is rudimentary, the business model is vague or the traction is non-existent.  I suspect most investors are not quite like that.
-
-
-<img src="/assets/img/pick-2-of-3_.jpg" class="image2">
-
-
-### Think different
-
-The second method is identifying startups where the founder, market, product and business are all great, but they fall into VC blind spots.  Data businesses, saas-enabled marketplaces, and a few other hybrid models often fall into this category; so do startups helmed by women, minorities, recent immigrants, and people outside the big-city/known-school tech networks.  The best of them don't stay in that category long.
-
-IMAGE HERE
-
-[Incidentally, these methods analogize nicely to meta-strategies that I'm familiar with from my time as a hedge fund investor.  Investing in blind-spot startups is just persistent-cognitive-bias arbitrage, and investing early is just risk-preference arbitrage.  To a quant with a hammer, everything looks like a nail.]
-
-My markups so far suggest that this approach is working, but you can't eat markups. 
-
-[Back to Top ↩](/investing-in-public#table-of-contents)
-
-<br/>
-
-----
-
-<br/>
-
-
-## 9. My Portfolio
+## 10. My Portfolio
 
 My companies are the best.  
 
@@ -338,33 +265,33 @@ My editor (me) says I should probably write a little more about them, so here's 
 🌏 [Terra.do](https://terra.do)  
 -->
 
-* **Daloopa** [AI] -- AI-driven data extraction and inference for financial back offices.  Invested because I like the premise of using modern ML techniques to automate processes that are hugely costly and time-consuming for Wall St (and other) firms.
+🧠 **[Daloopa](https://www.daloopa.com/)** [AI] -- AI-driven data extraction and inference for financial back offices.  Invested because I like the premise of using modern ML techniques to automate processes that are hugely costly and time-consuming for Wall St (and other) firms.
 
-* **Mero** [Infrastructure] -- Sensors, data and software for smarter, cleaner buildings.  Invested because of strong capital efficiency (despite the hardware component), stickiness of solution, potential wedge into high-value data and analytics, and elegant portfolio gtm.
+🏢 **[Mero](https://mero.co/)** [Infrastructure] -- Sensors, data and software for smarter, cleaner buildings.  Invested because of strong capital efficiency (despite the hardware component), stickiness of solution, potential wedge into high-value data and analytics, and elegant portfolio gtm.
 
-* **Terra.do** [Climate] -- climate community, education platform and job market.  Invested because it's a big and important idea with a huge surface area, and they have a ridiculously high NPS. 
+* **[Terra.do](https://terra.do)** [Climate] -- climate community, education platform and job market.  Invested because it's a big and important idea with a huge surface area, and they have a ridiculously high NPS. 
 
-* **Setyl** [SaaS] -- asset, device and subscription management software for offices.  Invested because it's an elegant and light-weight solution to a widespread problem, with natural growth channels. 
+* **[Setyl](https://www.setyl.com/)** [SaaS] -- asset, device and subscription management software for offices.  Invested because it's an elegant and light-weight solution to a widespread problem, with natural growth channels. 
 
-* **Canopy** [SaaS] -- reporting software for multi-family property managers.  Invested because it's a classic deployment-era play: bringing modern data and software functionality to a fairly staid industry.
+* **[Canopy](https://www.canopyanalytics.com/)** [SaaS] -- reporting software for multi-family property managers.  Invested because it's a classic deployment-era play: bringing modern data and software functionality to a fairly staid industry.
 
-* **BuyProperly** [Fintech] -- Amazon meets Robinhood for home ownership: a marketplace for fractional shares of property.  Invested because they've solved lots of hard and unglamorous back-end problems to make the magic work; also terrific founder-market fit and plenty of pent-up demand.
+* **[BuyProperly](https://buyproperly.ca/)** [Fintech] -- Amazon meets Robinhood for home ownership: a marketplace for fractional shares of property.  Invested because they've solved lots of hard and unglamorous back-end problems to make the magic work; also terrific founder-market fit and plenty of pent-up demand.
 
-* **Citylitics** [Infrastructure] -- data-as-a-service business covering every type of physical infrastructure.  Invested because they've put years of effort into creating a powerful data asset, and are now poised to reap the rewards.
+* **[Citylitics](https://citylitics.com/)** [Infrastructure] -- data-as-a-service business covering every type of physical infrastructure.  Invested because they've put years of effort into creating a powerful data asset, and are now poised to reap the rewards.
 
 * **[AcuSpire](https://www.acuspire.ai)** [AI] -- AI-driven software to generate better job *matches* (not just searches through listings or resumes).  Invested because I believe this is the next logical step in the evolution of job platforms; also, their enterprise offering is a great solution to the marketplace cold-start problem.
 
-* **Getware** [AI] -- AI-driven insights from unstructured customer interactions, surfaced and summarized at scale for product teams.  Potential customer described this to me as a "no-brainer" purchase if it works as advertised and I agree.
+* **[Getware](https://www.getware.ai/)** [AI] -- AI-driven insights from unstructured customer interactions, surfaced and summarized at scale for product teams.  Potential customer described this to me as a "no-brainer" purchase if it works as advertised and I agree.
 
-* **Erly** [Logistics] -- Amazon-Prime-as-a-service for D2C merchants.  Invested because of a terrific value prop for merchants, a really clever business model which I can't share too much about, and incredible speed of execution.
+* **[Erly](https://www.geterly.com)** [Logistics] -- Amazon-Prime-as-a-service for D2C merchants.  Invested because of a terrific value prop for merchants, a really clever business model which I can't share too much about, and incredible speed of execution.
 
-* **Klanto** [Fintech] -- Spend management platform covering cards, payments, reconciliation and much more.  This is a pure execution play in a crowded space, and I'm betting on an underdog team with scrappiness, hustle and ingenuity.
+* **[Klanto](https://www.klanto.com)** [Fintech] -- Spend management platform covering cards, payments, reconciliation and much more.  This is a pure execution play in a crowded space, and I'm betting on an underdog team with scrappiness, hustle and ingenuity.
 
-* **Requity** [Fintech] -- Rent-to-own for people who can't get a mortgage despite strong cashflow.  Invested because of strong founder-market fit, elegant 2-sided business model, underserved but large market, and it makes the world a better place.
+* **[Requity](https://www.requityhomes.com)** [Fintech] -- Rent-to-own for people who can't get a mortgage despite strong cashflow.  Invested because of strong founder-market fit, neat 2-sided business model, underserved but large market, and it makes the world a better place.
 
-* **Arima** [AI] -- 
+* **[Arima](https://www.arimadata.com)** [AI] -- 
 
-* **Paysail** [Crypto] -- Using crypto rails to enable nearly instantaneous, nearly free B2B payments.  Invested because 
+* **[Paysail](https://paysail.us)** [Crypto] -- Using crypto rails to enable nearly instantaneous, nearly free B2B payments.  Invested because 
 
 My first crypto investment!
 
@@ -393,7 +320,7 @@ Here are a few different ways to slice my portfolio.
 
 <img src="/assets/img/slice-geography.jpg" class="image3">
 
-I aim for 50-50 within and outside Canada, so this is mostly on track.  I tend to avoid Bay Area startups unless they're in my AI/data/API sweet spot, on the grounds that a Bay Area startup that needs money from me is not a startup I want to invest in -- the Groucho Marx theory of portfolio selection.
+I aim for 60-40 within and outside Canada, so this is mostly on track.  I tend to avoid Bay Area startups unless they're in my AI/data/API sweet spot, on the grounds that a Bay Area startup that needs money from me is not a startup I want to invest in -- the Groucho Marx theory of portfolio selection.
 
 - By deal source: 
 
@@ -405,7 +332,7 @@ I think this is slightly above average on cold inbound.  Over time, I expect "pr
 
 <img src="/assets/img/slice-founders.jpg" class="image3">
 
-At a high level, 16 of 22 founders come from an underrepresented slice.  But it's mostly immigrants and minorities; not enough women.  It has not escaped my notice that I'm an immigrant minority man, so this almost certainly reflects my network and my biases.  I need to do better.
+At a high level, 21 of 30 founders come from an underrepresented slice.  But it's mostly immigrants and minorities; not enough women.  It has not escaped my notice that I'm an immigrant minority man, so this almost certainly reflects my network and my biases.  I need to do better.
 
 - By business model: 
 
@@ -448,9 +375,13 @@ The other thing which I'm still working on is the balance between supporting fou
 
 (Admit it, this is the only section most of you care about.)
 
-I've invested in 10 startups over the last 2 years (my first cheque was in Oct 2019).  None of them are dead yet 😀.
+I've invested in 15 startups over the last 2-ish years (my first cheque was in Oct 2019).  None of them are dead yet 😀.
 
-As of Oct 2021, 3 out of these 10 have closed further funding.  (3 more have received term sheets that will probably close in the next month or so, but I haven't included those in the stats for this section.) 1 company is on a rocket ship trajectory: hypergrowth in revenue, 8-digit series A, the works.  The whole portfolio is at a blended multiple of 2.0 at an IRR of exactly 100%.  This could be a reflection of my leet stock-picking skillz, but it's far more likely to be just a symptom of a rising tide lifting all startup boats.
+As of Dec 2021, 8 out of these 15 have raised further funding (47%).  This percentage correlates with company vintage:
+
+*image*
+
+The portfolio as a whole is at a blended multiple of 1.8 at an IRR of 157%.  This could be a reflection of my leet stock-picking skillz, but it's far more likely to be just a symptom of a rising tide lifting all startup boats.
 
 Here's my performance sliced by year of deployment: 
 
@@ -467,7 +398,7 @@ So far the distribution of individual-company markups seems to follow a power la
 
 I had a couple of precursor portfolios before my current foray into angel investing.  From 2009 to 2014 I invested in 5 friends-and-family ventures in India.  All but one have sunk without a trace; the one is going strong and on track for a large, indeed possibly a very large outcome, but not any time soon.  
 
-From 2015 to to 2017 I invested in 8 arms-length ventures again in India; that portfolio has done quite well.  Two companies are on unicorn trajectories.  I exited one of them at a 40x markup, and am holding on to the other.  A couple of the others may return 1-3x but are unlikely to return more than that.  Standard power law dynamics, in fact. 
+From 2015 to to 2017 I invested in 8 arms-length ventures again in India; that portfolio has done quite well (it's currently at 3.4x DPI, 5.5x TVPI and 41% IRR).  Two companies are on unicorn trajectories.  I exited one of them at a 40x markup, and am holding on to the other.  A couple of the others may return 1-3x but are unlikely to return more than that.  Standard power law dynamics, in fact. 
 
 The performance of these two portfolios has given me a little bit of encouragement that I'm on the right track; I wouldn't be increasing my annual investment count (or dollars) without that confirmation.
 
