@@ -4,7 +4,7 @@ permalink: /:basename/
 title: My Angel Portfolio In Detail
 ---
 
-## My Angel Portfolio in Detail
+# My Angel Portfolio in Detail
 
 ----
 
@@ -12,9 +12,13 @@ title: My Angel Portfolio In Detail
 
 As of Dec 2021, here are the 15 companies I've invested in, and why I invested:
 
+### 2019
+
 🧠 **[Daloopa](https://www.daloopa.com/)** [AI] -- AI-driven data extraction and inference for financial back offices.  Invested because I like the premise of using modern ML techniques to automate processes that are hugely costly and time-consuming for Wall St (and other) firms.
 
 🏢 **[Mero](https://mero.co/)** [Infrastructure] -- Sensors, data and software for smarter, cleaner buildings.  Invested because of strong capital efficiency (despite the hardware component), stickiness of solution, potential wedge into high-value data and analytics, and straightforward portfolio gtm.
+
+### 2020
 
 🌏 **[Terra.do](https://terra.do)** [Climate] -- climate community, education platform and job market.  Invested because it's a big and important idea with a huge surface area, and they have a ridiculously high NPS. 
 
@@ -23,6 +27,8 @@ As of Dec 2021, here are the 15 companies I've invested in, and why I invested:
 🏫 **[Canopy](https://www.canopyanalytics.com/)** [SaaS] -- reporting software for multi-family property managers.  Invested because it's a classic deployment-era play: bringing modern data and software functionality to a fairly staid industry.
 
 🏡 **[BuyProperly](https://buyproperly.ca/)** [Fintech] -- Amazon meets Robinhood for home ownership: a marketplace for fractional shares of property.  Invested because they've solved lots of hard and unglamorous back-end problems to make the magic work; also terrific founder-market fit and plenty of pent-up demand.
+
+### 2021
 
 🏗️ **[Citylitics](https://citylitics.com/)** [Infrastructure] -- data-as-a-service business covering every type of physical infrastructure.  Invested because they've put years of effort into creating a valuable and unique data asset, and are now poised to reap the rewards.
 
@@ -36,8 +42,11 @@ As of Dec 2021, here are the 15 companies I've invested in, and why I invested:
 
 💵 **[Requity](https://www.requityhomes.com)** [Fintech] -- Rent-to-own for people who can't get a mortgage despite strong cashflow.  Invested because of strong founder-market fit, neat 2-sided business model, underserved but large market, and it makes the world a better place.
 
-🛒 **[Arima](https://www.arimadata.com)** [AI] -- 
+
+🛒 **[Arima](https://www.arimadata.com)** [AI] -- A new approach to customer intelligence, using proprietary ML research to create rich simulated audiences that are privacy-compliant by construction.  Invested because it's the perfect intersection of founder, market, macro, tech and traction.
 
 ⛵️ **[Paysail](https://paysail.us)** [Crypto] -- Using crypto rails to enable nearly instantaneous, nearly free B2B payments.  Invested because of "problem-solution fit" -- there are many ways to do payments, but this one just feels *correct* in its elegance.  My first crypto investment!
 
-🎲 **TriplePlay** [Workplace] -- 
+🎲 **[TriplePlay](https://tripleplay.ai)** [Workplace] -- A better way to socialize remotely, using games in a rich and fluid environment.  Invested because of strong macro trends and a belief that human beings connect through play.
+
+
