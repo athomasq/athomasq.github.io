@@ -252,6 +252,11 @@ So far I haven't had any problem getting allocation into any deal I've wanted to
 
 This probably has several causes: the general paucity of angel investors in Toronto (less competition for me), my credentials as a successful exited founder, my specialist knowledge of data-AI-API businesses, the small size of my cheques etc.  But it's also probably because I'm simply not participating in (because I don't see) the most competitive rounds. 
 
+<br/>
+
+----
+
+<br/>
 
 
 
@@ -384,7 +389,7 @@ The other thing which I'm still working on is the balance between supporting fou
 
 I've invested in 15 startups over the last 2-ish years (my first cheque was in Oct 2019).  None of them are dead yet 😀.
 
-As of Dec 2021, 8 out of these 15 have raised further funding (47%).  This percentage correlates with company vintage:
+As of Dec 2021, 7 out of these 15 have raised further funding (47%).  This percentage correlates with company vintage:
 
 *image*
 
@@ -411,12 +416,10 @@ From 2015 to to 2017 I invested in 8 arms-length ventures again in India; that p
 The performance of these two portfolios has given me a little bit of encouragement that I'm on the right track; I wouldn't be increasing my annual investment count (or dollars) without that confirmation.
 
 
-
-[Back to Top ↩](/investing-in-public#table-of-contents)
-
 <br/>
 
 ----
+
 <br/>
 
 
@@ -440,7 +443,6 @@ Inexperience with hypergrowth
 
 Areas to improve
 
-[Back to Top ↩](/investing-in-public#table-of-contents)
 
 <br/>
 
@@ -464,8 +466,6 @@ It turns out you can put those 3 reasons neatly into an Ikigai-ish framework:
 
 
 <img src="/assets/img/angel-motivation_.jpg" class="image">
-
-[Back to Top ↩](/investing-in-public#table-of-contents)
 
 
 <br/>
