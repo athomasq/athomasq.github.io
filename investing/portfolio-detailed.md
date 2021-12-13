@@ -12,11 +12,17 @@ title: My Angel Portfolio In Detail
 
 As of Dec 2021, here are the 15 companies I've invested in, and why I invested:
 
+----
+<br/>
+
 ### 2019
 
 🧠 **[Daloopa](https://www.daloopa.com/)** [AI] -- AI-driven data extraction and inference for financial back offices.  Invested because I like the premise of using modern ML techniques to automate processes that are hugely costly and time-consuming for Wall St (and other) firms.
 
 🏢 **[Mero](https://mero.co/)** [Infrastructure] -- Sensors, data and software for smarter, cleaner buildings.  Invested because of strong capital efficiency (despite the hardware component), stickiness of solution, potential wedge into high-value data and analytics, and straightforward portfolio gtm.
+
+----
+<br/>
 
 ### 2020
 
@@ -27,6 +33,9 @@ As of Dec 2021, here are the 15 companies I've invested in, and why I invested:
 🏫 **[Canopy](https://www.canopyanalytics.com/)** [SaaS] -- reporting software for multi-family property managers.  Invested because it's a classic deployment-era play: bringing modern data and software functionality to a fairly staid industry.
 
 🏡 **[BuyProperly](https://buyproperly.ca/)** [Fintech] -- Amazon meets Robinhood for home ownership: a marketplace for fractional shares of property.  Invested because they've solved lots of hard and unglamorous back-end problems to make the magic work; also terrific founder-market fit and plenty of pent-up demand.
+
+----
+<br/>
 
 ### 2021
 
