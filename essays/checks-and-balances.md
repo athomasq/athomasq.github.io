@@ -7,12 +7,10 @@ title: Checks and Balances
 # Checks and Balances
 ### My Angel Investing Year In Review, 2021
 
+----
 *Why even have an angel portfolio if you can't draw pretty pictures with it?*
 
-<br/>
-
 ----
-
 <br/>
 
 
@@ -28,10 +26,7 @@ These 7 investments join the 8 investments I made in the preceding 2 years, givi
 
 Here's a brief description of each company and [why I invested](https://abrahamthomas.info/portfolio-detailed/).
 
-<br/>
-
 ----
-
 <br/>
 
 ### Portfolio Construction
@@ -39,7 +34,6 @@ Here's a brief description of each company and [why I invested](https://abrahamt
 I've become a lot more deliberate about portfolio construction in recent months.  Here's the framework I try to follow:
 
 <img src="/assets/img/portfolio-parameters.jpg" class="image">
-
 
 ----
 <br/>

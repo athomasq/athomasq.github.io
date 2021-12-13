@@ -4,10 +4,9 @@ permalink: /:basename/
 title: Investing In Public
 ---
 
-## Investing In Public
+# Investing In Public
 
 ----
-
 
 *"Any idiot with a checkbook looks like a genius right now."* -- [Zach Coelius](https://twitter.com/zachcoelius)  
 
