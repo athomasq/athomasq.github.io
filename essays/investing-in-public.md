@@ -7,6 +7,7 @@ title: Investing In Public
 # Investing In Public
 ### Notes From My First Year As A "Serious" Angel
 ----
+<br/>
 
 *"Any idiot with a checkbook looks like a genius right now."* -- [Zach Coelius](https://twitter.com/zachcoelius)  
 
@@ -34,70 +35,13 @@ Be warned that the commentary is copious and unfiltered.  Think of it as a combi
 <br/>
 
 
-### Why Invest in Public?
-
-Lots of people build in public, sharing the ups and downs of the founder journey.  Far fewer invest in public.  
-
-Why is that?  A mix of reasons.  There's reputation: failure is not a badge of honour for investors the way it can be for founders.  There's competition: the market is awash with capital, so why give away your secrets to your rivals?  And there's reticence: being able to angel invest is a privilege, and many don't want to flaunt that.
-
-(The exception of course is the all-too-common humblebrag when a company exits: "Proud to be an investor in Acme Corp, which is IPOing today.")  
-
-<!-- These reasons apply to me as well, but I'm in a stage of my career where frankly, I don't give a damn. -->  
-
-----
-<br/>
-
-### Caveats, Disclaimers, and Other Mealy-Mouthed Hedges
-
-This essay is verbose, opinionated and self-indulgent, but it has its flaws as well.  
-
-I'm an experienced investor in public markets and I know a fair bit about running startups, but I'm not a professional venture investor.  This puts me firmly in the Dunning-Kruger danger zone for this stuff.  
-
-Some of what I hypothesize is likely to be obvious; and some of it is likely to be flat out wrong.  I'm trying hard not to be a tourist or trend-chaser, but it's hard to disentangle skill, luck, unsustainable market dynamics, and genuine macro trends.
-
-None of the data in this essay is remotely statistically significant.  I wouldn't advise drawing any sort of conclusions from my process, portfolio, or results so far.  (Except my general awesomeness of course).
-
-I probably contradict myself a dozen times in these notes; partly because I don't believe consistency is necessarily a virtue for investors, and partly because I don't know all the answers, so I'm thinking out loud in public.  
-
-With all that out of the way, let's get started! 
-
-----
-<br/>
-
-
-### Portfolio Modeling
-
-*"Without thoughtful [portfolio] construction, all you have is a pile of stones"* -- [Jerry Neumann](http://reactionwheel.net), liberally paraphrased
-
-
-This is perhaps the area where I've evolved the most -- so much so that I'm putting it first, even before dealflow, selection and winning.  Given power law outcomes and other unique-to-startup dynamics, current market conditions, my capital constraints and risk preferences, and not least my (self-assessed) strengths and weaknesses as an investor, how should I structure my portfolio?  How many investments a year, what cheque size, which rounds to participate in, what valuations to target, when to follow on and in what size, when to exit, what win/loss ratios to target, how to recycle and so on?  There are lot of moving parts. 
-
-So naturally, I built a model and scienced the shit out of it. 
-
-Here's where I ended up on optimal portfolio parameters: 
-
-<img src="/assets/img/portfolio-parameters.jpg" class="image">
-
-This has been of immense help.  Situating each angel cheque in the context of a larger portfolio imposes investment discipline.  I think this has been the biggest single change in my investment approach in recent times.
-
-What I found every bit as useful as the target numbers themselves was understanding their derivatives with respect to various changes in market assumptions or my behaviour.  For example:
-
-* the more the variance around your hit rate, the more companies you need in your portfolio.
-* the more power-law your outcomes, the more important it is to follow on in your winners.  
-* if you double your entry valuations, you need to double your exit valuations, but only for your big winners.
-* pre-committing to a set number of investments over several years allows you to invest all through the cycle.
-
-Once written out, these conclusions seem obvious, but the exercise of modeling them out is super helpful (to me at least). 
-
-----
-<br/>
-
-
 ### Funnel Statistics and Thoughts on Dealflow
 
-Here's what my funnel looks like over the last 6 months:
+Here's what my funnel has looked like over the last 8 months:
 
 <img src="/assets/img/funnel-stats.jpg" class="image">
+
+(Unfortunately, I didn't keep detailed funnel stats prior to spring 2021.)
 
 I feel like I need substantially more dealflow.  My goal is to make 6-8 investments a year, and so far I seem to be on track, but it's a lumpy process.  2 investments on the same day (!) in June, none from July to September, 2 in October, 3 in November.  Should I expect a steady cadence, or is lumpiness part of the game?  Does dealflow follow a Poisson process?
 
@@ -111,6 +55,37 @@ At any rate, one of my goals for 2022 is to double or triple my dealflow.  I hav
 
 ----
 <br/>
+
+
+
+
+### Portfolio Modeling
+
+*"Without thoughtful [portfolio] construction, all you have is a pile of stones"* -- [Jerry Neumann](http://reactionwheel.net), liberally paraphrased
+
+
+This is perhaps the area where I've evolved the most.  Given power law outcomes and other unique-to-startup dynamics, current market conditions, my capital constraints and risk preferences, and not least my (self-assessed) strengths and weaknesses as an investor, how should I structure my portfolio? 
+
+How many investments a year, what cheque size, which rounds to participate in, what valuations to target, when to follow on and in what size, when to exit, what win/loss ratios to target, how to recycle and so on?  There are lot of moving parts. 
+
+So naturally, I built a model and scienced the shit out of it. Here's where I ended up: 
+
+<img src="/assets/img/portfolio-parameters.jpg" class="image">
+
+Situating each angel cheque in the context of a larger portfolio imposes investment discipline.  I think this has been the biggest single change in my investment approach in recent times.
+
+What I found every bit as useful as the target numbers themselves was understanding their derivatives with respect to various changes in market assumptions or my behaviour.  For example:
+
+* the more the variance around your hit rate, the more companies you need in your portfolio.
+* the more power-law your outcomes, the more important it is to follow on in your winners.  
+* pre-committing to a set number of investments over several years allows you to invest all through the cycle.
+* if you double your entry valuations, you need to double your exit valuations, but only for your big winners; the losers have minimal impact either way.
+
+Once written out, these conclusions seem obvious, but the exercise of modeling them out is valuable (to me at least). 
+
+----
+<br/>
+
 
 
 ### Picking Winners
@@ -395,6 +370,37 @@ It turns out you can put those 3 reasons neatly into an Ikigai-ish framework:
 
 <img src="/assets/img/angel-motivation_.jpg" class="image">
 
+
+----
+<br/>
+
+
+
+### Caveats, Disclaimers, and Other Mealy-Mouthed Hedges
+
+This essay is verbose, opinionated and self-indulgent, but it has its flaws as well.  
+
+I'm an experienced investor in public markets and I know a fair bit about running startups, but I'm not a professional venture investor.  This puts me firmly in the Dunning-Kruger danger zone for this stuff.  
+
+Some of what I hypothesize is likely to be obvious; and some of it is likely to be flat out wrong.  I'm trying hard not to be a tourist or trend-chaser, but it's hard to disentangle skill, luck, unsustainable market dynamics, and genuine macro trends.
+
+None of the data in this essay is remotely statistically significant.  I wouldn't advise drawing any sort of conclusions from my process, portfolio, or results so far.  (Except my general awesomeness of course).
+
+I probably contradict myself a dozen times in these notes; partly because I don't believe consistency is necessarily a virtue for investors, and partly because I don't know all the answers, so this is just me thinking out loud.  
+
+----
+<br/>
+
+
+### Endnote: Why Invest in Public?
+
+Lots of people build in public, sharing the ups and downs of the founder journey.  Far fewer invest in public.  
+
+Why is that?  A mix of reasons.  There's reputation: failure is not a badge of honour for investors the way it can be for founders.  There's competition: the market is awash with capital, so why give away your secrets to your rivals?  And there's reticence: being able to angel invest is a privilege, and many don't want to flaunt that.
+
+(The exception of course is the all-too-common humblebrag when a company exits: "Proud to be an investor in Acme Corp, which is IPOing today.")  
+
+These reasons apply to me as well, but I'm in a stage of my career where frankly, I don't give a damn.  Hopefully some of you enjoy reading this, and if you've come this far, wow.   
 
 ----
 <br/>
