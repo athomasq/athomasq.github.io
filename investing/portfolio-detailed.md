@@ -56,6 +56,6 @@ As of Dec 2021, here are the 15 companies I've invested in, and why I invested:
 
 ⛵️ **[Paysail](https://paysail.us)** [Crypto] -- Using crypto rails to enable nearly instantaneous, nearly free B2B payments.  Invested because of "problem-solution fit" -- there are many ways to do payments, but this one just feels *correct* in its elegance.  My first crypto investment!
 
-🎲 **[TriplePlay](https://tripleplay.ai)** [Workplace] -- A better way to socialize remotely, using games in a rich and fluid environment.  Invested because of strong macro trends and a belief that human beings connect through play.
+🎲 **[TriplePlay](https://tripleplay.ai)** [Workplace] -- A better way to socialize remotely, playing games in a rich and fluid environment.  Invested because of strong macro trends and a belief that human beings connect through play.
 
 

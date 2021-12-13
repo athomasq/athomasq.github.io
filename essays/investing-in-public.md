@@ -127,11 +127,22 @@ Next year I might try to score *all* the companies in my funnel, not just those 
 
 I spend a lot of time thinking about edge -- it's been one of the defining themes of my professioncal career.  After angel investing for some time, I now have a clearer sense of where my edge lies.  (This is the part where I blow my own trumpet).
 
-* I think my experience as a successful venture-backed tech founder gives me a clear edge in evaluating other founders.  Tech startups are not the same as other businesses, pitching well is not the same as executing well, and being a founder is not the same as being an employee, let alone an investor with limited operating experience.  Given that early stage is critically dependent on team, I think this matters.
+**Experience;** I think my experience as a successful venture-backed tech founder gives me a clear edge in evaluating other founders.  Tech startups are not the same as other businesses, pitching well is not the same as executing well, and being a founder is not the same as being an employee, let alone being an investor with minimal operating experience.  Given that early stage is critically dependent on team, I think this matters.
 
-* Add to that my near decade of experience as a professional hedge fund investor, followed by another near decade digging deep into the data of every sector under the sun, 
+**Rigour:** Add to that my near decade of experience as a professional investor at a large quant hedge fund, followed by another near decade digging deep into the data and business drivers of a wide range of companies while running Quandl.  I think this gives me a degree of analytical clarity and investment rigour beyond most other investors I've encountered.
+
+**Incentives:**
+
+**Perspective:** 
+
+
+
 
 * Incentives
+
+blind spots -- team, data niz, api, capi
+
+incentives 
 
 blind spots.
 founder -- not operator, not business exec, 
@@ -233,7 +244,7 @@ My editor (me) says I should probably write a little more about them, so here's 
 
 ⛵️ **[Paysail](https://paysail.us)** [Crypto] -- Using crypto rails to enable nearly instantaneous, nearly free B2B payments.  Invested because of "problem-solution fit" -- there are many ways to do payments, but this one just feels *correct* in its elegance.  My first crypto investment!
 
-🎲 **[TriplePlay](https://tripleplay.ai)** [Workplace] -- A better way to socialize remotely, using games in a rich and fluid environment.  Invested because of strong macro trends and a belief that human beings connect through play.
+🎲 **[TriplePlay](https://tripleplay.ai)** [Workplace] -- A better way to socialize remotely, playing games in a rich and fluid environment.  Invested because of strong macro trends and a belief that human beings connect through play.
 
 I try to maintain a balance between narrow / small / safe investments, and wide / big / speculative investments.  (The terms are all relative of course; nothing I invest in is "safe".)
 
