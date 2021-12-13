@@ -69,6 +69,11 @@ Note that I invested in a couple of higher-valued post-seed rounds in 2021, whic
 ----
 <br/>
 
+### MArkups and Follow-Ons and Allocation
+
+
+----
+<br/>
 
 ### Portfolio Decomposition
 
@@ -123,6 +128,8 @@ So far, so good.
 
 Of course, it can't be emphasized enough that these numbers are mostly meaningless, given the short timespans involved. 
 
+
+Here are some stats from my first full year of "serious" angel investing. 
 
 This is the TLDR version of this essay, with just the stats.  To read an expanded version with editorial commentary, click here.  
 
