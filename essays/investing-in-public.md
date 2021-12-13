@@ -180,10 +180,13 @@ Next year I might try to score *all* the companies in my funnel, not just those 
 
 I spend a lot of time thinking about edge -- it's been one of the defining themes of my professioncal career.  After angel investing for some time, I now have a clearer sense of where my edge lies.  (This is the part where I blow my own trumpet).
 
-
+founder -- not operator, not business exec, 
+venture backed
 
 Founder judgement
 Professional investor
+selling to public markets
+biz model 
 Deep tech
 
 * I don't have an exceptional volume of dealflow, but I think I have somewhat *differentiated* dealflow, especially in certain under-favoured categories.
@@ -230,9 +233,24 @@ I have many more thoughts on this subject; see my notes on navigating high valua
 
 ## 10. Winning Allocations
 
-So far   
+I've participated in 22 financing rounds so far (15 first cheques and 7 follow-ons).  9 of those 22 rounds (41%) have been competitive / oversubscribed.  But I've been able to get my full target allocation in every financing I've participated in.
 
-So far I haven't had any problem getting allocation into any deal I've wanted to participate in.  This is a pretty strong indictment of my dealflow.  I really should be trying to get into the deals that don't want me. 
+I'm not quite sure what to make of this set of facts.  Some tentative thoughts:
+
+- Is 43% a touch low?  It's nice to invest in companies nobody else believes in, but is that being contrarian, or simply being wrong?  Note that the value of being contrarian in inefficient markets like venture is not clear; startups are not like public stocks.
+
+- At the same time, I wouldn't want 100% of my deals to be competitive; that would suggest the opposite, viz. that I'm not being contrarian enough, and also that I'm paying too much.
+
+- I think something like 66% competitive, 34% contrarian would be an ideal level to shoot for.  (I have no data to support this assertion).
+
+- There are probably a few reasons I'm able to get into every deal I bid on: the general scarcity of angel investors and early stage capital in Canada; my own credibility as a successful tech founder; my knowledge of data-AI-API businesses; co-investors and VCs who vouch for me; the small size of my cheques and so on.
+
+- But the biggest factor is probably my dealflow, or rather lack thereof.  Chances are, I'm not being rejected because I'm not even at the table for the most competitive rounds. 
+
+- So paradoxically, I'd like this particular stat to worsen: I'd like to have my money rejected a few times.  
+
+
+So far I haven't had any problem getting allocation into any deal I've wanted to participate in.  This is a pretty strong indictment of my dealflow.  I really should be trying to get into the deals that don't want me; the Groucho Marx theory in reverse.
 
 This probably has several causes: the general paucity of angel investors in Toronto (less competition for me), my credentials as a successful exited founder, my specialist knowledge of data-AI-API businesses, the small size of my cheques etc.  But it's also probably because I'm simply not participating in (because I don't see) the most competitive rounds. 
 
