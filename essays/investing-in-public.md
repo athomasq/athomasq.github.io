@@ -17,29 +17,6 @@ title: Investing In Public
 
 <br/>
 
-<!--
-## Table of Contents
-
-* [Introduction](/investing-in-public#1-introduction)
-* [Caveats and Warnings](/investing-in-public#2-caveats-and-warnings)
-* [Portfolio Modeling](/investing-in-public#3-portfolio-modeling)
-* [Funnel Statistics](/investing-in-public#4-funnel-statistics)
-* [Company Selection](/investing-in-public#5-company-selection)
-* [Investment Edge](/investing-in-public#6-investment-edge)
-* [Early Stage Valuations](/investing-in-public#7-early-stage-valuations)
-* [Conscious Positioning](/investing-in-public#8-conscious-positioning)
-* [My Portfolio](/investing-in-public#9-my-portfolio)
-* [Portfolio Decomposition](/investing-in-public#10-portfolio-decomposition)
-* [Post-Investment Support ](/investing-in-public#11-post-investment-support)
-* [Portfolio Performance](/investing-in-public#12-portfolio-performance)
-* [Anti-Portfolio and Mistakes](/investing-in-public#13-anti-portfolio-and-mistakes)
-* [Motivation and Goals](/investing-in-public#14-motivation-and-goals)
-
-----
-
-<br/>
-
--->
 
 ## 0. Warning: Here Be Verbiage
 
@@ -104,7 +81,7 @@ With all that out of the way, let's get started!
 <br/>
 
 
-## 4. Portfolio Design and Modeling
+## 4. Portfolio Modeling
 
 *"Without thoughtful [portfolio] construction, all you have is a pile of stones"* -- [Jerry Neumann](http://reactionwheel.net), liberally paraphrased
 
@@ -135,7 +112,7 @@ Once written out, these conclusions seem obvious, but the exercise of modeling t
 <br/>
 
 
-## 5. Funnel Statistics and Open Questions
+## 5. Funnel Statistics and Thoughts on Dealflow
 
 Here's what my funnel looks like over the last 6 months:
 
@@ -147,7 +124,9 @@ I don't know, but I'd like to reach a state where I see a dozen or more terrific
 
 One interesting question is, how big does the top of my funnel need to be to support this?  Presumably an investor who sees 200 companies has better odds of finding 6 excellent ones than an investor who sees just 20.  But does one who sees 2000 do even better?  Does quantity imply quality?  At what point do diminishing returns set in?  Is there a point where the marginal value turns negative?  How much is just circularity (the best investors attract the best companies, and also more of the worst)?  
 
-Intuitively I feel like if I invest in say 1 out of every 50 companies I see, I should end up with a pretty good portfolio, but it's not completely obvious.  (I'm currently at 1 out of every 15, more or less.)
+Intuitively I feel like if I invest in say 1 out of every 50 companies I see, I should end up with a pretty good portfolio, but it's not completely obvious.  (I'm currently at 1 out of every 15, more or less.)  
+
+At any rate, one of my goals for 2022 is to double or triple my dealflow.  I have some ideas on how to do that.
 
 <br/>
 
@@ -156,9 +135,9 @@ Intuitively I feel like if I invest in say 1 out of every 50 companies I see, I 
 <br/>
 
 
-## 6. Company Selection
+## 6. Picking Winners
 
-Should I pick based on team, or product, or market?  I'm a big fan of Andy Weissman's answer: **why choose?**  
+Should I select companies to invest in based on team, or product, or market?  I'm a big fan of Andy Weissman's answer: **why choose?**  
 
 Nobody's forcing me to invest, so I should be willing to pass on deal after deal until I find one that has a great team *and* a great product *and* a great market.  Anything else is a compromise.
 
@@ -178,7 +157,7 @@ What about traction?  Well, at the valuation ranges I invest, startups rarely ha
 <br/>
 
 
-## 7. Company Selection -- Revealed Preferences
+## 7. Revealed Preferences in Company Selection
 
 After writing the above, I went back and scored my actual portfolio on a number of factors: team, market, product, macro trends, biz model, traction and valuation.  I also scored companies that I passed on after doing deep dives, to see what factors influenced my cut. 
 
@@ -186,7 +165,7 @@ Empirically, it appears that I care about **team, market and macro** the most; p
 
 *image*
 
-Next year I might try to score *all* the companies in my funnel, not just those that made it to the final stage, but I'm not sure that's the most productive use of my time, especially if I 2x or 3x my dealflow as planned.
+Next year I might try to score *all* the companies in my funnel, not just those that made it to the final stage, but I'm not sure that's the most productive use of my time, especially if I increase my dealflow as planned.
 
 <br/>
 
@@ -221,8 +200,6 @@ So this all works, in the sense of building a performant and differentiated port
 
 Zooming out, an angel's job is to see companies, select winners, get allocations, and help founders.  I'd rate myself average, good, good and above-average in those four competences; it gives me something to work on.
 
-[Back to Top ↩](/investing-in-public#table-of-contents)
-
 <br/>
 
 ----
@@ -239,63 +216,72 @@ Angel investing in 2021 is all about navigating the tension between two opposing
 
 I try to square this circle by first, investing in unfashionable businesses, and second, investing far earlier than would seem prudent.  
 
-Despite this effort at discipline, my median entry valuation for pre-seed and seed rounds has increased every year, and I'm totally okay with that; I think it's a sign of macro strength.  I'd be much less sanguine investing in an asset class where valuations declined every year.
+Despite this effort at discipline, my median entry valuation for pre-seed and seed rounds has increased every year, and I'm totally okay with that; I think it's a sign of strength.  I'd be much less sanguine investing in an asset class where valuations declined every year.
 
 *image*
 
 I have many more thoughts on this subject; see my notes on navigating high valuations as an angel investor. 
 
+<br/>
 
-## 10. My Portfolio
+----
+
+<br/>
+
+## 10. Winning Allocations
+
+So far   
+
+
+
+## 10. My Actual Portfolio
 
 My companies are the best.  
 
-My editor (me) says I should probably write a little more about them, so here's a list.  For each company I've also included the category, a brief description, and why I invested (beyond the baseline reasons of team, macro and market, which are givens).
+My editor (me) says I should probably write a little more about them, so here's a list.  For each company I've also included the category, a brief description, and some reasons why the investment committee (also me) picked them.
 
 <!--
-🤝 [AcuSpire](https://acuspire.ai/)  
-🏡 [BuyProperly](https://buyproperly.ca/)  
-🏫 [Canopy](https://www.canopyanalytics.com/)  
-🏗️ [Citylitics](https://citylitics.com/)  
-🧠 [Daloopa](https://www.daloopa.com/)  
-💡 [Daylite](https://www.daylite.ai)  
-🚚 [Erly](https://www.geterly.com)  
-🏢 [Mero](https://mero.co/)  
-🖥️ [Setyl](https://www.setyl.com/)  
-🌏 [Terra.do](https://terra.do)  
+ [AcuSpire](https://acuspire.ai/)  
+ [BuyProperly](https://buyproperly.ca/)  
+ [Canopy](https://www.canopyanalytics.com/)  
+ [Citylitics](https://citylitics.com/)  
+ [Daloopa](https://www.daloopa.com/)  
+ [Daylite](https://www.daylite.ai)  
+ [Erly](https://www.geterly.com)  
+ [Mero](https://mero.co/)  
+ [Setyl](https://www.setyl.com/)  
+ [Terra.do](https://terra.do)  
 -->
 
 🧠 **[Daloopa](https://www.daloopa.com/)** [AI] -- AI-driven data extraction and inference for financial back offices.  Invested because I like the premise of using modern ML techniques to automate processes that are hugely costly and time-consuming for Wall St (and other) firms.
 
-🏢 **[Mero](https://mero.co/)** [Infrastructure] -- Sensors, data and software for smarter, cleaner buildings.  Invested because of strong capital efficiency (despite the hardware component), stickiness of solution, potential wedge into high-value data and analytics, and elegant portfolio gtm.
+🏢 **[Mero](https://mero.co/)** [Infrastructure] -- Sensors, data and software for smarter, cleaner buildings.  Invested because of strong capital efficiency (despite the hardware component), stickiness of solution, potential wedge into high-value data and analytics, and straightforward portfolio gtm.
 
-* **[Terra.do](https://terra.do)** [Climate] -- climate community, education platform and job market.  Invested because it's a big and important idea with a huge surface area, and they have a ridiculously high NPS. 
+🌏 **[Terra.do](https://terra.do)** [Climate] -- climate community, education platform and job market.  Invested because it's a big and important idea with a huge surface area, and they have a ridiculously high NPS. 
 
-* **[Setyl](https://www.setyl.com/)** [SaaS] -- asset, device and subscription management software for offices.  Invested because it's an elegant and light-weight solution to a widespread problem, with natural growth channels. 
+🖥️ **[Setyl](https://www.setyl.com/)** [SaaS] -- asset, device and subscription management software for offices.  Invested because it's a simple and light-weight solution to a widespread problem, with natural growth channels. 
 
-* **[Canopy](https://www.canopyanalytics.com/)** [SaaS] -- reporting software for multi-family property managers.  Invested because it's a classic deployment-era play: bringing modern data and software functionality to a fairly staid industry.
+🏫 **[Canopy](https://www.canopyanalytics.com/)** [SaaS] -- reporting software for multi-family property managers.  Invested because it's a classic deployment-era play: bringing modern data and software functionality to a fairly staid industry.
 
-* **[BuyProperly](https://buyproperly.ca/)** [Fintech] -- Amazon meets Robinhood for home ownership: a marketplace for fractional shares of property.  Invested because they've solved lots of hard and unglamorous back-end problems to make the magic work; also terrific founder-market fit and plenty of pent-up demand.
+🏡 **[BuyProperly](https://buyproperly.ca/)** [Fintech] -- Amazon meets Robinhood for home ownership: a marketplace for fractional shares of property.  Invested because they've solved lots of hard and unglamorous back-end problems to make the magic work; also terrific founder-market fit and plenty of pent-up demand.
 
-* **[Citylitics](https://citylitics.com/)** [Infrastructure] -- data-as-a-service business covering every type of physical infrastructure.  Invested because they've put years of effort into creating a powerful data asset, and are now poised to reap the rewards.
+🏗️ **[Citylitics](https://citylitics.com/)** [Infrastructure] -- data-as-a-service business covering every type of physical infrastructure.  Invested because they've put years of effort into creating a valuable and unique data asset, and are now poised to reap the rewards.
 
-* **[AcuSpire](https://www.acuspire.ai)** [AI] -- AI-driven software to generate better job *matches* (not just searches through listings or resumes).  Invested because I believe this is the next logical step in the evolution of job platforms; also, their enterprise offering is a great solution to the marketplace cold-start problem.
+🤝 **[AcuSpire](https://www.acuspire.ai)** [AI] -- AI-driven software to generate better job *matches* (not just searches through listings or resumes).  Invested because I believe this is the next logical step in the evolution of job platforms; also, their enterprise offering is a great solution to the marketplace cold-start problem.
 
-* **[Getware](https://www.getware.ai/)** [AI] -- AI-driven insights from unstructured customer interactions, surfaced and summarized at scale for product teams.  Potential customer described this to me as a "no-brainer" purchase if it works as advertised and I agree.
+💡 **[Getware](https://www.getware.ai/)** [AI] -- AI-driven insights from unstructured customer interactions, surfaced and summarized at scale for product teams.  Potential customer described this to me as a "no-brainer" purchase if it works as advertised and I agree.
 
-* **[Erly](https://www.geterly.com)** [Logistics] -- Amazon-Prime-as-a-service for D2C merchants.  Invested because of a terrific value prop for merchants, a really clever business model which I can't share too much about, and incredible speed of execution.
+🚚 **[Erly](https://www.geterly.com)** [Logistics] -- Amazon-Prime-as-a-service for D2C merchants.  Invested because of a terrific value prop for merchants, a really clever business model which I can't share too much about, and incredible speed of execution.
 
-* **[Klanto](https://www.klanto.com)** [Fintech] -- Spend management platform covering cards, payments, reconciliation and much more.  This is a pure execution play in a crowded space, and I'm betting on an underdog team with scrappiness, hustle and ingenuity.
+💳 **[Klanto](https://www.klanto.com)** [Fintech] -- Spend management platform covering cards, payments, reconciliation and much more.  This is a pure execution play in a crowded space, and I'm betting on an underdog team with scrappiness, hustle and ingenuity.
 
-* **[Requity](https://www.requityhomes.com)** [Fintech] -- Rent-to-own for people who can't get a mortgage despite strong cashflow.  Invested because of strong founder-market fit, neat 2-sided business model, underserved but large market, and it makes the world a better place.
+💵 **[Requity](https://www.requityhomes.com)** [Fintech] -- Rent-to-own for people who can't get a mortgage despite strong cashflow.  Invested because of strong founder-market fit, neat 2-sided business model, underserved but large market, and it makes the world a better place.
 
-* **[Arima](https://www.arimadata.com)** [AI] -- 
+🛒 **[Arima](https://www.arimadata.com)** [AI] -- 
 
-* **[Paysail](https://paysail.us)** [Crypto] -- Using crypto rails to enable nearly instantaneous, nearly free B2B payments.  Invested because 
+⛵️ **[Paysail](https://paysail.us)** [Crypto] -- Using crypto rails to enable nearly instantaneous, nearly free B2B payments.  Invested because of "problem-solution fit" -- there are many ways to do payments, but this one just feels *correct* in its elegance.  My first crypto investment!
 
-My first crypto investment!
-
-* **TriplePlay** [Workplace] -- 
+🎲 **TriplePlay** [Workplace] -- 
 
 
 
@@ -392,7 +378,6 @@ As the table makes clear, I've been ramping up my deal count every year.
 So far the distribution of individual-company markups seems to follow a power law reasonably closely:
 
 <img src="/assets/img/distribution-markups.jpg" class="image">
-
 
 An interesting trick is to test performance with the best company omitted; my portfolio is still at 111%. 
 
