@@ -125,48 +125,16 @@ Next year I might try to score *all* the companies in my funnel, not just those 
 
 *If you don't know the mark at the table, it's probably you.*
 
-I spend a lot of time thinking about edge -- it's been one of the defining themes of my professioncal career.  After angel investing for some time, I now have a clearer sense of where my edge lies.  (This is the part where I blow my own trumpet).
+I spend a lot of time thinking about edge -- it's been one of the defining themes of my professional career.  I now have a clearer sense of where my edge lies as an angel investor.  (This is the part where I blow my own trumpet).
 
-**Experience;** I think my experience as a successful venture-backed tech founder gives me a clear edge in evaluating other founders.  Tech startups are not the same as other businesses, pitching well is not the same as executing well, and being a founder is not the same as being an employee, let alone being an investor with minimal operating experience.  Given that early stage is critically dependent on team, I think this matters.
+**Experience;** I think my experience as a *successful venture-backed tech founder* gives me a clear edge in evaluating other founders.  Tech startups are not the same as other businesses, pitching well is not the same as executing well, and being a founder is not the same as being an operator, let alone being an investor without operating experience.  Given that early stage is so critically dependent on team quality, I think this matters.
 
-**Rigour:** Add to that my near decade of experience as a professional investor at a large quant hedge fund, followed by another near decade digging deep into the data and business drivers of a wide range of companies while running Quandl.  I think this gives me a degree of analytical clarity and investment rigour beyond most other investors I've encountered.
+**Rigour:** Add to that my near decade of experience as a professional investor at a large quant hedge fund, followed by another near decade digging deep into the data, business drivers and structural economics of a wide range of companies while running Quandl.  I think this gives me a degree of analytical clarity and rigour beyond most angels without a professional investing background.
 
-**Incentives:**
+**Incentives:** I'm not answerable to LPs; I have none.  This has two consequences.  First, it means I don't have to waste time role-playing as an investor ("accountability theatre").  Nor do I have to care about logos, trend-chasing, hot deals or IRR.  Cash on cash is all that matters.  Second, it means I can truly align myself with founders; I don't have other customers to please.  In a capital-rich, talent-constrained environment, this makes a difference.
 
-**Perspective:** 
+I suspect it's easy enough to find any one or even two of these qualities, but the intersection of all three is rare.
 
-
-
-
-* Incentives
-
-blind spots -- team, data niz, api, capi
-
-incentives 
-
-blind spots.
-founder -- not operator, not business exec, 
-venture backed
-
-Founder judgement
-Professional investor
-selling to public markets
-biz model 
-Deep tech
-
-* I don't have an exceptional volume of dealflow, but I think I have somewhat *differentiated* dealflow, especially in certain under-favoured categories.
-
-* I think my own experience as a (successful) venture-backed tech founder helps me evaluate founders differently from most non-founders, let alone investors with zero startup operating experience, especially at the very earliest stages.
-
-* Given that I'm investing my own money, I don't care too much about logos, headlines or even horizons; I think this lets me invest in companies that many others wouldn't touch.
-
-only 1 customer
-
-* In my expert judgement (and I'm not being sarcastic here, or hiding behind false modesty), most VCs are terrible -- not just wrong, but glaringly incompetent -- at evaluating data businesses and also capital markets startups.  This is an opportunity to be exploited.  
-
-So this all works, in the sense of building a performant and differentiated portfolio.  What I wonder about sometimes is, does it suffice to generate outlier outcomes?  Time will tell.
-
-Zooming out, an angel's job is to see companies, select winners, get allocations, and help founders.  I'd rate myself average, good, good and above-average in those four competences; it gives me something to work on.
 
 ----
 <br/>
@@ -190,17 +158,19 @@ I have many more thoughts on this subject; see my notes on navigating high valua
 
 ### Winning Allocations
 
-I've participated in 22 financing rounds so far (15 first cheques and 7 follow-ons).  9 of those 22 rounds (41%) have been competitive / oversubscribed.  But I've been able to get my full target allocation in every financing I've participated in.
+I've participated in 22 financing rounds so far (15 first cheques and 7 follow-ons).  10 of those 22 rounds (45%) have been competitive / oversubscribed.  But I've been able to get my full target allocation in every financing I've participated in.
 
 I'm not quite sure what to make of this.  Some tentative thoughts:
 
-Is 43% a touch low?  It's nice to invest in companies nobody else believes in, but is that being contrarian, or simply being wrong?  Note that the value of being contrarian in inefficient markets like venture is not clear; startups are not like public stocks.
+Is 45% a touch low?  It's nice to invest in companies nobody else believes in, but is that being contrarian, or simply being wrong?  Note that the value of being contrarian in inefficient markets like venture is not clear; startups are not like public stocks.
 
 At the same time, I wouldn't want 100% of my deals to be competitive; that would suggest the opposite, viz. that I'm not being contrarian enough, and also that I'm paying too much.  I think something like 66% competitive, 34% contrarian would be an ideal level to shoot for.  (I have no data to support this assertion).
 
 *image*
 
-There are probably a few reasons I'm able to get into every deal I bid on: the general scarcity of angel investors and early stage capital in Canada; my own credibility as a successful tech founder; my knowledge of AI-data-API businesses; co-investors and VCs who vouch for me; the small size of my cheques and so on.  But the biggest factor is probably my dealflow, or rather lack thereof.  Chances are, my win rate is high because I'm not even at the table for the most competitive rounds. 
+There are probably a few reasons I'm able to get into every deal I bid on: the general scarcity of angel investors and early stage capital in Canada; my own credibility as a successful tech founder; my knowledge of AI-data-API businesses; co-investors and VCs who vouch for me; the small size of my cheques and so on.  
+
+But the biggest factor is probably my dealflow, or rather lack thereof.  Chances are, my win rate is high because I'm not even at the table for the most competitive rounds. 
 
 So paradoxically, I'd like this particular stat to worsen: I'd like to have my money rejected a few times! 
 
@@ -213,7 +183,7 @@ So paradoxically, I'd like this particular stat to worsen: I'd like to have my m
 
 My companies are the best.  
 
-My editor (me) says I should probably write a little more about them, so here's a list.  For each company I've also included the category, a brief description, and some reasons why the investment committee (also me) picked them.
+My editor (me) says I should probably write a little more about them, so here's a list.  For each company I've also included the category, a brief description, and some reasons why my investment committee (also me) picked them.
 
 
 🧠 **[Daloopa](https://www.daloopa.com/)** [AI] -- AI-driven data extraction and inference for financial back offices.  Invested because I like the premise of using modern ML techniques to automate processes that are hugely costly and time-consuming for Wall St (and other) firms.
@@ -260,7 +230,7 @@ Here are a few different ways to slice my portfolio.
 
 <img src="/assets/img/slice-geography.jpg" class="image3">
 
-I aim for 60-40 within and outside Canada, so this is mostly on track.  I tend to avoid Bay Area startups unless they're in my AI/data/API sweet spot, on the grounds that a Bay Area startup that needs money from me is not a startup I want to invest in -- the Groucho Marx theory of portfolio selection.
+I aim for 60-40 within and outside Canada, so this is mostly on track.  I tend to avoid Bay Area startups; too much competition, not enough edge.  I'd like to make more investments in obscure parts of the world.
 
 - By deal source: 
 
@@ -291,7 +261,7 @@ Listing them out like this, it does seem that "anything goes", as long as it's B
 
 I tell founders: "I try to help if I can, and get out of the way if I can't."  So far this seems to be working okay.  Pretty much every single founder I've invested in has reached out to me at some point to go deep into a particular problem they're facing, and the range of problems is wide. 
 
-On average I spend 2-3 hours with each of my portfolio companies every 2-3 months.  The topics which come up most often are go-to-market, narrative creation, recruiting and team structure, and financing strategy.
+On average I spend 1-2 hours with each of my portfolio companies every 3-4 months.  The topics which come up most often are go-to-market, narrative creation, recruiting and team structure, and financing strategy.
 
 What I'm still trying to figure out is whether this pull-based, problem-driven interaction is optimal, or if I can be more effective by being more proactive.  The challenge is to add that proactivity without projecting an unearned authority or a certainty that doesn't exist.  (Yes, this is pompous).  Ideally I'd like to apply the same transform to value-addition that I've done to portfolio construction: make it less ad hoc, and more intentional.
 
@@ -341,7 +311,7 @@ The performance of these two portfolios has given me a little bit of encourageme
 
 
 
-### Anti-Portfolio and Mistakes
+### Anti-Portfolio
 
 There's two types of antiportfolio: companies you pass on, and companies you don't even see.
 
@@ -349,7 +319,13 @@ As far as I know, I have not passed on any startup that's gone on to be super su
 
 On the other side, I don't really care about false positives.  I expect 50% of my companies to lose every dollar, and a further 25% to lose most of it.  The fact that so far this has not happened is perhaps a bit concerning -- either my calibration is off, or I'm not investing in risky-enough startups, or the market is unsustainably supportive.  (Or it could just be too soon; lemons ripen early but my portfolio is earlier still.)
 
-Yet another piece of evidence that I need to improve my dealflow is my "win rate".  So far I haven't had any problem getting allocation into any deal I've wanted to participate in.  This probably has several causes: the general paucity of angel investors in Toronto (less competition for me), my credentials as a successful exited founder, my specialist knowledge of data-AI-API businesses, the small size of my cheques etc.  But it's also probably because I'm simply not participating in (because I don't see) the most competitive rounds. 
+----
+<br/>
+
+### Areas for Improvement
+
+
+
 
 Apart from my anti-portfolio, I think my biggest weakness is a bias towards complexity.  Sometimes the simple and obvious solutions make the best investments; a lesson I'm still learning.  
 
@@ -361,8 +337,19 @@ Inexperience with hypergrowth
 Areas to improve
 
 
+Mind you, I also have disadvantages: negative edge. I don't network enough; my dealflow is limited; my profile is too low; and I have some biases. I'm working on these
+
+
+
+areas for improvement
+decision process
+actual valuations
+big pic portfolio
+
+
 ----
 <br/>
+
 
 
 
@@ -420,11 +407,3 @@ These reasons apply to me as well, but I'm in a stage of my career where frankly
 I also think there's massive survivorship bias in public angel profiles.  Most angel investors and nearly all angel investments fail.  If you only look at the winners, you'll get a very skewed sense of the 
 
 (Case in point: if my first few investments hadn't done so well, I probably would have stopped investing some time ago, in which case this blog 
-
-
-
-
-areas for improvement
-decision process
-actual valuations
-big pic portfolio
