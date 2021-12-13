@@ -5,7 +5,6 @@ title: Investing In Public
 ---
 
 # Investing In Public
-  
 ### Notes From My First Year As A "Serious" Angel
 ----
 <br/>
@@ -128,6 +127,13 @@ Next year I might try to score *all* the companies in my funnel, not just those 
 
 I spend a lot of time thinking about edge -- it's been one of the defining themes of my professioncal career.  After angel investing for some time, I now have a clearer sense of where my edge lies.  (This is the part where I blow my own trumpet).
 
+* I think my experience as a successful venture-backed tech founder gives me a clear edge in evaluating other founders.  Tech startups are not the same as other businesses, pitching well is not the same as executing well, and being a founder is not the same as being an employee, let alone an investor with limited operating experience.  Given that early stage is critically dependent on team, I think this matters.
+
+* Add to that my near decade of experience as a professional hedge fund investor, followed by another near decade digging deep into the data of every sector under the sun, 
+
+* Incentives
+
+blind spots.
 founder -- not operator, not business exec, 
 venture backed
 
@@ -180,6 +186,8 @@ I'm not quite sure what to make of this.  Some tentative thoughts:
 Is 43% a touch low?  It's nice to invest in companies nobody else believes in, but is that being contrarian, or simply being wrong?  Note that the value of being contrarian in inefficient markets like venture is not clear; startups are not like public stocks.
 
 At the same time, I wouldn't want 100% of my deals to be competitive; that would suggest the opposite, viz. that I'm not being contrarian enough, and also that I'm paying too much.  I think something like 66% competitive, 34% contrarian would be an ideal level to shoot for.  (I have no data to support this assertion).
+
+*image*
 
 There are probably a few reasons I'm able to get into every deal I bid on: the general scarcity of angel investors and early stage capital in Canada; my own credibility as a successful tech founder; my knowledge of AI-data-API businesses; co-investors and VCs who vouch for me; the small size of my cheques and so on.  But the biggest factor is probably my dealflow, or rather lack thereof.  Chances are, my win rate is high because I'm not even at the table for the most competitive rounds. 
 
