@@ -133,6 +133,8 @@ I spend a lot of time thinking about edge -- it's been one of the defining theme
 
 **Incentives:** I'm not answerable to LPs; I have none.  This has two consequences.  First, it means I don't have to waste time role-playing as an investor ("accountability theatre").  Nor do I have to care about logos, trend-chasing, hot deals or IRR.  Cash on cash is all that matters.  Second, it means I can truly align myself with founders; I don't have other customers to please.  In a capital-rich, talent-constrained environment, this makes a difference.
 
+*image*
+
 I suspect it's easy enough to find any one or even two of these qualities, but the intersection of all three is rare.
 
 
@@ -185,10 +187,13 @@ My companies are the best.
 
 My editor (me) says I should probably write a little more about them, so here's a list.  For each company I've also included the category, a brief description, and some reasons why my investment committee (also me) picked them.
 
+#### <center>2019</center>
 
 🧠 **[Daloopa](https://www.daloopa.com/)** [AI] -- AI-driven data extraction and inference for financial back offices.  Invested because I like the premise of using modern ML techniques to automate processes that are hugely costly and time-consuming for Wall St (and other) firms.
 
 🏢 **[Mero](https://mero.co/)** [Infrastructure] -- Sensors, data and software for smarter, cleaner buildings.  Invested because of strong capital efficiency (despite the hardware component), stickiness of solution, potential wedge into high-value data and analytics, and straightforward portfolio gtm.
+
+#### <center>2020</center>
 
 🌏 **[Terra.do](https://terra.do)** [Climate] -- climate community, education platform and job market.  Invested because it's a big and important idea with a huge surface area, and they have a ridiculously high NPS. 
 
@@ -197,6 +202,8 @@ My editor (me) says I should probably write a little more about them, so here's 
 🏫 **[Canopy](https://www.canopyanalytics.com/)** [SaaS] -- reporting software for multi-family property managers.  Invested because it's a classic deployment-era play: bringing modern data and software functionality to a fairly staid industry.
 
 🏡 **[BuyProperly](https://buyproperly.ca/)** [Fintech] -- Amazon meets Robinhood for home ownership: a marketplace for fractional shares of property.  Invested because they've solved lots of hard and unglamorous back-end problems to make the magic work; also terrific founder-market fit and plenty of pent-up demand.
+
+#### <center>2021</center>
 
 🏗️ **[Citylitics](https://citylitics.com/)** [Infrastructure] -- data-as-a-service business covering every type of physical infrastructure.  Invested because they've put years of effort into creating a valuable and unique data asset, and are now poised to reap the rewards.
 
@@ -216,7 +223,6 @@ My editor (me) says I should probably write a little more about them, so here's 
 
 🎲 **[TriplePlay](https://tripleplay.ai)** [Workplace] -- A better way to socialize remotely, playing games in a rich and fluid environment.  Invested because of strong macro trends and a belief that human beings connect through play.
 
-I try to maintain a balance between narrow / small / safe investments, and wide / big / speculative investments.  (The terms are all relative of course; nothing I invest in is "safe".)
 
 ----
 <br/>
@@ -313,7 +319,7 @@ The performance of these two portfolios has given me a little bit of encourageme
 
 ### Anti-Portfolio
 
-There's two types of antiportfolio: companies you pass on, and companies you don't even see.
+There's two types of anti-portfolio: companies you pass on, and companies you don't even see.
 
 As far as I know, I have not passed on any startup that's gone on to be super successful, though of course it's early days yet.  This is in fact the strongest indictment possible of my dealflow.  My picking is good, but it can't be *that* good.  The implication of no big misses is that I'm not seeing enough high-quality companies. 
 
