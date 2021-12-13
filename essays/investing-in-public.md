@@ -5,6 +5,7 @@ title: Investing In Public
 ---
 
 # Investing In Public
+  
 ### Notes From My First Year As A "Serious" Angel
 ----
 <br/>
