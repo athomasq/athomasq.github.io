@@ -9,6 +9,7 @@ title: Checks and Balances
 
 *Why even have an angel portfolio if you can't draw pretty pictures with it?*
 
+----
 <br/>
 
 
