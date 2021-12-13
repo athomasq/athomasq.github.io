@@ -175,10 +175,7 @@ So this all works, in the sense of building a performant and differentiated port
 
 Zooming out, an angel's job is to see companies, select winners, get allocations, and help founders.  I'd rate myself average, good, good and above-average in those four competences; it gives me something to work on.
 
-<br/>
-
 ----
-
 <br/>
 
 
@@ -195,10 +192,7 @@ My median entry valuation for pre-seed and seed rounds has increased every year,
 
 I have many more thoughts on this subject; see my notes on navigating high valuations as an angel investor. 
 
-<br/>
-
 ----
-
 <br/>
 
 ### Winning Allocations
@@ -224,10 +218,7 @@ So far I haven't had any problem getting allocation into any deal I've wanted to
 
 This probably has several causes: the general paucity of angel investors in Toronto (less competition for me), my credentials as a successful exited founder, my specialist knowledge of data-AI-API businesses, the small size of my cheques etc.  But it's also probably because I'm simply not participating in (because I don't see) the most competitive rounds. 
 
-<br/>
-
 ----
-
 <br/>
 
 
@@ -238,18 +229,6 @@ My companies are the best.
 
 My editor (me) says I should probably write a little more about them, so here's a list.  For each company I've also included the category, a brief description, and some reasons why the investment committee (also me) picked them.
 
-<!--
- [AcuSpire](https://acuspire.ai/)  
- [BuyProperly](https://buyproperly.ca/)  
- [Canopy](https://www.canopyanalytics.com/)  
- [Citylitics](https://citylitics.com/)  
- [Daloopa](https://www.daloopa.com/)  
- [Daylite](https://www.daylite.ai)  
- [Erly](https://www.geterly.com)  
- [Mero](https://mero.co/)  
- [Setyl](https://www.setyl.com/)  
- [Terra.do](https://terra.do)  
--->
 
 🧠 **[Daloopa](https://www.daloopa.com/)** [AI] -- AI-driven data extraction and inference for financial back offices.  Invested because I like the premise of using modern ML techniques to automate processes that are hugely costly and time-consuming for Wall St (and other) firms.
 
@@ -281,15 +260,9 @@ My editor (me) says I should probably write a little more about them, so here's 
 
 🎲 **[TriplePlay](https://tripleplay.ai)** [Workplace] -- A better way to socialize remotely, using games in a rich and fluid environment.  Invested because of strong macro trends and a belief that human beings connect through play.
 
-
-
 I try to maintain a balance between narrow / small / safe investments, and wide / big / speculative investments.  (The terms are all relative of course; nothing I invest in is "safe".)
 
-
-<br/>
-
 ----
-
 <br/>
 
 
@@ -322,10 +295,7 @@ At a high level, 21 of 30 founders come from an underrepresented slice.  But it'
 Listing them out like this, it does seem that "anything goes", as long as it's B2B or at best B2B2C.  I'm not sure this is wise; maybe I'd do better specializing?  
 
 
-<br/>
-
 ----
-
 <br/>
 
 
@@ -342,10 +312,7 @@ What I'm still trying to figure out is whether this pull-based, problem-driven i
 The other thing which I'm still working on is the balance between supporting founders with advice and encouragement, and pushing founders to do more, move faster, aim bigger.
 
 
-<br/>
-
 ----
-
 <br/>
 
 
@@ -383,10 +350,7 @@ From 2015 to to 2017 I invested in 8 arms-length ventures again in India; that p
 The performance of these two portfolios has given me a little bit of encouragement that I'm on the right track; I wouldn't be increasing my annual investment count (or dollars) without that confirmation.
 
 
-<br/>
-
 ----
-
 <br/>
 
 
@@ -411,10 +375,7 @@ Inexperience with hypergrowth
 Areas to improve
 
 
-<br/>
-
 ----
-
 <br/>
 
 
@@ -435,10 +396,7 @@ It turns out you can put those 3 reasons neatly into an Ikigai-ish framework:
 <img src="/assets/img/angel-motivation_.jpg" class="image">
 
 
-<br/>
-
 ----
-
 <br/>
 
 
