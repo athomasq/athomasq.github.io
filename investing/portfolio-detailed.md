@@ -8,6 +8,8 @@ title: My Angel Portfolio In Detail
 
 ----
 
+<br/>
+
 As of Dec 2021, here are the 15 companies I've invested in, and why I invested:
 
 🧠 **[Daloopa](https://www.daloopa.com/)** [AI] -- AI-driven data extraction and inference for financial back offices.  Invested because I like the premise of using modern ML techniques to automate processes that are hugely costly and time-consuming for Wall St (and other) firms.
