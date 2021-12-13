@@ -5,7 +5,7 @@ title: Checks and Balances
 ---
 
 ## Checks and Balances
-### My Angel Investing Year In Review
+#### My Angel Investing Year In Review
 
 ----
 
@@ -16,7 +16,7 @@ title: Checks and Balances
 <br/>
 
 
-### Dealflow and Funnel 
+### Funnel Statistics
 
 Here's what my funnel has looked like over the last 8 months:
 
@@ -24,15 +24,11 @@ Here's what my funnel has looked like over the last 8 months:
 
 (Unfortunately, I didn't keep detailed stats prior to this spring)
 
-95 deals seen
-41 initial calls
-14 deep dives
-7 yes (GEKRAPT) 
-
+<!-- 95 deals seen, 41 initial calls, 14 deep dives, 7 yes (GEKRAPT) -->
 
 These 7 investments join the 8 investments I made in the preceding 2 years, giving me a portfolio of 15 companies.  
 
-Here's a brief description of each company and why I invested.
+Here's a brief [description of each company and why I invested](https://abrahamthomas.info/portfolio-detailed/).
 
 
 ----
@@ -54,6 +50,15 @@ I did a (post facto, completely subjective) scoring of my portfolio companies.  
 
 *image here*
 
+----
+<br/>
+
+### Getting Allocation
+
+Roughly half the financings I've participated in have been competitive / over-subscribed.  Despite this, I've always managed to get my full target allocation in each deal.
+
+*image*
+
 
 ----
 <br/>
@@ -65,12 +70,6 @@ My median entry valuation for pre-seed and seed rounds has increased every year.
 *image here*
 
 Note that I invested in a couple of higher-valued post-seed rounds in 2021, which are excluded from the above.
-
-
-----
-<br/>
-
-### MArkups and Follow-Ons and Allocation
 
 
 ----
@@ -100,7 +99,7 @@ By founder demographics:
 
 ### Portfolio Performance
 
-Here's a table showing markups and IRR by year of investment.  
+7 out of 15 companies have raised subsequent financing at a markup.  Here's a table showing markups and IRR by year of investment.  
 
 <img src="/assets/img/irr-table.png" class="image">
 
