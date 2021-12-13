@@ -14,20 +14,14 @@ title: Checks and Balances
 
 <br/>
 
-### Introduction
 
-Here are some stats from my first full year of "serious" angel investing.  
-
-----
-<br/>
-
-
-### Funnel Stats
+### Dealflow and Funnel 
 
 Here's what my funnel has looked like over the last 8 months:
 
 <img src="/assets/img/funnel-stats.jpg" class="image">
 
+(Unfortunately, I didn't keep detailed stats prior to this spring)
 
 93 deals seen
 41 initial calls
@@ -35,9 +29,9 @@ Here's what my funnel has looked like over the last 8 months:
 7 yes (GEKRAPT) 
 
 
-These 7 investments join the 8 investments I made in the preceding 2 years, giving me a portfolio of 15 companies.  Here's a brief description of each company and why I invested.
+These 7 investments join the 8 investments I made in the preceding 2 years, giving me a portfolio of 15 companies.  
 
-Unfortunately, I didn't track my funnel prior to spring 2021, so I don't know how this has evolved over time. 
+Here's a brief description of each company and why I invested.
 
 
 ----
@@ -104,7 +98,6 @@ Here's a table showing markups and IRR by year of investment.
 
 <img src="/assets/img/irr-table.png" class="image">
 
-Of course, it can't be emphasized enough that these numbers are mostly meaningless, given the short timespans involved. 
 
 
 ----
@@ -126,7 +119,10 @@ So far, so good.
 ----
 <br/>
 
-### Further Reading
+### Notes and Further Reading
+
+Of course, it can't be emphasized enough that these numbers are mostly meaningless, given the short timespans involved. 
+
 
 This is the TLDR version of this essay, with just the stats.  To read an expanded version with editorial commentary, click here.  
 
