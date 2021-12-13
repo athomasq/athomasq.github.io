@@ -5,11 +5,11 @@ title: Checks and Balances
 ---
 
 ## Checks and Balances
-#### My Angel Investing Year In Review
+#### *My Angel Investing Year In Review*
 
 *Why even have an angel portfolio if you can't draw pretty pictures with it?*
 
-----
+<br/>
 <br/>
 
 
