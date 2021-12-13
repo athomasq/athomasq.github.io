@@ -5,7 +5,7 @@ title: Investing In Public
 ---
 
 # Investing In Public
-
+### Notes From My First Year As A "Serious" Angel
 ----
 
 *"Any idiot with a checkbook looks like a genius right now."* -- [Zach Coelius](https://twitter.com/zachcoelius)  
@@ -44,10 +44,7 @@ Why is that?  A mix of reasons.  There's reputation: failure is not a badge of h
 
 <!-- These reasons apply to me as well, but I'm in a stage of my career where frankly, I don't give a damn. -->  
 
-<br/>
-
 ----
-
 <br/>
 
 ### Caveats, Disclaimers, and Other Mealy-Mouthed Hedges
@@ -64,11 +61,7 @@ I probably contradict myself a dozen times in these notes; partly because I don'
 
 With all that out of the way, let's get started! 
 
-
-<br/>
-
 ----
-
 <br/>
 
 
@@ -96,10 +89,7 @@ What I found every bit as useful as the target numbers themselves was understand
 
 Once written out, these conclusions seem obvious, but the exercise of modeling them out is super helpful (to me at least). 
 
-<br/>
-
 ----
-
 <br/>
 
 
@@ -119,10 +109,7 @@ Intuitively I feel like if I invest in say 1 out of every 50 companies I see, I 
 
 At any rate, one of my goals for 2022 is to double or triple my dealflow.  I have some ideas on how to do that.
 
-<br/>
-
 ----
-
 <br/>
 
 
@@ -141,10 +128,7 @@ What about traction?  Well, at the valuation ranges I invest, startups rarely ha
 *"The dirty secret is that there is no such thing as traction pitches anymore. Because as every company knows -- the best days are always yet to come."* -- [Kevin Kwok](https://kwokchain.com/2021/09/29/narrative-distillation-1/)
 
 
-<br/>
-
 ----
-
 <br/>
 
 
@@ -158,10 +142,7 @@ Empirically, it appears that I care about **team, market and macro** the most; p
 
 Next year I might try to score *all* the companies in my funnel, not just those that made it to the final stage, but I'm not sure that's the most productive use of my time, especially if I increase my dealflow as planned.
 
-<br/>
-
 ----
-
 <br/>
 
 
