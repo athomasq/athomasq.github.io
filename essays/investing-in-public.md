@@ -18,7 +18,7 @@ title: Investing In Public
 <br/>
 
 
-## Warning: Here Be Verbiage
+### Warning: Here Be Verbiage
 
 This is the expanded version of this essay, with editorial commentary.  For the TLDR version with just the stats, [click here](https://abrahamthomas.info/checks-and-balances/).
 
@@ -29,7 +29,7 @@ This is the expanded version of this essay, with editorial commentary.  For the 
 <br/>
 
 
-## Introduction
+### Introduction
 
 I've been angel investing, off and on, for close to a decade, but it's only in the last year or so that I've become more intentional and systematic about it.  One aspect of this is more careful measurement of everything I do; and in the spirit of "building in public", I thought I'd share some high-level portfolio stats and commentary.  
 
@@ -43,7 +43,7 @@ Be warned that the commentary is copious and unfiltered.  Think of it as a combi
 <br/>
 
 
-## Why Invest in Public?
+### Why Invest in Public?
 
 Lots of people build in public, sharing the ups and downs of the founder journey.  Far fewer invest in public.  
 
@@ -59,7 +59,7 @@ Why is that?  A mix of reasons.  There's reputation: failure is not a badge of h
 
 <br/>
 
-## Caveats, Disclaimers, and Other Mealy-Mouthed Hedges
+### Caveats, Disclaimers, and Other Mealy-Mouthed Hedges
 
 This essay is verbose, opinionated and self-indulgent, but it has its flaws as well.  
 
@@ -81,7 +81,7 @@ With all that out of the way, let's get started!
 <br/>
 
 
-## Portfolio Modeling
+### Portfolio Modeling
 
 *"Without thoughtful [portfolio] construction, all you have is a pile of stones"* -- [Jerry Neumann](http://reactionwheel.net), liberally paraphrased
 
@@ -112,7 +112,7 @@ Once written out, these conclusions seem obvious, but the exercise of modeling t
 <br/>
 
 
-## Funnel Statistics and Thoughts on Dealflow
+### Funnel Statistics and Thoughts on Dealflow
 
 Here's what my funnel looks like over the last 6 months:
 
@@ -135,7 +135,7 @@ At any rate, one of my goals for 2022 is to double or triple my dealflow.  I hav
 <br/>
 
 
-## Picking Winners
+### Picking Winners
 
 Should I select companies to invest in based on team, or product, or market?  I'm a big fan of Andy Weissman's answer: **why choose?**  
 
@@ -157,7 +157,7 @@ What about traction?  Well, at the valuation ranges I invest, startups rarely ha
 <br/>
 
 
-## Revealed Preferences in Company Selection
+### Revealed Preferences in Company Selection
 
 After writing the above, I went back and scored my actual portfolio on a number of factors: team, market, product, macro trends, biz model, traction and valuation.  I also scored companies that I passed on after doing deep dives, to see what factors influenced my cut. 
 
@@ -174,7 +174,7 @@ Next year I might try to score *all* the companies in my funnel, not just those 
 <br/>
 
 
-## Investment Edge
+### Investment Edge
 
 *If you don't know the mark at the table, it's probably you.*
 
@@ -210,7 +210,7 @@ Zooming out, an angel's job is to see companies, select winners, get allocations
 <br/>
 
 
-## Entry Valuations
+### Entry Valuations
 
 Angel investing in 2021 is all about navigating the tension between two opposing truths:
 
@@ -229,7 +229,7 @@ I have many more thoughts on this subject; see my notes on navigating high valua
 
 <br/>
 
-## Winning Allocations
+### Winning Allocations
 
 I've participated in 22 financing rounds so far (15 first cheques and 7 follow-ons).  9 of those 22 rounds (41%) have been competitive / oversubscribed.  But I've been able to get my full target allocation in every financing I've participated in.
 
@@ -260,7 +260,7 @@ This probably has several causes: the general paucity of angel investors in Toro
 
 
 
-## My Actual Portfolio
+### My Actual Portfolio
 
 My companies are the best.  
 
@@ -321,7 +321,7 @@ I try to maintain a balance between narrow / small / safe investments, and wide 
 <br/>
 
 
-## Portfolio Decomposition
+### Portfolio Decomposition
 
 Here are a few different ways to slice my portfolio.
 
@@ -357,7 +357,7 @@ Listing them out like this, it does seem that "anything goes", as long as it's B
 <br/>
 
 
-## Post-Investment Support
+### Post-Investment Support
 
 *(This entire section probably massively overestimates how much influence I have and how often my portfolio founders even think of me.)*
 
@@ -378,7 +378,7 @@ The other thing which I'm still working on is the balance between supporting fou
 
 
 
-## Portfolio Performance
+### Portfolio Performance
 
 (Admit it, this is the only section most of you care about.)
 
@@ -402,7 +402,7 @@ So far the distribution of individual-company markups seems to follow a power la
 
 An interesting trick is to test performance with the best company omitted; my portfolio is still at 111%. 
 
-### Previous Experiments
+#### Previous Experiments
 
 I had a couple of precursor portfolios before my current foray into angel investing.  From 2009 to 2014 I invested in 5 friends-and-family ventures in India.  All but one have sunk without a trace; the one is going strong and on track for a large, indeed possibly a very large outcome, but not any time soon.  
 
@@ -419,7 +419,7 @@ The performance of these two portfolios has given me a little bit of encourageme
 
 
 
-## Anti-Portfolio and Mistakes
+### Anti-Portfolio and Mistakes
 
 There's two types of antiportfolio: companies you pass on, and companies you don't even see.
 
@@ -447,7 +447,7 @@ Areas to improve
 
 
 
-## Motivation and Goals
+### Motivation and Goals
 
 Going through this exercise helped me examine my own motivations for angel investing.  Why am I even doing this?  There are 3 main reasons:
 
