@@ -13,7 +13,6 @@ title: Investing In Public
 *"Better to stay silent and be thought an idiot, than to speak out and remove all doubt"* -- [apocryphal](https://quoteinvestigator.com/2010/05/17/remain-silent/)
 
 ----
-
 <br/>
 
 
@@ -21,10 +20,7 @@ title: Investing In Public
 
 This is the expanded version of this essay, with editorial commentary.  For the TLDR version with just the stats, [click here](https://abrahamthomas.info/checks-and-balances/).
 
-<br/>
-
 ----
-
 <br/>
 
 
@@ -34,11 +30,7 @@ I've been angel investing, off and on, for close to a decade, but it's only in t
 
 Be warned that the commentary is copious and unfiltered.  Think of it as a combination of an internal memo on process, an investor letter to my sole LP (myself), a fly-on-the-wall documentary, and a record of some interesting times.
 
-
-<br/>
-
 ----
-
 <br/>
 
 
