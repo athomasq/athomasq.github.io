@@ -4,7 +4,8 @@ permalink: /:basename/
 title: Checks and Balances
 ---
 
-## Angel Investing Year In Review
+## Checks and Balances
+### My Angel Investing Year In Review
 
 ----
 
@@ -23,7 +24,7 @@ Here's what my funnel has looked like over the last 8 months:
 
 (Unfortunately, I didn't keep detailed stats prior to this spring)
 
-93 deals seen
+95 deals seen
 41 initial calls
 14 deep dives
 7 yes (GEKRAPT) 
