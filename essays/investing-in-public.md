@@ -30,7 +30,7 @@ This is the expanded version of this essay, with editorial commentary.  For the 
 
 I've been angel investing, off and on, for close to a decade, but it's only in the last year or so that I've become more intentional and systematic about it.  One aspect of this is more careful measurement of everything I do; and in the spirit of "building in public", I thought I'd share some high-level portfolio stats and commentary.  
 
-Be warned that the commentary is copious and unfiltered.  Think of it as a combination of an internal memo on process, an investor letter to my sole LP (myself), a fly-on-the-wall documentary, and a record of some interesting times.
+The commentary is copious and unfiltered.  Think of it as a combination of an internal memo on process, an investor letter to my sole LP (myself), a fly-on-the-wall documentary, and a record of some interesting times.
 
 ----
 <br/>
