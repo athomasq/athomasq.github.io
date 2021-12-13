@@ -15,7 +15,7 @@ As of Dec 2021, here are the 15 companies I've invested in, and why I invested:
 ----
 <br/>
 
-### <center> 2019 </center>
+### <center>2019</center>
 
 🧠 **[Daloopa](https://www.daloopa.com/)** [AI] -- AI-driven data extraction and inference for financial back offices.  Invested because I like the premise of using modern ML techniques to automate processes that are hugely costly and time-consuming for Wall St (and other) firms.
 
@@ -24,7 +24,7 @@ As of Dec 2021, here are the 15 companies I've invested in, and why I invested:
 ----
 <br/>
 
-### 2020
+### <center>2020</center>
 
 🌏 **[Terra.do](https://terra.do)** [Climate] -- climate community, education platform and job market.  Invested because it's a big and important idea with a huge surface area, and they have a ridiculously high NPS. 
 
@@ -37,7 +37,7 @@ As of Dec 2021, here are the 15 companies I've invested in, and why I invested:
 ----
 <br/>
 
-### 2021
+### <center>2021</center>
 
 🏗️ **[Citylitics](https://citylitics.com/)** [Infrastructure] -- data-as-a-service business covering every type of physical infrastructure.  Invested because they've put years of effort into creating a valuable and unique data asset, and are now poised to reap the rewards.
 
