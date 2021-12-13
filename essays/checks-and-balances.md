@@ -14,11 +14,9 @@ title: Checks and Balances
 
 ### Funnel Statistics
 
-Here's what my funnel has looked like over the last 8 months:
+Here's what my funnel has looked like over the last 8 months. (Unfortunately, I didn't keep detailed stats prior to this spring.)
 
 <img src="/assets/img/funnel-stats.jpg" class="image">
-
-(Unfortunately, I didn't keep detailed stats prior to this spring)
 
 <!-- 95 deals seen, 41 initial calls, 14 deep dives, 7 yes (GEKRAPT) -->
 
