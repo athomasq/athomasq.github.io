@@ -217,9 +217,7 @@ Angel investing in 2021 is all about navigating the tension between two opposing
 * value investing does not work in venture;
 * it's hard(er) to make money investing at high(er) valuations. 
 
-I try to square this circle by first, investing in unfashionable businesses, and second, investing far earlier than would seem prudent.  
-
-Despite this effort at discipline, my median entry valuation for pre-seed and seed rounds has increased every year, and I'm totally okay with that; I think it's a sign of strength.  I'd be much less sanguine investing in an asset class where valuations declined every year.
+My median entry valuation for pre-seed and seed rounds has increased every year, and I'm totally okay with that; I think it's a sign of strength.  I'd be much less sanguine investing in an asset class where valuations declined every year.
 
 *image*
 
