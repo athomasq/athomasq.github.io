@@ -5,9 +5,9 @@ title: Checks and Balances
 ---
 
 # Checks and Balances
-### *My Angel Investing Year In Review*
+### My Angel Investing Year In Review
 
-Why even have an angel portfolio if you can't draw pretty pictures with it?
+*Why even have an angel portfolio if you can't draw pretty pictures with it?*
 
 <br/>
 
@@ -29,7 +29,9 @@ These 7 investments join the 8 investments I made in the preceding 2 years, givi
 Here's a brief description of each company and [why I invested](https://abrahamthomas.info/portfolio-detailed/).
 
 <br/>
+
 ----
+
 <br/>
 
 ### Portfolio Construction
