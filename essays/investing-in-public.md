@@ -232,6 +232,11 @@ I have many more thoughts on this subject; see my notes on navigating high valua
 
 So far   
 
+So far I haven't had any problem getting allocation into any deal I've wanted to participate in.  This is a pretty strong indictment of my dealflow.  I really should be trying to get into the deals that don't want me. 
+
+This probably has several causes: the general paucity of angel investors in Toronto (less competition for me), my credentials as a successful exited founder, my specialist knowledge of data-AI-API businesses, the small size of my cheques etc.  But it's also probably because I'm simply not participating in (because I don't see) the most competitive rounds. 
+
+
 
 
 ## 10. My Actual Portfolio
@@ -410,9 +415,14 @@ On the other side, I don't really care about false positives.  I expect 50% of m
 
 Yet another piece of evidence that I need to improve my dealflow is my "win rate".  So far I haven't had any problem getting allocation into any deal I've wanted to participate in.  This probably has several causes: the general paucity of angel investors in Toronto (less competition for me), my credentials as a successful exited founder, my specialist knowledge of data-AI-API businesses, the small size of my cheques etc.  But it's also probably because I'm simply not participating in (because I don't see) the most competitive rounds. 
 
-Apart from my anti-portfolio, I think my biggest weakness is a bias towards complexity.  Sometimes the simple and obvious solutions make the best investments; a lesson I'm still learning.    
+Apart from my anti-portfolio, I think my biggest weakness is a bias towards complexity.  Sometimes the simple and obvious solutions make the best investments; a lesson I'm still learning.  
+
 
 [This might be a hangover from my hedge fund days.  In public markets, if an opportunity is obvious, it will be arbitraged away; therefore you need to be contrarian to make money.  One way to do that is to embrace complexity that others avoid.  Early stage markets are not like that!]
+
+Inexperience with hypergrowth
+
+Areas to improve
 
 [Back to Top ↩](/investing-in-public#table-of-contents)
 
