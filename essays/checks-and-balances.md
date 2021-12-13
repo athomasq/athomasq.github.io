@@ -5,7 +5,7 @@ title: Checks and Balances
 ---
 
 # Checks and Balances
-### My Angel Investing Year In Review
+### My Angel Investing Year In Review, 2021
 
 *Why even have an angel portfolio if you can't draw pretty pictures with it?*
 
