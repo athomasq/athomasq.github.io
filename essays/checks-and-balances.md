@@ -22,7 +22,7 @@ Here's what my funnel has looked like over the last 8 months. (Unfortunately, I 
 
 These 7 investments join the 8 investments I made in the preceding 2 years, giving me a portfolio of 15 companies.  
 
-Here's a brief [description of each company and why I invested](https://abrahamthomas.info/portfolio-detailed/).
+Here's a brief description of each company and [why I invested](https://abrahamthomas.info/portfolio-detailed/).
 
 
 ----
@@ -97,7 +97,7 @@ By founder demographics:
 
 <img src="/assets/img/irr-table.png" class="image">
 
-
+Of course, it can't be emphasized enough that these numbers are mostly meaningless, given the short timespans involved. 
 
 ----
 <br/>
@@ -120,12 +120,7 @@ So far, so good.
 
 ### Notes and Further Reading
 
-Of course, it can't be emphasized enough that these numbers are mostly meaningless, given the short timespans involved. 
-
-
-Here are some stats from my first full year of "serious" angel investing. 
-
-This is the TLDR version of this essay, with just the stats.  To read an expanded version with editorial commentary, click here.  
+This is the TLDR version of this essay, with just the stats.  To read an expanded version with editorial commentary, [click here](https://abrahamthomas.info/investing-in-public).  
 
 
 
