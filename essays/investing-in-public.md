@@ -54,7 +54,7 @@ I feel like I need substantially more dealflow.  I'd like to reach a state where
 
 *"Without thoughtful [portfolio] construction, all you have is a pile of stones"* -- [Jerry Neumann](http://reactionwheel.net), liberally paraphrased
 
-This is perhaps the area where I've evolved the most.  Given power law outcomes, current valuations, capital constraints and risk preferences, how should I structure my portfolio? How many investments a year, what cheque size, which rounds, what valuations ranges, when to follow on, when to exit, what win/loss ratios to target, how to recycle and so on?  There are lot of moving parts. 
+This is perhaps the area where I've evolved the most.  Given power law outcomes, current valuations, capital constraints and risk preferences, how should I structure my portfolio? How many investments a year, what cheque size, which rounds, what valuation ranges, when to follow on, when to exit, what win/loss ratios to target, how to recycle and so on?  There are lot of moving parts. 
 
 So naturally, I built a model and scienced the shit out of it. Here's where I ended up: 
 
@@ -97,7 +97,7 @@ Empirically, it appears that I care about **team, market and macro** the most; p
 
 *If you don't know the mark at the table, it's probably you.*
 
-I spend a lot of time thinking about edge -- it's been one of the defining themes of my professional career.  I now have a clearer sense of where my edge lies as an angel investor, and it comes down to three facts:  
+I spend a lot of time thinking about edge -- it's been one of the defining themes of my professional career.  I now have a clearer sense of where my edge is, and it comes down to three facts:  
 
 * Most investors have no founder experience.
 * Most founders turned angels have no investing experience.
@@ -107,13 +107,13 @@ I spend a lot of time thinking about edge -- it's been one of the defining theme
 
 Let's break those down:
 
-**Founder Experience:** I think my experience as a successful venture-backed founder gives me an edge in evaluating other founders.  Venture-backed tech startups are not the same as other businesses, pitching well is not the same as executing well, and being a founder is not the same as being an operator or investor.  
+**Founder Experience:** At early stage, team is everything, and I think my experience as a successful venture-backed founder myself gives me a clear edge in evaluating other founders.  Venture-backed tech startups are not the same as other businesses, pitching well is not the same as executing well, and being a founder is not the same as being an operator or investor.  
 
 **Investor Experience:** I think my pre-angel experience -- a decade as a portfolio manager at a large hedge fund, and another decade parsing the data signatures and business drivers of public companies while running Quandl -- gives me a degree of analytical clarity beyond most angels without a professional investing background.  
 
-**Incentives and Alignment:** I'm not answerable to LPs; I have none.  This means I don't have to waste time role-playing as an investor ("accountability theatre"), nor do I have to care about logos, trend-chasing, hot deals or IRR; cash on cash is all that matters.  It also means I can truly align myself with my portfolio founders; I don't have other customers to please.  
+**Incentives and Alignment:** I'm not answerable to LPs; I have none.  This means I don't have to waste time on "accountability theatre", nor do I have to care about headlines, hot deals, artifical IRR horizons, or fund-raising in general.  It also means I can truly align myself with my portfolio founders; I don't have other customers to please.  This makes a difference. 
 
-I suspect it's easy enough to find angels with 2 out of 3 these attributes, but the intersection of all three is rare.
+I suspect it's easy enough to find angels with any two of these attributes, but the intersection of all three is rare.
 
 
 ----
@@ -122,7 +122,7 @@ I suspect it's easy enough to find angels with 2 out of 3 these attributes, but 
 
 ### Entry Valuations
 
-Angel investing in 2021 is all about navigating the tension between two opposing truths:
+Early-stage investing in 2021 is all about navigating the tension between two opposing truths:
 
 * value investing does not work in venture;
 * it's hard(er) to make money investing at high(er) valuations. 
@@ -131,21 +131,26 @@ My median entry valuation for pre-seed and seed rounds has increased every year,
 
 *image*
 
-I have many more thoughts on this subject; see my notes on navigating high valuations as an angel investor. 
 
 ----
 <br/>
 
 ### Winning Allocations
 
-I've participated in 22 financing rounds so far (15 first cheques and 7 follow-ons).  10 of those 22 rounds (45%) have been competitive / oversubscribed.  But I've been able to get my full target allocation in every financing I've participated in.
+I've participated in 22 financing rounds so far: 15 first cheques and 7 follow-ons.  10 of those 22 rounds (45%) have been competitive / oversubscribed.  But I've been able to get my full target allocation in every financing I've participated in.
 
 
 *image*
 
-There are probably a few reasons I'm able to get into every deal I bid on: the general scarcity of angel investors and early stage capital in Canada; my own credibility as a successful tech founder; my knowledge of AI-data-API businesses; co-investors and VCs who vouch for me; the small size of my cheques and so on.  
+There are probably a few reasons I'm able to get into every deal I bid on: 
+* the general scarcity of angel investors in Canada; 
+* my own credibility as a successful tech founder; 
+* my knowledge of AI-data-API businesses; 
+* co-investors and VCs who vouch for me; 
+* the small size of my cheques;
+and so on.  
 
-But the biggest factor is probably my dealflow, or rather lack thereof.  Chances are, my win rate is high because I'm not even at the table for the most competitive rounds. 
+But the *biggest* factor is probably my dealflow, or rather lack thereof.  Chances are, my win rate is high because I'm not even at the table for the most competitive rounds. 
 
 So paradoxically, I'd like this particular stat to worsen: I'd like to have my money rejected a few times! 
 
@@ -221,7 +226,7 @@ I think this is slightly above average on cold inbound.  Over time, I expect "pr
 
 <img src="/assets/img/slice-founders.jpg" class="image3">
 
-At a high level, 21 of 30 founders come from an underrepresented slice.  But it's mostly immigrants and minorities; not enough women.  It has not escaped my notice that I'm an immigrant minority man, so this almost certainly reflects my own network and biases.  I need to do better.
+At a high level, 21 of 30 portfolio founders come from an underrepresented slice.  But it's mostly immigrants and minorities; not enough women.  It has not escaped my notice that I'm an immigrant minority man, so this almost certainly reflects my own network and biases.  I need to do better.
 
 - By business model: 
 
@@ -256,8 +261,6 @@ On average I spend 1-2 hours with each of my portfolio companies every 3-4 month
 Here's my performance sliced by year of deployment: 
 
 <img src="/assets/img/irr-table.png" class="image">
-
-As the table makes clear, I've been ramping up my deal count every year.  
 
 I've invested in 15 startups over the last 2¼ years. None of them are dead yet.  As of Dec 2021, 7 out of 15 have raised further funding (47%).  This percentage correlates with company vintage:
 
@@ -416,3 +419,8 @@ The other thing which I'm still working on is the balance between supporting fou
 I also think there's massive survivorship bias in public angel profiles.  Most angel investors and nearly all angel investments fail.  If you only look at the winners, you'll get a very skewed sense of the 
 
 (Case in point: if my first few investments hadn't done so well, I probably would have stopped investing some time ago, in which case this blog 
+
+
+
+I have many more thoughts on this subject; see my notes on navigating high valuations as an angel investor. 
+
