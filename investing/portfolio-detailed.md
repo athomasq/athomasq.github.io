@@ -19,7 +19,7 @@ As of Dec 2021, here are the 15 companies I've invested in, and why I invested:
 
 🧠 **[Daloopa](https://www.daloopa.com/)** [AI] -- AI-driven data extraction and inference for financial back offices.  Invested because I like the premise of using modern ML techniques to automate processes that are hugely costly and time-consuming for Wall St (and other) firms.
 
-🏢 **[Mero](https://mero.co/)** [Infrastructure] -- Sensors, data and software for smarter, cleaner buildings.  Invested because of strong capital efficiency (despite the hardware component), stickiness of solution, potential wedge into high-value data and analytics, and straightforward portfolio gtm.
+🏢 **[Mero](https://mero.co/)** [Infrastructure] -- Sensors, data and software for smarter, cleaner buildings.  Invested because of strong capital efficiency, stickiness of solution, potential wedge into high-value data and analytics, and straightforward portfolio gtm.
 
 ----
 <br/>
@@ -51,11 +51,10 @@ As of Dec 2021, here are the 15 companies I've invested in, and why I invested:
 
 💵 **[Requity](https://www.requityhomes.com)** [Fintech] -- Rent-to-own for people who can't get a mortgage despite strong cashflow.  Invested because of strong founder-market fit, neat 2-sided business model, underserved but large market, and it makes the world a better place.
 
+🛒 **[Arima](https://www.arimadata.com)** [AI] -- Using synthetic data to create rich audiences that are privacy-compliant by construction.  Invested because it's the perfect intersection of founder, market, macro, research, tech and traction.
 
-🛒 **[Arima](https://www.arimadata.com)** [AI] -- A new approach to customer intelligence, using proprietary ML research to create rich simulated audiences that are privacy-compliant by construction.  Invested because it's the perfect intersection of founder, market, macro, tech and traction.
+⛵️ **[Paysail](https://paysail.us)** [Crypto] -- Using crypto rails to enable nearly instantaneous, nearly free B2B payments.  Invested because of "problem-solution fit" -- there are many ways to do payments, but this one just feels *correct* in its elegance.  
 
-⛵️ **[Paysail](https://paysail.us)** [Crypto] -- Using crypto rails to enable nearly instantaneous, nearly free B2B payments.  Invested because of "problem-solution fit" -- there are many ways to do payments, but this one just feels *correct* in its elegance.  My first crypto investment!
-
-🎲 **[TriplePlay](https://tripleplay.ai)** [Workplace] -- A better way to socialize remotely, playing games in a rich and fluid environment.  Invested because of strong macro trends and a belief that human beings connect through play.
+🎲 **[TriplePlay](https://tripleplay.ai)** [Workplace] -- A better way to socialize remotely.  Invested because of strong macro trends and a belief that human beings connect through play.
 
 

@@ -35,7 +35,7 @@ The commentary is copious and unfiltered.  Think of it as a combination of an in
 <br/>
 
 
-### Funnel Statistics and Thoughts on Dealflow
+### Funnel Statistics
 
 Here's what my funnel has looked like over the last 8 months:
 
@@ -65,7 +65,7 @@ I now have a framework that imposes some degree of investment discipline.  I thi
 ----
 <br/>
 
-### Picking Winners
+### Picking Investments
 
 Should I select companies to invest in based on team, or product, or market?  I'm a big fan of Andy Weissman's answer: **why choose?**  
 
@@ -90,31 +90,6 @@ After writing the above, I went back and scored my actual portfolio on a number 
 
 Empirically, it appears that I care about **team, market and macro** the most; product and biz model slightly less; and traction and valuation the least of all.  I thought I'd be pickier on business model, but it appears that I have faith that strong teams in big markets supported by powerful trends will figure it out.  Revealed preferences ftw!
 
-----
-<br/>
-
-### Investment Edge
-
-*If you don't know the mark at the table, it's probably you.*
-
-I spend a lot of time thinking about edge -- it's been one of the defining themes of my professional career.  I now have a clearer sense of where my edge is, and it comes down to three facts:  
-
-* Most investors have no founder experience.
-* Most founders turned angels have no investing experience.
-* Most institutional investors have bad incentives.
-
-*image*
-
-Let's break those down:
-
-**Founder Experience:** At early stage, team is everything, and I think my experience as a successful venture-backed founder myself gives me a clear edge in evaluating other founders.  Venture-backed tech startups are not the same as other businesses, pitching well is not the same as executing well, and being a founder is not the same as being an operator or investor.  
-
-**Investor Experience:** I think my pre-angel experience -- a decade as a portfolio manager at a large hedge fund, and another decade parsing the data signatures and business drivers of public companies while running Quandl -- gives me a degree of analytical clarity beyond most angels without a professional investing background.  
-
-**Incentives and Alignment:** I'm not answerable to LPs; I have none.  This means I don't have to waste time on "accountability theatre", nor do I have to care about headlines, hot deals, artifical IRR horizons, or fund-raising in general.  It also means I can truly align myself with my portfolio founders; I don't have other customers to please.  This makes a difference. 
-
-I suspect it's easy enough to find angels with any two of these attributes, but the intersection of all three is rare.
-
 
 ----
 <br/>
@@ -135,9 +110,9 @@ My median entry valuation for pre-seed and seed rounds has increased every year,
 ----
 <br/>
 
-### Winning Allocations
+### Getting Allocation
 
-I've participated in 22 financing rounds so far: 15 first cheques and 7 follow-ons.  10 of those 22 rounds (45%) have been competitive / oversubscribed.  But I've been able to get my full target allocation in every financing I've participated in.
+I've participated in 22 financing rounds so far: 15 first cheques and 7 follow-ons.  9 of those 22 rounds (41%) have been competitive / oversubscribed.  But I've been able to get my full target allocation in every financing I've participated in.
 
 
 *image*
@@ -154,52 +129,47 @@ But the *biggest* factor is probably my dealflow, or rather lack thereof.  Chanc
 
 So paradoxically, I'd like this particular stat to worsen: I'd like to have my money rejected a few times! 
 
+----
+<br/>
+
+### Post-Investment Support
+
+
+I tell founders: "I try to help if I can, and get out of the way if I can't."  So far this seems to be working okay.  Pretty much every single founder I've invested in has reached out to me at some point to go deep into a particular problem they're facing, and the range of problems is wide. 
+
+On average I spend 1-2 hours with each of my portfolio companies every 3-4 months.  The topics which come up most often are go-to-market, narrative creation, recruiting and team structure, and financing strategy.
+
 
 ----
 <br/>
 
+### Portfolio Performance
+
+So far, all of this seems to be working well.  My angel portfolio is currently at a **multiple of 1.8 and an IRR of 157%**. 
+
+Here's my performance sliced by year of deployment: 
+
+<img src="/assets/img/irr-table.png" class="image">
+
+I've invested in 15 startups over the last 2¼ years. None of them are dead yet.  As of Dec 2021, 7 out of 15 have raised further funding (47%).  This percentage correlates with company vintage:
+
+*image*
+
+So far the distribution of individual-company markups seems to follow a power law reasonably closely:
+
+<img src="/assets/img/distribution-markups.jpg" class="image">
+
+Excluding my best-performing company from the calculations still results in an IRR of 111%.  Truly, a rising tide lifts all boats! 
+
+
+----
+<br/>
 
 ### My Actual Portfolio
 
 My companies are the best.  
 
-My editor (me) says I should probably write a little more about them, so here's a list.  For each company I've also included the category, a brief description, and some reasons why my investment committee (also me) picked them.
-
-#### <center>2019</center>
-
-🧠 **[Daloopa](https://www.daloopa.com/)** [AI] -- AI-driven data extraction and inference for financial back offices.  Invested because I like the premise of using modern ML techniques to automate processes that are hugely costly and time-consuming for Wall St (and other) firms.
-
-🏢 **[Mero](https://mero.co/)** [Infrastructure] -- Sensors, data and software for smarter, cleaner buildings.  Invested because of strong capital efficiency (despite the hardware component), stickiness of solution, potential wedge into high-value data and analytics, and straightforward portfolio gtm.
-
-#### <center>2020</center>
-
-🌏 **[Terra.do](https://terra.do)** [Climate] -- climate community, education platform and job market.  Invested because it's a big and important idea with a huge surface area, and they have a ridiculously high NPS. 
-
-🖥️ **[Setyl](https://www.setyl.com/)** [SaaS] -- asset, device and subscription management software for offices.  Invested because it's a simple and light-weight solution to a widespread problem, with natural growth channels. 
-
-🏫 **[Canopy](https://www.canopyanalytics.com/)** [SaaS] -- reporting software for multi-family property managers.  Invested because it's a classic deployment-era play: bringing modern data and software functionality to a fairly staid industry.
-
-🏡 **[BuyProperly](https://buyproperly.ca/)** [Fintech] -- Amazon meets Robinhood for home ownership: a marketplace for fractional shares of property.  Invested because they've solved lots of hard and unglamorous back-end problems to make the magic work; also terrific founder-market fit and plenty of pent-up demand.
-
-#### <center>2021</center>
-
-🏗️ **[Citylitics](https://citylitics.com/)** [Infrastructure] -- data-as-a-service business covering every type of physical infrastructure.  Invested because they've put years of effort into creating a valuable and unique data asset, and are now poised to reap the rewards.
-
-🤝 **[AcuSpire](https://www.acuspire.ai)** [AI] -- AI-driven software to generate better job *matches* (not just searches through listings or resumes).  Invested because I believe this is the next logical step in the evolution of job platforms; also, their enterprise offering is a great solution to the marketplace cold-start problem.
-
-💡 **[Getware](https://www.getware.ai/)** [AI] -- AI-driven insights from unstructured customer interactions, surfaced and summarized at scale for product teams.  Potential customer described this to me as a "no-brainer" purchase if it works as advertised and I agree.
-
-🚚 **[Erly](https://www.geterly.com)** [Logistics] -- Amazon-Prime-as-a-service for D2C merchants.  Invested because of a terrific value prop for merchants, a really clever business model which I can't share too much about, and incredible speed of execution.
-
-💳 **[Klanto](https://www.klanto.com)** [Fintech] -- Spend management platform covering cards, payments, reconciliation and much more.  This is a pure execution play in a crowded space, and I'm betting on an underdog team with scrappiness, hustle and ingenuity.
-
-💵 **[Requity](https://www.requityhomes.com)** [Fintech] -- Rent-to-own for people who can't get a mortgage despite strong cashflow.  Invested because of strong founder-market fit, neat 2-sided business model, underserved but large market, and it makes the world a better place.
-
-🛒 **[Arima](https://www.arimadata.com)** [AI] -- A new approach to customer intelligence, using proprietary ML research to create rich simulated audiences that are privacy-compliant by construction.  Invested because it's the perfect intersection of founder, market, macro, tech and traction.
-
-⛵️ **[Paysail](https://paysail.us)** [Crypto] -- Using crypto rails to enable nearly instantaneous, nearly free B2B payments.  Invested because of "problem-solution fit" -- there are many ways to do payments, but this one just feels *correct* in its elegance.  My first crypto investment!
-
-🎲 **[TriplePlay](https://tripleplay.ai)** [Workplace] -- A better way to socialize remotely, playing games in a rich and fluid environment.  Invested because of strong macro trends and a belief that human beings connect through play.
+My editor (me) says I should probably write a little more about them, so [here's a list](/portfolio-detailed).  For each company I've also included the category, a brief description, and some reasons why my investment committee (also me) picked them.
 
 
 ----
@@ -235,44 +205,6 @@ At a high level, 21 of 30 portfolio founders come from an underrepresented slice
 Listing them out like this, it does seem that "anything goes", as long as it's B2B or at best B2B2C.  I'm not sure this is wise; maybe I'd do better specializing?  
 
 
-----
-<br/>
-
-
-### Post-Investment Support
-
-*(This entire section probably massively overestimates how much influence I have and how often my portfolio founders even think of me.)*
-
-I tell founders: "I try to help if I can, and get out of the way if I can't."  So far this seems to be working okay.  Pretty much every single founder I've invested in has reached out to me at some point to go deep into a particular problem they're facing, and the range of problems is wide. 
-
-On average I spend 1-2 hours with each of my portfolio companies every 3-4 months.  The topics which come up most often are go-to-market, narrative creation, recruiting and team structure, and financing strategy.
-
-
-
-----
-<br/>
-
-
-
-### Portfolio Performance
-
-**My portfolio is currently at a multiple of 1.8 and an IRR of 157%**. 
-
-Here's my performance sliced by year of deployment: 
-
-<img src="/assets/img/irr-table.png" class="image">
-
-I've invested in 15 startups over the last 2¼ years. None of them are dead yet.  As of Dec 2021, 7 out of 15 have raised further funding (47%).  This percentage correlates with company vintage:
-
-*image*
-
-So far the distribution of individual-company markups seems to follow a power law reasonably closely:
-
-<img src="/assets/img/distribution-markups.jpg" class="image">
-
-Excluding my best-performing company from the calculations still results in an IRR of 111%.  Truly, a rising tide lifts all boats! 
-
-
 
 ----
 <br/>
@@ -287,32 +219,6 @@ As far as I know, I have not passed on any startup that's gone on to be super su
 
 On the other side, I don't really care about false positives.  I expect 50% of my companies to lose every dollar, and a further 25% to lose most of it.  The fact that so far this has not happened is perhaps a bit concerning -- either my calibration is off, or I'm not investing in risky-enough startups, or the market is unsustainably supportive.  (Or it could just be too soon; lemons ripen early but my portfolio is earlier still.)
 
-----
-<br/>
-
-### Areas for Improvement
-
-
-
-
-Apart from my anti-portfolio, I think my biggest weakness is a bias towards complexity.  Sometimes the simple and obvious solutions make the best investments; a lesson I'm still learning.  
-
-
-[This might be a hangover from my hedge fund days.  In public markets, if an opportunity is obvious, it will be arbitraged away; therefore you need to be contrarian to make money.  One way to do that is to embrace complexity that others avoid.  Early stage markets are not like that!]
-
-Inexperience with hypergrowth
-
-Areas to improve
-
-
-Mind you, I also have disadvantages: negative edge. I don't network enough; my dealflow is limited; my profile is too low; and I have some biases. I'm working on these
-
-
-
-areas for improvement
-decision process
-actual valuations
-big pic portfolio
 
 
 ----
@@ -333,94 +239,31 @@ Going through this exercise helped me examine my own motivations for angel inves
 
 It turns out you can put those 3 reasons neatly into an Ikigai-ish framework:
 
-
 <img src="/assets/img/angel-motivation_.jpg" class="image">
 
+I think that's a good note to end this review on!
 
 ----
 <br/>
 
 
+### Further Reading
 
-### Caveats, Disclaimers, and Other Mealy-Mouthed Hedges
+If 2000 words and 12 graphs aren't enough for you, here are some extra jottings that my editor (still me!) cut from this essay:
 
-This essay is verbose, opinionated and self-indulgent, but it has its flaws as well.  
+* Why invest in public?
+* My supposed edge as an angel investor
+* Dealflow quantity versus quality
+* How big should an angel portfolio be?
+* Second-order effects in portfolio math
+* Navigating high valuations 
+* Optimal loss rates in picking and winning
+* Precursor portfolio performance
+* Push models of founder support
+* Areas for improvement
+* Knowing what I don't know
 
-I'm an experienced investor in public markets and I know a fair bit about running startups, but I'm not a professional venture investor.  This puts me firmly in the Dunning-Kruger danger zone for this stuff.  
+If you've read this far, wow.
 
-Some of what I hypothesize is likely to be obvious; and some of it is likely to be flat out wrong.  I'm trying hard not to be a tourist or trend-chaser, but it's hard to disentangle skill, luck, unsustainable market dynamics, and genuine macro trends.
-
-None of the data in this essay is remotely statistically significant.  I wouldn't advise drawing any sort of conclusions from my process, portfolio, or results so far.  (Except my general awesomeness of course).
-
-I probably contradict myself a dozen times in these notes; partly because I don't believe consistency is necessarily a virtue for investors, and partly because I don't know all the answers, so this is just me thinking out loud.  
-
-----
 <br/>
-
-
-
-----
 <br/>
-
-
-### End Notes and Open Questions
-
-
-0. Why Invest in Public?
-
-Lots of people build in public, sharing the ups and downs of the founder journey.  Far fewer invest in public.  
-
-Why is that?  A mix of reasons.  There's reputation: failure is not a badge of honour for investors the way it can be for founders.  There's competition: the market is awash with capital, so why give away your secrets to your rivals?  And there's reticence: being able to angel invest is a privilege, and many don't want to flaunt that.
-
-(The exception of course is the all-too-common humblebrag when a company exits: "Proud to be an investor in Acme Corp, which is IPOing today.")  
-
-These reasons apply to me as well, but I'm in a stage of my career where frankly, I don't give a damn.  Hopefully some of you enjoy reading this, and if you've come this far, wow.   
-
-
-1. My goal is to make 6-8 investments a year, and so far I seem to be on track, but it's a lumpy process.  2 investments on the same day (!) in June, none from July to September, 2 in October, 3 in November.  Should I expect a steady cadence, or is lumpiness part of the game?  Does dealflow follow a Poisson process?
-
-2. One interesting question is, how big does the top of my funnel need to be to support this?  Presumably an investor who sees 200 companies has better odds of finding 6 excellent ones than an investor who sees just 20.  But does one who sees 2000 do even better?  Does quantity imply quality?  At what point do diminishing returns set in?  Is there a point where the marginal value turns negative?  How much is just circularity (the best investors attract the best companies, and also more of the worst)?  
-
-Intuitively I feel like if I invest in say 1 out of every 50 companies I see, I should end up with a pretty good portfolio, but it's not completely obvious.  (I'm currently at 1 out of every 15, more or less.)  
-
-At any rate, one of my goals for 2022 is to double or triple my dealflow.  I have some ideas on how to do that.
-
-
-3. What I found every bit as useful as the target numbers themselves was understanding their derivatives with respect to various changes in market assumptions or my behaviour.  For example:
-
-* the more the variance around your hit rate, the more companies you need in your portfolio.
-* the more power-law your outcomes, the more important it is to follow on in your winners.  
-* pre-committing to a set number of investments over several years allows you to invest all through the cycle.
-* if you double your entry valuations, you need to double your exit valuations, but only for your big winners; the losers have minimal impact either way.
-
-Once written out, these conclusions seem obvious, but the exercise of modeling them out is valuable (to me at least). 
-
-
-4. Is 45% a touch low?  It's nice to invest in companies nobody else believes in, but is that being contrarian, or simply being wrong?  Note that the value of being contrarian in inefficient markets like venture is not clear; startups are not like public stocks.
-
-At the same time, I wouldn't want 100% of my deals to be competitive; that would suggest the opposite, viz. that I'm not being contrarian enough, and also that I'm paying too much.  I think something like 66% competitive, 34% contrarian would be an ideal level to shoot for.  (I have no data to support this assertion).
-
-
-5. I had a couple of precursor portfolios before my current foray into angel investing.  From 2009 to 2014 I invested in 5 friends-and-family ventures in India.  All but one have sunk without a trace; the one is going strong and on track for a large, indeed possibly a very large outcome, but not any time soon.  
-
-From 2015 to to 2017 I invested in 8 arms-length ventures again in India; that portfolio has done quite well (it's currently at 3.4x DPI, 5.5x TVPI and 41% IRR).  Two companies are on unicorn trajectories.  I exited one of them at a 40x markup, and am holding on to the other.  A couple of the others may return 1-3x but are unlikely to return more than that.  Standard power law dynamics, in fact. 
-
-The performance of these two portfolios has given me a little bit of encouragement that I'm on the right track; I wouldn't be increasing my annual investment count (or dollars) without that confirmation.
-
-
-What I'm still trying to figure out is whether this pull-based, problem-driven interaction is optimal, or if I can be more effective by being more proactive.  The challenge is to add that proactivity without projecting an unearned authority or a certainty that doesn't exist.  (Yes, this is pompous).  Ideally I'd like to apply the same transform to value-addition that I've done to portfolio construction: make it less ad hoc, and more intentional.
-
-The other thing which I'm still working on is the balance between supporting founders with advice and encouragement, and pushing founders to do more, move faster, aim bigger.
-
-
-----
-<br/>
-
-I also think there's massive survivorship bias in public angel profiles.  Most angel investors and nearly all angel investments fail.  If you only look at the winners, you'll get a very skewed sense of the 
-
-(Case in point: if my first few investments hadn't done so well, I probably would have stopped investing some time ago, in which case this blog 
-
-
-
-I have many more thoughts on this subject; see my notes on navigating high valuations as an angel investor. 
-
