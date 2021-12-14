@@ -104,7 +104,7 @@ My median entry valuation for pre-seed and seed rounds has increased every year,
 
 ### Getting Allocation
 
-I've participated in 22 financing rounds so far: 15 first cheques and 7 follow-ons.  9 of those 22 rounds (41%) have been competitive / oversubscribed.  But I've been able to get my full target allocation in every financing I've participated in.
+I've participated in 22 financing rounds so far: 15 first cheques and 7 follow-ons.  9 of those 22 rounds have been competitive / oversubscribed.  But I've been able to get my full target allocation in every financing I've participated in.
 
 
 *image*
@@ -112,9 +112,9 @@ I've participated in 22 financing rounds so far: 15 first cheques and 7 follow-o
 There are probably a few reasons I'm able to get into every deal I bid on: 
 * the general scarcity of angel investors in Canada; 
 * my own credibility as a successful tech founder; 
-* my knowledge of AI-data-API businesses; 
+* my knowledge of AI-data-API and NFX businesses; 
 * co-investors and VCs who vouch for me; 
-* the small size of my cheques;
+* the small size of my cheques;  
 and so on.  
 
 But the *biggest* factor is probably my dealflow, or rather lack thereof.  Chances are, my win rate is high because I'm not even at the table for the most competitive rounds. 
@@ -127,9 +127,9 @@ So paradoxically, I'd like this particular stat to worsen: I'd like to have my m
 ### Post-Investment Support
 
 
-I tell founders: "I try to help if I can, and get out of the way if I can't."  So far this seems to be working okay.  Pretty much every single founder I've invested in has reached out to me at some point to go deep into a particular problem they're facing, and the range of problems is wide. 
+I tell founders: "I try to help if I can, and get out of the way if I can't."  So far this seems to be working okay.  Most of my portfolio founders have reached out to me at some point to chat about or think through a particular problem they're facing.
 
-On average I spend 1-2 hours with each of my portfolio companies every 3-4 months.  The topics which come up most often are go-to-market, narrative creation, recruiting and team structure, and financing strategy.
+On average I spend 2-3 hours with each of my portfolio companies every 2-3 months.  The topics which come up most often are go-to-market, narrative creation, culture, recruiting and team structure, and financing strategy.
 
 
 ----
@@ -137,13 +137,13 @@ On average I spend 1-2 hours with each of my portfolio companies every 3-4 month
 
 ### Portfolio Performance
 
-So far, all of this seems to be working well.  My angel portfolio is currently at a **multiple of 1.8 and an IRR of 157%**. 
+So far, all of this seems to be working well.  My angel portfolio is currently at a multiple of 1.8 and an IRR of 157%. 
 
 Here's my performance sliced by year of deployment: 
 
 <img src="/assets/img/irr-table.png" class="image">
 
-I've invested in 15 startups over the last 2¼ years. None of them are dead yet.  As of Dec 2021, 7 out of 15 have raised further funding (47%).  This percentage correlates with company vintage:
+I've invested in 15 startups over the last 2¼ years. None of them are dead yet.  As of Dec 2021, 7 out of 15 have raised further funding.  This percentage correlates with company vintage, as expected:
 
 *image*
 
@@ -244,14 +244,14 @@ I think that's a good note to end this review on!
 If 2000 words and 12 graphs aren't enough for you, here are some extra jottings that my editor (still me!) cut from this essay:
 
 * Why invest in public?
-* My supposed edge as an angel investor
-* Dealflow quantity versus quality
+* Finding an edge as an angel investor
 * How big should an angel portfolio be?
+* Dealflow quantity versus quality
 * Second-order effects in portfolio math
 * Navigating high valuations 
 * Optimal loss rates in picking and winning
 * Precursor portfolio performance
-* Push models of founder support
+* Different models of founder support
 * Areas for improvement
 * Knowing what I don't know
 
