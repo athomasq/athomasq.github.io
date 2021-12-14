@@ -29,7 +29,7 @@ This is the expanded version of this essay, with editorial commentary.  For the 
 
 I've been angel investing, off and on, for close to a decade, but it's only in the last year or so that I've become more intentional and systematic about it.  One aspect of this is more careful measurement of everything I do; and in the spirit of "building in public", I thought I'd share some high-level portfolio stats and commentary.  
 
-The commentary is copious and unfiltered.  Think of it as a combination of an internal memo on process, an investor letter to my sole LP (myself), a fly-on-the-wall documentary, and a record of some interesting times.
+The commentary is copious and unfiltered.  Think of it as a combination of an internal memo on process, an investor letter to my sole LP (myself), a documentary and a record of some interesting times.
 
 ----
 <br/>
@@ -43,15 +43,8 @@ Here's what my funnel has looked like over the last 8 months:
 
 (Unfortunately, I didn't keep detailed funnel stats prior to spring 2021.)
 
-I feel like I need substantially more dealflow.  My goal is to make 6-8 investments a year, and so far I seem to be on track, but it's a lumpy process.  2 investments on the same day (!) in June, none from July to September, 2 in October, 3 in November.  Should I expect a steady cadence, or is lumpiness part of the game?  Does dealflow follow a Poisson process?
+I feel like I need substantially more dealflow.  I'd like to reach a state where I see a dozen or more terrific opportunities every year and it genuinely hurts to have to say no to half of them.  I'm not there yet.  I *think* I avoid making mediocre investments just to hit my annual deal goal, but I could be utterly wrong on that; after all, I don't see the deals that I don't see.
 
-I don't know, but I'd like to reach a state where I see a dozen or more terrific opportunities every year and it genuinely hurts to have to say no to half of them.  I'm not there yet.  I *think* I avoid making mediocre investments just to hit my annual deal goal, but I could be utterly wrong on that; after all, I don't see the deals that I don't see.
-
-One interesting question is, how big does the top of my funnel need to be to support this?  Presumably an investor who sees 200 companies has better odds of finding 6 excellent ones than an investor who sees just 20.  But does one who sees 2000 do even better?  Does quantity imply quality?  At what point do diminishing returns set in?  Is there a point where the marginal value turns negative?  How much is just circularity (the best investors attract the best companies, and also more of the worst)?  
-
-Intuitively I feel like if I invest in say 1 out of every 50 companies I see, I should end up with a pretty good portfolio, but it's not completely obvious.  (I'm currently at 1 out of every 15, more or less.)  
-
-At any rate, one of my goals for 2022 is to double or triple my dealflow.  I have some ideas on how to do that.
 
 ----
 <br/>
@@ -64,24 +57,14 @@ At any rate, one of my goals for 2022 is to double or triple my dealflow.  I hav
 *"Without thoughtful [portfolio] construction, all you have is a pile of stones"* -- [Jerry Neumann](http://reactionwheel.net), liberally paraphrased
 
 
-This is perhaps the area where I've evolved the most.  Given power law outcomes and other unique-to-startup dynamics, current market conditions, my capital constraints and risk preferences, and not least my (self-assessed) strengths and weaknesses as an investor, how should I structure my portfolio? 
-
-How many investments a year, what cheque size, which rounds to participate in, what valuations to target, when to follow on and in what size, when to exit, what win/loss ratios to target, how to recycle and so on?  There are lot of moving parts. 
+This is perhaps the area where I've evolved the most.  Given power law outcomes, current valuations, capital constraints and risk preferences, how should I structure my portfolio? How many investments a year, what cheque size, which rounds, what valuations ranges, when to follow on, when to exit, what win/loss ratios to target, how to recycle and so on?  There are lot of moving parts. 
 
 So naturally, I built a model and scienced the shit out of it. Here's where I ended up: 
 
 <img src="/assets/img/portfolio-parameters.jpg" class="image">
 
-Situating each angel cheque in the context of a larger portfolio imposes investment discipline.  I think this has been the biggest single change in my investment approach in recent times.
+I now have a framework that imposes some degree of investment discipline.  I think this has been the biggest single change in my approach in recent times.
 
-What I found every bit as useful as the target numbers themselves was understanding their derivatives with respect to various changes in market assumptions or my behaviour.  For example:
-
-* the more the variance around your hit rate, the more companies you need in your portfolio.
-* the more power-law your outcomes, the more important it is to follow on in your winners.  
-* pre-committing to a set number of investments over several years allows you to invest all through the cycle.
-* if you double your entry valuations, you need to double your exit valuations, but only for your big winners; the losers have minimal impact either way.
-
-Once written out, these conclusions seem obvious, but the exercise of modeling them out is valuable (to me at least). 
 
 ----
 <br/>
@@ -96,8 +79,6 @@ Nobody's forcing me to invest, so I should be willing to pass on deal after deal
 
 <img src="/assets/img/team-market-product_.jpg" class="image2">
 
-I'm getting better at this.  I can't honestly say that my first few angel investments ticked all the boxes, but my more recent ones do, or at least I think they do.  
-
 What about traction?  Well, at the valuation ranges I invest, startups rarely have any traction worth mentioning.  Besides:
 
 *"The dirty secret is that there is no such thing as traction pitches anymore. Because as every company knows -- the best days are always yet to come."* -- [Kevin Kwok](https://kwokchain.com/2021/09/29/narrative-distillation-1/)
@@ -111,11 +92,12 @@ What about traction?  Well, at the valuation ranges I invest, startups rarely ha
 
 After writing the above, I went back and scored my actual portfolio on a number of factors: team, market, product, macro trends, biz model, traction and valuation.  I also scored companies that I passed on after doing deep dives, to see what factors influenced my cut. 
 
-Empirically, it appears that I care about **team, market and macro** the most; product and biz model slightly less; and traction and valuation the least of all.  I thought I'd be pickier on business model, but it appears that I have faith that strong teams in big markets supported by powerful trends will figure it out.  Revealed preferences ftw!
-
 *image*
 
-Next year I might try to score *all* the companies in my funnel, not just those that made it to the final stage, but I'm not sure that's the most productive use of my time, especially if I increase my dealflow as planned.
+Empirically, it appears that I care about **team, market and macro** the most; product and biz model slightly less; and traction and valuation the least of all.  I thought I'd be pickier on business model, but it appears that I have faith that strong teams in big markets supported by powerful trends will figure it out.  Revealed preferences ftw!
+
+
+
 
 ----
 <br/>
@@ -125,17 +107,23 @@ Next year I might try to score *all* the companies in my funnel, not just those 
 
 *If you don't know the mark at the table, it's probably you.*
 
-I spend a lot of time thinking about edge -- it's been one of the defining themes of my professional career.  I now have a clearer sense of where my edge lies as an angel investor.  (This is the part where I blow my own trumpet).
+I spend a lot of time thinking about edge -- it's been one of the defining themes of my professional career.  I now have a clearer sense of where my edge lies as an angel investor, and it comes down to three facts:  
 
-**Experience;** I think my experience as a *successful venture-backed tech founder* gives me a clear edge in evaluating other founders.  Tech startups are not the same as other businesses, pitching well is not the same as executing well, and being a founder is not the same as being an operator, let alone being an investor without operating experience.  Given that early stage is so critically dependent on team quality, I think this matters.
-
-**Rigour:** Add to that my near decade of experience as a professional investor at a large quant hedge fund, followed by another near decade digging deep into the data, business drivers and structural economics of a wide range of companies while running Quandl.  I think this gives me a degree of analytical clarity and rigour beyond most angels without a professional investing background.
-
-**Incentives:** I'm not answerable to LPs; I have none.  This has two consequences.  First, it means I don't have to waste time role-playing as an investor ("accountability theatre").  Nor do I have to care about logos, trend-chasing, hot deals or IRR.  Cash on cash is all that matters.  Second, it means I can truly align myself with founders; I don't have other customers to please.  In a capital-rich, talent-constrained environment, this makes a difference.
+* Most professional investors have no founder experience.
+* Most former founders turned angel have no investing experience.
+* Most institutional investors are misaligned.
 
 *image*
 
-I suspect it's easy enough to find any one or even two of these qualities, but the intersection of all three is rare.
+Let's break those down:
+
+**Founder Experience:** I think my experience as a successful venture-backed founder gives me an edge in evaluating other founders.  Venture-backed tech startups are not the same as other businesses, pitching well is not the same as executing well, and being a founder is not the same as being an operator or investor. 
+
+**Investor Experience:** I think my pre-angel experience -- a decade as a portfolio manager at a large hedge fund, and another decade parsing the data signatures and business drivers of public companies while running Quandl -- gives me a degree of analytical clarity beyond most angels who do not have a professional investing background.
+
+**Incentives and Alignment:** I'm not answerable to LPs; I have none.  This means I don't have to waste time role-playing as an investor ("accountability theatre"), nor do I have to care about logos, trend-chasing, hot deals or IRR; cash on cash is all that matters.  It also means I can truly align myself with founders; I don't have other customers to please.  In our current capital-rich, talent-constrained environment, this makes a difference.
+
+I suspect it's easy enough to find angels with 2 out of 3 these attributes, but the intersection of all three is rare.
 
 
 ----
@@ -162,11 +150,6 @@ I have many more thoughts on this subject; see my notes on navigating high valua
 
 I've participated in 22 financing rounds so far (15 first cheques and 7 follow-ons).  10 of those 22 rounds (45%) have been competitive / oversubscribed.  But I've been able to get my full target allocation in every financing I've participated in.
 
-I'm not quite sure what to make of this.  Some tentative thoughts:
-
-Is 45% a touch low?  It's nice to invest in companies nobody else believes in, but is that being contrarian, or simply being wrong?  Note that the value of being contrarian in inefficient markets like venture is not clear; startups are not like public stocks.
-
-At the same time, I wouldn't want 100% of my deals to be competitive; that would suggest the opposite, viz. that I'm not being contrarian enough, and also that I'm paying too much.  I think something like 66% competitive, 34% contrarian would be an ideal level to shoot for.  (I have no data to support this assertion).
 
 *image*
 
@@ -242,7 +225,7 @@ I aim for 60-40 within and outside Canada, so this is mostly on track.  I tend t
 
 <img src="/assets/img/slice-channel.jpg" class="image3">
 
-I think this is slightly above average on cold inbound.  Over time, I expect "pre-existing personal network" to diminish to a minuscule fraction, but I'm hoping that cold inbound and warm intros both grow in parallel.
+I think this is slightly above average on cold inbound.  Over time, I expect "pre-existing personal network" to diminish, but I'm hoping that cold inbound and warm intros both grow in parallel.
 
 - By founder demographic:
 
@@ -269,9 +252,6 @@ I tell founders: "I try to help if I can, and get out of the way if I can't."  S
 
 On average I spend 1-2 hours with each of my portfolio companies every 3-4 months.  The topics which come up most often are go-to-market, narrative creation, recruiting and team structure, and financing strategy.
 
-What I'm still trying to figure out is whether this pull-based, problem-driven interaction is optimal, or if I can be more effective by being more proactive.  The challenge is to add that proactivity without projecting an unearned authority or a certainty that doesn't exist.  (Yes, this is pompous).  Ideally I'd like to apply the same transform to value-addition that I've done to portfolio construction: make it less ad hoc, and more intentional.
-
-The other thing which I'm still working on is the balance between supporting founders with advice and encouragement, and pushing founders to do more, move faster, aim bigger.
 
 
 ----
@@ -281,15 +261,7 @@ The other thing which I'm still working on is the balance between supporting fou
 
 ### Portfolio Performance
 
-(Admit it, this is the only section most of you care about.)
-
-I've invested in 15 startups over the last 2-ish years (my first cheque was in Oct 2019).  None of them are dead yet 😀.
-
-As of Dec 2021, 7 out of these 15 have raised further funding (47%).  This percentage correlates with company vintage:
-
-*image*
-
-The portfolio as a whole is at a blended multiple of 1.8 at an IRR of 157%.  This could be a reflection of my leet stock-picking skillz, but it's far more likely to be just a symptom of a rising tide lifting all startup boats.
+**My portfolio is currently at a multiple of 1.8 and an IRR of 157%**. 
 
 Here's my performance sliced by year of deployment: 
 
@@ -297,19 +269,16 @@ Here's my performance sliced by year of deployment:
 
 As the table makes clear, I've been ramping up my deal count every year.
 
+I've invested in 15 startups over the last 2¼ years. None of them are dead yet.  As of Dec 2021, 7 out of 15 have raised further funding (47%).  This percentage correlates with company vintage:
+
+*image*
+
 So far the distribution of individual-company markups seems to follow a power law reasonably closely:
 
 <img src="/assets/img/distribution-markups.jpg" class="image">
 
-An interesting trick is to test performance with the best company omitted; my portfolio is still at 111%. 
+Omitting my best-performing company from the calculations still results in an IRR of 111%.  Truly, a rising tide lifts all boats! 
 
-#### Previous Experiments
-
-I had a couple of precursor portfolios before my current foray into angel investing.  From 2009 to 2014 I invested in 5 friends-and-family ventures in India.  All but one have sunk without a trace; the one is going strong and on track for a large, indeed possibly a very large outcome, but not any time soon.  
-
-From 2015 to to 2017 I invested in 8 arms-length ventures again in India; that portfolio has done quite well (it's currently at 3.4x DPI, 5.5x TVPI and 41% IRR).  Two companies are on unicorn trajectories.  I exited one of them at a 40x markup, and am holding on to the other.  A couple of the others may return 1-3x but are unlikely to return more than that.  Standard power law dynamics, in fact. 
-
-The performance of these two portfolios has given me a little bit of encouragement that I'm on the right track; I wouldn't be increasing my annual investment count (or dollars) without that confirmation.
 
 
 ----
@@ -396,7 +365,15 @@ I probably contradict myself a dozen times in these notes; partly because I don'
 <br/>
 
 
-### Endnote: Why Invest in Public?
+
+----
+<br/>
+
+
+### End Notes and Open Questions
+
+
+0. Why Invest in Public?
 
 Lots of people build in public, sharing the ups and downs of the founder journey.  Far fewer invest in public.  
 
@@ -406,9 +383,45 @@ Why is that?  A mix of reasons.  There's reputation: failure is not a badge of h
 
 These reasons apply to me as well, but I'm in a stage of my career where frankly, I don't give a damn.  Hopefully some of you enjoy reading this, and if you've come this far, wow.   
 
+
+1. My goal is to make 6-8 investments a year, and so far I seem to be on track, but it's a lumpy process.  2 investments on the same day (!) in June, none from July to September, 2 in October, 3 in November.  Should I expect a steady cadence, or is lumpiness part of the game?  Does dealflow follow a Poisson process?
+
+2. One interesting question is, how big does the top of my funnel need to be to support this?  Presumably an investor who sees 200 companies has better odds of finding 6 excellent ones than an investor who sees just 20.  But does one who sees 2000 do even better?  Does quantity imply quality?  At what point do diminishing returns set in?  Is there a point where the marginal value turns negative?  How much is just circularity (the best investors attract the best companies, and also more of the worst)?  
+
+Intuitively I feel like if I invest in say 1 out of every 50 companies I see, I should end up with a pretty good portfolio, but it's not completely obvious.  (I'm currently at 1 out of every 15, more or less.)  
+
+At any rate, one of my goals for 2022 is to double or triple my dealflow.  I have some ideas on how to do that.
+
+
+3. What I found every bit as useful as the target numbers themselves was understanding their derivatives with respect to various changes in market assumptions or my behaviour.  For example:
+
+* the more the variance around your hit rate, the more companies you need in your portfolio.
+* the more power-law your outcomes, the more important it is to follow on in your winners.  
+* pre-committing to a set number of investments over several years allows you to invest all through the cycle.
+* if you double your entry valuations, you need to double your exit valuations, but only for your big winners; the losers have minimal impact either way.
+
+Once written out, these conclusions seem obvious, but the exercise of modeling them out is valuable (to me at least). 
+
+
+4. Is 45% a touch low?  It's nice to invest in companies nobody else believes in, but is that being contrarian, or simply being wrong?  Note that the value of being contrarian in inefficient markets like venture is not clear; startups are not like public stocks.
+
+At the same time, I wouldn't want 100% of my deals to be competitive; that would suggest the opposite, viz. that I'm not being contrarian enough, and also that I'm paying too much.  I think something like 66% competitive, 34% contrarian would be an ideal level to shoot for.  (I have no data to support this assertion).
+
+
+5. I had a couple of precursor portfolios before my current foray into angel investing.  From 2009 to 2014 I invested in 5 friends-and-family ventures in India.  All but one have sunk without a trace; the one is going strong and on track for a large, indeed possibly a very large outcome, but not any time soon.  
+
+From 2015 to to 2017 I invested in 8 arms-length ventures again in India; that portfolio has done quite well (it's currently at 3.4x DPI, 5.5x TVPI and 41% IRR).  Two companies are on unicorn trajectories.  I exited one of them at a 40x markup, and am holding on to the other.  A couple of the others may return 1-3x but are unlikely to return more than that.  Standard power law dynamics, in fact. 
+
+The performance of these two portfolios has given me a little bit of encouragement that I'm on the right track; I wouldn't be increasing my annual investment count (or dollars) without that confirmation.
+
+
+What I'm still trying to figure out is whether this pull-based, problem-driven interaction is optimal, or if I can be more effective by being more proactive.  The challenge is to add that proactivity without projecting an unearned authority or a certainty that doesn't exist.  (Yes, this is pompous).  Ideally I'd like to apply the same transform to value-addition that I've done to portfolio construction: make it less ad hoc, and more intentional.
+
+The other thing which I'm still working on is the balance between supporting founders with advice and encouragement, and pushing founders to do more, move faster, aim bigger.
+
+
 ----
 <br/>
-
 
 I also think there's massive survivorship bias in public angel profiles.  Most angel investors and nearly all angel investments fail.  If you only look at the winners, you'll get a very skewed sense of the 
 
