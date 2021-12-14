@@ -107,11 +107,11 @@ I spend a lot of time thinking about edge -- it's been one of the defining theme
 
 Let's break those down:
 
-**Founder Experience:** I think my experience as a successful venture-backed founder gives me an edge in evaluating other founders.  Venture-backed tech startups are not the same as other businesses, pitching well is not the same as executing well, and being a founder is not the same as being an operator or investor.  Given how critical team quality is to early-stage startups, any edge in team evaluation is significant.
+**Founder Experience:** I think my experience as a successful venture-backed founder gives me an edge in evaluating other founders.  Venture-backed tech startups are not the same as other businesses, pitching well is not the same as executing well, and being a founder is not the same as being an operator or investor.  
 
-**Investor Experience:** I think my pre-angel experience -- a decade as a portfolio manager at a large hedge fund, and another decade parsing the data signatures and business drivers of public companies while running Quandl -- gives me a degree of analytical clarity beyond most angels who do not have a professional investing background.  Early stage is both art and science, and I think I have both.
+**Investor Experience:** I think my pre-angel experience -- a decade as a portfolio manager at a large hedge fund, and another decade parsing the data signatures and business drivers of public companies while running Quandl -- gives me a degree of analytical clarity beyond most angels without a professional investing background.  
 
-**Incentives and Alignment:** I'm not answerable to LPs; I have none.  This means I don't have to waste time role-playing as an investor ("accountability theatre"), nor do I have to care about logos, trend-chasing, hot deals or IRR; cash on cash is all that matters.  It also means I can truly align myself with founders; I don't have other customers to please.  In our current capital-rich, talent-constrained environment, this makes a difference.
+**Incentives and Alignment:** I'm not answerable to LPs; I have none.  This means I don't have to waste time role-playing as an investor ("accountability theatre"), nor do I have to care about logos, trend-chasing, hot deals or IRR; cash on cash is all that matters.  It also means I can truly align myself with my portfolio founders; I don't have other customers to please.  
 
 I suspect it's easy enough to find angels with 2 out of 3 these attributes, but the intersection of all three is rare.
 
