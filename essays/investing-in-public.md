@@ -99,9 +99,9 @@ Empirically, it appears that I care about **team, market and macro** the most; p
 
 I spend a lot of time thinking about edge -- it's been one of the defining themes of my professional career.  I now have a clearer sense of where my edge lies as an angel investor, and it comes down to three facts:  
 
-* Most professional investors have no founder experience.
-* Most former founders turned angel have no investing experience.
-* Most institutional investors have bad incentive structures.
+* Most investors have no founder experience.
+* Most founders turned angels have no investing experience.
+* Most institutional investors have bad incentives.
 
 *image*
 
