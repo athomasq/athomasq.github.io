@@ -50,12 +50,9 @@ I feel like I need substantially more dealflow.  I'd like to reach a state where
 <br/>
 
 
-
-
 ### Portfolio Modeling
 
 *"Without thoughtful [portfolio] construction, all you have is a pile of stones"* -- [Jerry Neumann](http://reactionwheel.net), liberally paraphrased
-
 
 This is perhaps the area where I've evolved the most.  Given power law outcomes, current valuations, capital constraints and risk preferences, how should I structure my portfolio? How many investments a year, what cheque size, which rounds, what valuations ranges, when to follow on, when to exit, what win/loss ratios to target, how to recycle and so on?  There are lot of moving parts. 
 
@@ -65,11 +62,8 @@ So naturally, I built a model and scienced the shit out of it. Here's where I en
 
 I now have a framework that imposes some degree of investment discipline.  I think this has been the biggest single change in my approach in recent times.
 
-
 ----
 <br/>
-
-
 
 ### Picking Winners
 
@@ -96,12 +90,8 @@ After writing the above, I went back and scored my actual portfolio on a number 
 
 Empirically, it appears that I care about **team, market and macro** the most; product and biz model slightly less; and traction and valuation the least of all.  I thought I'd be pickier on business model, but it appears that I have faith that strong teams in big markets supported by powerful trends will figure it out.  Revealed preferences ftw!
 
-
-
-
 ----
 <br/>
-
 
 ### Investment Edge
 
@@ -111,15 +101,15 @@ I spend a lot of time thinking about edge -- it's been one of the defining theme
 
 * Most professional investors have no founder experience.
 * Most former founders turned angel have no investing experience.
-* Most institutional investors are misaligned.
+* Most institutional investors have bad incentive structures.
 
 *image*
 
 Let's break those down:
 
-**Founder Experience:** I think my experience as a successful venture-backed founder gives me an edge in evaluating other founders.  Venture-backed tech startups are not the same as other businesses, pitching well is not the same as executing well, and being a founder is not the same as being an operator or investor. 
+**Founder Experience:** I think my experience as a successful venture-backed founder gives me an edge in evaluating other founders.  Venture-backed tech startups are not the same as other businesses, pitching well is not the same as executing well, and being a founder is not the same as being an operator or investor.  Given how critical team quality is to early-stage startups, any edge in team evaluation is significant.
 
-**Investor Experience:** I think my pre-angel experience -- a decade as a portfolio manager at a large hedge fund, and another decade parsing the data signatures and business drivers of public companies while running Quandl -- gives me a degree of analytical clarity beyond most angels who do not have a professional investing background.
+**Investor Experience:** I think my pre-angel experience -- a decade as a portfolio manager at a large hedge fund, and another decade parsing the data signatures and business drivers of public companies while running Quandl -- gives me a degree of analytical clarity beyond most angels who do not have a professional investing background.  Early stage is both art and science, and I think I have both.
 
 **Incentives and Alignment:** I'm not answerable to LPs; I have none.  This means I don't have to waste time role-playing as an investor ("accountability theatre"), nor do I have to care about logos, trend-chasing, hot deals or IRR; cash on cash is all that matters.  It also means I can truly align myself with founders; I don't have other customers to please.  In our current capital-rich, talent-constrained environment, this makes a difference.
 
@@ -219,7 +209,7 @@ Here are a few different ways to slice my portfolio.
 
 <img src="/assets/img/slice-geography.jpg" class="image3">
 
-I aim for 60-40 within and outside Canada, so this is mostly on track.  I tend to avoid Bay Area startups; too much competition, not enough edge.  I'd like to make more investments in obscure parts of the world.
+I aim for 60-40 within and outside Canada, so this is mostly on track.  I tend to avoid Bay Area startups: too much competition, not enough edge.  I'd like to make more investments in obscure parts of the world.
 
 - By deal source: 
 
@@ -231,7 +221,7 @@ I think this is slightly above average on cold inbound.  Over time, I expect "pr
 
 <img src="/assets/img/slice-founders.jpg" class="image3">
 
-At a high level, 21 of 30 founders come from an underrepresented slice.  But it's mostly immigrants and minorities; not enough women.  It has not escaped my notice that I'm an immigrant minority man, so this almost certainly reflects my network and my biases.  I need to do better.
+At a high level, 21 of 30 founders come from an underrepresented slice.  But it's mostly immigrants and minorities; not enough women.  It has not escaped my notice that I'm an immigrant minority man, so this almost certainly reflects my own network and biases.  I need to do better.
 
 - By business model: 
 
@@ -267,7 +257,7 @@ Here's my performance sliced by year of deployment:
 
 <img src="/assets/img/irr-table.png" class="image">
 
-As the table makes clear, I've been ramping up my deal count every year.
+As the table makes clear, I've been ramping up my deal count every year.  
 
 I've invested in 15 startups over the last 2¼ years. None of them are dead yet.  As of Dec 2021, 7 out of 15 have raised further funding (47%).  This percentage correlates with company vintage:
 
@@ -277,7 +267,7 @@ So far the distribution of individual-company markups seems to follow a power la
 
 <img src="/assets/img/distribution-markups.jpg" class="image">
 
-Omitting my best-performing company from the calculations still results in an IRR of 111%.  Truly, a rising tide lifts all boats! 
+Excluding my best-performing company from the calculations still results in an IRR of 111%.  Truly, a rising tide lifts all boats! 
 
 
 
