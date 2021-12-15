@@ -243,7 +243,7 @@ I think that's a good note to end this review on!
 
 If 2000 words and 12 graphs aren't enough for you, here are some extra jottings that my editor (still me!) cut from this essay:
 
-* Why invest in public?
+* [Why invest in public?](/why-invest-in-public)  
 * Finding an edge as an angel investor
 * How big should an angel portfolio be?
 * Dealflow quantity versus quality
