@@ -132,7 +132,7 @@ On average I spend 2-3 hours with each of my portfolio companies every 2-3 month
 
 ### Portfolio Performance
 
-So far, all of this seems to be working well.  My angel portfolio is currently at a multiple of 1.8 and an IRR of 157%. 
+So far, all of this seems to be working well: my angel portfolio is currently at a blended multiple of 1.83. 
 
 Here's my performance sliced by year of deployment: 
 
@@ -146,8 +146,9 @@ So far the distribution of individual-company markups seems to follow a power la
 
 <img src="/assets/img/distribution-markups.jpg" class="image">
 
-Excluding my best-performing company from the calculations still results in an IRR of 111%.  Truly, a rising tide lifts all boats! 
+Excluding my best-performing company from the calculations still results in a multiple over 1.5x.  
 
+Of course, I cannot emphasize enough how early my portfolio is -- far too early to draw any meaningful conclusions.  Time will tell if my seemingly strong performance is sustainable, and real. 
 
 ----
 <br/>
@@ -198,13 +199,11 @@ Listing them out like this, it does seem that "anything goes", as long as it's B
 
 
 
-### Anti-Portfolio
+### Anti-Portfolio and Busts
 
-There's two types of anti-portfolio: companies you pass on, and companies you don't even see.
+There's two types of anti-portfolio: companies you pass on, and companies you don't even see. As far as I know, I have not passed on any startup that's gone on to be super successful, though of course that could still happen.  This is in fact the strongest indictment possible of my dealflow.  My picking is good, but it can't be *that* good.  The implication of no big misses is that I'm not seeing enough high-quality companies. 
 
-As far as I know, I have not passed on any startup that's gone on to be super successful, though of course it's early days yet.  This is in fact the strongest indictment possible of my dealflow.  My picking is good, but it can't be *that* good.  The implication of no big misses is that I'm not seeing enough high-quality companies. 
-
-On the other side, I don't really care about false positives.  I expect 50% of my companies to lose every dollar, and a further 25% to lose most of it.  The fact that so far this has not happened is perhaps a bit concerning -- either my calibration is off, or I'm not investing in risky-enough startups, or the market is unsustainably supportive.  (Or it could just be too soon; lemons ripen early but my portfolio is earlier still.)
+As for busts, to be honest I don't really care about false positives.  I expect 50% of my companies to lose every dollar, and a further 25% to lose most of it.  The fact that so far this has not happened is perhaps a bit concerning -- either my calibration is off, or I'm not investing in risky-enough startups, or the market is unsustainably supportive.  (Or it could just be too soon; lemons ripen early but my portfolio is earlier still.)
 
 
 

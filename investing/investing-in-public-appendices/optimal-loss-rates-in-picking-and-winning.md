@@ -1,5 +1,9 @@
 
+outlier math challenges your intuition
 
+esp around loss rates.
+
+minimz loss rate is a really bad idea.
 
 picking
 
