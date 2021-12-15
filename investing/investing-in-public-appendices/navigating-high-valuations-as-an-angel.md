@@ -14,11 +14,11 @@ title: Navigating High Valuations As An Angel
 
 <br/>
 
-### Introduction
-
 Valuations, as any fule kno, have been going up across the board.  What does this imply for portfolio construction?  
 
-I believe that two things can be true at the same time: valuations are rising for reasons that are mostly legitimate, and it's hard(er) to make money investing at high(er) valuations.
+I believe that two things can be true at the same time: valuations are rising for reasons that are mostly legitimate, and it's hard(er) to make money investing at high(er) valuations.  Venture investing in 2021 is all about navigating the tension between these two opposing truths. 
+
+---
 
 Let's start with the reasons.  Here's what I believe:
 
@@ -32,13 +32,15 @@ Let's start with the reasons.  Here's what I believe:
 
 * If inflation is here to stay, tech is a really good hedge. 
 
+---
+
 ### Value investing does not work in venture
 
 The next thing I believe is that "value investing" does not work in venture:
 
-* Many markets tend to be winner-takes-most, thanks to network effects, data loops, self-fulfilling prophecies, system-of-record stickiness, and narrative control. 
-
 * Venture building has matured to the point that it's easier than ever to identify the top 1% or 10% of companies likely to succeed in any given market.
+
+* Many markets tend to be winner-takes-most, thanks to network effects, data loops, self-fulfilling prophecies, system-of-record stickiness, and narrative control. 
 
 In this world, buying startups on the cheap usually means buying startups that are unlikely to deliver large outcomes.  Conversely, almost no price is too high to pay for the truly exceptional companies. 
 
@@ -48,34 +50,30 @@ The challenge is seeing and getting a chance to invest in those exceptional comp
 
 And if you don't pick the best of the best, the math is [extremely challenging](https://avc.com/2021/11/seed-rounds-at-100mm-post-money/). 
 
+----
+
 So how do I square this circle?  I have a few methods that work for me.  
 
 ### Invest early
 
 The first is to swim upstream and invest "hilariously early", to use Hustle Fund's memorable phrase.  If the team, market and macro trends are strong, I don't care that the product is rudimentary, the business model is vague or the traction is non-existent.  I suspect most investors are not quite like that.
 
-
 <img src="/assets/img/pick-2-of-3_.jpg" class="image2">
-
 
 ### Think different
 
-The second method is identifying startups where the founder, market, product and business are all great, but they fall into VC blind spots.  Data businesses, saas-enabled marketplaces, and a few other hybrid models often fall into this category; so do startups helmed by women, minorities, recent immigrants, and people outside the big-city/known-school tech networks.  The best of them don't stay in that category long.
-
-IMAGE HERE
-
+The second method is identifying startups where the founder, market, product and business are all great, but they fall into VC blind spots.  Saas-enabled marketplaces, hybrid go-to-markets, data businesses and a few other company archetypes often fall into this category; so do startups helmed by women, minorities, recent immigrants, and people outside the big-city/known-school tech networks.  The best of them don't stay in that category long.
 
 ### Be smarter
 
-I mean, there's no efficient-markets way to put this: just be smarter than others.  
+I mean, there's no efficient-markets way to put this: just be smarter than others.  Not necessarily in the sense of raw intellectual horsepower; more in the sense of making better decisions than other investors. I think my very specific background -- hedge fund portfolio manager turned successful founder turned solo angel investor -- gives me a bit of a [structural advantage](/angel-investing-edge) here.
 
-[Incidentally, these methods analogize nicely to meta-strategies that I'm familiar with from my time as a hedge fund investor.  Investing in blind-spot startups is just persistent-cognitive-bias arbitrage, and investing early is just risk-preference arbitrage.  To a quant with a hammer, everything looks like a nail.]
-
-My markups so far suggest that this approach is working, but you can't eat markups. 
+My markups so far suggest that this 3-pronged approach is working, but you can't eat markups. 
 
 
+[Back ↩](/investing-in-public)
 
 <br/>
-
+<br/>
 <br/>
 
