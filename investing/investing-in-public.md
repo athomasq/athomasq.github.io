@@ -89,11 +89,6 @@ Empirically, it appears that I care about **team, market and macro** the most; p
 
 ### Entry Valuations
 
-Early-stage investing in 2021 is all about navigating the tension between two opposing truths:
-
-* value investing does not work in venture;
-* it's hard(er) to make money investing at high(er) valuations. 
-
 My median entry valuation for pre-seed and seed rounds has increased every year, and I'm totally okay with that; I think it's a sign of strength.  I'd be much less sanguine investing in an asset class where valuations declined every year.
 
 *image*
