@@ -17,7 +17,9 @@ More fundamentally, does quantity imply quality?  List yourself as an angel inve
 
 On average, I've found that warm intros and in-network connections are likely to deliver higher quality companies to me.  But here's the thing -- I don't care about averages, I care about outliers.  (This blog post by Del Johnson perfectly captures the way I feel about warm intros; I'll take them, but I want to take ice-cold connections as well.)
 
-Is there a point where the marginal value of new leads turns negative?  Pitch fatigue, information overload, cognitive capture, trend immersion -- these are all real things.   Perhaps seeing too many deals actually degrades your judgement.  Where's the sweet spot?  If I had to guess, higher than 150 companies a year (my current level), but lower than 1000 (the number that many VCs quote) (Not unrelated, I find that too many VCs are jaded and overworked and hence default to meta-analysis aka following the herd.)
+Is there a point where the marginal value of new leads turns negative?  Pitch fatigue, information overload, cognitive capture, trend immersion -- these are all real things.   Perhaps seeing too many deals actually degrades your judgement.  
+
+Where's the sweet spot?  If I had to guess, higher than 150 companies a year (my current level), but lower than 1000 (the number that many VCs quote).  Not unrelated, I find that too many VCs are jaded and overworked and hence default to meta-analysis aka following the herd.
 
 Do good deals follow a Poisson process?  Certainly my own investing has been rather lumpy: 2 investments on the same day (!) in June, nothing for the next 4 months, then 5 in the next 4 weeks.  Should I expect a steady cadence, or is lumpiness part of the game?  Is there anything to be gained from trying to time-smooth my investing intra-year?  (Multi-year, it makes sense, because of valuation regimes: I want to invest all through the cycle, both ups and downs.)
 
