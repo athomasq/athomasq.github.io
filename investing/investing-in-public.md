@@ -247,7 +247,7 @@ If 2000 words and 12 graphs aren't enough for you, here are some extra jottings 
 * [How big should an angel portfolio be?](/how-big-should-an-angel-portfolio-be)
 * [Quantity versus quality of dealflow](/dealflow-quantity-quality)
 * [Second-order effects in portfolio math](/second-order-effects-in-angel-math)
-* Navigating high valuations as an angel
+* [Navigating high valuations as an angel](/navigating-high-valuations-as-an-angel)
 * Optimal loss rates in picking and winning
 * Precursor portfolio performance
 * Different models of founder support
