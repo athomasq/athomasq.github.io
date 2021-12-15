@@ -20,6 +20,8 @@ I believe that two things can be true at the same time: valuations are rising fo
 
 Let's start with the reasons.  Here's what I believe:
 
+<br/>
+
 ### Tech has huge unrealized upside
 
 * Tech is eating every industry, and we're still in the early stages of market penetration.  (The canonical example here is US e-commerce: it's still [less than 20%](https://fred.stlouisfed.org/series/ECOMPCTSA) of retail sales.  That's only going to go up.  And there's a whole world out there beyond the USA.)  There's a lot of value remaining to be created and captured as this transition continues.
@@ -29,6 +31,8 @@ Let's start with the reasons.  Here's what I believe:
 * As a result, terminal outcomes for tech startups are at least 2 orders of magnitude larger than almost anyone had ever anticipated.  And this propagates upstream, to the earliest stages of venture investing.
 
 * If inflation is here to stay, tech is a really good hedge. 
+
+<br/>
 
 ### Value investing does not work in venture
 
@@ -48,15 +52,21 @@ And if you don't pick the best of the best, the math is [extremely challenging](
 
 So how do I square this circle?  I have a few methods that work for me.  
 
+<br/>
+
 ### Invest early
 
 The first is to swim upstream and invest "hilariously early", to use Hustle Fund's memorable phrase.  If the team, market and macro trends are strong, I don't care that the product is rudimentary, the business model is vague or the traction is non-existent.  I suspect most investors are not quite like that.
 
 <img src="/assets/img/pick-2-of-3_.jpg" class="image2">
 
+<br/>
+
 ### Think different
 
 The second method is identifying startups where the founder, market, product and business are all great, but they fall into VC blind spots.  Saas-enabled marketplaces, hybrid go-to-markets, data businesses and a few other company archetypes often fall into this category; so do startups helmed by women, minorities, recent immigrants, and people outside the big-city/known-school tech networks.  The best of them don't stay in that category long.
+
+<br/>
 
 ### Be smarter
 
