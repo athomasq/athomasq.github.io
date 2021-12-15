@@ -1,10 +1,10 @@
 ---
 layout: default
 permalink: /:basename/
-title: Checks and Balances
+title: Navigating High Valuations As An Angel
 ---
 
-## Angel Investing Year In Review
+## Navigating High Valuations As An Angel
 
 ----
 
