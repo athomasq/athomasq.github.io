@@ -18,8 +18,6 @@ Valuations, as any fule kno, have been going up across the board.  What does thi
 
 I believe that two things can be true at the same time: valuations are rising for reasons that are mostly legitimate, and it's hard(er) to make money investing at high(er) valuations.  Venture investing in 2021 is all about navigating the tension between these two opposing truths. 
 
----
-
 Let's start with the reasons.  Here's what I believe:
 
 ### Tech has huge unrealized upside
@@ -31,8 +29,6 @@ Let's start with the reasons.  Here's what I believe:
 * As a result, terminal outcomes for tech startups are at least 2 orders of magnitude larger than almost anyone had ever anticipated.  And this propagates upstream, to the earliest stages of venture investing.
 
 * If inflation is here to stay, tech is a really good hedge. 
-
----
 
 ### Value investing does not work in venture
 
@@ -49,8 +45,6 @@ In this world, buying startups on the cheap usually means buying startups that a
 The challenge is seeing and getting a chance to invest in those exceptional companies on a consistent basis.  It's one thing if you're Benchmark, Sequoia, A16z or Tiger Global.  It's another thing entirely if you're a relatively low-profile angel investor in Toronto. 
 
 And if you don't pick the best of the best, the math is [extremely challenging](https://avc.com/2021/11/seed-rounds-at-100mm-post-money/). 
-
-----
 
 So how do I square this circle?  I have a few methods that work for me.  
 
