@@ -13,11 +13,15 @@ title: Angel Investing Edge
 
 <br/>
 
-I spend a lot of time thinking about edge -- it's been one of the defining themes of my professional career.  I now have a clearer sense of where my edge is, and it comes down to three facts:  
+I spend a lot of time thinking about edge -- it's been one of the defining themes of my professional career.  I think most markets are *efficient enough* that without an edge (and a corresponding investment philosophy + discipline), it's very hard to make money.
+
+Yet when I first started angel investing, I wasn't entirely sure where my edge would be.  Would it be industry knowledge?  Connections and networks?  Domain expertise?  Quantitative skills?  Something else?
+
+I now have a much clearer sense of where my edge is, and it's none of those.  Instead, I think my edge comes down to three facts:  
 
 * Most investors have no founder experience.
 * Most founders turned angels have no investing experience.
-* Most institutional investors have bad incentives.
+* Most institutional investors have imperfect incentives.
 
 *image*
 
@@ -31,3 +35,7 @@ Let's break those down:
 
 I suspect it's easy enough to find angels with any two of these attributes, but the intersection of all three is rare.
 
+Of course, any discussion of edge should also include anti-edge, and I have some of that as well
+
+<br/>
+<br/>
