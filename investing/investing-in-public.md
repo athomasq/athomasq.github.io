@@ -245,7 +245,7 @@ If 2000 words and 12 graphs aren't enough for you, here are some extra jottings 
 
 * [Why invest in public?](/why-invest-in-public)  
 * [How big should an angel portfolio be?](/how-big-should-an-angel-portfolio-be)
-* Dealflow quantity versus quality
+* [Quantity versus quality of dealflow](/dealflow-quantity-quality)
 * Second-order effects in portfolio math
 * Navigating high valuations 
 * Optimal loss rates in picking and winning
