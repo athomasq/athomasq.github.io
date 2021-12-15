@@ -13,7 +13,7 @@ title: Angel Investing Edge
 
 <br/>
 
-I spend a lot of time thinking about edge -- it's been one of the defining themes of my professional career.  I think most markets are *efficient enough* that without an edge (and a corresponding investment philosophy + discipline), it's very hard to make money.
+I spend a lot of time thinking about edge -- it's been one of the defining themes of my professional career.  I think most markets are *efficient enough* that without an edge (and an investment philosophy tailored to that edge, and the discipline to stick to it), it's very hard to make money.
 
 Yet when I first started angel investing, I wasn't entirely sure where my edge would be.  Would it be industry knowledge?  Connections and networks?  Domain expertise?  Quantitative skills?  Something else?
 
