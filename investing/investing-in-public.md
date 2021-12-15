@@ -256,7 +256,5 @@ If 2000 words and 12 graphs aren't enough for you, here are some extra jottings 
 * Areas for improvement
 
 
-If you've read this far, wow.
-
 <br/>
 <br/>
