@@ -73,6 +73,8 @@ The second method is identifying startups where the founder, market, product and
 
 I mean, there's no efficient-markets way to put this: just be smarter than others.  Not necessarily in the sense of raw intellectual horsepower; more in the sense of making better decisions than other investors. I think my very specific background -- hedge fund portfolio manager turned successful founder turned solo angel investor -- gives me a bit of a [structural advantage](/angel-investing-edge) here.
 
+<br/>
+
 My markups so far suggest that this 3-pronged approach is working, but you can't eat markups. 
 
 
