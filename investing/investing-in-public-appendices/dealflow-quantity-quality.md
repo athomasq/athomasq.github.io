@@ -7,7 +7,7 @@ title: Quantity Versus Quality Of Dealflow
 # Quantity Versus Quality Of Dealflow
 
 ----
-*"Ninety percent of everything is junk."* -- Ted Sturgeon ( Sturgeon's Law).
+*"Ninety percent of everything is junk."* -- Ted Sturgeon (Sturgeon's Law).
 
 ----
 
