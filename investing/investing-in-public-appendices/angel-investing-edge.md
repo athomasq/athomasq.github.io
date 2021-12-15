@@ -23,8 +23,6 @@ I now have a much clearer sense of where my edge is, and it's none of those.  In
 * Most founders turned angels have no investing experience.
 * Most institutional investors have imperfect incentives.
 
-*image*
-
 Let's break those down:
 
 **Founder Experience:** At early stage, team is everything, and I think my experience as a successful venture-backed founder myself gives me a clear edge in evaluating other founders.  Venture-backed tech startups are not the same as other businesses, pitching well is not the same as executing well, and being a founder is not the same as being an operator or investor.  
