@@ -36,11 +36,12 @@ Let's start with the reasons.  Here's what I believe:
 
 ### Value investing does not work in venture
 
-The next thing I believe is that "value investing" does not work in venture:
 
 * Venture building has matured to the point that it's easier than ever to identify the top 1% or 10% of companies likely to succeed in any given market.
 
 * Many markets tend to be winner-takes-most, thanks to network effects, data loops, self-fulfilling prophecies, system-of-record stickiness, and narrative control. 
+
+<br/>
 
 In this world, buying startups on the cheap usually means buying startups that are unlikely to deliver large outcomes.  Conversely, almost no price is too high to pay for the truly exceptional companies. 
 
