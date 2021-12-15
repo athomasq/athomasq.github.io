@@ -253,8 +253,6 @@ If 2000 words and 12 graphs aren't enough for you, here are some extra jottings 
 * Different models of founder support
 * [My edge as an angel investor](/angel-investing-edge)
 * [Knowing what I don't know](/knowing-what-i-dont-know)
-
-
 * Areas for improvement
 
 
