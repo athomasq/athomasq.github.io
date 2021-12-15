@@ -244,16 +244,19 @@ I think that's a good note to end this review on!
 If 2000 words and 12 graphs aren't enough for you, here are some extra jottings that my editor (still me!) cut from this essay:
 
 * [Why invest in public?](/why-invest-in-public)  
-* Finding an edge as an angel investor
-* How big should an angel portfolio be?
+* [How big should an angel portfolio be?](/how-big-should-an-angel-portfolio-be)
 * Dealflow quantity versus quality
 * Second-order effects in portfolio math
 * Navigating high valuations 
 * Optimal loss rates in picking and winning
 * Precursor portfolio performance
 * Different models of founder support
+* [My edge as an angel investor](/angel-investing-edge)
+* [Knowing what I don't know](/knowing-what-i-dont-know)
+
+
 * Areas for improvement
-* Knowing what I don't know
+
 
 If you've read this far, wow.
 
