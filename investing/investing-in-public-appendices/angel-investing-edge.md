@@ -33,7 +33,6 @@ Let's break those down:
 
 I suspect it's easy enough to find angels with any two of these attributes, but the intersection of all three is rare.
 
-Of course, any discussion of edge should also include anti-edge, and I have some of that as well
 
 <br/>
 <br/>
