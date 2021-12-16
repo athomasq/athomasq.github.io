@@ -36,10 +36,11 @@ Let's start with the reasons.  Here's what I believe:
 
 ### Value investing does not work in venture
 
+* Many markets tend to be winner-takes-most, thanks to network effects, data loops, self-fulfilling prophecies, system-of-record stickiness, and narrative control. 
 
 * Venture building has matured to the point that it's easier than ever to identify the top 1% or 10% of companies likely to succeed in any given market.
 
-* Many markets tend to be winner-takes-most, thanks to network effects, data loops, self-fulfilling prophecies, system-of-record stickiness, and narrative control. 
+* It's also easier than ever for companies to meet investors and vice versa: information flows are broader, networks are more inclusive, and proprietary dealflow is rarer.
 
 <br/>
 
