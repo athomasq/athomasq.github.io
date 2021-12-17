@@ -244,10 +244,12 @@ If 2000 words and 12 graphs aren't enough for you, here are some extra jottings 
 * [Navigating high valuations as an angel](/navigating-high-valuations-as-an-angel)
 * Optimal loss rates in picking and winning
 * Precursor portfolio performance
+* Adverse selection and the Groucho Marx portfolio
 * Different models of founder support
 * [My edge as an angel investor](/angel-investing-edge)
 * [Knowing what I don't know](/knowing-what-i-dont-know)
 * Areas for improvement
+
 
 
 <br/>
