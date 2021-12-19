@@ -26,7 +26,7 @@ Stephen, principal*
 
 **STEVE:**  Tell me more.
 
-**Steve:**  Well, his name is Steve and he's one of the best founders I've ever met.  Really solid resume.  Undergrad at Steveford, worked in bizdev at Stoogle and investor relations at Stoldman.  Killed it wherever he went.  In between he played professional tic-tac-toe in France and wrote a book about heli-skiing in Tahiti.  What a life story.
+**Steve:**  Well, his name is Steve and he's one of the best founders I've ever met.  Really solid resume.  Undergrad at Steveford, worked in sales at Stevebook and bizdev at Stevify.  Killed it wherever he went.  In between he played professional tic-tac-toe in France and wrote a book about heli-skiing in Tahiti.  What a life story.
 
 **STEVE:**  Wow.
 
@@ -38,7 +38,7 @@ Stephen, principal*
 
 **STEVE:**  I like it.  I like it a lot.  What's he asking for?
 
-**Steve:**  20M on a 60M pre, no board seat.
+**Steve:**  20M on a 80M pre, no board seat.
 
 **Stephen:**  That seems high for no product and no revenue, doesn't it?
 
@@ -150,7 +150,7 @@ Stephen, principal*
 
 **STEVE:**  I wonder if we should take a contrarian line on this.  Everyone's funding software businesses.  Maybe the right move is to double down on hardware like widgets.com.
 
-**Stephen:**  Shouldn't we just invest in the best companies?  Irrespective of hardware or software: just look at the market and the product and the economics.
+**Stephen:**  Shouldn't we just invest in the best companies?  Hardware or software, doesn't matter: just look at the market and the product and the economics.
 
 **STEVE:**  Yeah, okay, I hear you, but a good market and a good product don't matter if the team isn't good.  VC is a people business, first and foremost.  I'm a bit concerned about this Mike person.  I don't know if he can cut it.
 
@@ -176,7 +176,7 @@ Stephen, principal*
 
 **Stephen:**  But ... 
 
-**STEVE:**  So, we're agreed.  We'll offer terms at 20M on 60M for our guy Steve at Widgets.com.
+**STEVE:**  So, we're agreed.  We'll offer terms at 20M on 80M for our guy Steve at Widgets.com.
 
 *The meeting ends.*
 
@@ -192,11 +192,11 @@ Stephen, principal*
 
 **STEVE:**  You can't reduce venture investing to just numbers on a scorecard.  Otherwise anybody could do it.  There's a whole lot of intangibles to consider.
 
-**Stephen:** That's precisely what I wanted to double click on.  What intangibles should I be looking for?
+**Stephen:** That's precisely what I wanted to double-click on.  What intangibles should I be looking for?
 
 **STEVE:**  Leadership.  Leadership is the key.  We want to invest in superstar leaders above all else.  So I'm looking for things like a strong personality, big ambition, supreme confidence.  And that's where Steve wins.  
 
-**Stephen:**  But are any of those things justified?  Steve's actual track record is pretty mediocre.  Where does his confidence comes from?  Feels totally unearned to me.
+**Stephen:**  But are any of those things justified?  Steve's actual track record is pretty mediocre.  Where does his confidence come from?  Feels totally unearned to me.
 
 **STEVE:** I don't see your point.  Charisma is charisma.  Winners are winners.
 
@@ -236,6 +236,7 @@ Stephen, principal*
 
 **STEVE:**  
 
+Our LPs are smart guys, but they're 
 
 It's only us in the room so let me be frank.  You know that all our LPs are named Steve as well.  What do you think they would say if we went an investted in someone named Bob, just in otder to hit some artifical diversty standard, and as a result our returns suffered?
 
@@ -243,15 +244,34 @@ So diversity implies a dilution of quality?
 
 So are you saying that people not named Steve aren't as capable?
 
-
-
-I'm not a Stevist, but the facts don't lie.
-
-
-
-We're in the businss of funding world-changing companies. and historicallt the world has been changed by Steves.  Steve Columbus.  Steve Washington.  Steve Edison.  
+I'm not a Stevist, but the facts don't lie.  We're in the businss of funding world-changing companies. and historicallt the world has been changed by Steves.  Steve Columbus.  Steve Washington.  Steve Edison.  
 
 People named Mark and Bill and Jeff and --0 what was your guy?  Bob? -- they just dn't have the leadership quality. 
+
+But that's because historically they haven't had the same opportunities
+
+And you think that's going to change?  The media is Steves.  Growth is Steves.  
+
+Besides, -- look, even if everything you say is true, we jst dont' get enpoguh Bobs.  It's a pipeline problem.  Maybe Bobs just aren't risk-takers.
+
+But surely that's rational on their part?  If as you say investors and media and Lps and growth are all less likely t o support, then the risk-reward is much worse than for a Steve
+
+True, but what are you going to do about it?  You can't change the hwole industyr. 
+
+
+So what you're saying is that there's already a self-fulfilling prophecy here.  A network effect of Steves.
+
+Exactly.
+
+And so only Steves pply, and only Stees fget funded, and only Steves succeed.  It's a network effect of Steves.
+
+You got it.
+
+Wow.  It's all clear to me now.
+
+Excellent.  Shall we go get dinner?  Steve Hill Road. 
+
+
 
 
 Have you met our LPs?  Stephen at the Stephen Fund is our anchor investor and he'd 
