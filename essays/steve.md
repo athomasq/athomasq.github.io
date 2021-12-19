@@ -234,11 +234,17 @@ Stephen, principal*
 
 **Stephen:**  Wouldn't our LPs back us if we explained the arbitrage opportunity here?
 
-**STEVE:**  
+**STEVE:**  What do you think our LPs would say if we went and invested in someone named Bob, just in order to hit some arbitrary diversity goal, and as a result our returns suffered?
 
-Our LPs are smart guys, but they're 
+**Stephen:**  I don't think they'd be pleased.
 
-It's only us in the room so let me be frank.  You know that all our LPs are named Steve as well.  What do you think they would say if we went an investted in someone named Bob, just in otder to hit some artifical diversty standard, and as a result our returns suffered?
+**STEVE:**  Damn right.  We can't afford to dilute our standards .  Meritocracy.
+
+**Stephen:**  Are you saying that people not named Steve are less capable?
+
+
+
+We can't afford to dilute out standards
 
 So diversity implies a dilution of quality?  
 
