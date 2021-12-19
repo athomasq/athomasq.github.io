@@ -31,11 +31,11 @@ Stephen, principal
 
 **STEVE:**  Tell me more.
 
-**Steve:**  Well, his name is Steve and he's one of the best founders I've ever met.  Really solid resume.  Undergrad at Steveford, worked as a PM at Stoogle and traded derivatives at Stoldman.  Killed it wherever he went.  In between he played pro tic-tac-toe in France and wrote a book about heli-skiing in Tahiti.  What a life story.
+**Steve:**  Well, his name is Steve and he's one of the best founders I've ever met.  Really solid resume.  Undergrad at Steveford, worked as a PM at Stoogle and traded derivatives at Stoldman.  Killed it wherever he went.  In between he played professional tic-tac-toe in France and wrote a book about heli-skiing in Tahiti.  What a life story.
 
 **STEVE:**  Wow.
 
-**Steve:**  This is actually his second startup; the first one raised a big bunch of cash before failing, and he has some great lessons to share from it.  Amazing presence and confidence, super ambitious, this is a guy who was born to succeed.
+**Steve:**  This is actually his second startup; the first one raised a bunch of cash before failing, and he has some great lessons to share from it.  Amazing presence and confidence, super ambitious, this is a guy who was born to succeed.
 
 **Stephen:**  And the business itself?
 
