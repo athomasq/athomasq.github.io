@@ -103,6 +103,8 @@ Stephen, principal
 
 **STEVE:**  Everybody has a choice, Stephen.  Let's move on. 
 
+----
+
 **Stephen:**  Okay.  You'll like this one.  CHOAM Corp.  They've built an AI that outperforms Stoogle and everyone else.
 
 **Steve:**  I like the sound of that.  
@@ -183,20 +185,15 @@ Stephen, principal
 
 *The meeting ends.*
 
----
+----
 
-*Later that day.*
+*Later that day...*
 
 **Stephen:**  Boss, can you help me think through our IC decision today?  I'm not sure I understood your process and I'd like to double click on it.
 
 **STEVE:** *(affably)*  Of course.  
 
 **Stephen:**  So I'm trying to get a handle on why you wanted to invest in Steve but not Mike.  To me it seemed like Mike was better in almost every respect.  Better tech, better traction, stronger resume, everything.
-
-**STEVE:**  You can't reduce venture investing to just numbers on a scorecard.  Otherwise anybody could do it.  There's a whole lot of intangibles to consider.
-
-**Stephen:** That's precisely what I wanted 
-
 
 **STEVE:**  All that is true, but you have to face the facts.  Empirically, founders named Steve outperform all other founders.  
 
@@ -207,6 +204,14 @@ Stephen, principal
 **Stephen:**  But surely this is just a chicken-and-egg problem.  If we 
 
 **STEVE:**  Maybe in some ideal world.  But in the world we actually live in, we have a fiduciary duty to maximize LP returns, so we simply cannot fund.  That would be unprofessional and indeed a dereliciton of duty.
+
+
+
+
+
+**STEVE:**  You can't reduce venture investing to just numbers on a scorecard.  Otherwise anybody could do it.  There's a whole lot of intangibles to consider.
+
+**Stephen:** That's precisely what I wanted to double click on.  What intangibles should I be looking for?
 
 
 
