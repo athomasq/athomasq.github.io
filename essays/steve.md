@@ -10,18 +10,13 @@ title: Steve
 
 <br/>
 
+***Scene***  
+*Monday morning investment committee meeting at Steve Ventures.*   
 
-<i>
-<b>Scene</b>  
-Monday morning investment committee meeting at Steve Ventures.   
-</i>
-
-<i>
-<b>Characters</b>  
-STEVE, senior partner and founder of the firm  
-Steve, junior partner and rising star   
-Stephen, principal  
-</i>
+***Characters***   
+*STEVE, senior partner  
+Steve, junior partner   
+Stephen, principal*  
 
 -----
 
@@ -31,7 +26,7 @@ Stephen, principal
 
 **STEVE:**  Tell me more.
 
-**Steve:**  Well, his name is Steve and he's one of the best founders I've ever met.  Really solid resume.  Undergrad at Steveford, worked as a PM at Stoogle and traded derivatives at Stoldman.  Killed it wherever he went.  In between he played professional tic-tac-toe in France and wrote a book about heli-skiing in Tahiti.  What a life story.
+**Steve:**  Well, his name is Steve and he's one of the best founders I've ever met.  Really solid resume.  Undergrad at Steveford, worked in bizdev at Stoogle and investor relations at Stoldman.  Killed it wherever he went.  In between he played professional tic-tac-toe in France and wrote a book about heli-skiing in Tahiti.  What a life story.
 
 **STEVE:**  Wow.
 
@@ -109,7 +104,7 @@ Stephen, principal
 
 **Steve:**  I like the sound of that.  
 
-**Stephen:**  They plan to license it to big tech firms, big banks, big manufacturers, you name it.  It's perfectly general AI, the market is huge.  It's the biggest market there is.
+**Stephen:**  They plan to license it to big tech firms, big banks, big manufacturers, high-growth statups, you name it.  It's perfectly general AI, the market is huge.  It's the biggest market there is.
 
 **STEVE:** That sounds promising.  Tell me about the founder.
 
@@ -119,7 +114,7 @@ Stephen, principal
 
 **Steve:**  Hmm.
 
-**Stephen:**  First-gen college student.  Got a full-ride scholarship to Steveford, won a bunch of prizes there, then fast-tracked into Stoogle Brain.  Then he did a startup which he sold to Stevacle -- pretty big exit.  He's smart and capable and just flat out knows how to execute.
+**Stephen:**  First-gen college student.  Got a full-ride scholarship to Steveford, won a bunch of prizes there, then got hired into Stoogle Brain.  Then he did a startup which he sold to Stevacle -- pretty big exit.  He's smart and capable and just flat out knows how to execute.
 
 **Steve:**  Hmm.  Sounds a bit too good to be true.  
 
@@ -133,7 +128,7 @@ Stephen, principal
 
 **STEVE:** *(dismissively)*  Oh, Jim.  Yeah, well, I don't know about that.  They don't really know what it takes to play in the big time. 
 
-**Stephen:**  I also talked to Stevie at Steven Capital.  To be honest he was a bit reserved, thought I'm not quite sure why.  He said he had doubts about Mike's leadership ability.  Couldn't really compare him with any of his founders.
+**Stephen:**  I also talked to Stevie at Steven Capital.  To be honest he was a bit reserved.  He said he had doubts about Mike's leadership ability.  Couldn't really compare him with any of his founders.
 
 **STEVE:**  Hmm.
 
@@ -143,7 +138,7 @@ Stephen, principal
 
 **Steve:**  You can't really coach these things.  Some people just stand out, you know?  I'd trust Stevie on this one.
 
-**Stephen:**  Well, let's talk about the business.  It's an absolutely huge market, the product is totally unique, there's clear customer demand, and really great defensibility.
+**Stephen:**  Well, let's talk about the business.  It's an absolutely huge market, the product is totally unique, there's clear customer demand, terrific structural economics and really great defensibility.
 
 **Steve:**  It's a software business, right?
 
@@ -151,7 +146,7 @@ Stephen, principal
 
 **STEVE:**  Hmm.
 
-**Stephen:**  But we love software!  The structural economics are insanely good. 
+**Stephen:**  But I thought we loved software!  
 
 **STEVE:**  I wonder if we should take a contrarian line on this.  Everyone's funding software businesses.  Maybe the right move is to double down on hardware like widgets.com.
 
@@ -193,13 +188,54 @@ Stephen, principal
 
 **STEVE:** *(affably)*  Of course.  
 
-**Stephen:**  So I'm trying to get a handle on why you wanted to invest in Steve but not Mike.  To me it seemed like Mike was better in almost every respect.  Better tech, better traction, stronger resume, everything.
-
-
+**Stephen:**  So I'm trying to get a handle on why you wanted to invest in Steve but not Mike.  To me it seemed like Mike's company was better in almost every respect.  Better tech, better traction, better founder, everything.
 
 **STEVE:**  You can't reduce venture investing to just numbers on a scorecard.  Otherwise anybody could do it.  There's a whole lot of intangibles to consider.
 
 **Stephen:** That's precisely what I wanted to double click on.  What intangibles should I be looking for?
+
+**STEVE:**  Leadership.  Leadership is the key.  We want to invest in super-star leaders above all else.  So I'm looking for things like a strong personality, big ambition, supreme confidence.  And that's where Steve wins.
+
+**Stephen:**  But are any of those things justified?  His actual track record is pretty mediocre.  Where does his confidence comes from?  Feels totally unearned to me.
+
+**STEVE:** I don't see your point.  Charisma is charisma.  Winners are winners.
+
+**Stephen:**  Surely leadership is defined by results?
+
+**STEVE:**  I think I can recognize leadership quality when I see it.  That's a big part of the skill of VC.  You'll get it with time.
+
+**Stephen:**  Do you think it's easier for you to appreciate Steve's leadership ability because he reminds me of yourself?  
+
+**STEVE:**
+
+**Stephen:**
+
+**STEVE:**
+
+**Stephen:**
+
+**STEVE:**
+
+**Stephen:**
+
+**STEVE:**
+
+**Stephen:**
+
+**STEVE:**
+
+**Stephen:**
+
+**STEVE:**
+
+**Stephen:**
+
+**STEVE:**
+
+**Stephen:**
+
+**STEVE:**
+
 
 leadership, charisma
 pattern matching
