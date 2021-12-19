@@ -100,33 +100,33 @@ Stephen, principal
 
 **STEVE:** That sounds promising.  Tell me about the founder.
 
-**Stephen:**  She's amazing.  Her name is Jane Finch.  
+**Stephen:**  He's amazing.  His name is Mike Finch.  
 
 **STEVE:**  Hmm.
 
 **Steve:**  Hmm.
 
-**Stephen:**  First-gen college student.  Got a full-ride scholarship to SteveTech, won a bunch of prizes there, then fast-tracked into Stoogle Brain.  Then she did a startup which she sold to Stevacle -- pretty big exit.  She's smart and capable and just flat out knows how to execute.
+**Stephen:**  First-gen college student.  Got a full-ride scholarship to SteveTech, won a bunch of prizes there, then fast-tracked into Stoogle Brain.  Then he did a startup which he sold to Stevacle -- pretty big exit.  He's smart and capable and just flat out knows how to execute.
 
 **Steve:**  Hmm.  Sounds a bit too good to be true.  Do you think any of those prizes were diversity-driven?
 
-**STEVE:**  Was she a diversity admit at Stevetech?  
+**STEVE:**  Was he a diversity admit at Stevetech?  
 
-**Stephen:**  I don't think so, everyone I checked said she was the real deal.
+**Stephen:**  I don't think so, everyone I checked said he was the real deal.
 
 **Steve:**  Who did you talk to?
 
-**Stephen:**  Well, I talked to Jim over at Second Ventures -- they funded her first company.  He couldn't stop raving about how good she was.
+**Stephen:**  Well, I talked to Jim over at Second Ventures -- they funded his first company.  He couldn't stop raving about how good he was.
 
 **STEVE:** *(dismissively)*  Oh, Jim.  Yeah, well, I don't know about that.  They don't really know what it takes to play in the big time. 
 
-**Stephen:**  I also talked to Stevie at Steven Capital.  To be honest he was a bit reserved, thought I'm not quite sure why.  He said he had doubts about her leadership ability.  Couldn't really compare her with any of his founders.
+**Stephen:**  I also talked to Stevie at Steven Capital.  To be honest he was a bit reserved, thought I'm not quite sure why.  He said he had doubts about Mike's leadership ability.  Couldn't really compare him with any of his founders.
 
 **STEVE:**  Hmm.
 
 **Steve:**  Hmm.
 
-**Stephen:**  Look, she ran a top team at Stoogle and then took her first startup from 0 to 500 people and a big exit, I think she's got leadership ability.
+**Stephen:**  Look, he ran a top team at Stoogle and then took his first startup from 0 to 500 people and a big exit, I think he's got leadership ability.
 
 **Steve:**  You can't really coach these things.  Some people just stand out, you know?  I'd trust Stevie on this one.
 
@@ -144,21 +144,25 @@ Stephen, principal
 
 **Stephen:**  Shouldn't we just invest in the best companies?  Irrespective of hardware or software: just look at the market and the product and the economics.
 
-**STEVE:**  Yeah, okay, I hear you, but a good market and a good product don't matter if the team isn't good.  VC is a people business, first and foremost.  I'm a bit concerned about this Jane person.  I don't know if she can cut it.
+**STEVE:**  Yeah, okay, I hear you, but a good market and a good product don't matter if the team isn't good.  VC is a people business, first and foremost.  I'm a bit concerned about this Mike person.  I don't know if he can cut it.
 
-**Steve:**  I don't see any accounting experience on her resume, do you think she'll be able to manage a budget?
+**Steve:**  I don't see any accounting experience on his resume, do you think he'll be able to manage a budget?
 
-**STEVE:**  She might be technically adept, but can she sell?
+**STEVE:**  He might be technically adept, but can he sell?
+
+**Steve:**  He might have customer traction, but is the product technically sound?
+
+**STEVE:**  I don't know if I buy the macro thesis around AI.
 
 **Steve:**  Hmm, I'm looking at their data room and it looks like their NRR is only +155%, that's not as good at Steveflake, you know.  I don't think we should be investing in companies that are not best-in-class.
 
-**STEVE:**  Do you think she'll be able to attract a top team?
+**STEVE:**  Do you think he'll be able to attract a top team?
 
 **Steve:**  Or later stage investors, that's important too.  I don't know if they'll want to invest in somebody who isn't out of the top drawer.
 
 **STEVE:**  Zooming out, I see Stevetech, Stoogle, startup -- it's all a bit careerist.  Too one-dimensional for me.  Not sure I see a spark there.
 
-**Steve:**  Stevie mentioned a possible lack of charisma.  She's no Steve, that's for sure.
+**Steve:**  Stevie mentioned a possible lack of charisma.  He's no Steve, that's for sure.
 
 **STEVE:**  Yeah, I don't think we can make this one work.
 
@@ -172,11 +176,51 @@ Stephen, principal
 
 *Later that day.*
 
-**Stephen:**  Boss, can you help me think through our IC decision today?  I'm not sure I understood your process and I'd like to get a better handle on it.
+**Stephen:**  Boss, can you help me think through our IC decision today?  I'm not sure I understood your process and I'd like to double click on it.
 
-**STEVE:** *(affably)* Of course.  
+**STEVE:** *(affably)*  Of course.  
 
-**Stephen:** 
+**Stephen:**  So I'm trying to get a handle on why you wanted to invest in Steve but not Mike.  To me it seemed like Mike was better in almost every respect.  Better tech, better traction, stronger resume, everything.
+
+**STEVE:**  All that is true, but you have to face the facts.  Empirically, founders named Steve outperform all other founders.  
+
+**Stephen:** But that's because we don't fund anyone else!
+
+
+
+I'm all in favour of diversity
+
+But we can't dilute standard.  We have a fiduciary duty to find only the very best startups.
+
+And statistically, most succesful startups are foudne by Steve.  Look at all the big tech firms -- there's Steve Jobs, Steve Gates, Steve Zuckerberg, Steve Bezos.  I mean, how can you argue with that pattern?
+
+
+
+Look at all the best CEOs.  All the best
+
+It's only us in the room so let me be frank.
+You know that all our LPs are named Steve as well.  What do you think they would say if we went an investted in someone named Bob, just in otder to hit some artifical diversty standard, and as a result our returns suffered?
+
+So are you saying that people not named Steve aren't as capable?
+
+I'm not a Stevist, but the facts don't lie.
+
+We're in the businss of funding world-changing companies. and historicallt the world has been changed by Steves.  Steve Columbus.  Steve Washington.  Steve Edison.  
+
+People like Mark and Bill and Jeff and --0 what was your guy?  Bob? -- they just dn't have the leadership quality. 
+
+
+
+THe other thibng is, we're selective.  We have to be.  We can't inveset in every deal,  Only the best.  So we see 3 great deals
+
+
+
+
+**STEVE:**  You can't reduce venture investing to just numbers on a scorecard.  Otherwise anybody could do it.  There's a whole lot of intangibles to consider.
+
+**Stephen:** That's precisely what I wanted 
+
+
 
 We can deal with some uncertainty if the outcomes are big enough
 
