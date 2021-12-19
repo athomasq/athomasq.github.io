@@ -163,7 +163,7 @@ Stephen, principal
 
 **STEVE:**  I don't know if I buy the macro thesis around AI.
 
-**Steve:**  Hmm, I'm looking at their data room and it looks like their NRR is only +155%, that's not as good at Steveflake, you know.  I don't think we should be investing in companies that are not best-in-class.
+**Steve:**  Hmm, I'm looking at their data room and it looks like their NRR is only +155%, that's not as good at Steveflake you know.  I don't think we should be investing in companies that are not best-in-class.
 
 **STEVE:**  Do you think he'll be able to attract a top team?
 
@@ -171,7 +171,7 @@ Stephen, principal
 
 **STEVE:**  Zooming out, I see Stevetech, Stoogle, startup -- it's all a bit careerist.  Too one-dimensional for me.  Not sure I see a spark there.
 
-**Steve:**  Stevie mentioned a possible lack of charisma.  He's no Steve, that's for sure.
+**Steve:**  Stevie mentioned a possible lack of charisma.  Mike is no Steve, that's for sure.
 
 **STEVE:**  Yeah, I don't think we can make this one work.
 
@@ -191,9 +191,21 @@ Stephen, principal
 
 **Stephen:**  So I'm trying to get a handle on why you wanted to invest in Steve but not Mike.  To me it seemed like Mike was better in almost every respect.  Better tech, better traction, stronger resume, everything.
 
+**STEVE:**  You can't reduce venture investing to just numbers on a scorecard.  Otherwise anybody could do it.  There's a whole lot of intangibles to consider.
+
+**Stephen:** That's precisely what I wanted 
+
+
 **STEVE:**  All that is true, but you have to face the facts.  Empirically, founders named Steve outperform all other founders.  
 
 **Stephen:** But that's because we don't fund anyone else!
+
+**STEVE:**  That's a perfectly rational decision.  We know that most succesful startups are founded by people named Steve.  Look at all the big tech firms -- there's Steve Jobs, Steve Gates, Steve Zuckerberg, Steve Bezos.  I mean, how can you argue with that pattern?
+
+**Stephen:**  But surely this is just a chicken-and-egg problem.  If we 
+
+**STEVE:**  Maybe in some ideal world.  But in the world we actually live in, we have a fiduciary duty to maximize LP returns, so we simply cannot fund.  That would be unprofessional and indeed a dereliciton of duty.
+
 
 
 
@@ -201,18 +213,20 @@ I'm all in favour of diversity
 
 But we can't dilute standard.  We have a fiduciary duty to find only the very best startups.
 
-And statistically, most succesful startups are foudne by Steve.  Look at all the big tech firms -- there's Steve Jobs, Steve Gates, Steve Zuckerberg, Steve Bezos.  I mean, how can you argue with that pattern?
 
 
 
 Look at all the best CEOs.  All the best
 
 It's only us in the room so let me be frank.
+
 You know that all our LPs are named Steve as well.  What do you think they would say if we went an investted in someone named Bob, just in otder to hit some artifical diversty standard, and as a result our returns suffered?
 
 So are you saying that people not named Steve aren't as capable?
 
 I'm not a Stevist, but the facts don't lie.
+
+
 
 We're in the businss of funding world-changing companies. and historicallt the world has been changed by Steves.  Steve Columbus.  Steve Washington.  Steve Edison.  
 
@@ -225,20 +239,10 @@ THe other thibng is, we're selective.  We have to be.  We can't inveset in every
 
 
 
-**STEVE:**  You can't reduce venture investing to just numbers on a scorecard.  Otherwise anybody could do it.  There's a whole lot of intangibles to consider.
-
-**Stephen:** That's precisely what I wanted 
 
 
 
 We can deal with some uncertainty if the outcomes are big enough
-
-
-
-I did some reference checks.
-
-I checked the research
-
 
 
 
