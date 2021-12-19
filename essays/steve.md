@@ -12,9 +12,11 @@ title: Steve
 
 
 <i>
-<b>Scene</b>
+<b>Scene</b>  
 Monday morning investment committee meeting at Steve Ventures.   
+</i>
 
+<i>
 <b>Characters</b>  
 STEVE, senior partner and founder of the firm  
 Steve, junior partner and rising star   
