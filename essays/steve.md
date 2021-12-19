@@ -123,7 +123,7 @@ Stephen, principal
 
 **Steve:**  Hmm.  Sounds a bit too good to be true.  
 
-**STEVE:**  Was he a diversity admit at Stevetech?  
+**STEVE:**  Was he a diversity admit at Steveford?  
 
 **Stephen:**  I don't think so, everyone I checked said he was the real deal.
 
