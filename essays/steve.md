@@ -115,9 +115,9 @@ Stephen, principal
 
 **Steve:**  Hmm.
 
-**Stephen:**  First-gen college student.  Got a full-ride scholarship to SteveTech, won a bunch of prizes there, then fast-tracked into Stoogle Brain.  Then he did a startup which he sold to Stevacle -- pretty big exit.  He's smart and capable and just flat out knows how to execute.
+**Stephen:**  First-gen college student.  Got a full-ride scholarship to Steveford, won a bunch of prizes there, then fast-tracked into Stoogle Brain.  Then he did a startup which he sold to Stevacle -- pretty big exit.  He's smart and capable and just flat out knows how to execute.
 
-**Steve:**  Hmm.  Sounds a bit too good to be true.  Do you think any of those prizes were diversity-driven?
+**Steve:**  Hmm.  Sounds a bit too good to be true.  
 
 **STEVE:**  Was he a diversity admit at Stevetech?  
 
