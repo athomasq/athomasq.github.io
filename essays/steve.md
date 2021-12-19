@@ -189,11 +189,26 @@ Stephen, principal
 
 *Later that day...*
 
-**Stephen:**  Boss, can you help me think through our IC decision today?  I'm not sure I understood your process and I'd like to double click on it.
+**Stephen:**  Can you help me think through our IC decision today?  I'm not sure I understood your process and I'd like to double click on it.
 
 **STEVE:** *(affably)*  Of course.  
 
 **Stephen:**  So I'm trying to get a handle on why you wanted to invest in Steve but not Mike.  To me it seemed like Mike was better in almost every respect.  Better tech, better traction, stronger resume, everything.
+
+
+
+**STEVE:**  You can't reduce venture investing to just numbers on a scorecard.  Otherwise anybody could do it.  There's a whole lot of intangibles to consider.
+
+**Stephen:** That's precisely what I wanted to double click on.  What intangibles should I be looking for?
+
+leadership, charisma
+pattern matching
+
+but it's easy to see char anmd pat in ppl like oure
+
+It's not subkective.  facr the facts.  
+
+
 
 **STEVE:**  All that is true, but you have to face the facts.  Empirically, founders named Steve outperform all other founders.  
 
@@ -201,7 +216,34 @@ Stephen, principal
 
 **STEVE:**  That's a perfectly rational decision.  We know that most succesful startups are founded by people named Steve.  Look at all the big tech firms -- there's Steve Jobs, Steve Gates, Steve Zuckerberg, Steve Bezos.  I mean, how can you argue with that pattern?
 
-**Stephen:**  But surely this is just a chicken-and-egg problem.  If we 
+**Stephen:**  But surely this is just a chicken-and-egg problem.  If we funded more non-Steves, then you'd see more tech leaders not named Steve, and so the perception that only Steves can be leaders would erode.
+
+**STEVE:**  I don't see any empirical evidence for that hypothesis at all.  You have to be more rigorous than that if you want to work in venture.
+
+**Stephen:**  
+
+
+fiduciary
+scorecard
+meritocracy / standards
+dei
+word-changing
+stevist, not capable
+lps
+leadership qulaitu
+only the best
+
+
+diluter standards
+pipeline problem
+ref check
+LP profies
+pattern matching
+woke, dei, metrics
+tokenism
+
+
+
 
 **STEVE:**  Maybe in some ideal world.  But in the world we actually live in, we have a fiduciary duty to maximize LP returns, so we simply cannot fund.  That would be unprofessional and indeed a dereliciton of duty.
 
@@ -209,9 +251,6 @@ Stephen, principal
 
 
 
-**STEVE:**  You can't reduce venture investing to just numbers on a scorecard.  Otherwise anybody could do it.  There's a whole lot of intangibles to consider.
-
-**Stephen:** That's precisely what I wanted to double click on.  What intangibles should I be looking for?
 
 
 
@@ -291,15 +330,6 @@ THe other thibng is, we're selective.  We have to be.  We can't inveset in every
 
 
 
-
-
-diluter standards
-pipeline problem
-ref check
-LP profies
-pattern matching
-woke, dei, metrics
-tokenism
 
 
 
