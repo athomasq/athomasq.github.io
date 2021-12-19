@@ -11,14 +11,15 @@ title: Steve
 <br/>
 
 
+<i>
+<b>Scene</b>
+Monday morning investment committee meeting at Steve Ventures.   
 
-**Scene:** 
-Monday morning investment committee meeting at Steve Ventures.  
-
-**Characters:**
-STEVE, senior partner and founder of the firm
-Steve, junior partner and rising star
-Stephen, principal
+<b>Characters</b>  
+STEVE, senior partner and founder of the firm  
+Steve, junior partner and rising star   
+Stephen, principal  
+</i>
 
 -----
 
@@ -28,7 +29,11 @@ Stephen, principal
 
 **STEVE:**  Tell me more.
 
-**Steve:**  Well, his name is Steve and he's one of the best founders I've ever met.  Really solid resume.  Undergrad at Steveford, worked as a PM at Stoogle and traded derivatives at Stoldman.  Killed it wherever he went.  In between he played pro tic-tac-toe in France and wrote a book about heli-skiing in Tahiti.  What a life story.  This is actually his second startup; the first one was a failure and he has some great lessons to share from it.  Amazing presence and confidence, super ambitious, this is a guy who was born to succeed.
+**Steve:**  Well, his name is Steve and he's one of the best founders I've ever met.  Really solid resume.  Undergrad at Steveford, worked as a PM at Stoogle and traded derivatives at Stoldman.  Killed it wherever he went.  In between he played pro tic-tac-toe in France and wrote a book about heli-skiing in Tahiti.  What a life story.
+
+**STEVE:**  Wow.
+
+**Steve:**  This is actually his second startup; the first one raised a big bunch of cash before failing, and he has some great lessons to share from it.  Amazing presence and confidence, super ambitious, this is a guy who was born to succeed.
 
 **Stephen:**  And the business itself?
 
@@ -40,9 +45,11 @@ Stephen, principal
 
 **Stephen:**  That seems high for no product and no revenue, doesn't it?
 
-**Steve:**  Well, you know, the market sets the price.  And I gotta tell you, this is likely to be competitive -- Steve just ticks so many boxes.  Lots of bids on this one.  We're only getting a shot because he loves our track record working with other founders named Steve.
+**Steve:**  Well, you know, the market sets the price.  And I gotta tell you, this one's likely to be competitive -- Steve just ticks so many boxes.  Lots of interest in this one.  We're only getting a shot because he loves our track record working with other founders named Steve.
 
 **STEVE:**  For a good deal, no price is too high.  Power law outcomes, right?  
+
+**Steve:**  Exactly.  
 
 **Stephen:**  Have we done any reference checks?
 
@@ -52,13 +59,15 @@ Stephen, principal
 
 **Steve:**  On it.
 
+----
+
 **STEVE:**  Okay, what's next.
 
 **Stephen:**  I have a deal that's a bit unorthodox, but it could be a doozy.
 
 **STEVE:**  I'm listening.
 
-**Stephen:**  The company is called Acme Corp and they've built a low cost solar energy cell.  Based on the founder's own PhD research.  This guy is a legit genius.
+**Stephen:**  The company is called Acme Corp and they've built a low-cost, high-efficiency solar energy cell.  Order of magnitude better than the current state of the art.  It's based on the founder's own PhD research.  This guy is a legit genius.
 
 **Steve:**  Who's the founder?
 
