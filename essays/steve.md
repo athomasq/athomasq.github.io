@@ -184,7 +184,7 @@ Stephen, principal*
 
 *Later that day...*
 
-**Stephen:**  Can you help me think through our IC decision today?  I'm not sure I understood your process and I'd like to double click on it.
+**Stephen:**  Can you help me think through our IC decision today?  I'm not sure I understood your process.
 
 **STEVE:** *(affably)*  Of course.  
 
@@ -194,48 +194,77 @@ Stephen, principal*
 
 **Stephen:** That's precisely what I wanted to double click on.  What intangibles should I be looking for?
 
-**STEVE:**  Leadership.  Leadership is the key.  We want to invest in super-star leaders above all else.  So I'm looking for things like a strong personality, big ambition, supreme confidence.  And that's where Steve wins.
+**STEVE:**  Leadership.  Leadership is the key.  We want to invest in superstar leaders above all else.  So I'm looking for things like a strong personality, big ambition, supreme confidence.  And that's where Steve wins.  
 
-**Stephen:**  But are any of those things justified?  His actual track record is pretty mediocre.  Where does his confidence comes from?  Feels totally unearned to me.
+**Stephen:**  But are any of those things justified?  Steve's actual track record is pretty mediocre.  Where does his confidence comes from?  Feels totally unearned to me.
 
 **STEVE:** I don't see your point.  Charisma is charisma.  Winners are winners.
 
 **Stephen:**  Surely leadership is defined by results?
 
-**STEVE:**  I think I can recognize leadership quality when I see it.  That's a big part of the skill of VC.  You'll get it with time.
+**STEVE:**  I think I can recognize leadership quality when I see it.  You know, Steve actually reminds me of myself in some ways.
 
-**Stephen:**  Do you think it's easier for you to appreciate Steve's leadership ability because he reminds me of yourself?  
+**Stephen:**  He does?
 
-**STEVE:**
+**STEVE:**  Yes, and I know what you're thinking.  You're thinking I just want to invest in him because his name is Steve.  Come on!  Give me a little more credit than that.  I'm not that superficial.  When I say he reminds me of myself, I mean in terms of confidence, and charisma, and ambition.  That's the stuff that matters.  Not a little thing like his name.  I'm smarter than that. 
 
-**Stephen:**
+**Stephen:**  I think I understand.  But surely it's easier for you and me to appreciate charisma in somebody named Steve.
 
-**STEVE:**
+**STEVE:**  Charisma is charisma.  Everybody appreciates it, not just you and me.
 
-**Stephen:**
+**Stephen:**  Well --
 
-**STEVE:**
+**STEVE:** *(interrupting)* -- Besides, you have to face the facts.  Empirically, founders named Steve outperform all other founders.  
 
-**Stephen:**
+**Stephen:** But that's because we don't fund anyone else!
 
-**STEVE:**
+**STEVE:**  That's a perfectly rational decision.  Succesful startups are almost always founded by people named Steve, so of course we only fund such people.  Look at all the big tech firms -- there's Steve Jobs, Steve Gates, Steve Zuckerberg, Steve Bezos.  I mean, how can you argue with that pattern?
 
-**Stephen:**
+**Stephen:**  But surely this is just a chicken-and-egg problem.  If we funded more non-Steves, then you'd see more tech leaders not named Steve, and so the perception that only Steves can be leaders would erode.
 
-**STEVE:**
+**STEVE:**  I don't see any empirical evidence for that hypothesis at all.  You have to be more rigorous than that if you want to work in venture.
 
-**Stephen:**
+**Stephen:**  Let me try to put it another way.  As investors we're always talking about self-fulfilling prophecies and founders creating the future they want to see, and we also talk about latent value and unutilized assets.  What if we there's an opportunity like that here.  If everyone is funding Steves, maybe there are hidden gems among the non-Steves?  And by finding them, we create a new source of value?
 
-**STEVE:**
+**STEVE:**  Don't be silly.  
 
-**Stephen:**
+**Stephen:**  I'm not!  I'm being serious.
 
-**STEVE:**
+**STEVE:**  Okay, real talk.  We have a fiduciary duty to our LPs.  We must make investments that, in our judgement, will produce the best returns.  We can't just fund any old Bob or Jim or Jason just to prove some theoretical hypothesis around unappreciated talent.  That would be unprofessional and unethical and a complete dereliction of duty.
 
-**Stephen:**
+**Stephen:**  Wouldn't our LPs back us if we explained the arbitrage opportunity here?
 
-**STEVE:**
+**STEVE:**  
 
+
+It's only us in the room so let me be frank.  You know that all our LPs are named Steve as well.  What do you think they would say if we went an investted in someone named Bob, just in otder to hit some artifical diversty standard, and as a result our returns suffered?
+
+So diversity implies a dilution of quality?  
+
+So are you saying that people not named Steve aren't as capable?
+
+
+
+I'm not a Stevist, but the facts don't lie.
+
+
+
+We're in the businss of funding world-changing companies. and historicallt the world has been changed by Steves.  Steve Columbus.  Steve Washington.  Steve Edison.  
+
+People named Mark and Bill and Jeff and --0 what was your guy?  Bob? -- they just dn't have the leadership quality. 
+
+
+Have you met our LPs?  Stephen at the Stephen Fund is our anchor investor and he'd 
+
+Results are just one part of it; it's more about process and patterns.  A big part of being a good investor is just recognizing the patterns that correlate with success.
+
+**Stephen:**  Do you think
+
+**STEVE:**  Of course.  It comes with experience.  Once you see success a few times, you'll recognize the patterns that go into it.
+
+**Stephen:**  Is that what it is?  Pattern-matching on past experience?
+
+**STEVE:**  
 
 leadership, charisma
 pattern matching
@@ -246,15 +275,7 @@ It's not subkective.  facr the facts.
 
 
 
-**STEVE:**  All that is true, but you have to face the facts.  Empirically, founders named Steve outperform all other founders.  
-
-**Stephen:** But that's because we don't fund anyone else!
-
-**STEVE:**  That's a perfectly rational decision.  We know that most succesful startups are founded by people named Steve.  Look at all the big tech firms -- there's Steve Jobs, Steve Gates, Steve Zuckerberg, Steve Bezos.  I mean, how can you argue with that pattern?
-
-**Stephen:**  But surely this is just a chicken-and-egg problem.  If we funded more non-Steves, then you'd see more tech leaders not named Steve, and so the perception that only Steves can be leaders would erode.
-
-**STEVE:**  I don't see any empirical evidence for that hypothesis at all.  You have to be more rigorous than that if you want to work in venture.
+**STEVE:**  All that is true, but you have to face the facts.  
 
 **Stephen:**  
 
@@ -300,9 +321,7 @@ But we can't dilute standard.  We have a fiduciary duty to find only the very be
 
 Look at all the best CEOs.  All the best
 
-It's only us in the room so let me be frank.
-
-You know that all our LPs are named Steve as well.  What do you think they would say if we went an investted in someone named Bob, just in otder to hit some artifical diversty standard, and as a result our returns suffered?
+It's only us in the room so let me be frank.  You know that all our LPs are named Steve as well.  What do you think they would say if we went an investted in someone named Bob, just in otder to hit some artifical diversty standard, and as a result our returns suffered?
 
 So are you saying that people not named Steve aren't as capable?
 
