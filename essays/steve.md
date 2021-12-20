@@ -11,7 +11,7 @@ title: Steve
 <br/>
 
 ***Scene***  
-*Monday morning investment committee meeting at Steve Ventures.*   
+*Investment committee meeting at Steve Ventures.*   
 
 ***Characters***   
 *STEVE, senior partner  
@@ -38,7 +38,7 @@ Stephen, principal*
 
 **STEVE:**  I like it.  I like it a lot.  What's he asking for?
 
-**Steve:**  20M on a 80M pre, no board seat.
+**Steve:**  20M on a 180M pre, no board seat.
 
 **Stephen:**  That seems high for no product and no revenue, doesn't it?
 
@@ -68,7 +68,7 @@ Stephen, principal*
 
 **Steve:**  Who's the founder?
 
-**Stephen:**  Well, his name is Ryan.
+**Stephen:**  Well, his name is Brian.
 
 **STEVE:**  Hmm.
 
@@ -88,9 +88,9 @@ Stephen, principal*
 
 **Stephen:**  But widgets.com is hardware.
 
-**Steve:**  Sure, but that's different.  That's an internet model.  And the founder is really something special.  He just projects so much confidence in his ability to make magic happen.
+**Steve:**  Sure, but that's different.  That's an internet model.  And the founder Steve is really something special.  He just projects so much confidence in his ability to make magic happen.
 
-**Stephen:**  But Ryan has already solved those hardware challenges!  And he did it on a shoestring budget, too.  
+**Stephen:**  But Brian has already solved those hardware challenges!  And he did it on a shoestring budget, too.  
 
 **STEVE:**  Hmm.  Yeah, you know, I really don't like that.  I want someone who can go big or go home.  Shoestring budget doesn't cut it for me.
 
@@ -176,7 +176,7 @@ Stephen, principal*
 
 **Stephen:**  But ... 
 
-**STEVE:**  So, we're agreed.  We'll offer terms at 20M on 80M for our guy Steve at Widgets.com.
+**STEVE:**  So, we're agreed.  We'll offer terms at 20M on 180M for our guy Steve at Widgets.com.
 
 *The meeting ends.*
 
@@ -206,7 +206,7 @@ Stephen, principal*
 
 **Stephen:**  He does?
 
-**STEVE:**  Yes, and I know what you're thinking.  You're thinking I just want to invest in him because his name is Steve.  Come on!  Give me a little more credit than that.  I'm not that superficial.  When I say he reminds me of myself, I mean in terms of confidence, and charisma, and big ideas, and ambition.  That's the stuff that matters.  Not a little thing like his name.  
+**STEVE:**  Yes, and I know what you're thinking.  You're thinking I just want to invest in him because his name is Steve.  Come on!  Give me a little more credit than that.  I'm not that superficial.  When I say he reminds me of myself, I mean in terms of charisma, and big ideas, and vision.  That's the stuff that matters.  Not a little thing like his name.  
 
 **Stephen:**  I think I understand.  But surely it's easier for you and me to appreciate charisma in somebody named Steve.
 
@@ -224,17 +224,17 @@ Stephen, principal*
 
 **STEVE:**  I don't see any empirical evidence for that hypothesis at all.  You have to be more rigorous than that if you want to work in venture.
 
-**Stephen:**  Let me try to put it another way.  As investors we're always talking about self-fulfilling prophecies and founders creating the future they want to see, and we also talk about latent value and unutilized assets.  What if we there's an opportunity like that here.  If everyone is funding Steves, maybe there are hidden gems among the non-Steves?  And by finding them, we create a new source of value?
+**Stephen:**  I have another idea.  As investors we're always talking about self-fulfilling prophecies and founders creating the future they want to see, and we also talk about latent value and unutilized assets.  What if we there's an opportunity like that here.  If everyone is funding Steves, maybe there are hidden gems among the non-Steves?  And by finding them, we create a new source of value?
 
 **STEVE:**  Don't be silly.  
 
 **Stephen:**  I'm not!  I'm being serious.
 
-**STEVE:**  Okay, real talk.  We have a fiduciary duty to our LPs.  We're professionally obligated make investments that, in our judgement, will produce the best returns.  We can't just fund any old James or Jason or Jake to prove some theoretical hypothesis around unappreciated talent.  That would be unprofessional and unethical and a complete dereliction of duty.
+**STEVE:**  Okay, real talk.  We have a fiduciary duty to our LPs.  We're professionally obligated make investments that, in our judgement, will produce the best returns.  We can't just fund any old James or Jason or Jake to prove some theoretical hypothesis around unappreciated talent.  That would be completely unprofessional and borderline unethical.
 
 **Stephen:**  Wouldn't our LPs back us if we explained the arbitrage opportunity here?
 
-**STEVE:**  What do you think our LPs would say if we went and invested in Ryan in pursuit of some nebulous arbitrage, and our returns suffered as a result?
+**STEVE:**  What do you think our LPs would say if we went and invested in Brian in pursuit of some nebulous arbitrage, and our returns suffered as a result?
 
 **Stephen:**  I don't think they'd be pleased.
 
@@ -242,21 +242,21 @@ Stephen, principal*
 
 **Stephen:**  Are you saying that meritocracy implies that we only fund people named Steve?  That people not named Steve are less capable?
 
-**STEVE:**  I'm not saying that.  I'm no Stevist.  I'm just following the data.  We're in the business of funding world-changing companies.  And historically the world has been changed by Steves.  Steve Columbus.  Steve Washington.  Steve Edison.  People named Mark and Bill and Jeff and -- what was your guy again?  Mike? -- they just don't have the same abilities.
+**STEVE:**  I'm not saying that.  I'm no Stevist.  I'm just following the data.  Look, we're in the business of funding world-changing companies.  And historically the world has been changed by Steves.  Steve Columbus.  Steve Washington.  Steve Edison.  People named Mark and Bill and Jeff and -- what was your guy again?  Mike? -- they just don't have the same abilities.
 
 **Stephen:**  But that's because historically they haven't had the same opportunities as all the Steves.
 
-**STEVE:**  And you think that's going to change?  Look at the world around you.  Late stage capital, public markets, the media, government, LPs, allocators -- everyone in our ecosystem -- they're all dominated by Steves.  In this environment, you'd be an idiot to invest in anyone else.  
+**STEVE:**  And you think that's going to change?  Wake up and smell the roses.  Late stage capital, public markets, the media, government, LPs, allocators -- everyone in our ecosystem -- they're all dominated by Steves.  In this environment, you'd be an idiot to invest in anyone else.  
 
 **Stephen:**  That's a depressing thought.
 
-**STEVE:**  No it isn't.  The system works.  Look at all the wealth it's created.  Besides -- look, even if everything you say is true and we decide we're going to commit career suicide and invest in the Ryans of the world, it still wouldn't make a difference.  We just don't get enough Ryans starting companies.  It's a pipeline problem.  Maybe Ryans just aren't cut out to be risk-takers.
+**STEVE:**  No it isn't.  The system works.  Look at all the wealth it's created.  Besides -- look, even if everything you say is true and we decide we're going to commit career suicide and invest in the Brians of the world, it still wouldn't make a difference.  We just don't get enough Brians starting companies.  It's a pipeline problem.  Maybe Brians just aren't cut out to be risk-takers.
 
-**Stephen:**  But surely that's rational on their part?  If investors and the media and LPs and the government are all less likely to support a Ryan, then the risk-reward is much worse for them than for a Steve.  Why should they play in a rigged game?
+**Stephen:**  But surely that's rational on their part?  If the entire ecosystem is less likely to support a Brian, then the risk-reward is much worse for them than for a Steve.  Why should they play in a rigged game?
 
 **STEVE:**  Well, if they don't play, they're definitely not gonna win.  Steves are winners, and that's the bottom line. 
 
-**Stephen:**  So what you're saying is that there's already a self-fulfilling prophecy at work here.  Only Steves play, and only Steves get funded, and only Steves succeed, and that fact is both the justification and the motivation for non-Steves to be frozen out.
+**Stephen:**  So what you're saying is that there's already a self-fulfilling prophecy at work here.  Only Steves enter the game, and only Steves get funded, and only Steves succeed, and that fact is both the justification and the motivation for non-Steves to be frozen out.
 
 **STEVE:**  Exactly.
 
@@ -270,6 +270,13 @@ Stephen, principal*
 
 
 <br/>
+<br/>
+<br/>
+
+----
+
+*This article brought to you by the fact that there are more CEOs named Steve in the FTSE 100 than there are CEOs who are women.*
+
 <br/>
 <br/>
 
