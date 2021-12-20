@@ -230,7 +230,7 @@ Stephen, principal*
 
 **Stephen:**  I'm not!  I'm being serious.
 
-**STEVE:**  Okay, real talk.  We have a fiduciary duty to our LPs.  We're professionally obliged make investments that, in our judgement, will produce the best returns.  We can't just fund any old James or Jason or Jake to prove some theoretical hypothesis around unappreciated talent.  That would be unprofessional and unethical and a complete dereliction of duty.
+**STEVE:**  Okay, real talk.  We have a fiduciary duty to our LPs.  We're professionally obligated make investments that, in our judgement, will produce the best returns.  We can't just fund any old James or Jason or Jake to prove some theoretical hypothesis around unappreciated talent.  That would be unprofessional and unethical and a complete dereliction of duty.
 
 **Stephen:**  Wouldn't our LPs back us if we explained the arbitrage opportunity here?
 
