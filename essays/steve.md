@@ -198,7 +198,7 @@ Stephen, principal*
 
 **Stephen:**  But are any of those things justified?  Steve's actual track record is pretty mediocre.  Where does his confidence come from?  Feels totally unearned to me.
 
-**STEVE:** I don't see your point.  Charisma is charisma.  Winners are winners.
+**STEVE:** I don't see your point.  Confidence is confidence.  Winners are winners.
 
 **Stephen:**  Surely leadership is defined by results?
 
@@ -206,7 +206,7 @@ Stephen, principal*
 
 **Stephen:**  He does?
 
-**STEVE:**  Yes, and I know what you're thinking.  You're thinking I just want to invest in him because his name is Steve.  Come on!  Give me a little more credit than that.  I'm not that superficial.  When I say he reminds me of myself, I mean in terms of confidence, and charisma, and ambition.  That's the stuff that matters.  Not a little thing like his name.  I'm smarter than that. 
+**STEVE:**  Yes, and I know what you're thinking.  You're thinking I just want to invest in him because his name is Steve.  Come on!  Give me a little more credit than that.  I'm not that superficial.  When I say he reminds me of myself, I mean in terms of confidence, and charisma, and ambition.  That's the stuff that matters.  Not a little thing like his name.  
 
 **Stephen:**  I think I understand.  But surely it's easier for you and me to appreciate charisma in somebody named Steve.
 
@@ -230,37 +230,31 @@ Stephen, principal*
 
 **Stephen:**  I'm not!  I'm being serious.
 
-**STEVE:**  Okay, real talk.  We have a fiduciary duty to our LPs.  We must make investments that, in our judgement, will produce the best returns.  We can't just fund any old Bob or Jim or Jason just to prove some theoretical hypothesis around unappreciated talent.  That would be unprofessional and unethical and a complete dereliction of duty.
+**STEVE:**  Okay, real talk.  We have a fiduciary duty to our LPs.  We must make investments that, in our judgement, will produce the best returns.  We can't just fund any old Bob or Jim or Jason to prove some theoretical hypothesis around unappreciated talent.  That would be unprofessional and unethical and a complete dereliction of duty.
 
 **Stephen:**  Wouldn't our LPs back us if we explained the arbitrage opportunity here?
 
-**STEVE:**  What do you think our LPs would say if we went and invested in someone named Bob, just in order to hit some arbitrary diversity goal, and as a result our returns suffered?
+**STEVE:**  What do you think our LPs would say if we went and invested in Bob Smith and as a result our returns suffered?
 
 **Stephen:**  I don't think they'd be pleased.
 
-**STEVE:**  Damn right.  We can't afford to dilute our standards .  Meritocracy.
+**STEVE:**  Damn right they won't.  The bottom line is, we can't afford to lower our standards.  Our LPs expect us to run a meritocratic organization, and that's what we do.
 
-**Stephen:**  Are you saying that people not named Steve are less capable?
+**Stephen:**  Are you saying that meritocracy implies that we only fund people named Steve?  That people not named Steve are less capable?
 
+**STEVE:**  I'm not saying that.  I'm no Stevist.  I'm just following the data.  We're in the business of funding world-changing companies. and historically the world has been changed by Steves.  Steve Columbus.  Steve Washington.  Steve Edison.  People named Mark and Bill and Jeff and -- what was your guy?  Bob? -- they just don't have the same abilities.
 
+**Stephen:**  But that's because historically they haven't had the same opportunities as all the Steves.
 
-We can't afford to dilute out standards
+**STEVE:**  And you think that's going to change?  Look at the world around you.  Growth stage capital, public markets, the media, government: they're all dominated by Steves.  In this environment, you'd be an idiot to invest in anyone else.  
 
-So diversity implies a dilution of quality?  
+**Stephen:**  That's a depressing thought.
 
-So are you saying that people not named Steve aren't as capable?
+**STEVE:**  No it isn't.  The system works.  Look at all the wealth it's created.  
 
-I'm not a Stevist, but the facts don't lie.  We're in the businss of funding world-changing companies. and historicallt the world has been changed by Steves.  Steve Columbus.  Steve Washington.  Steve Edison.  
+Besides -- look, even if everything you say is true and we decide to commit career suicide and invest in the Bobs of the world, it still wouldn't work.  We just don't get enough Bobs starting companies.  It's a pipeline problem.  Maybe Bobs just aren't risk-takers.
 
-People named Mark and Bill and Jeff and --0 what was your guy?  Bob? -- they just dn't have the leadership quality. 
-
-But that's because historically they haven't had the same opportunities
-
-And you think that's going to change?  The media is Steves.  Growth is Steves.  
-
-Besides, -- look, even if everything you say is true, we jst dont' get enpoguh Bobs.  It's a pipeline problem.  Maybe Bobs just aren't risk-takers.
-
-But surely that's rational on their part?  If as you say investors and media and Lps and growth are all less likely t o support, then the risk-reward is much worse than for a Steve
+**Stephen:**  But surely that's rational on their part?  If as you say investors and the media and LPs and the government are all less likely to support Bob, then the risk-reward is much worse than for a Steve
 
 True, but what are you going to do about it?  You can't change the hwole industyr. 
 
