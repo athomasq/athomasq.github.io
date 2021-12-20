@@ -68,7 +68,7 @@ Stephen, principal*
 
 **Steve:**  Who's the founder?
 
-**Stephen:**  Well, his name is Bob.  Bob Smith.
+**Stephen:**  Well, his name is Ryan.
 
 **STEVE:**  Hmm.
 
@@ -90,7 +90,7 @@ Stephen, principal*
 
 **Steve:**  Sure, but that's different.  That's an internet model.  And the founder is really something special.  He just projects so much confidence in his ability to make magic happen.
 
-**Stephen:**  But Bob has already solved those hardware challenges!  And he did it on a shoestring budget, too.  
+**Stephen:**  But Ryan has already solved those hardware challenges!  And he did it on a shoestring budget, too.  
 
 **STEVE:**  Hmm.  Yeah, you know, I really don't like that.  I want someone who can go big or go home.  Shoestring budget doesn't cut it for me.
 
@@ -108,7 +108,7 @@ Stephen, principal*
 
 **STEVE:** That sounds promising.  Tell me about the founder.
 
-**Stephen:**  He's amazing.  His name is Mike Finch.  
+**Stephen:**  He's amazing.  His name is Mike.  
 
 **STEVE:**  Hmm.
 
@@ -206,7 +206,7 @@ Stephen, principal*
 
 **Stephen:**  He does?
 
-**STEVE:**  Yes, and I know what you're thinking.  You're thinking I just want to invest in him because his name is Steve.  Come on!  Give me a little more credit than that.  I'm not that superficial.  When I say he reminds me of myself, I mean in terms of confidence, and charisma, and ambition.  That's the stuff that matters.  Not a little thing like his name.  
+**STEVE:**  Yes, and I know what you're thinking.  You're thinking I just want to invest in him because his name is Steve.  Come on!  Give me a little more credit than that.  I'm not that superficial.  When I say he reminds me of myself, I mean in terms of confidence, and charisma, and big ideas, and ambition.  That's the stuff that matters.  Not a little thing like his name.  
 
 **Stephen:**  I think I understand.  But surely it's easier for you and me to appreciate charisma in somebody named Steve.
 
@@ -230,11 +230,11 @@ Stephen, principal*
 
 **Stephen:**  I'm not!  I'm being serious.
 
-**STEVE:**  Okay, real talk.  We have a fiduciary duty to our LPs.  We must make investments that, in our judgement, will produce the best returns.  We can't just fund any old Bob or Jim or Jason to prove some theoretical hypothesis around unappreciated talent.  That would be unprofessional and unethical and a complete dereliction of duty.
+**STEVE:**  Okay, real talk.  We have a fiduciary duty to our LPs.  We're professionally obliged make investments that, in our judgement, will produce the best returns.  We can't just fund any old James or Jason or Jake to prove some theoretical hypothesis around unappreciated talent.  That would be unprofessional and unethical and a complete dereliction of duty.
 
 **Stephen:**  Wouldn't our LPs back us if we explained the arbitrage opportunity here?
 
-**STEVE:**  What do you think our LPs would say if we went and invested in Bob Smith and as a result our returns suffered?
+**STEVE:**  What do you think our LPs would say if we went and invested in Ryan in pursuit of some nebulous arbitrage, and our returns suffered as a result?
 
 **Stephen:**  I don't think they'd be pleased.
 
@@ -242,175 +242,52 @@ Stephen, principal*
 
 **Stephen:**  Are you saying that meritocracy implies that we only fund people named Steve?  That people not named Steve are less capable?
 
-**STEVE:**  I'm not saying that.  I'm no Stevist.  I'm just following the data.  We're in the business of funding world-changing companies. and historically the world has been changed by Steves.  Steve Columbus.  Steve Washington.  Steve Edison.  People named Mark and Bill and Jeff and -- what was your guy?  Bob? -- they just don't have the same abilities.
+**STEVE:**  I'm not saying that.  I'm no Stevist.  I'm just following the data.  We're in the business of funding world-changing companies.  And historically the world has been changed by Steves.  Steve Columbus.  Steve Washington.  Steve Edison.  People named Mark and Bill and Jeff and -- what was your guy again?  Mike? -- they just don't have the same abilities.
 
 **Stephen:**  But that's because historically they haven't had the same opportunities as all the Steves.
 
-**STEVE:**  And you think that's going to change?  Look at the world around you.  Growth stage capital, public markets, the media, government: they're all dominated by Steves.  In this environment, you'd be an idiot to invest in anyone else.  
+**STEVE:**  And you think that's going to change?  Look at the world around you.  Late stage capital, public markets, the media, government, LPs, allocators -- everyone in our ecosystem -- they're all dominated by Steves.  In this environment, you'd be an idiot to invest in anyone else.  
 
 **Stephen:**  That's a depressing thought.
 
-**STEVE:**  No it isn't.  The system works.  Look at all the wealth it's created.  
+**STEVE:**  No it isn't.  The system works.  Look at all the wealth it's created.  Besides -- look, even if everything you say is true and we decide we're going to commit career suicide and invest in the Ryans of the world, it still wouldn't make a difference.  We just don't get enough Ryans starting companies.  It's a pipeline problem.  Maybe Ryans just aren't cut out to be risk-takers.
 
-Besides -- look, even if everything you say is true and we decide to commit career suicide and invest in the Bobs of the world, it still wouldn't work.  We just don't get enough Bobs starting companies.  It's a pipeline problem.  Maybe Bobs just aren't risk-takers.
+**Stephen:**  But surely that's rational on their part?  If investors and the media and LPs and the government are all less likely to support a Ryan, then the risk-reward is much worse for them than for a Steve.  Why should they play in a rigged game?
 
-**Stephen:**  But surely that's rational on their part?  If as you say investors and the media and LPs and the government are all less likely to support Bob, then the risk-reward is much worse than for a Steve
+**STEVE:**  Well, if they don't play, they're definitely not gonna win.  Steves are winners, and that's the bottom line. 
 
-True, but what are you going to do about it?  You can't change the hwole industyr. 
+**Stephen:**  So what you're saying is that there's already a self-fulfilling prophecy at work here.  Only Steves play, and only Steves get funded, and only Steves succeed, and that fact is both the justification and the motivation for non-Steves to be frozen out.
 
+**STEVE:**  Exactly.
 
-So what you're saying is that there's already a self-fulfilling prophecy here.  A network effect of Steves.
+**Stephen:**  A network effect of Steves.
 
-Exactly.
+**STEVE:**  You got it.
 
-And so only Steves pply, and only Stees fget funded, and only Steves succeed.  It's a network effect of Steves.
+**Stephen:**  Wow.  It's all clear to me now.
 
-You got it.
-
-Wow.  It's all clear to me now.
-
-Excellent.  Shall we go get dinner?  Steve Hill Road. 
+**STEVE:**  Excellent.  Shall we go get dinner?  There's a new burger place down the road.  The owner's name is Bob.  What a great name for a burger guy.
 
 
+<br/>
+<br/>
+<br/>
 
 
-Have you met our LPs?  Stephen at the Stephen Fund is our anchor investor and he'd 
+<!--
 
-Results are just one part of it; it's more about process and patterns.  A big part of being a good investor is just recognizing the patterns that correlate with success.
-
-**Stephen:**  Do you think
-
-**STEVE:**  Of course.  It comes with experience.  Once you see success a few times, you'll recognize the patterns that go into it.
-
-**Stephen:**  Is that what it is?  Pattern-matching on past experience?
-
-**STEVE:**  
-
-leadership, charisma
-pattern matching
-
-but it's easy to see char anmd pat in ppl like oure
-
-It's not subkective.  facr the facts.  
+-- pattern matching
+-- only the best
+-- LP profies
+-- tokenism
 
 
-
-**STEVE:**  All that is true, but you have to face the facts.  
-
-**Stephen:**  
-
-
-fiduciary
-scorecard
-meritocracy / standards
-dei
-word-changing
-stevist, not capable
-lps
-leadership qulaitu
-only the best
-
-
-diluter standards
-pipeline problem
-ref check
-LP profies
-pattern matching
-woke, dei, metrics
-tokenism
-
-
-
-
-**STEVE:**  Maybe in some ideal world.  But in the world we actually live in, we have a fiduciary duty to maximize LP returns, so we simply cannot fund.  That would be unprofessional and indeed a dereliciton of duty.
-
-
-
-
-
-
-
-
-
-I'm all in favour of diversity
-
-But we can't dilute standard.  We have a fiduciary duty to find only the very best startups.
-
-
-
-
-Look at all the best CEOs.  All the best
-
-It's only us in the room so let me be frank.  You know that all our LPs are named Steve as well.  What do you think they would say if we went an investted in someone named Bob, just in otder to hit some artifical diversty standard, and as a result our returns suffered?
+I'm all in favour of diversity.  But we can't dilute our standards.  We have a fiduciary duty to find only the very best startups.
 
 So are you saying that people not named Steve aren't as capable?
-
 I'm not a Stevist, but the facts don't lie.
 
+THe other thing is, we're selective.  We have to be.  We can't inveset in every deal,  Only the best.  So we see 3 great deals
 
 
-We're in the businss of funding world-changing companies. and historicallt the world has been changed by Steves.  Steve Columbus.  Steve Washington.  Steve Edison.  
-
-People like Mark and Bill and Jeff and --0 what was your guy?  Bob? -- they just dn't have the leadership quality. 
-
-
-
-THe other thibng is, we're selective.  We have to be.  We can't inveset in every deal,  Only the best.  So we see 3 great deals
-
-
-
-
-
-
-
-We can deal with some uncertainty if the outcomes are big enough
-
-
-
-
-but what about power law outcomes?
-
-Look, you have to face the facts.  Empirically, founders named Steve outperform all other founders.  
-
-But tgat;s because we don't fund anyone else!
-
-I'm all in favour of diversity
-
-But we can't dilute standard.  We have a fiduciary duty to find only the very best startups.
-
-And statistically, most succesful startups are foudne by Steve.  Look at all the big tech firms -- there's Steve Jobs, Steve Gates, Steve Zuckerberg, Steve Bezos.  I mean, how can you argue with that pattern?
-
-
-
-Look at all the best CEOs.  All the best
-
-It's only us in the room so let me be frank.
-You know that all our LPs are named Steve as well.  What do you think they would say if we went an investted in someone named Bob, just in otder to hit some artifical diversty standard, and as a result our returns suffered?
-
-So are you saying that people not named Steve aren't as capable?
-
-I'm not a Stevist, but the facts don't lie.
-
-We're in the businss of funding world-changing companies. and historicallt the world has been changed by Steves.  Steve Columbus.  Steve Washington.  Steve Edison.  
-
-People like Mark and Bill and Jeff and --0 what was your guy?  Bob? -- they just dn't have the leadership quality. 
-
-
-
-THe other thibng is, we're selective.  We have to be.  We can't inveset in every deal,  Only the best.  So we see 3 great deals
-
-
-
-
-
-
-
-
-
-
-
-
-person paper
-Stephanie, Esteban
-
-
+-->>
