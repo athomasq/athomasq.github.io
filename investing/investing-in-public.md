@@ -109,8 +109,8 @@ There are probably a few reasons I'm able to get into every deal I bid on:
 * my own credibility as a successful tech founder; 
 * my knowledge of AI-data-API and NFX businesses; 
 * co-investors and VCs who vouch for me; 
-* the small size of my cheques;  
-and so on.  
+* the small size of my cheques.    
+
 
 But the *biggest* factor is probably my dealflow, or rather lack thereof.  Chances are, my win rate is high because I'm not even at the table for the most competitive rounds. 
 
@@ -132,23 +132,10 @@ On average I spend 2-3 hours with each of my portfolio companies every 2-3 month
 
 ### Portfolio Performance
 
-So far, all of this seems to be working well: my angel portfolio is currently at a blended multiple of 1.8x.  (Recall that my target is 3x.)
+It's too early to draw any meaningful conclusions about portfolio performance.  Startup portfolios take time to mature, and I haven't been doing this long enough to establish any kind of skill, edge or statistical significance.
 
-Here's my performance sliced by year of deployment: 
+All that can be said for certain is that I've invested in 14 startups over the last 2¼ years, and none of them are dead yet.  My markups imply strong returns, but you can't eat markups!
 
-<img src="/assets/img/irr-table.png" class="image">
-
-I've invested in 15 startups over the last 2¼ years. None of them are dead yet.  As of Dec 2021, 7 out of 15 have raised further funding.  This percentage correlates with company vintage, as expected:
-
-*image*
-
-So far the distribution of individual-company markups seems to follow a power law reasonably closely:
-
-<img src="/assets/img/distribution-markups.jpg" class="image">
-
-Excluding my best-performing company from the calculations still results in a multiple over 1.5x.  
-
-Of course, I cannot emphasize enough how early my portfolio is -- far too early to draw any meaningful conclusions.  Time will tell if my seemingly strong performance is sustainable, and real. 
 
 ----
 <br/>
