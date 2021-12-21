@@ -224,21 +224,37 @@ Stephen, principal*
 
 **STEVE:**  I don't see any empirical evidence for that hypothesis at all.  You have to be more rigorous than that if you want to work in venture.
 
-**Stephen:**  I have another idea.  As investors we're always talking about self-fulfilling prophecies and founders creating the future they want to see, and we also talk about latent value and unutilized assets.  What if we there's an opportunity like that here.  If everyone is funding Steves, maybe there are hidden gems among the non-Steves?  And by finding them, we create a new source of value?
+**Stephen:**  But what if there's an opportunity for us here?  If everyone is funding Steves, maybe there are hidden gems among the non-Steves?  
 
 **STEVE:**  Don't be silly.  
 
-**Stephen:**  I'm not!  I'm being serious.
+**Stephen:**  I'm not!  I'm being serious.  As investors we love business models that capture new sources of value that nobody else can spot.  What if we can find that kind of value in startups founded by non-Steves?
 
-**STEVE:**  Okay, real talk.  We have a fiduciary duty to our LPs.  We're professionally obligated make investments that, in our judgement, will produce the best returns.  We can't just fund any old James or Jason or Jake to prove some theoretical hypothesis around unappreciated talent.  That would be completely unprofessional and borderline unethical.
+**STEVE:**  I doubt it.  What's your *a priori* reason for assuming such value exists?  
 
-**Stephen:**  Wouldn't our LPs back us if we explained the arbitrage opportunity here?
+**Stephen:**  Surely it's just common sense?
 
-**STEVE:**  What do you think our LPs would say if we went and invested in Brian in pursuit of some nebulous arbitrage, and our returns suffered as a result?
+**STEVE:**  *(snorting)* I don't think you can make such simplistic assumptions.  In fact I'd argue that the burden of proof is on you to show that such value exists.  Frankly, the data is not on your side.
+
+**Stephen:**  But --
+
+**STEVE:**  In any case, it's irrelevant.  You want to be serious, okay, let's be serious.  We have a fiduciary duty to our LPs.  We're professionally obligated make investments that, in our judgement, will produce the best returns.  We can't just fund any old James or Jason or Jake based on some unproven hypothesis around unappreciated talent.  That would be completely unprofessional and in fact borderline unethical.
+
+**Stephen:**  Wouldn't our LPs back us if we explained the opportunity here?
+
+**STEVE:**  The *hypothetical* opportunity, you mean.  What do you think our LPs would say if we went and invested in Brian, and his company failed, and our returns suffered as a result?
 
 **Stephen:**  I don't think they'd be pleased.
 
-**STEVE:**  Damn right they won't.  The bottom line is, we can't afford to lower our standards.  Our LPs expect us to run a meritocratic organization, and that's what we do.
+**STEVE:**  Damn right they won't.  
+
+**Stephen:**  But Steve's company could fail, too.
+
+**STEVE:**  Yes, but at least in that case we know that we invested in the best.  It's the process that matters, not the outcome.  Venture is risky, we all accept that, but that's all the more reason to be rigorous and disciplined.
+
+**Stephen:**  And in this case, being disciplined means investing in Steves.
+
+**STEVE:**  Exactly.  The bottom line is, we can't afford to lower our standards.  Our LPs expect us to run a meritocratic organization, and that's what we do.
 
 **Stephen:**  Are you saying that meritocracy implies that we only fund people named Steve?  That people not named Steve are less capable?
 
@@ -246,11 +262,23 @@ Stephen, principal*
 
 **Stephen:**  But that's because historically they haven't had the same opportunities as all the Steves.
 
-**STEVE:**  And you think that's going to change?  Wake up and smell the roses.  Late stage capital, public markets, the media, government, LPs, allocators -- everyone in our ecosystem -- they're all dominated by Steves.  In this environment, you'd be an idiot to invest in anyone else.  
+**STEVE:**  And you think that's going to change?  Get real.  Late stage capital, public markets, the media, government, LPs, allocators -- everyone in our ecosystem -- they're all dominated by Steves.  In this environment, you'd be an idiot to invest in anyone else.  
 
 **Stephen:**  That's a depressing thought.
 
-**STEVE:**  No it isn't.  The system works.  Look at all the wealth it's created.  Besides -- look, even if everything you say is true and we decide we're going to commit career suicide and invest in the Brians of the world, it still wouldn't make a difference.  We just don't get enough Brians starting companies.  It's a pipeline problem.  Maybe Brians just aren't cut out to be risk-takers.
+**STEVE:**  No it isn't.  The system works.  Look at all the innovation we've unlocked.  Look at all the wealth we've created.  
+
+**Stephen:**  That's hardly a good argument.  It's like saying "we succeeded doing things this way, hence this is the only way things can ever be done".  Sounds pretty ripe for disruption if you ask me.   
+
+**STEVE:**  On the contrary, it's the only argument that matters.  Success is self-perpetuating, and so is failure.  People who didn't back Steves in the past, don't have the resources or the standing to back anyone at all today.  If they did, maybe we'd all be working for Mike Ventures today instead, hahaha.
+
+**Stephen:**  Hahaha.
+
+**STEVE:**  Look, I get what you're saying, I really do.  It's a provocative argument.  But even if everything you say is true and we decide we're going to commit career suicide and invest in the Brians of the world, it still wouldn't make a difference.  
+
+**Stephen:**  It wouldn't?
+
+**STEVE:**  No, it wouldn't.  And you know why?  It's a pipeline problem.  For every 10 Steves who ask us for investment, we get 1 Brian.  The simple fact is that not enough Brians start companies.  Maybe Brians just aren't cut out to be risk-takers.
 
 **Stephen:**  But surely that's rational on their part?  If the entire ecosystem is less likely to support a Brian, then the risk-reward is much worse for them than for a Steve.  Why should they play in a rigged game?
 
@@ -263,6 +291,10 @@ Stephen, principal*
 **Stephen:**  A network effect of Steves.
 
 **STEVE:**  You got it.
+
+**Stephen:**  And like all great network effects, it's almost impossible to disrupt or replace.
+
+**STEVE:**  Bingo. 
 
 **Stephen:**  Wow.  It's all clear to me now.
 
