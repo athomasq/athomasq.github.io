@@ -967,6 +967,7 @@ I have a minor obsession with collecting travel books. I doubt I'll visit all or
 - **The Brendan Voyage**, Tim Severin
 - **The Sindbad Voyage**, Tim Severin
 - **The Spice Lands Voyage**, Tim Severin
+- **Heart of the Antarctic**, Ernest Shackleton
 - **South**, Ernest Shackleton
 - **Sorcerer's Apprentice**, Tahir Shah
 - **Arabian Nights**, Tahir Shah
