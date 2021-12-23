@@ -88,9 +88,9 @@ Stephen, principal*
 
 **Stephen:**  But widgets.com is hardware.
 
-**Steve:**  Sure, but that's different.  That's an internet model.  And the founder Steve is really something special.  He just projects so much confidence in his ability to make magic happen.
+**Steve:**  Sure, but that's different.  That's an internet model.  And the founder Steve is really something special.  He just projects so much confidence in his ability to solve problems as they arise.
 
-**Stephen:**  But Brian has already solved those hardware challenges!  And he did it on a shoestring budget, too.  
+**Stephen:**  But Brian has already solved those problems!  And he did it on a shoestring budget, too.  
 
 **STEVE:**  Hmm.  Yeah, you know, I really don't like that.  I want someone who can go big or go home.  Shoestring budget doesn't cut it for me.
 
