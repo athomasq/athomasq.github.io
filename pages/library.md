@@ -845,6 +845,7 @@ I have a minor obsession with collecting travel books. I doubt I'll visit all or
 - **Lords of the Atlas**, Gavin Maxwell
 - **The Stones of Florence**, Mary McCarthy
 - **Venice Observed**, Mary McCarthy
+- **Travels with a Writing Brush**, Meredith McKinney
 - **Roads**, Larry McMurtry
 - **The Man Who Loved Egypt**, John McPherson
 - **Maximum City**, Suketu Mehta
@@ -1089,6 +1090,7 @@ I have a minor obsession with collecting travel books. I doubt I'll visit all or
 - **A Book of Travellers' Tales**, Eric Newby (ed.)
 - **A Book of Lands and Peoples**, Eric Newby (ed.)
 - **A Taste for Travel**, John Julius Norwich (ed.)
+- **The Faber Book of the Sea**, John Coote (ed.)
 
 [Back to Top ↩](/library#my-library)
 
