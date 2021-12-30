@@ -177,6 +177,16 @@ At a high level, 21 of 30 portfolio founders come from an underrepresented slice
 
 <img src="/assets/img/slice-category.jpg" class="image3">
 
+
+AI - AcuSpire, Daloopa, Getware, Arima
+Fintech - BuyProp, Requity, Klanto
+Infra - Mero, Citylitics
+SaaS - Canopy, Setyl
+Crypto - Paysail
+Climate - Terra
+Logistics - Erly
+Workplace - TriplePlay
+
 Listing them out like this, it does seem that "anything goes", as long as it's B2B or at best B2B2C.  I'm not sure this is wise; maybe I'd do better specializing?  
 
 
