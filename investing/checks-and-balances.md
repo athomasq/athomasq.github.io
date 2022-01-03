@@ -18,8 +18,7 @@ title: Checks and Balances
 
 I’ve been angel investing, off and on, for close to a decade, but it’s only in the last year or so that I’ve become more intentional and systematic about it. One aspect of this is more careful measurement of everything I do; and in the spirit of “building in public”, I thought I’d share some high-level portfolio stats and commentary.
 
-See also:
-* [Why invest in public?](/why-invest-in-public)  
+* *[Why invest in public?](/why-invest-in-public)*  
 
 ----
 <br/>
