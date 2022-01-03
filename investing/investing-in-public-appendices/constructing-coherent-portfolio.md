@@ -4,7 +4,7 @@ permalink: /:basename/
 title: Constructing a Coherent Portfolio
 ---
 
-# Constructing a Coherent Portfolio
+## Constructing a Coherent Angel Portfolio
 
 ----
 *"Without thoughtful [portfolio] construction, all you have is a pile of stones"* -- [Jerry Neumann](http://reactionwheel.net), liberally paraphrased
@@ -19,5 +19,5 @@ So naturally, I built a model and scienced the shit out of it. Here's where I en
 
 <img src="/assets/img/portfolio-parameters.jpg" class="image">
 
-I now have a framework that imposes some degree of investment discipline.  I think this has been the biggest single change in my approach in recent times.
+I now have a framework that imposes some degree of investment discipline.  More than anything else, it helps me be internally consistent, across time and across companies.  I think this has been the biggest single change in my approach in recent times.
 
