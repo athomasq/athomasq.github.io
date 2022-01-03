@@ -27,6 +27,8 @@ These 7 investments join the 8 investments I made in the preceding 2 years, givi
 
 Here's a brief description of each company and [why I invested](https://abrahamthomas.info/portfolio-detailed/).
 
+	See also: [Quantity versus quality in venture dealflow](https://abrahamthomas.info/dealflow-quantity-quality/)
+
 ----
 <br/>
 
