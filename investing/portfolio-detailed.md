@@ -4,7 +4,7 @@ permalink: /:basename/
 title: My Angel Portfolio In Detail
 ---
 
-# My Angel Portfolio in Detail
+## My Angel Portfolio in Detail
 
 ----
 
@@ -51,10 +51,21 @@ As of Dec 2021, here are the 15 companies I've invested in, and why I invested:
 
 💵 **[Requity](https://www.requityhomes.com)** [Fintech] -- Rent-to-own for people who can't get a mortgage despite strong cashflow.  Invested because of strong founder-market fit, neat 2-sided business model, underserved but large market, and it makes the world a better place.
 
-🛒 **[Arima](https://www.arimadata.com)** [AI] -- Using synthetic data to create rich audiences that are privacy-compliant by construction.  Invested because it's the perfect intersection of founder, market, macro, research, tech and traction.
-
 ⛵️ **[Paysail](https://paysail.us)** [Crypto] -- Using crypto rails to enable nearly instantaneous, nearly free B2B payments.  Invested because of "problem-solution fit" -- there are many ways to do payments, but this one just feels *correct* in its elegance.  
 
 🎲 **[TriplePlay](https://tripleplay.ai)** [Workplace] -- A better way to socialize remotely.  Invested because of strong macro trends and a belief that human beings connect through play.
 
+<!--
 
+----
+<br/>
+
+### <center>2021</center>
+
+
+🛒 **[Arima](https://www.arimadata.com)** [AI] -- Using synthetic data to create rich audiences that are privacy-compliant by construction.  Invested because it's the perfect intersection of founder, market, macro, research, tech and traction.
+
+-->
+
+<br/>
+<br/>
