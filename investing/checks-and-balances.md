@@ -14,10 +14,11 @@ title: Checks and Balances
 ----
 <br/>
 
-### Introduction
+### Investing in Public
 
 I’ve been angel investing, off and on, for close to a decade, but it’s only in the last year or so that I’ve become more intentional and systematic about it. One aspect of this is more careful measurement of everything I do; and in the spirit of “building in public”, I thought I’d share some high-level portfolio stats and commentary.
 
+See also:
 * *[Why invest in public?](/why-invest-in-public)*  
 
 ----
@@ -34,8 +35,8 @@ Here's what my funnel has looked like over the last 8 months. (Unfortunately, I 
 These 7 investments join the 8 investments I made in the preceding 2 years, giving me a portfolio of 15 companies.  
 
 See also:  
-* [My portfolio companies](/portfolio-detailed/)  
-* [Quantity versus quality of dealflow](/dealflow-quantity-quality/)  
+* *[My portfolio companies](/portfolio-detailed/)*  
+* *[Quantity versus quality of dealflow](/dealflow-quantity-quality/)*  
 
 ----
 <br/>
@@ -47,7 +48,7 @@ I've become a lot more deliberate about portfolio construction in recent months.
 <img src="/assets/img/portfolio-parameters.jpg" class="image">
 
 See also:  
-* [First forays into portfolio construction](/constructing-coherent-portfolio)  
+* [Constructing a coherent portfolio](/constructing-coherent-portfolio)  
 * [How big should an angel portfolio be?](/how-big-should-an-angel-portfolio-be)  
 * [Second-order effects in portfolio math](/second-order-effects-in-angel-math)  
 
