@@ -18,9 +18,8 @@ title: Checks and Balances
 
 I’ve been angel investing, off and on, for close to a decade, but it’s only in the last year or so that I’ve become more intentional and systematic about it. One aspect of this is more careful measurement of everything I do; and in the spirit of “building in public”, I thought I’d share some high-level portfolio stats and commentary.
 
-See also: 
+See also:  
 * [Why invest in public?](/why-invest-in-public)  
-
 
 ----
 <br/>
@@ -35,9 +34,9 @@ Here's what my funnel has looked like over the last 8 months. (Unfortunately, I 
 
 These 7 investments join the 8 investments I made in the preceding 2 years, giving me a portfolio of 15 companies.  
 
-See also: 
-* [My portfolio companies](https://abrahamthomas.info/portfolio-detailed/)  
-* [Quantity versus quality of dealflow](https://abrahamthomas.info/dealflow-quantity-quality/)  
+See also:  
+* [My portfolio companies](/portfolio-detailed/)  
+* [Quantity versus quality of dealflow](/dealflow-quantity-quality/)  
 
 ----
 <br/>
@@ -47,6 +46,12 @@ See also:
 I've become a lot more deliberate about portfolio construction in recent months.  Here's the framework I try to follow:
 
 <img src="/assets/img/portfolio-parameters.jpg" class="image">
+
+See also:  
+* [First forays into portfolio construction](/constructing-coherent-portfolio)  
+* [How big should an angel portfolio be?](/how-big-should-an-angel-portfolio-be)  
+* [Second-order effects in portfolio math](/second-order-effects-in-angel-math)  
+
 
 ----
 <br/>
