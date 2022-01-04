@@ -62,6 +62,11 @@ I did a (post facto, completely subjective) scoring of my portfolio companies.  
 
 *image here*
 
+See also:  
+* [Learning to be picky as an angel]()
+
+
+
 ----
 <br/>
 
