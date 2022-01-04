@@ -76,6 +76,10 @@ Roughly half the financings I've participated in have been competitive / over-su
 
 *image*
 
+See also:  
+* [Optimal miss rates in picking and winning deals]()
+
+
 
 ----
 <br/>
