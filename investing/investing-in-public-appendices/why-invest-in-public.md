@@ -25,8 +25,6 @@ The result of all these dynamics is a truly horrendous amount of selection bias 
 
 So I thought I'd do my small bit to remedy that, by documenting my own angel investing progress in real time.  Maybe I'll do well, maybe I'll do badly, but in either case, I'll try to present an unvarnished view.  
 
-[Back ↩](/checks-and-balances)
-
 <br/>
 <br/>
 <br/>

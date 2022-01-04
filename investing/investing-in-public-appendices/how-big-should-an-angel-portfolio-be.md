@@ -7,7 +7,7 @@ title: How Big Should An Angel Portfolio Be?
 ## How Big Should An Angel Portfolio Be?
 
 ----
-*Bigger than you think."*
+*Bigger than you think.*
 
 ----
 

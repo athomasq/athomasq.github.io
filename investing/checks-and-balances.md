@@ -30,9 +30,9 @@ Here's what my funnel has looked like over the last 8 months. (Unfortunately, I 
 
 <img src="/assets/img/funnel-stats.jpg" class="image">
 
-<!-- 96 deals seen, 41 initial calls, 14 deep dives, 7 yes (GEKRAPT) -->
+<!-- 96 deals seen, 41 initial calls, 14 deep dives, 6 yes (GEKRPT) -->
 
-These 7 investments join the 8 investments I made in the preceding 2 years, giving me a portfolio of 15 companies.  
+These 6 investments join the 8 investments I made in the preceding 2 years, giving me a portfolio of 14 companies.  
 
 See also:  
 * *[My portfolio companies](/portfolio-detailed/)*  

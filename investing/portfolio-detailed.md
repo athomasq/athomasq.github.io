@@ -10,7 +10,7 @@ title: My Angel Portfolio In Detail
 
 <br/>
 
-As of Dec 2021, here are the 15 companies I've invested in, and why I invested:
+As of Dec 2021, here are the 14 companies I've invested in, and why I invested:
 
 ----
 <br/>
@@ -45,7 +45,7 @@ As of Dec 2021, here are the 15 companies I've invested in, and why I invested:
 
 💡 **[Getware](https://www.getware.ai/)** [AI] -- AI-driven insights from unstructured customer interactions, surfaced and summarized at scale for product teams.  Potential customer described this to me as a "no-brainer" purchase if it works as advertised and I agree.
 
-🚚 **[Erly](https://www.geterly.com)** [Logistics] -- Amazon-Prime-as-a-service for D2C merchants.  Invested because of a terrific value prop for merchants, a really clever business model which I can't share too much about, and incredible speed of execution.
+🚚 **[Erly](https://www.geterly.com)** [Logistics] -- Amazon-Prime-as-a-service for D2C merchants.  Invested because of a terrific value prop for merchants and a neat business model.  *Update Jan 2022:*  The founder decided that market and macro conditions were unfavourable, and returned cash to investors. 💀
 
 💳 **[Klanto](https://www.klanto.com)** [Fintech] -- Spend management platform covering cards, payments, reconciliation and much more.  This is a pure execution play in a crowded space, and I'm betting on an underdog team with scrappiness, hustle and ingenuity.
 
@@ -60,12 +60,13 @@ As of Dec 2021, here are the 15 companies I've invested in, and why I invested:
 ----
 <br/>
 
-### <center>2021</center>
+### <center>2022</center>
 
 
 🛒 **[Arima](https://www.arimadata.com)** [AI] -- Using synthetic data to create rich audiences that are privacy-compliant by construction.  Invested because it's the perfect intersection of founder, market, macro, research, tech and traction.
 
 -->
 
+<br/>
 <br/>
 <br/>

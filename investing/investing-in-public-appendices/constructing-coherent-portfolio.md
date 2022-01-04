@@ -23,5 +23,8 @@ I aim to achieve a power-law-ish distribution of terminal outcomes, like this:
 
 <img src="/assets/img/distribution-outcomes.jpg" class="image">
 
-I now have a framework that imposes some degree of investment discipline.  More than anything else, it helps me be internally consistent, across time and across companies.  I think this has been the biggest single change in my approach in recent times.
+I now have a framework that imposes some degree of investment discipline.  More than anything else, this helps me be internally consistent, across time and across companies.  I think this has been the biggest single change in my investment approach in recent times.
 
+<br/>
+<br/>
+<br/>
