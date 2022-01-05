@@ -16,7 +16,7 @@ title: Checks and Balances
 
 ### Investing in Public
 
-I’ve been angel investing, off and on, for close to a decade, but it’s only in the last year or so that I’ve become more intentional and systematic about it. One aspect of this is more careful measurement of everything I do; and in the spirit of “building in public”, I thought I’d share some high-level portfolio stats and commentary.
+I’ve been angel investing, off and on, for close to a decade, but it’s only in the last year or so that I’ve become more serious about it.  In the spirit of “building in public”, I thought I’d share some high-level portfolio statistics and commentary.
 
 See also:
 * *[Why invest in public?](/why-invest-in-public)*  
@@ -77,7 +77,7 @@ Roughly half the financings I've participated in have been competitive / over-su
 *image*
 
 See also:  
-* [Optimal miss rates in picking and winning deals]()
+* [Losing more often]()
 
 
 
@@ -91,6 +91,10 @@ My median entry valuation for pre-seed and seed rounds has increased every year.
 *image here*
 
 Note that I invested in a couple of higher-valued post-seed rounds in 2021, which are excluded from the above.
+
+See also:  
+* [Navigating high valuations]()
+
 
 
 ----
@@ -120,7 +124,7 @@ By founder demographics:
 
 ### Portfolio Performance
 
-7 out of 15 companies have raised subsequent financing at a markup.  Here's a table showing markups and IRR by year of investment.  
+7 out of 14 companies have raised subsequent financing at a markup.  Here's a table showing markups and IRR by year of investment.  
 
 <img src="/assets/img/irr-table.png" class="image">
 

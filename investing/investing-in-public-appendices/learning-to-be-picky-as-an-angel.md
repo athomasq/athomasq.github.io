@@ -11,6 +11,13 @@ title: Learning To Be Picky As An Angel
 
 ----
 
+
+You can invest as a hobby, or invest with pirpose.
+
+If you're investing as a hobby, it doesn't matter.  Go nuts.
+
+If you have a purpose, yo
+
 You lose 100% of the best you don't miss
 False positives, false negatives
 
