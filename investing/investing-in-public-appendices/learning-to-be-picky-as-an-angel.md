@@ -25,13 +25,33 @@ One objection is that if I wait for the perfect pitch, I'll never swing.  Ventur
 
 Another objection is that the ingredients of a perfect pitch are fairly obvious, and so those valuations will be bid up, negating any selectivity advantage.  Maybe Union Square's reputation allows it to get into such deals at reasonable prices, but that doesn't apply to me.
 
-I think both objections are legitimate, but solvable.  It's subtle though,
+I think both objections are legitimate, but solvable.  It's subtle though.
 
 Early stage companies are by definition imperfect.  There are always gaps and flaws, unknowns and uncertainties.  These imperfections are in fact the reason angel investors like myself can invest at low valuations and reap excess rewards; if those imperfections did not exist, valuations would be a lot higher.
 
 The trick, I'm increasingly beginning to realize, is to accept *the right kind* of imperfection.  Or equivalently, to take the right kind of risk: what quant traders refer to as *"compensated risk"*.
 
-Betting on a mediocre team is an uncompensated risk.  Even if you're right, you don't get any extra reward for it.  The same goes for be
+I want to invest in things that can change, and with those changes, the value of the company goes up.
+
+Team, market/macro, and product/tech are hard to change.
+
+Traction, competion, can easily change
+
+So I'm not a traction investor
+
+(But if I were investing at later stages, I would totally be a traction + narrative investor) 
+
+
+I don't mind investing in a company with early or minimal traction.  If traction subsequently picks up, the valu of the company wil go up; I've been compensated for the risk I took.
+
+I *love* investing in companies with unfashionable or underappreciated foudners.  If my judgement is right and the founders succeed, again the value of the company will go up.
+
+But I don't want to invest in a copnay with an unproven product or business model.  Even if I'm tight, what do I get?
+
+
+Betting on a mediocre team is an uncompensated risk.  Even if you're right, you don't get any extra reward for it.  
+
+The same goes for betting on 
 
 So you shouldn't "bet" on team, or product, or market: you should go for certainty.
 
