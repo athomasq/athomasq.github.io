@@ -11,6 +11,8 @@ title: Quantity Versus Quality Of Dealflow
 
 ----
 
+How many companies should I aim to meet?
+
 My goal is to make 6-8 new investments a year.  How big does the top of my funnel need to be to support this?  Presumably an investor who sees 200 companies has better odds of finding 6 excellent ones than an investor who sees just 20.  But does one who sees 2000 do even better?  At what point do diminishing returns set in?  
 
 Is there a point at which the marginal value of new leads turns negative?  Pitch fatigue, information overload, cognitive capture, trend immersion -- these are all real things.  Perhaps seeing too many deals actually degrades your judgement.  
