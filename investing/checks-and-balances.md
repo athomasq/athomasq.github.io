@@ -77,8 +77,10 @@ Roughly half the financings I've participated in have been competitive / over-su
 
 *image*
 
+I'm not sure this is entirely a good thing! 
+
 See also:  
-* [Losing more often]()
+* [Optimal loss rates]()
 
 
 
