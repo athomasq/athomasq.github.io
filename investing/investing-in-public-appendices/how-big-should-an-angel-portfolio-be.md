@@ -42,7 +42,7 @@ Angel investments are illiquid; you won't get your cash back for many years (if 
 
 ### The Bottom Line
 
-So -- assuming the minimum portfolio size (25 cos.), and the minimum cheque size ($10k), and zero follow-ons, and the maximum sector allocation (20%), you need over a million dollars in liquid, investable cash, to even *think* about serious angel investing.
+So -- assuming the minimum portfolio size (25 cos.), and the minimum cheque size ($10k), and zero follow-ons, and the maximum sector allocation (20%), you need over a million dollars in liquid, investable cash, to even *think* about serious angel investing.  That's a lot; it puts angel investing out of reach for the vast majority of people. 
 
 If you're not at those numbers, you can still angel invest of course, but you should treat it differently; not as a sustainable or predictable source of portfolio returns, but as a way to learn new things, meet new people, finance new tech, and in general be part of building the future you want to see.
 
