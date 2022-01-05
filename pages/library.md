@@ -491,6 +491,7 @@ What can I say about GEB that hasn't been said by a thousand geeks before me?  N
 - **How Asia Works**, Joe Studwell
 - **One From Many**, Dee Hock
 - **Empires of Light**, Jill Jonnes
+- **Straphanger**, Taras Grescoe
 
 [Back to Top ↩](/library#my-library)
 
