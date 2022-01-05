@@ -13,9 +13,9 @@ title: Learning To Be Picky As An Angel
 
 ----
 
-Should I select companies to invest in based on team, or product, or market?  I've become a big fan of Andy Weissman's answer: **why choose?**  
+Should I select companies to invest in based on team, or product, or market?  I'm a big fan of Andy Weissman's answer: **why choose?**  
 
-Nobody's forcing me to invest, so I should be willing to pass on deal after deal until I find one that has a great team *and* a great product *and* a great market.  Anything else is a compromise.
+Nobody's forcing me to invest, so I should be willing to pass on deal after deal until I find one that has a great team *and* a strong value prop *and* a huge market.  Anything else is a compromise.
 
 <img src="/assets/img/team-market-product_.jpg" class="image2">
 
@@ -31,16 +31,18 @@ Early stage companies are by definition imperfect.  There are always gaps and fl
 
 The trick, I'm increasingly beginning to realize, is to accept *the right kind* of imperfection.  Or equivalently, to take the right kind of risk: what quant traders refer to as *"compensated risk"*.
 
-I want to invest in things that can change, and with those changes, the value of the company goes up.
+I want to bet on factors that can change, such that with those changes, the value of the company goes up.  I *don't* want to bet on things that can't be changed.
 
-Team, market/macro, and product/tech are hard to change.
+Team, market/macro, and business-model/product-value-prop are hard to change.  So I want to back companies that already have these; I *don't* want to take a risk here.  This takes care of the first objection: empirically, it's rare for a startup without a great team AND great market/macro tailwinds AND a great business-model/value-prop to deliver outlier success, so I'm not missing out by insisting on these attributes.  (Though of course, I still have to *identify* these attributes correctly.)
 
-Traction, competion, can easily change
+Meanwhile, traction, competition, names on the cap table -- these are all things that can and will change over time, and as they change, I expect valuations to rise.  I'm happy to take a bet on these factors, in the knowledge that I'm being compensated for the risk I'm taking.  And this takes care of the second objection: by investing in copmanies that don't have strong signals on these dimensions, I'm getting discounted valuations.
 
-So I'm not a traction investor
+
+
 
 (But if I were investing at later stages, I would totally be a traction + narrative investor) 
 
+It's difficult and unlikely for startups without a great team AND great market/macro tailwinds AND a great business-model/value-prop to deliver outlier success.  
 
 I don't mind investing in a company with early or minimal traction.  If traction subsequently picks up, the valu of the company wil go up; I've been compensated for the risk I took.
 
