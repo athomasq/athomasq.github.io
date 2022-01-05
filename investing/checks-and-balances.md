@@ -26,13 +26,14 @@ See also:
 
 ### Funnel Statistics
 
+I made 8 new investments in 2021, taking my portfolio to 14 companies.
+
 Here's what my funnel has looked like over the last 8 months. (Unfortunately, I didn't keep detailed stats prior to this spring.)
 
 <img src="/assets/img/funnel-stats.jpg" class="image">
 
 <!-- 96 deals seen, 41 initial calls, 14 deep dives, 6 yes (GEKRPT) -->
 
-These 6 investments join the 8 investments I made in the preceding 2 years, giving me a portfolio of 14 companies.  
 
 See also:  
 * *[My portfolio companies](/portfolio-detailed/)*  
