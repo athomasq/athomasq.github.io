@@ -51,6 +51,8 @@ https://www.marketwatch.com/story/the-explosion-of-alternative-data-gives-regula
 - [Acquisition of the Year](https://www.waterstechnology.com/awards-rankings/4351881/acquisition-of-the-year-nasdaqs-acquisition-of-quandl) - Waters Tech [<small>pdf</small>](/assets/docs/WT-award.pdf)
 - [An Inflection Point for the Industry](https://www.greenwich.com/blog/alternative-data-going-mainstream) - Greenwich Associates [<small>pdf</small>](/assets/docs/GA-mainstream.pdf)
 
+
+<!--
 ----
 
 <br/>
@@ -66,7 +68,7 @@ For press inquiries, please [email me](mailto:athos1@gmail.com).  Topics in whic
 
 Here are some useful assets: my [biography](/assets/docs/Abraham-Thomas-bio.txt) and my [profile picture](/assets/img/Abraham-Thomas.jpg).
 
-
+-->
 
 <br/>
 <br/>
