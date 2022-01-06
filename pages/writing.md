@@ -11,7 +11,7 @@ title: Writing · Abraham Thomas
 <br/>
 
 **[So, You Want To Monetize Your Data](/so-you-want-to-monetize-your-data)**  
-Data behaves quite differently from other commodities, products and services -- often in complex, non-intuituve, non-linear ways. 
+A growing number of firms have business plans that revolve around "monetizing the data".  It's not that easy. 
 
 **[Explaining Rentec's Returns](/rentecs-returns)**  
 What lies behind Renaissance's incredible returns? It turns out you don't need to invoke magic, genius or skulduggery; what you see is exactly what you'd expect, given a few simple assumptions.
