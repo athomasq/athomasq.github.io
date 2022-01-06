@@ -93,6 +93,10 @@ Toronto Stock Exchange, Toronto, April 2016
 **"Data as a Service"** <br/>
 IRMAC, Toronto, January 2014
 
+I hope to eventually upload slides and transcripts for most of these talks. 
+
+<!--
+
 -----
 
 <br/>
@@ -110,6 +114,8 @@ If you'd like me to speak at your event, please [email me](mailto:athos1@gmail.c
 Here are some useful assets: my [biography](/assets/docs/Abraham-Thomas-bio.txt) and my [profile picture](/assets/img/Abraham-Thomas.jpg).
 
 Although I have sometimes done so in the past, please note that in future I will not speak at or attend events without an equitable number of women and minority speakers.
+
+-->
 
 <br/>
 <br/>
