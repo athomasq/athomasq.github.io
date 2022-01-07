@@ -8,6 +8,8 @@ date: 2022-01-06
 
 <br/>
 
+<img src="/assets/img/underpants-gnomes.jpeg" alt="collect-data-profit" class="image">
+
 I see so many startups whose business plan involves "monetizing the data". Sure, they have a product, and some revenue, but the *real* payoff is the data they're collecting. Or so they say.
 
 **PSA: it's not that easy.**
