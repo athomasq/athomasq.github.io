@@ -30,13 +30,15 @@ And even if you tick all these boxes, there are challenges. **Defensibility** is
 
 **Resellability** is a third. Ideally your dataset becomes table stakes over time, so that every player in the ecosystem has to buy it. But to get there, it must first offer an advantage to early adopters, which implies exclusivity, and a very different set of economics. 
 
-Then there's **data quality and delivery ops**. Deploying data at scale can be as complex as deploying software, and is far less mature as a field. Most startups have no clue how to do it. 
+Then there's **delivery**. Deploying data at scale can be as complex as deploying software, and is far less mature as a field. Most startups have no clue how to do it. 
 
-(I haven't even mentioned **compliance, privacy, provenance, and data rights** yet.)  
+(I haven't even mentioned **compliance, privacy, provenance, data quality and data rights** yet.)  
 
-I've seen startups sidestep these problems by identifying a **new domain** to collect data about, or finding a **new technology** with which to collect data, or unlocking a **new data collection incentive**. These are rare!  At Quandl, we evaluated 1000s of would-be data sellers over the years; only a few 10s of them succeeded in making even a single sale. 
+There are ways to get around this. You can identify a **new domain** to collect data about: think of SensorTower and app store usage.  Or you can develop a **new technology** with which to collect data: think of Planet and geospatial imagery.  Or you can unlock a **new incentive** for people to give you their data: think of SafeGraph and free mobile SDKs in return for location data.  These are rare!  To give you a sense of how rare, note that Quandl — probably the largest and most successful alternative data platform — evaluated 1000s of would-be data sellers over the years; only a few 10s of them succeeded in making even a single sale. 
 
 Do you think you can beat those 1-in-100 odds? You'd better have convincing answers to all the questions raised above: coverage, uniqueness, economics, defensibility, resellability, distribution, deployment, compliance and more. 
+
+(This is why the majority of companies that actually succeed in monetizing data, do so with 'exhaust data': data that is a by-product of their core business, but is not the core business in itself.)
 
 So if you can't monetize the data via third-party sales, how about **internal monetization**?  Can the data you collect boost the economics of your own business?
 
