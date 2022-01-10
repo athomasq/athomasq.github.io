@@ -34,8 +34,6 @@ title: Angel Portfolio · Abraham Thomas
 ⛵️ [Paysail](https://paysail.us)  
 🥷 Stealth
 
-----
-
 <br/>
 
 ### Legacy Portfolio: 2015-2017
