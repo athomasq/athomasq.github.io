@@ -27,12 +27,12 @@ title: Angel Portfolio · Abraham Thomas
 🏗️ [Citylitics](https://citylitics.com/)  
 🤝 [AcuSpire](https://acuspire.ai/)  
 💡 [Getware](https://www.getware.ai)  
-🚚 [Erly](https://www.geterly.com)  
+<!--🚚 [Erly](https://www.geterly.com)  
 💳 [Klanto](https://www.klanto.com)  
-🛒 [Arima](https://www.arimadata.com)  
+🛒 [Arima](https://www.arimadata.com)  -->
 💵 [Requity](https://www.requityhomes.com)  
 ⛵️ [Paysail](https://paysail.us)  
-
+🥷 Stealth
 
 ----
 
@@ -45,13 +45,12 @@ Between 2015 and 2017 I invested in 9 startups in India:
 📺 [AdSparx](https://www.adsparx.com/)  
 ☀️ [Claro](https://www.claroenergy.in/)  
 🔬 [Doxper](http://doxper.com/)  
-🏘️ FastFox  
 🌐 [i2e1](https://i2e1.com/)  
 🚛 [Locus](https://locus.sh/)  
-🧰 Qyk  
 👁️ [Vue](https://vue.ai/)  
 💊 [Wellthy](https://wellthytherapeutics.com/)  
-
+🏘️ FastFox  
+🧰 Qyk  
 
 My portfolio companies have gone on to raise further funding from Sequoia, Tiger Global, Falcon Edge, GIC and others. 
 
