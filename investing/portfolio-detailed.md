@@ -47,15 +47,19 @@ As of Dec 2021, here are the 14 companies I've invested in, and why I invested:
 
 🚚 **[Erly](https://www.geterly.com)** [Logistics] -- Amazon-Prime-as-a-service for D2C merchants.  Invested because of a terrific value prop for merchants and a neat business model.  *Update Jan 2022:*  The founder decided that market and macro conditions were unfavourable, and returned cash to investors. 💀
 
-💳 **[Klanto](https://www.klanto.com)** [Fintech] -- Spend management platform covering cards, payments, reconciliation and much more.  This is a pure execution play in a crowded space, and I'm betting on an underdog team with scrappiness, hustle and ingenuity.
-
 💵 **[Requity](https://www.requityhomes.com)** [Fintech] -- Rent-to-own for people who can't get a mortgage despite strong cashflow.  Invested because of strong founder-market fit, neat 2-sided business model, underserved but large market, and it makes the world a better place.
 
 ⛵️ **[Paysail](https://paysail.us)** [Crypto] -- Using crypto rails to enable nearly instantaneous, nearly free B2B payments.  Invested because of "problem-solution fit" -- there are many ways to do payments, but this one just feels *correct* in its elegance.  
 
 🎲 **[TriplePlay](https://tripleplay.ai)** [Workplace] -- A better way to socialize remotely.  Invested because of strong macro trends and a belief that human beings connect through play.
 
+🥷 Stealth fintech startup -- watch this space. 
+
 <!--
+
+
+💳 **[Klanto](https://www.klanto.com)** [Fintech] -- Spend management platform covering cards, payments, reconciliation and much more.  This is a pure execution play in a crowded space, and I'm betting on an underdog team with scrappiness, hustle and ingenuity.
+
 
 ----
 <br/>
