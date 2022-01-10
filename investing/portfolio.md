@@ -58,7 +58,7 @@ My portfolio companies have gone on to raise further funding from Sequoia, Tiger
 
 ### Portfolio Notes
 
-🌱 All the above investments were done at what would today (late 2021) be considered pre-seed stage: very early product with minimal or zero revenue.
+🌱 All the above investments were done at what would today (2022) be considered pre-seed stage: very early product with minimal or zero revenue.
 
 🧭 I invest only where I think I have an edge, in either dealflow or evaluation.  As a consequence, my portfolio tends to skew non-Bay Area, mostly B2B, and mostly under-represented or atypical founder profiles.
 
