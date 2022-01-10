@@ -53,7 +53,7 @@ As of Dec 2021, here are the 14 companies I've invested in, and why I invested:
 
 🎲 **[TriplePlay](https://tripleplay.ai)** [Workplace] -- A better way to socialize remotely.  Invested because of strong macro trends and a belief that human beings connect through play.
 
-🥷 Stealth fintech startup -- watch this space. 
+🥷 **Stealth** [Fintech] -- watch this space. 
 
 <!--
 
