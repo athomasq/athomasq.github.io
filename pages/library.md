@@ -378,6 +378,7 @@ What can I say about GEB that hasn't been said by a thousand geeks before me?  N
 - **Master of the Senate**, Robert Caro
 - **The Passage of Power**, Robert Caro
 - **The Power Broker**, Robert Caro
+- **Working**, Robert Caro
 - **Lords of Finance**, Liaquat Ahamed
 - **Unruly Waters**, Sunil Amrith
 - **Class**, Paul Fussell
@@ -412,6 +413,7 @@ What can I say about GEB that hasn't been said by a thousand geeks before me?  N
 - **The Second John McPhee Reader**, John McPhee
 - **Annals of the Former World**, John McPhee
 - **The Survival of the Bark Canoe**, John McPhee
+- **Draft No. 4**, John McPhee
 - **The Purple Decades**, Tom Wolfe
 - **The New Journalism**, Tom Wolfe
 - **The Faber Book of Journalism**, John Carey
