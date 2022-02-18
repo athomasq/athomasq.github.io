@@ -8,7 +8,7 @@ title: About · Abraham Thomas
 
 ----
 
-|<img style="width:200px" src="/assets/img/Abraham-Thomas.jpg">|👋 Hello, I'm Abraham.<br/><br/>I'm a technology entrepreneur and [angel investor](/angel) living in Toronto.<br/><br/>I'm the co-founder and former Chief Data Officer of [Quandl](https://www.quandl.com), a tech startup that was acquired by [Nasdaq](https://www.nasdaq.com) in 2018. <br/><br/>Before Quandl, I was a trader and portfolio manager at [Simplex](https://www.simplexasset.com), a multi-billion-dollar hedge fund in Tokyo.|
+|<img style="width:200px" src="/assets/img/Abraham-Thomas.jpg">|👋 Hello, I'm Abraham.<br/><br/>I'm a technology entrepreneur and [private investor](/angel) living in Toronto.<br/><br/>I'm the co-founder and former Chief Data Officer of [Quandl](https://www.quandl.com), a tech startup that was acquired by [Nasdaq](https://www.nasdaq.com) in 2018. <br/><br/>Before Quandl, I was a trader and portfolio manager at [Simplex](https://www.simplexasset.com), a multi-billion-dollar hedge fund in Tokyo.|
 
 -----
 
@@ -40,11 +40,11 @@ https://abrahamthomas.info/bond-arbitrage/
 
 ### Investing
 
-🦋 I'm an active angel investor in early-stage B2B startups. I'm flexible on industry, commercial model and geography. *[Learn more](/angel).*  
+🦋 I'm an active [angel investor](/angel) in [B2B startups](/portfolio). 
 
-🔗 I’m most familiar with businesses involving data, APIs, and network effects. I also know capital markets and fintech well.  *[View my portfolio](/portfolio).*  
+🔗 I’m most familiar with businesses involving data, APIs, and network effects. 
 
-🔧 I can help on almost all operational aspects of early-stage startups. I'm especially strong on story-telling, hybrid g2m, culture+talent, fund-raising, and of course all things data.  
+🔧 I'm a low-ego, high-support investor, and try to help beyond just writing cheques.   
 
 📫 **Founders, if this sounds like a fit, [please reach out!](mailto:athos1@gmail.com)**    
 
@@ -66,9 +66,9 @@ https://abrahamthomas.info/bond-arbitrage/
 
 Here are a few topics I have particularly deep professional expertise in:
 
-⚖️ B2B and SaaS-enabled marketplaces  
 🔢 Data and API business models and the modern data ecosystem  
 👩‍💻 Designing, building and scaling effective data organizations  
+⚖️ B2B and SaaS-enabled marketplaces  
 💳 Capital markets and B2B fintech  
 🏧 Modern quantitative and quantamental investing  
 🛰️ Alternative data and untapped sources of alpha  
