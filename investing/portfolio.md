@@ -27,11 +27,12 @@ title: Angel Portfolio · Abraham Thomas
 🏗️ [Citylitics](https://citylitics.com/)  
 🤝 [AcuSpire](https://acuspire.ai/)  
 💡 [Getware](https://www.getware.ai)  
-<!--🚚 [Erly](https://www.geterly.com)  
+🚚 [Erly](https://www.geterly.com)  
 💳 [Klanto](https://www.klanto.com)  
-🛒 [Arima](https://www.arimadata.com)  -->
 💵 [Requity](https://www.requityhomes.com)  
 ⛵️ [Paysail](https://paysail.us)  
+🎲 [TriplePlay](https://tripleplay.ai)  
+🛒 [Arima](https://www.arimadata.com) 
 🥷 Stealth
 
 <br/>
