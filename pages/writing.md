@@ -10,6 +10,12 @@ title: Writing · Abraham Thomas
 
 <br/>
 
+**[Invasion!](/invasion)**  
+When I was 13 years old, I spent 3 days in the hold of a converted cargo ship, escaping a war zone with nothing more than what I could carry in a backpack. It was the best thing that ever happened to me.
+
+**[The Accidental Investor](/the-accidental-investor)**  
+I fell into finance by accident. Here's how it happened. 
+
 **[So, You Want To Monetize Your Data](/so-you-want-to-monetize-your-data)**  
 A growing number of firms have business plans that revolve around "monetizing the data".  It's not that easy. 
 
@@ -18,12 +24,6 @@ What lies behind Renaissance's incredible returns? It turns out you don't need t
 
 **[Alfred Winslow Jones: the Hidden Architect of Modern Markets](/alfred-winslow-jones)**  
 Let me tell you all about Alfred Winslow Jones. You may not have heard of him, but he’s one of the most important financiers of the 20th century.
-
-**[Invasion!](/invasion)**  
-When I was 13 years old, I spent 3 days in the hold of a converted cargo ship, escaping a war zone with nothing more than what I could carry in a backpack. It was the best thing that ever happened to me.
-
-**[The Accidental Investor](/the-accidental-investor)**  
-I fell into finance by accident. Here's how it happened. 
 
 **[Silk Ties and Suckers: A Trading Story](/silk-ties)**  
 What does your counterparty know that you don't?
