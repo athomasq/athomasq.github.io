@@ -32,7 +32,7 @@ title: Angel Portfolio · Abraham Thomas
 💵 [Requity](https://www.requityhomes.com)  
 ⛵️ [Paysail](https://paysail.us)  
 🎲 [TriplePlay](https://tripleplay.ai)  
-🛒 [Arima](https://www.arimadata.com) 
+🛒 [Arima](https://www.arimadata.com)  
 🥷 Stealth
 
 <br/>
