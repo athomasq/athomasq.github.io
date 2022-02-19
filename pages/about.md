@@ -40,9 +40,10 @@ https://abrahamthomas.info/bond-arbitrage/
 
 ### Investing
 
-🦋 I'm an active [angel investor](/angel) in [B2B startups](/portfolio).  
-🔗 I’m best with businesses involving data, APIs, and network effects.  
-🔧 I try to be low-ego, high-support investor, not just a cheque.   
+🦋 I [angel invest](/angel) in early-stage startups, mostly B2B.  
+🌏 I'm flexible on business model, industry and geography.  
+🔗 I like hard tech, data moats, APIs, and network effects.  
+🔧 I try to be a low-ego, high-support investor, not just a cheque.   
 
 📫 **Founders, if this sounds like a fit, [please reach out!](mailto:athos1@gmail.com)**    
 
