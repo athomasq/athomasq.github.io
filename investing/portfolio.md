@@ -18,7 +18,7 @@ title: Angel Portfolio · Abraham Thomas
 
 ### Current Portfolio: 2019-2022
 
-I'm fortunate to work with the following companies as an angel investor and/or advisor.
+I'm fortunate to work with the following companies as an angel investor and/or advisor:
 
 🧠 [Daloopa](https://www.daloopa.com)  
 🏢 [Mero](https://mero.co)  
