@@ -16,22 +16,26 @@ title: Angel Portfolio · Abraham Thomas
 
 <br/>
 
-### Current Portfolio: 2019-2021
+### Current Portfolio: 2019-2022
 
-🧠 [Daloopa](https://www.daloopa.com/)  
-🏢 [Mero](https://mero.co/)  
+I'm fortunate to work with the following companies as an angel investor and/or advisor.
+
+🧠 [Daloopa](https://www.daloopa.com)  
+🏢 [Mero](https://mero.co)  
+🛰 [Pixxel](https://www.pixxel.space)  
 🌏 [Terra.do](https://terra.do)  
-🖥️ [Setyl](https://www.setyl.com/)  
-🏫 [Canopy](https://www.canopyanalytics.com/)  
-🏡 [BuyProperly](https://buyproperly.ca/)  
-🏗️ [Citylitics](https://citylitics.com/)  
-🤝 [AcuSpire](https://acuspire.ai/)  
+🖥️ [Setyl](https://www.setyl.com)  
+🏫 [Canopy](https://www.canopyanalytics.com)  
+🏡 [BuyProperly](https://buyproperly.ca)  
+🏗️ [Citylitics](https://citylitics.com)  
+🤝 [AcuSpire](https://acuspire.ai)  
 💡 [Getware](https://www.getware.ai)  
 🚚 [Erly](https://www.geterly.com)  
 💳 [Klanto](https://www.klanto.com)  
 💵 [Requity](https://www.requityhomes.com)  
 ⛵️ [Paysail](https://paysail.us)  
 🎲 [TriplePlay](https://tripleplay.ai)  
+🎼 [Composer](https://www.composer.trade)  
 🛒 [Arima](https://www.arimadata.com)  
 🥷 Stealth
 
@@ -39,17 +43,17 @@ title: Angel Portfolio · Abraham Thomas
 
 ### Legacy Portfolio: 2015-2017
 
-Between 2015 and 2017 I invested in 9 startups in India:
+Between 2015 and 2017 I invested in a few startups in India:
 
-📺 [AdSparx](https://www.adsparx.com/)  
-☀️ [Claro](https://www.claroenergy.in/)  
-🔬 [Doxper](http://doxper.com/)  
-🌐 [i2e1](https://i2e1.com/)  
-🚛 [Locus](https://locus.sh/)  
-👁️ [Vue](https://vue.ai/)  
-💊 [Wellthy](https://wellthytherapeutics.com/)  
-🏘️ FastFox  
-🧰 Qyk  
+📺 [AdSparx](https://www.adsparx.com)  
+☀️ [Claro](https://www.claroenergy.in)  
+🔬 [Doxper](http://doxper.com)  
+🌐 [i2e1](https://i2e1.com)  
+🚛 [Locus](https://locus.sh)  
+👁️ [Vue](https://vue.ai)  
+💊 [Wellthy](https://wellthytherapeutics.com)  
+🏘️ FastFox 🪦  
+🧰 Qyk 🪦  
 
 My portfolio companies have gone on to raise further funding from Sequoia, Tiger Global, Falcon Edge, GIC and others. 
 
