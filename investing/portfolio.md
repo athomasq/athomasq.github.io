@@ -55,7 +55,6 @@ Between 2015 and 2017 I invested in a few startups in India:
 🏘️ FastFox 🪦  
 🧰 Qyk 🪦  
 
-My portfolio companies have gone on to raise further funding from Sequoia, Tiger Global, Falcon Edge, GIC and others. 
 
 ----
 
@@ -68,6 +67,8 @@ My portfolio companies have gone on to raise further funding from Sequoia, Tiger
 🧭 I invest only where I think I have an edge, in either dealflow or evaluation.  As a consequence, my portfolio tends to skew non-Bay Area, mostly B2B, and mostly under-represented or atypical founder profiles.
 
 🎯 I invest my own money.  This gives me a very different objective function from many (most?) startup investors. 
+
+😎 My portfolio companies have gone on to raise further funding from Sequoia, Tiger Global, Falcon Edge, GIC and others. 
 
 
 <!--
