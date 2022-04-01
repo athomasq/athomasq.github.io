@@ -39,6 +39,9 @@ I'm fortunate to work with the following companies as an angel investor and/or a
 🛒 [Arima](https://www.arimadata.com)  
 🥷 Stealth
 
+
+----
+
 <br/>
 
 ### Legacy Portfolio: 2015-2017
