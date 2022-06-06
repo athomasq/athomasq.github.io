@@ -11,7 +11,8 @@ I recommend sending out investor updates once a month, shortly after the beginni
 
 <br/>
 <br/>
------
+
+----
 
 This is Acme Corp's update for Feb 2022.  As a reminder, Acme Corp provides widgets-as-a-service to the gizmo industry.
 
@@ -59,6 +60,7 @@ As always, would appreciate intros to big players in the gizmo industry -- CHOAM
 <br/>
 <br/>
 <br/>
+
 ----
 
 ### Commentary
