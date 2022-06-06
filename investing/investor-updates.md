@@ -18,25 +18,20 @@ This is Acme Corp's update for Feb 2022.  As a reminder, Acme Corp provides widg
 
 ### KPIs
 
+**North Star: Widgets per gizmo:** 314,159  
+(+11% mom, =7% avg last 3 months)
 
-##### North star metric 
-**Widgets per gizmo:** 314,159 (+11% mom, =7% avg last 3 months)
-
-##### Revenue
 **MRR:** $24,300 (+$2,000 = +12% mom, +8% avg l3m)  
 **MRR drivers:** $1400 new, $900 upsell, -$300 churn  
 
-##### Expenses
 **Headcount:** 4 not including founders  
 **Gross burn:** $28,000 (+$1,500 = +5% mom, +3% avg l3m)  
 **Net burn:** $3,700  
 
-##### Runway
-Cash in bank: $50,000  
-Runway assuming constant MRR, constant burn: 13 mos  
-Runway assuming MRR and burn both grow at l3m avg: 21 mos   
+**Cash in bank:** $50,000  
+**Runway assuming constant MRR, constant burn:** 13 mos  
+**Runway assuming MRR and burn both grow at l3m avg:** 21 mos   
 
-*[If you have recurring revenue -- and most of you do -- please report MRR. If you have annual contracts, report them as ARR/12.  Don't include services revenue or non-recurring revenue; report them separately. If you're a marketplace, report GMV and net revenue instead.]*
 
 
 ### Business update
@@ -66,11 +61,22 @@ As always, would appreciate intros to big players in the gizmo industry -- CHOAM
 <br/>
 ----
 
-### More Commentary
+### Commentary
+
+#### Metrics
+
+As you can see from the template, I like to report 4 sets of metrics: north star, revenue, expenses, and metrics.
 
 The numbers don't have to be exact to the last dollar, but should be reasonably close.  The key is not to take too much time putting this together -- a 3000 word email that arrives on the 20th of the following month is far less useful to investors, and far more consuming of your time, than a brief summary that arrives on the 1st or 2nd.  
 
+If you have recurring revenue -- and most of you do -- please report MRR. If you have annual contracts, report them as ARR/12.  Don't include services revenue or non-recurring revenue; report them separately. If you're a marketplace, report GMV and net revenue instead.
+
+#### Logistics
+
 In steady state you should be able to produce and send this email in less than 1 hour of your time.  (The ROI of that 1 hour is very high).  Also, ideally these emails end up having 4 different audiences -- current investors, team members, future investors, and yourself.   
+
+
+#### Goals
 
 Good investor updates accomplish two things: they are a management tool for your own benefit, and they help establish your credibility with investors.
 
