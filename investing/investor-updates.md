@@ -20,7 +20,7 @@ This is Acme Corp's update for Feb 2022.  As a reminder, Acme Corp provides widg
 
 ### KPIs
 
-Widgets per gizmo (north star):** 314,159  
+**Widgets per gizmo (north star):** 314,159  
 (+15% month over month, +12% avg last 3 months)
 
 **MRR:** $24,300 (+$2,000 = +12% mom, +8% avg l3m)  
