@@ -7,35 +7,35 @@ title: Investor Updates
 
 ----
 
+<br/>
 
-I recommend sending out investor updates once a month, shortly after the beginning of the month.  Here's my preferred template.  (Commentary is in italics).
+I recommend sending out investor updates once a month, shortly after the beginning of the month.  Here's my preferred template.  
 
 -----
 
 This is Acme Corp's update for Feb 2022.  As a reminder, Acme Corp provides widgets-as-a-service to the gizmo industry.
 
 
-# KPIs
+### KPIs
 
-[North star metric]
+*North star metric*  
 Monthly unique widgetizers: 314,159
 
-MRR: $24,300 (+$2,000 = +12% mom, +8% avg last 3 months)
-MRR drivers: $1400 new, $900 upsell, -$300 churn
+MRR: $24,300 (+$2,000 = +12% mom, +8% avg last 3 months)  
+MRR drivers: $1400 new, $900 upsell, -$300 churn  
 
-Headcount: 4 not including founders
-Gross burn: $28,000 (+$1,500 = +5% mom, +3% avg l3m)
-Net burn: $3,700
+Headcount: 4 not including founders  
+Gross burn: $28,000 (+$1,500 = +5% mom, +3% avg l3m)  
+Net burn: $3,700  
 
-Cash in bank: $50,000
-Runway assuming constant MRR, constant burn: 13 mos
-Runway assuming MRR and burn both grow at l3m avg: 21 mos 
+Cash in bank: $50,000  
+Runway assuming constant MRR, constant burn: 13 mos  
+Runway assuming MRR and burn both grow at l3m avg: 21 mos   
+
+*[If you have recurring revenue -- and most of you do -- please report MRR. If you have annual contracts, report them as ARR/12.  Don't include services revenue or non-recurring revenue; report them separately. If you're a marketplace, report GMV and net revenue instead.]*
 
 
-[If you have recurring revenue -- and most of you do -- please report MRR. If you have annual contracts, report them as ARR/12.  Don't include services revenue or non-recurring revenue; report them separately.  If you're a marketplace, report GMV and net revenue instead.]
-
-
-# Business update
+### Business update
 
 Good: We signed a channel partnership with the Sirius Cybernetics Corp.  Hoping to get lots of high-quality leads from this.  The initial economics are merely okay, not great for us, but we're treating this as an experiment to find out if it works, not trying to optimize yet.
 
@@ -43,24 +43,25 @@ Bad: Had to fire 1 of our 3 engineers -- code quality just wasn't good enough.  
 
 What's on my mind: Does it make sense to replace the lost engineer with another engineer?  The product is in a reasonably good place; should we spend the resources on sales and marketing instead?  Or do both?  How does this interact with the current funding and valuation environment?
 
-# Product update
+### Product update
 
 Despite the loss of an engineer, the product feels like it's finally getting there.  Still some bugs and debt to iron out, so we're going to spend some cycles on that instead of new features.
 
-# Team update
+### Team update
 
 See above re engg.  The good news is that the remaining team is really good -- motivated, productive, happy.  Thinking about what our next 3 hires should be, amnd when.
 
-# Asks
+### Asks
 
-- Currently planning to begin our Series A process in 9 months.  What do I need to do today to prepare?  Do you have any metrics on benchmarks, valuations etc?
+Currently planning to begin our Series A process in 9 months.  What do I need to do today to prepare?  Do you have any metrics on benchmarks, valuations etc?
 
-- As always, would appreciate intros to big players in the gizmo industry -- CHOAM Corp, Weyland-Yutani, Tessier-Ashpool etc.
+As always, would appreciate intros to big players in the gizmo industry -- CHOAM Corp, Weyland-Yutani, Tessier-Ashpool etc.
 
-
+<br/>
+<br/>
 ----
 
-More commentary
+### More Commentary
 
 * The numbers don't have to be exact to the last dollar, but should be reasonably close.  The key is not to take too much time putting this together -- a 3000 word email that arrives on the 20th of the following month is far less useful to investors, and far more consuming of your time, than a brief summary that arrives on the 1st or 2nd.  
 
@@ -85,7 +86,8 @@ That kind of honesty builds a lot of trust.
 * Quandl did not send out regular investor updates until after our Series A.  This is one of my greatest regrets as a founder -- a huge missed opportunity.  I advise you not to make the same mistake.
 
 
-
+<br/>
+<br/>
 
 
 
