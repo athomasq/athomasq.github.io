@@ -7,10 +7,10 @@ title: Investor Updates
 
 ----
 
-<br/>
-
 I recommend sending out investor updates once a month, shortly after the beginning of the month.  Here's my preferred template.  
 
+<br/>
+<br/>
 -----
 
 This is Acme Corp's update for Feb 2022.  As a reminder, Acme Corp provides widgets-as-a-service to the gizmo industry.
@@ -18,16 +18,20 @@ This is Acme Corp's update for Feb 2022.  As a reminder, Acme Corp provides widg
 
 ### KPIs
 
-*North star metric*  
-Monthly unique widgetizers: 314,159
 
-MRR: $24,300 (+$2,000 = +12% mom, +8% avg last 3 months)  
-MRR drivers: $1400 new, $900 upsell, -$300 churn  
+##### North star metric 
+**Widgets per gizmo:** 314,159 (+11% mom, =7% avg last 3 months)
 
-Headcount: 4 not including founders  
-Gross burn: $28,000 (+$1,500 = +5% mom, +3% avg l3m)  
-Net burn: $3,700  
+##### Revenue
+**MRR:** $24,300 (+$2,000 = +12% mom, +8% avg l3m)  
+**MRR drivers:** $1400 new, $900 upsell, -$300 churn  
 
+##### Expenses
+**Headcount:** 4 not including founders  
+**Gross burn:** $28,000 (+$1,500 = +5% mom, +3% avg l3m)  
+**Net burn:** $3,700  
+
+##### Runway
 Cash in bank: $50,000  
 Runway assuming constant MRR, constant burn: 13 mos  
 Runway assuming MRR and burn both grow at l3m avg: 21 mos   
