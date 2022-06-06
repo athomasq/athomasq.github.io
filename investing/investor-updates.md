@@ -41,11 +41,11 @@ Runway assuming MRR and burn both grow at l3m avg: 21 mos
 
 ### Business update
 
-Good: We signed a channel partnership with the Sirius Cybernetics Corp.  Hoping to get lots of high-quality leads from this.  The initial economics are merely okay, not great for us, but we're treating this as an experiment to find out if it works, not trying to optimize yet.
+**Good:** We signed a channel partnership with the Sirius Cybernetics Corp.  Hoping to get lots of high-quality leads from this.  The initial economics are merely okay, not great for us, but we're treating this as an experiment to find out if it works, not trying to optimize yet.
 
-Bad: Had to fire 1 of our 3 engineers -- code quality just wasn't good enough.  This puts even more of a load on our remaining 2 engineers, and so dev velocity has slowed.  
+**Bad:** Had to fire 1 of our 3 engineers -- code quality just wasn't good enough.  This puts even more of a load on our remaining 2 engineers, and so dev velocity has slowed.  
 
-What's on my mind: Does it make sense to replace the lost engineer with another engineer?  The product is in a reasonably good place; should we spend the resources on sales and marketing instead?  Or do both?  How does this interact with the current funding and valuation environment?
+**On my mind:** Does it make sense to replace the lost engineer with another engineer?  The product is in a reasonably good place; should we spend the resources on sales and marketing instead?  Or do both?  How does this interact with the current funding and valuation environment?
 
 ### Product update
 
@@ -63,15 +63,16 @@ As always, would appreciate intros to big players in the gizmo industry -- CHOAM
 
 <br/>
 <br/>
+<br/>
 ----
 
 ### More Commentary
 
-* The numbers don't have to be exact to the last dollar, but should be reasonably close.  The key is not to take too much time putting this together -- a 3000 word email that arrives on the 20th of the following month is far less useful to investors, and far more consuming of your time, than a brief summary that arrives on the 1st or 2nd.  
+The numbers don't have to be exact to the last dollar, but should be reasonably close.  The key is not to take too much time putting this together -- a 3000 word email that arrives on the 20th of the following month is far less useful to investors, and far more consuming of your time, than a brief summary that arrives on the 1st or 2nd.  
 
-* In steady state you should be able to produce and send this email in less than 1 hour of your time.  (The ROI of that 1 hour is very high).  Also, ideally these emails end up having 4 different audiences -- current investors, team members, future investors, and yourself.   
+In steady state you should be able to produce and send this email in less than 1 hour of your time.  (The ROI of that 1 hour is very high).  Also, ideally these emails end up having 4 different audiences -- current investors, team members, future investors, and yourself.   
 
-* Good investor updates accomplish two things: they are a management tool for your own benefit, and they help establish your credibility with investors.
+Good investor updates accomplish two things: they are a management tool for your own benefit, and they help establish your credibility with investors.
 
 Investor updates are an excellent management tool.  The exercise of writing a *good* update every month forces you to understand your business really well.  You'll need to identify, track and report your key metrics, and also what's driving them.  Following this over time gives you perspective and also helps with priorities -- what's important, what's just noise, what's working / not working, etc etc.
 
@@ -83,11 +84,11 @@ I get it; some amount of pitching is natural and maybe even necessary.  Even wit
 
 My favourite investor update in recent times began like this:
 
-"Well, August was a pretty crap month.  We tried this, this and this, and none of it worked.  Other stuff is taking too long.  I have some ideas here and here."
+*"Well, August was a pretty crap month.  We tried this, this and this, and none of it worked.  Other stuff is taking too long.  I have some ideas here and here."*
 
 That kind of honesty builds a lot of trust.
 
-* Quandl did not send out regular investor updates until after our Series A.  This is one of my greatest regrets as a founder -- a huge missed opportunity.  I advise you not to make the same mistake.
+Quandl did not send out regular investor updates until after our Series A.  This is one of my greatest regrets as a founder -- a huge missed opportunity.  I advise you not to make the same mistake.
 
 
 <br/>
