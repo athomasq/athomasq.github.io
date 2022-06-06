@@ -30,8 +30,8 @@ Widgets per gizmo (north star):** 314,159
 **Net burn:** $3,700  
 
 **Cash in bank:** $50,000  
-**Runway-baseline:** assuming constant MRR, constant burn: 13 mos  
-**Runway-projected:** assuming MRR and burn both grow at l3m avg:** 21 mos   
+**Runway-baseline:** assuming constant MRR, constant burn: 13m  
+**Runway-projected:** assuming MRR and burn both grow at l3m avg: 21m   
 
 <br/>
 
