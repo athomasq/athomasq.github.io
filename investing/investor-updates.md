@@ -40,7 +40,7 @@ Widgets per gizmo (north star):** 314,159
 
 **Good:** We signed a channel partnership with the Sirius Cybernetics Corp.  Hoping to get lots of high-quality leads from this.  The initial economics are merely okay, not great for us, but we're treating this as an experiment to find out if it works, not trying to optimize yet.
 
-**Bad:** Had to fire 1 of our 3 engineers -- code quality just wasn't good enough.  This puts even more of a load on our remaining 2 engineers, and so dev velocity has slowed.  
+**Bad:** Had to fire 1 of our 3 engineers -- code quality just wasn't good enough.  This puts even more of a load on our remaining 2 engineers, and so dev velocity has slowed.  Also trying to figure out how to avoid such hiring mistakes going forward.
 
 **On my mind:** Does it make sense to replace the lost engineer with another engineer?  The product is in a reasonably good place; should we spend the resources on sales and marketing instead?  Or do both?  How does this interact with the current funding and valuation environment?
 
