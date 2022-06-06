@@ -30,10 +30,10 @@ This is Acme Corp's update for Feb 2022.  As a reminder, Acme Corp provides widg
 **Net burn:** $3,700  
 
 **Cash in bank:** $50,000  
-**Runway assuming constant MRR, constant burn:** 13 mos  
-**Runway assuming MRR and burn both grow at l3m avg:** 21 mos   
+**Runway-baseline:** assuming constant MRR, constant burn: 13 mos  
+**Runway-projected:** assuming MRR and burn both grow at l3m avg:** 21 mos   
 
-
+<br/>
 
 ### Business update
 
@@ -43,13 +43,19 @@ This is Acme Corp's update for Feb 2022.  As a reminder, Acme Corp provides widg
 
 **On my mind:** Does it make sense to replace the lost engineer with another engineer?  The product is in a reasonably good place; should we spend the resources on sales and marketing instead?  Or do both?  How does this interact with the current funding and valuation environment?
 
+<br/>
+
 ### Product update
 
 Despite the loss of an engineer, the product feels like it's finally getting there.  Still some bugs and debt to iron out, so we're going to spend some cycles on that instead of new features.
 
+<br/>
+
 ### Team update
 
-See above re engg.  The good news is that the remaining team is really good -- motivated, productive, happy.  Thinking about what our next 3 hires should be, amnd when.
+See above re engg.  The good news is that the remaining team is really good -- motivated, productive, happy.  Thinking about what our next 3 hires should be, and when.
+
+<br/>
 
 ### Asks
 
@@ -57,6 +63,7 @@ Currently planning to begin our Series A process in 9 months.  What do I need to
 
 As always, would appreciate intros to big players in the gizmo industry -- CHOAM Corp, Weyland-Yutani, Tessier-Ashpool etc.
 
+<br/>
 <br/>
 <br/>
 <br/>
