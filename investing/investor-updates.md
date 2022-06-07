@@ -90,7 +90,7 @@ This is Acme Corp's update for Feb 2022.  As a reminder, Acme Corp provides widg
 
 **Good:** We signed a channel partnership with the Sirius Cybernetics Corp.  Hoping to get lots of high-quality leads from this.  The initial economics are merely okay, not great for us, but we're treating this as an experiment to find out if it works, not trying to optimize yet.
 
-**Bad:** Tessier-Ashpool decided not to purchase.  This was a large opportunity ($80k) and we spent a lot of time on it.  They say they like the product and we were their first choice, but they're under a company-wide freeze on new software contracts.  Will check in quarterly and actively reopen in Q1 2023.
+**Bad:** Tessier-Ashpool decided not to purchase.  This was a large opportunity ($80k) and we spent a lot of time on it.  They say they like the product and we were their first choice, but they're under a company-wide freeze on new software contracts.  Will check in quarterly and try to reopen in Q1 2023.
 
 **On my mind:** How can we shorten our sales cycle?  
 
@@ -102,7 +102,7 @@ This is Acme Corp's update for Feb 2022.  As a reminder, Acme Corp provides widg
 *Up to you which of these sections you want to include -- you may not need to include all of them every single month.  Some of the topics you could consider including in each of these sections:*
 
 *Product: gaps, roadmap, customer feedback, competition, pricing*  
-*Team: hires, fires, gaps, productivity, org structure*  
+*Team: hires, fires, gaps, productivity, org structure, culture*  
 *Finances: runway, fund-raising, deeper dive on metrics*  
 
 *As always, be candid about both wins and challenges.  Here's an example of a team update:*  
@@ -125,13 +125,9 @@ Right now I'm the only person closing sales, and I will run out of bandwidth by 
 
 
 <br/>
-<br/>
 
-=======
+----
 
-
-
-<br/>
 <br/>
 
 
@@ -140,7 +136,7 @@ Right now I'm the only person closing sales, and I will run out of bandwidth by 
 
 I sometimes see founders send "marketing updates" -- aimed at their customers -- to their investors.  Don't make this mistake; these are two completely different things.  
 
-Some founders are hesitant to include revenue and other KPIs in their updates.  Personally, I find that an update without revenue, growth, burn and cash rates is of very limited utility -- it doesn't help me understand the "health" of the business (default dead, default alive, performing brilliantly, at death's door) and without that understanding, it's hard to offer good, calibrated advice.  So I do advise including them.  But if it makes you feel better, put a disclaimer saying "confidential, please do not share".  
+Some founders are hesitant to include revenue and other KPIs in their updates.  Personally, I find that an update without revenue, growth, burn and cash rates is of very limited utility -- it doesn't help me understand the "health" of the business (performing brilliantly, at death's door) and without that understanding, it's hard to offer good, calibrated advice.  So I do advise including them.  But if it makes you feel better, put a disclaimer saying "confidential, please do not share".  
 
 (Ultimately, it comes down to how much you trust your investors.)
 
@@ -156,3 +152,8 @@ Don't overthink it.  Just add a line at the beginning saying: "Although we haven
 #### Are there any exceptions to the above guidelines?
 
 These guidelines are for pre-seed and seed stage companies.  Once you've raised a Series A and have a formal board, all of this becomes obsolete. (But many of the habits you develope via these updates will serve you in good stead at that time).
+
+<br/>
+<br/>
+<br/>
+<br/>
