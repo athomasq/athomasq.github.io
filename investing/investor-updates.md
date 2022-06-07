@@ -7,7 +7,7 @@ title: Investor Updates
 
 ----
 
-*Quandl did not send out regular investor updates until after our Series A.  This is one of my greatest regrets as a founder -- a huge missed opportunity.  I advise you not to make the same mistake.*
+*Quandl did not send out regular investor updates until after our Series A.  This was a missed opportunity for us; I advise you not to make the same mistake.*
 
 ----
 
@@ -96,9 +96,7 @@ We had a good month on revenue and usage, but lost one big pipeline prospect.  T
 
 **On my mind:** How can we shorten our sales cycle?  
 
-
 *This is also where you talk about market conditions, business strategy, and other "big picture" stuff.*  
-
 
 <br/>
 
@@ -115,14 +113,16 @@ We had a good month on revenue and usage, but lost one big pipeline prospect.  T
 
 Had to fire 1 of our 3 engineers – code quality just wasn’t good enough.  This puts even more of a load on our remaining 2 engineers, and so dev velocity has slowed. 
 
-On my mind: Does it make sense to replace the lost engineer with another engineer?  The product is in a reasonably good place; should we spend the resources on sales and marketing instead?  Or do both?  How does this interact with the current funding and valuation environment?  
+On my mind: Does it make sense to replace the fired engineer with another engineer?  The product is in a reasonably good place; should we spend the resources on sales and marketing instead?  Or do both?  How does this interact with the current funding and valuation environment?  
+
+Also: the fired engineer passed all our technical interviews and evaluations, but couldn't deliver in the real world.  What can we do to avoid this happening in the future?  Would love feedback from anyone who has scaled high-performance engineering teams. 
 
 
 #### Asks
 
 *This is where you ask for help -- tactical or strategic advice, introductions, feedback, you name it.  I personally welcome lots of asks, the more the merrier, but I've seen some other investors advise putting just your 2-3 highest priority requests; I leave that to you.  Here are some example asks:*
 
-Currently planning to begin our Series A process in 9 months.  What do I need to do today to prepare?  Do you have any metrics on benchmarks, valuations etc?
+Currently planning to begin our Series A process in 9 months.  What do I need to do today to prepare?  
 
 Right now I'm the only person closing sales, and I will run out of bandwidth by Q3.  So I need to bolster the team.  What profile do you think would be ideal for us as the first sales hire -- senior AE, junior BD or SDR, CS rep, something else? -- and how should we go about finding such a person?
 
