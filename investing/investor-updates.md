@@ -130,9 +130,12 @@ Right now I'm the only person closing sales, and I will run out of bandwidth by 
 
 #### Optional Sections
 
-education
-awards, news, social proof
-social share
+*Here are some sections you can occasionally include.  But don't feel obliged to include all of this every month -- that just creates extra work for you.*  
+
+*Education: useful articles about the space you're in, to educate your investors (a constant process!)*  
+*Company news: awards, news articles, any other social proof*  
+*Shareable content: eg blog posts or other thought leadership by your team*  
+
 
 <br/>
 
