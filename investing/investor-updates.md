@@ -53,8 +53,6 @@ You should include your KPIs, a summary of the business, and your asks.  Here's 
 
 This is Acme Corp's update for Feb 2022.  As a reminder, Acme Corp provides widgets-as-a-service to the gizmo industry.
 
-<br/>
-
 #### KPIs
 
 **Widgets per gizmo (north star):** 314,159  
@@ -72,7 +70,6 @@ This is Acme Corp's update for Feb 2022.  As a reminder, Acme Corp provides widg
 **Runway-projected:** (assuming MRR and burn both grow at l3m avg) 34m   
 
 
-
 *Comments on KPIs:*
 
 *As you can see from the template, I like to report 4 sets of metrics: north star, revenue, expenses, and metrics.  The numbers don't have to be exact to the last dollar, but should be reasonably close.*  
@@ -81,7 +78,6 @@ This is Acme Corp's update for Feb 2022.  As a reminder, Acme Corp provides widg
 
 *As far as possible, avoid cumulative numbers, they're just less informative.*  
 
-<br/>
 <br/>
 
 #### Business Update
@@ -107,15 +103,12 @@ This is Acme Corp's update for Feb 2022.  As a reminder, Acme Corp provides widg
 
 *As always, be candid about both wins and challenges.  Here's an example of a team update:*  
 
-
-#### Team Update
-
 Had to fire 1 of our 3 engineers – code quality just wasn’t good enough.  This puts even more of a load on our remaining 2 engineers, and so dev velocity has slowed. 
 
 On my mind: Does it make sense to replace the lost engineer with another engineer?  The product is in a reasonably good place; should we spend the resources on sales and marketing instead?  Or do both?  How does this interact with the current funding and valuation environment?  
 
 
-### Asks
+#### Asks
 
 *This is where you ask for help -- tactical or strategic advice, introductions, feedback, you name it.  I personally welcome lots of asks, the more the merrier, but I've seen some other investors advise putting just your 2-3 highest priority requests; I leave that to you.  Here are some example asks:*
 
@@ -151,7 +144,7 @@ Don't overthink it.  Just add a line at the beginning saying: "Although we haven
 
 #### Are there any exceptions to the above guidelines?
 
-These guidelines are for pre-seed and seed stage companies.  Once you've raised a Series A and have a formal board, all of this becomes obsolete. (But many of the habits you develope via these updates will serve you in good stead at that time).
+These guidelines are for pre-seed and seed stage companies.  Once you've raised a Series A and have a formal board, all of this becomes obsolete. (But many of the habits you develop via these updates will serve you in good stead at that time).
 
 <br/>
 <br/>
