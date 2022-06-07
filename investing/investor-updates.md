@@ -51,7 +51,13 @@ You should include your KPIs, a summary of the business, and your asks.  Here's 
 
 ----
 
+#### TLDR
+
 This is Acme Corp's update for Feb 2022.  As a reminder, Acme Corp provides widgets-as-a-service to the gizmo industry.
+
+We had a good month on revenue and usage, but lost one big pipeline prospect.  The product feels more mature and I'm looking ahead to the next set of hires + our series A process in Q4 of thie year.
+
+*Comment: This is the exec summary.  Keep it short and sweet.  The investor should, at a glance, be reminded of who you are, and be able to tell if the business is green, amber or red.*  
 
 #### KPIs
 
@@ -120,6 +126,13 @@ Currently planning to begin our Series A process in 9 months.  What do I need to
 
 Right now I'm the only person closing sales, and I will run out of bandwidth by Q3.  So I need to bolster the team.  What profile do you think would be ideal for us as the first sales hire -- senior AE, junior BD or SDR, CS rep, something else? -- and how should we go about finding such a person?
 
+
+
+#### Optional Sections
+
+education
+awards, news, social proof
+social share
 
 <br/>
 
