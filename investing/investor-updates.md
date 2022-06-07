@@ -39,7 +39,7 @@ I get it; some amount of pitching is natural and maybe even necessary.  Even wit
 
 The other reason to be candid is simply this: investors want to help.  They can't help if they're not informed.  If you have to brief them from scratch every time you ask for something, it's ineffecient and leads to low-quality help.  It also precludes "serendipitous" help -- eg. an investor reads your update, and although there's no explicit ask, they reach out because something in there sparks some thoughts that might be relevant.  
 
-My favourite founder update in recent times began like this: *"Well, [REDACTED] was a pretty crap month."*  That kind of honesty builds a lot of trust.  (This same founder emailed investors recently to raise a small bridge round, and closed it in less than an hour!)
+My favourite founder update in recent times began like this: *"Well, [REDACTED] was a pretty crap month."*  That kind of honesty builds a lot of trust.  
 
 
 #### What should I include in an investor update?
@@ -91,15 +91,19 @@ This is Acme Corp's update for Feb 2022.  As a reminder, Acme Corp provides widg
 **On my mind:** How can we shorten our sales cycle?  
 
 
+*This is also where you talk about market conditions, business strategy, and other "big picture" stuff.*  
+
+
 <br/>
 
-#### Product Update / Team Update / Finances Update
+#### Product Update / Team Update / Finances Update / Market Update
 
 *Up to you which of these sections you want to include -- you may not need to include all of them every single month.  Some of the topics you could consider including in each of these sections:*
 
-*Product: gaps, roadmap, customer feedback, competition, pricing*  
+*Product: gaps, roadmap, customer feedback, pricing*  
 *Team: hires, fires, gaps, productivity, org structure, culture*  
 *Finances: runway, fund-raising, deeper dive on metrics*  
+*Market: competition, ecosystem, macro trends, moats and strategy*  
 
 *As always, be candid about both wins and challenges.  Here's an example of a team update:*  
 
