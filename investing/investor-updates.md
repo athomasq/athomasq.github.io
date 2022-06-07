@@ -7,14 +7,17 @@ title: Investor Updates
 
 ----
 
-Quandl did not send out regular investor updates until after our Series A.  This is one of my greatest regrets as a founder -- a huge missed opportunity.  I advise you not to make the same mistake.
+*Quandl did not send out regular investor updates until after our Series A.  This is one of my greatest regrets as a founder -- a huge missed opportunity.  I advise you not to make the same mistake.*
 
+----
+
+<br/>
 
 #### Why should I send investor updates?
 
 Good investor updates accomplish two things: they are a management tool for your own benefit, and they help establish your credibility with investors.
 
-Investor updates are an excellent management tool.  The exercise of writing a *good* update every month forces you to understand your business really well.  You'll be forced to identify, track and report your key metrics, and also what's driving them.  Following this over time gives you perspective and also helps with priorities -- what's important, what's just noise, what's working, what's not, etc etc.  Re-reading old investor updates is a good way to recognize and celebrate your own progress, and also recognize persistent challenges (which you can then fix.)
+The exercise of writing a *good* update every month forces you to understand your business really well.  You'll be forced to identify, track and report your key metrics, and also what's driving them.  Following this over time gives you perspective and also helps with priorities -- what's important, what's just noise, what's working, what's not, etc etc.  Re-reading old investor updates is a good way to recognize and celebrate your own progress, and also recognize persistent challenges (which you can then fix.)
 
 (Note that a *bad* update does not accomplish any of these things.  If you find that you're not getting value out of the process of writing your updates, it's probably a sign that your update game needs work.)
 
@@ -69,17 +72,14 @@ This is Acme Corp's update for Feb 2022.  As a reminder, Acme Corp provides widg
 **Runway-projected:** (assuming MRR and burn both grow at l3m avg) 34m   
 
 
-<i>
-Comments on KPIs:
 
-As you can see from the template, I like to report 4 sets of metrics: north star, revenue, expenses, and metrics.  The numbers don't have to be exact to the last dollar, but should be reasonably close.  
+*Comments on KPIs:*
 
-If you have recurring revenue -- and most of you do -- please report MRR. If you have annual contracts, report them as ARR/12.  Don't include services revenue or non-recurring revenue; report them separately. If you're a marketplace, report GMV and net revenue instead.
+*As you can see from the template, I like to report 4 sets of metrics: north star, revenue, expenses, and metrics.  The numbers don't have to be exact to the last dollar, but should be reasonably close.*  
 
-Runway is important; I like to calculate "baseline" runway assuming nothing changes, and "projected" runway assuming revenue and burn grow at steady rates. 
+*If you have recurring revenue -- and most of you do -- please report MRR. If you have annual contracts, report them as ARR/12.  Don't include services revenue or non-recurring revenue; report them separately. If you're a marketplace, report GMV and net revenue instead.*
 
-As far as possible, avoid cumulative numbers, they're just less informative.  
-</i>
+*As far as possible, avoid cumulative numbers, they're just less informative.*  
 
 <br/>
 <br/>
@@ -88,27 +88,24 @@ As far as possible, avoid cumulative numbers, they're just less informative.
 
 *This is the section where you talk about the health of the business as a whole.  For the most part, this comes down to customer traction -- sales, pipeline, feedback etc.  I like breaking this down into "good", "bad" and "on my mind", like this:*
 
-
 **Good:** We signed a channel partnership with the Sirius Cybernetics Corp.  Hoping to get lots of high-quality leads from this.  The initial economics are merely okay, not great for us, but we're treating this as an experiment to find out if it works, not trying to optimize yet.
 
 **Bad:** Tessier-Ashpool decided not to purchase.  This was a large opportunity ($80k) and we spent a lot of time on it.  They say they like the product and we were their first choice, but they're under a company-wide freeze on new software contracts.  Will check in quarterly and actively reopen in Q1 2023.
 
-**On my mind:** How can we shorten our sales cycle?  Stop free trials?  Create a "lite" version of the product to get customers using it?  
+**On my mind:** How can we shorten our sales cycle?  
 
 
 <br/>
 
 #### Product Update / Team Update / Finances Update
 
-<i>
-Up to you which of these sections you want to include -- you may not need to include all of them every single month.  Some of the topics you could consider including in each of these sections:
+*Up to you which of these sections you want to include -- you may not need to include all of them every single month.  Some of the topics you could consider including in each of these sections:*
 
-Product: gaps, roadmap, customer feedback, competition, pricing  
-Team: hires, fires, gaps, productivity, org structure  
-Finances: runway, fund-raising, deeper dive on metrics  
+*Product: gaps, roadmap, customer feedback, competition, pricing*  
+*Team: hires, fires, gaps, productivity, org structure*  
+*Finances: runway, fund-raising, deeper dive on metrics*  
 
-As always, be candid about both wins and challenges.  Here's an exmaple of a team update:
-</i>
+*As always, be candid about both wins and challenges.  Here's an example of a team update:*  
 
 
 #### Team Update
@@ -126,18 +123,36 @@ Currently planning to begin our Series A process in 9 months.  What do I need to
 
 Right now I'm the only person closing sales, and I will run out of bandwidth by Q3.  So I need to bolster the team.  What profile do you think would be ideal for us as the first sales hire -- senior AE, junior BD or SDR, CS rep, something else? -- and how should we go about finding such a person?
 
-As always, would appreciate intros to big players in the gizmo industry -- CHOAM Corp, Weyland-Yutani, Cyberdyne etc.
+
+<br/>
+<br/>
+
+=======
+
 
 
 <br/>
 <br/>
 
-----
 
 
+#### What should I NOT include in an investor update?
 
-<br/>
-<br/>
+I sometimes see founders send "marketing updates" -- aimed at their customers -- to their investors.  Don't make this mistake; these are two completely different things.  
+
+Some founders are hesitant to include revenue and other KPIs in their updates.  Personally, I find that an update without revenue, growth, burn and cash rates is of very limited utility -- it doesn't help me understand the "health" of the business (default dead, default alive, performing brilliantly, at death's door) and without that understanding, it's hard to offer good, calibrated advice.  So I do advise including them.  But if it makes you feel better, put a disclaimer saying "confidential, please do not share".  
+
+(Ultimately, it comes down to how much you trust your investors.)
+
+I wouldn't include any valuation numbers or fund-raising target numbers in an investor update -- remember, your future investors may (and often do) ask for all your letters as part of their diligence, so be thoughtful about that.
+
+Also don't include anything that is truly secret sauce.  Most investors won't understand or care. 
 
 
+#### I've never sent updates in the past, and feel awkward about starting now.  What should I do?
 
+Don't overthink it.  Just add a line at the beginning saying: "Although we haven't done so in the past, we'll be sending regular monthly updates from now on.  Here's the first one."  And don't feel obliged to fill in your investors on the last 6 or 12 or 18 months of progress.
+
+#### Are there any exceptions to the above guidelines?
+
+These guidelines are for pre-seed and seed stage companies.  Once you've raised a Series A and have a formal board, all of this becomes obsolete. (But many of the habits you develope via these updates will serve you in good stead at that time).
