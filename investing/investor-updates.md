@@ -86,13 +86,19 @@ We had a good month on revenue and usage, but lost one big pipeline prospect.  T
 
 #### Business Update
 
-*This is the section where you talk about the health of the business as a whole.  For the most part, this comes down to customer traction -- sales, pipeline, feedback etc.  I like breaking this down into "good", "bad" and "on my mind", like this:*
+*This is the section where you talk about the health of the business as a whole.  For the most part, this comes down to customer traction -- sales, pipeline, feedback etc.  One approach is to break this down into "good", "bad" and "on my mind", like this:*
 
 **Good:** We signed a channel partnership with the Sirius Cybernetics Corp.  Hoping to get lots of high-quality leads from this.  The initial economics are merely okay, not great for us, but we're treating this as an experiment to find out if it works, not trying to optimize yet.
 
 **Bad:** Tessier-Ashpool decided not to purchase.  This was a large opportunity ($80k) and we spent a lot of time on it.  They say they like the product and we were their first choice, but they're under a company-wide freeze on new software contracts.  Will check in quarterly and try to reopen in Q1 2023.
 
-**On my mind:** How can we shorten our sales cycle?  
+**On my mind:** How can we shorten our sales cycle? 
+
+*Another way to organize this section is by topic: "sales", "strategy" etc., like this:*
+
+**Sales**: We closed two new mid-market deals for 2k and have another 5k in qualified leads.  Going to conferences is working well as an acquisition strategy.  Still trying to figure out how to shorten our sales cycle.  On the flip side, we lost one big prospect due to budget constraints at their end.
+
+**Strategy**: Customer feedback is that they find it hard to widgetize their gizmos.  So we're experimenting with a two-step gtm motion: self-serve PLG for the gizmos, and then a more sales-driven, hand-holding approach for the widgetizing.  One macro challenge here is the global widget chain situation; a micro challenge is that gizmos are somewhat unfashionable at the moment.  
 
 *This is also where you talk about market conditions, business strategy, and other "big picture" stuff.  This should be the section you spend the most time writing.*  
 
@@ -153,10 +159,11 @@ I wouldn't include any valuation numbers or fund-raising target numbers in an in
 
 Also don't include anything that is truly secret sauce.  Most investors won't understand or care. 
 
+Finally: don't waste your precious word count on small talk.  
 
 #### I've never sent updates in the past, and feel awkward about starting now.  What should I do?
 
-Don't overthink it.  Just add a line at the beginning saying: "Although we haven't done so in the past, we'll be sending regular monthly updates from now on.  Here's the first one."  And don't feel obliged to fill in your investors on the last 6 or 12 or 18 months of progress.
+Don't overthink it.  Just add a line at the beginning saying: "Although we haven't done so in the past, we'll be sending regular monthly updates from now on.  Here's the first one."  And don't feel obliged to constantly fill in your investors on the last 6 or 12 or 18 months of progress.  Monthly updates should reflect monthly events.  (Maybe the very first update, you can have a section called "highlights of the last year", but that's about it.)
 
 #### Are there any exceptions to the above guidelines?
 
