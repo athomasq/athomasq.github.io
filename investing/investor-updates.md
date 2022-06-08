@@ -55,7 +55,7 @@ You should include your KPIs, a summary of the business, and your asks.  Here's 
 
 This is Acme Corp's update for Feb 2022.  As a reminder, Acme Corp provides widgets-as-a-service to the gizmo industry.
 
-We had a good month on revenue and usage, but lost one big pipeline prospect.  The product feels more mature and I'm looking ahead to the next set of hires + our series A process in Q4 of thie year.
+We had a good month on revenue and usage, but lost one big pipeline prospect.  The product feels more mature and I'm now thinking about our next set of hires and our series A process in Q4 of thie year.
 
 *Comment: This is the exec summary.  Keep it short and sweet.  The investor should, at a glance, be reminded of who you are, and be able to tell if the business is green, amber or red.*  
 
@@ -78,13 +78,11 @@ We had a good month on revenue and usage, but lost one big pipeline prospect.  T
 
 *Comments on KPIs:*
 
-*As you can see from the template, I like to report 4 sets of metrics: north star, revenue, expenses, and metrics.  The numbers don't have to be exact to the last dollar, but should be reasonably close.*  
+*As you can see from the template, I like to report 4 sets of metrics: north star, revenue, expenses, and runway.  The numbers don't have to be exact to the last dollar, but should be reasonably close.*  
 
 *If you have recurring revenue -- and most of you do -- please report MRR. If you have annual contracts, report them as ARR/12.  Don't include services revenue or non-recurring revenue; report them separately. If you're a marketplace, report GMV and net revenue instead.*
 
 *As far as possible, avoid cumulative numbers, they're just less informative.*  
-
-<br/>
 
 #### Business Update
 
@@ -96,9 +94,7 @@ We had a good month on revenue and usage, but lost one big pipeline prospect.  T
 
 **On my mind:** How can we shorten our sales cycle?  
 
-*This is also where you talk about market conditions, business strategy, and other "big picture" stuff.*  
-
-<br/>
+*This is also where you talk about market conditions, business strategy, and other "big picture" stuff.  This should be the section you spend the most time writing.*  
 
 #### Product Update / Team Update / Finances Update / Market Update
 
@@ -124,7 +120,7 @@ Also: the fired engineer passed all our technical interviews and evaluations, bu
 
 Currently planning to begin our Series A process in 9 months.  What do I need to do today to prepare?  
 
-Right now I'm the only person closing sales, and I will run out of bandwidth by Q3.  So I need to bolster the team.  What profile do you think would be ideal for us as the first sales hire -- senior AE, junior BD or SDR, CS rep, something else? -- and how should we go about finding such a person?
+Right now I'm the only person closing sales, and I will run out of bandwidth by Q3.  So I need to bolster the team.  What profile do you think would be ideal for us as the first sales hire -- Director or VP of Sales, senior AE, junior BD or SDR, CS rep, something else? -- and how should we go about finding such a person?
 
 
 
@@ -149,7 +145,7 @@ Right now I'm the only person closing sales, and I will run out of bandwidth by 
 
 I sometimes see founders send "marketing updates" -- aimed at their customers -- to their investors.  Don't make this mistake; these are two completely different things.  
 
-Some founders are hesitant to include revenue and other KPIs in their updates.  Personally, I find that an update without revenue, growth, burn and cash rates is of very limited utility -- it doesn't help me understand the "health" of the business (performing brilliantly, at death's door) and without that understanding, it's hard to offer good, calibrated advice.  So I do advise including them.  But if it makes you feel better, put a disclaimer saying "confidential, please do not share".  
+Some founders are hesitant to include revenue and other KPIs in their updates.  Personally, I find that an update without revenue, growth, burn and cash rates is of very limited utility -- it doesn't help me understand the "health" of the business (default alive, default dead, performing brilliantly, at death's door) and without that understanding, it's hard to offer good, calibrated advice.  So I do advise including them.  But if it makes you feel better, put a disclaimer saying "confidential, please do not share".  
 
 (Ultimately, it comes down to how much you trust your investors.)
 
@@ -164,7 +160,7 @@ Don't overthink it.  Just add a line at the beginning saying: "Although we haven
 
 #### Are there any exceptions to the above guidelines?
 
-These guidelines are for pre-seed and seed stage companies.  Once you've raised a Series A and have a formal board, all of this becomes obsolete. (But many of the habits you develop via these updates will serve you in good stead at that time).
+These guidelines are for pre-seed and seed stage companies.  Once you've raised a Series A and have a formal board, all of this becomes obsolete and will be replaced by whatever communication cadence you agree upon with your new investors.  (But many of the habits you develop via these updates will serve you in good stead at that time).
 
 <br/>
 <br/>
