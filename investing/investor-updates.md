@@ -164,7 +164,7 @@ Finally: don't waste your precious word count on small talk.
 
 #### I've never sent updates in the past, and feel awkward about starting now.  What should I do?
 
-Don't overthink it.  Just add a line at the beginning saying: "Although we haven't done so in the past, we'll be sending regular monthly updates from now on.  Here's the first one."  And don't feel obliged to constantly fill in your investors on the last 6 or 12 or 18 months of progress.  Monthly updates should reflect monthly events.  (Maybe the very first update, you can have a section called "highlights of the last year", but that's about it.)
+Don't overthink it.  Just add a line at the beginning saying: "Although we haven't done so in the past, we'll be sending regular monthly updates from now on.  Here's the first one."  And don't feel obliged to constantly fill in your investors on the last 6 or 12 or 18 months of progress.  Monthly updates should reflect monthly events.  (Maybe in the very first update, you can have a section called "highlights of the last year", but that's about it.)
 
 #### Are there any exceptions to the above guidelines?
 
