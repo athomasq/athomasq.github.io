@@ -17,16 +17,16 @@ title: Investor Updates
 
 Good investor updates accomplish two things: they are a management tool for your own benefit, and they help establish your credibility with investors.
 
-The exercise of writing a *good* update every month forces you to understand your business really well.  You'll be forced to identify, track and report your key metrics, and also what's driving them.  Following this over time gives you perspective and also helps with priorities -- what's important, what's just noise, what's working, what's not, etc etc.  Re-reading old investor updates is a good way to recognize and celebrate your own progress, and also recognize persistent challenges (which you can then fix.)
+The exercise of writing a *good* update every month forces you to understand your business really well.  You'll be forced to identify, track and report your key metrics, and also what's driving them.  Following this over time gives you perspective and also helps with priorities -- what's important, what's just noise, what's working, what's not, etc etc.  
 
 (Note that a *bad* update does not accomplish any of these things.  If you find that you're not getting value out of the process of writing your updates, it's probably a sign that your update game needs work.)
 
-Investor updates are also important to establish your credibility with investors.  Now, it's possible that some of your investors are "passive capital" -- they've written a cheque, and that's that -- you don't expect them to help much in the future.  But ideally at least some and hopefully all of your investors are people who can help you at some point -- with strategic or tactical advice, or with intros to follow-on investors, or with further investment themselves.  So it's worth spending some effort to keep them in the loop and happy and excited about your company's progress.  And also be transparent about challenges -- nothing establishes trust like transparency.
+Investor updates are also important to establish your credibility with investors.  Now, it's possible that some of your investors are "passive capital" -- they've written a cheque, and that's that -- you don't expect them to help much in the future.  But ideally at least some and hopefully all of your investors are people who can help you at some point -- with strategic or tactical advice, or with intros to follow-on investors, or with further investment themselves.  So it's worth spending some effort to keep them in the loop and happy and excited about your company's progress.  
 
 
 #### How often should I send out investor updates?
 
-I recommend sending out investor updates once a month, shortly after the beginning of the month.  Quarterly is too infrequent (things change faster than that) and weekly is too frequent (too much of a burden on founders, and you miss the forest for the trees).
+I recommend sending out investor updates once a month, shortly after the beginning of the month.  Quarterly is too infrequent (startups change faster than that) and weekly is too frequent (too much of a burden on founders, and you miss the forest for the trees).
 
 The key is to not take too much time writing your updates.  A 3000-word email that arrives on the 20th of the month is not as useful (for either investors or founders) as a brief summary that arrives on the 1st or 5th.  In steady state you should be able to produce and send this email in less than 1 hour of your time.  (The ROI of that 1 hour is very high). 
 
@@ -37,9 +37,9 @@ The single most common mistake I see is that founders treat their investor updat
 
 I get it; some amount of pitching is natural and maybe even necessary.  Even with investors, you still want to put your best foot forward.  But if your updates are full of irrelevant verbiage while skirting around actual issues, your investors *will* recognize it, and more likely than not, write you off as a founder in denial.  
 
-The other reason to be candid is simply this: investors want to help.  They can't help if they're not informed.  If you have to brief them from scratch every time you ask for something, it's ineffecient and leads to low-quality help.  It also precludes "serendipitous" help -- eg. an investor reads your update, and although there's no explicit ask, they reach out because something in there sparks some thoughts that might be relevant.  
+The other reason to be candid is simply this: investors want to help --  and they can't help if they're not informed.  If you have to brief them from scratch every time you ask for something, it's ineffecient and leads to low-quality input.  It also precludes "serendipitous" help -- eg. an investor reads your update, and although there's no explicit ask, they reach out because something in there sparks some thoughts that might be relevant.  
 
-My favourite founder update in recent times began like this: *"Well, [REDACTED] was a pretty crap month."*  That kind of honesty builds a lot of trust.  
+My favourite founder update in recent times began like this: *"Well, that was a pretty crap month."*  That kind of transparency builds a lot of trust.  
 
 
 #### What should I include in an investor update?
@@ -78,7 +78,7 @@ We had a good month on revenue and usage, but lost one big pipeline prospect.  T
 
 *Comments on KPIs:*
 
-*As you can see from the template, I like to report 4 sets of metrics: north star, revenue, expenses, and runway.  The numbers don't have to be exact to the last dollar, but should be reasonably close.*  
+*As you can see from the template, I like to report 4 "groups" of metrics: business north star, revenue, expenses, and runway.  For each metric, I also like having their mom, l3m and yoy growth rate: they're important to establish trajectory.  The numbers don't have to be exact to the last dollar, but should be reasonably close.*  
 
 *If you have recurring revenue -- and most of you do -- please report MRR. If you have annual contracts, report them as ARR/12.  Don't include services revenue or non-recurring revenue; report them separately. If you're a marketplace, report GMV and net revenue instead.*
 
@@ -107,8 +107,9 @@ We had a good month on revenue and usage, but lost one big pipeline prospect.  T
 *Up to you which of these sections you want to include -- you may not need to include all of them every single month.  Some of the topics you could consider including in each of these sections:*
 
 *Product: gaps, roadmap, customer feedback, pricing*  
-*Team: hires, fires, gaps, productivity, org structure, culture*  
-*Finances: runway, fund-raising, deeper dive on metrics*  
+*Team: hires, fires, gaps, productivity, org structure, culture challenges*  
+*Sales & Marketing: campaigns, tactics, gtm motion, funnel metrics, efficiency*  
+*Finances: runway, fund-raising, unit economics, deeper dive on metrics*  
 *Market: competition, ecosystem, macro trends, moats and strategy*  
 
 *As always, be candid about both wins and challenges.  Here's an example of a team update:*  
