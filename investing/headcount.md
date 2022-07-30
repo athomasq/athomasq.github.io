@@ -15,17 +15,17 @@ title: On Hiring
 
 ## Hiring slows you down
 
-Let's start with a truism: one the key advantages that startups have is that they can move faster than large, established companies.  *It follows logically* that at some point, hiring more people actually slows you down.
+One of the key advantages that startups have is that they can move faster than large, established companies.  *It follows logically* that at some point, hiring more people actually slows you down.
 
-This is counter-intuitive.  Most founders understand that the *marginal* productivity of new hires diminishes over time -- your 30th team member is not likely to be as additive as your 3rd.  But they still probably believe that the marginal contribution is positive.  It's not.  
+This is counter-intuitive.  Most founders understand that the *marginal* productivity of new hires diminishes over time -- your 300th team member is not likely to be as additive as your 3rd.  But they still probably believe that the marginal contribution is positive.  It's not.  
 
 In my experience, the first break point happens around 12 people.  Why 12?  Well, the modal startup has 2 founders.  It's hard to have more than 5-6 direct reports, so once you get to around 12 people, you need to have non-founder leaders.  This instantly introduces a *huge* amount of friction.  
 
 You can no longer take whole-team alignment for granted.  Every piece of communication is now a game of telephone.  You have to worry about politics and perception, reporting lines and boundaries.  People start advocating for process and discipline over ad hoc problem solving.  
 
-To be clear: these are all excellent things.  You absolutely need non-founder leaders, and process, and discipline, and internal comms.  You can't scale without them.  But they all come at a cost -- in time, and effort, and focus. 
+To be clear: these are all good things.  You absolutely need non-founder leaders, and process, and discipline, and internal comms.  You can't scale without them.  But they all come at a cost -- in time, and effort, and focus. 
 
-For founders who have only experienced going from 0 to 10 team members (during which phase every hire probably does increase velocity), it comes as a shock (and often a source of immense frustration) when they hire team members 10 to 20 and find that they're actually moving *slower* as a result.  
+For founders whose only experience is going from 0 to 10 team members (during which phase every hire probably does increase velocity), it comes as a shock (and often a source of intense frustration) when they hire team members 10 to 20 and find that they're actually moving *slower* as a result.  
 
 So as a founder, I encourage you to postpone that transition for as long as you can. 
 
