@@ -17,7 +17,7 @@ title: On Hiring
 
 One of the key advantages that startups have is that they can move faster than large, established companies.  *It follows logically* that at some point, hiring more people actually slows you down.
 
-This is counter-intuitive.  Most founders understand that the *marginal* contribution of new hires diminishes over time -- your 300th team member is not likely to be as additive as your 3rd.  But they still probably believe that the marginal contribution is positive.  It's not.  
+This is counter-intuitive.  Most founders understand that the *marginal* contribution of new hires diminishes over time -- your 300th team member is not likely to be as additive as your 3rd.  But they still  believe that the marginal contribution is positive.  It's not.  
 
 In my experience, the first break point happens around 12 people.  Why 12?  Well, the modal startup has 2 founders.  It's hard to have more than 5-6 direct reports, so once you get to around 12 people, you need to have non-founder leaders.  This instantly introduces a *huge* amount of friction.  
 
@@ -50,13 +50,27 @@ If it's not existential, don't do it.
 
 Well, duh
 
+## Hiring privileges quantity over quality
+
+better 2 senior than 4 junior
+
+## Hiring is expensive
+
+Founder and team time.  Recruiters.  Onboarding. 
+
 
 ## Hiring is a one way street
 
 You cannot 
 
-## Hiring decreases optionality and increases risk
+## Hiring  increases risk
 
+
+## Hiring is about timing
+
+volume vs velocity
+risk 
+strategy
 
 
 
@@ -152,4 +166,17 @@ Slows you down *and* cuts your runway -- means you have fewer options
 
 ## 
 
+
+
+
+
+## What is culture
+## Culture is inevitable
+## Culture can be nudged but not dictated
+## Culture flows downhill
+## Culture is hard to change
+## Culture drifts, and requires maintenance
+## Culture is your best recruiting tool
+## Culture is your best retention tool
+## Culture in one sentence
 
