@@ -17,7 +17,7 @@ title: On Hiring
 
 One of the key advantages that startups have is that they can move faster than large, established companies.  *It follows logically* that at some point, hiring more people actually slows you down.
 
-This is counter-intuitive.  Most founders understand that the *marginal* productivity of new hires diminishes over time -- your 300th team member is not likely to be as additive as your 3rd.  But they still probably believe that the marginal contribution is positive.  It's not.  
+This is counter-intuitive.  Most founders understand that the *marginal* contribution of new hires diminishes over time -- your 300th team member is not likely to be as additive as your 3rd.  But they still probably believe that the marginal contribution is positive.  It's not.  
 
 In my experience, the first break point happens around 12 people.  Why 12?  Well, the modal startup has 2 founders.  It's hard to have more than 5-6 direct reports, so once you get to around 12 people, you need to have non-founder leaders.  This instantly introduces a *huge* amount of friction.  
 
@@ -27,10 +27,35 @@ To be clear: these are all good things.  You absolutely need non-founder leaders
 
 For founders whose only experience is going from 0 to 10 team members (during which phase every hire probably does increase velocity), it comes as a shock (and often a source of intense frustration) when they hire team members 10 to 20 and find that they're actually moving *slower* as a result.  
 
-So as a founder, I encourage you to postpone that transition for as long as you can. 
+Needless to say, you should postpone that transition for as long as you can. 
+
 
 ## Hiring kills focus
 
+What happens when you hire, and now have multiple teams, with multiple leads?  You start parallel-processing.
+
+This too is a mistake.  
+
+Focus matters.  In early-stage startups, there are always 10 things that are on fire.  One superpower of successful founders is being able to identify which of those fires are minor kitchen flareups, and which might actually burn down the house -- and then ruthlessly ignoring the former to focus on the latter.
+
+This is hard.  The intellectual part -- distinguishing between minor and major blazes -- is hard enough, but even worse is learning to tolerate the discomfort of seeing a fire go unchecked.  Telling a team member -- or worse, a customer -- "we know that's broken, but we're not going to fix that just yet".  You have to learn to tolerate that discomfort -- and it's really hard especially if you have high standards (which too is a superpower of successful foudners).
+
+So the easy way out is to hire more people so that you can multi-task -- put one team on the mission critical stuff, and another team on all the nice to haves and product polishes and bug fixes.  
+
+This is a recipe 
+
+If it's not existential, don't do it.
+
+## Hiring reduces runway
+
+Well, duh
+
+
+## Hiring is a one way street
+
+You cannot 
+
+## Hiring decreases optionality and increases risk
 
 
 
