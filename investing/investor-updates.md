@@ -54,7 +54,7 @@ Which KPIs?  I like to see:
 
 In addition to these essentials, you can optionally include functional or team updates, industry updates, strategic musings, whatever else you want.  But keep it short and focused!  
 
-Here are [two examples of update emails](/investor-update-examples), one concise and one verbose, with annotations by me.
+Here are [two examples of update emails](/investor-update-examples), one concise and one verbose, with annotations by me.  Btw, don't assume that verbose and detailed is necessarily better -- do whatever fits your own communication style.
 
 
 #### What should I NOT include in an investor update?
