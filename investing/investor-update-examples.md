@@ -5,18 +5,14 @@ title: Investor Update Examples
 ---
 ## Investor Update Examples
 
+------
 <br/>
-
---------
-
 <br/>
-
-
 
 
 *Here's an example of a concise investor update email:*
 
-------
+
 
 ### Summary
 
