@@ -117,7 +117,7 @@ We had a good month on revenue and usage, but lost one big pipeline prospect.  T
 
 *In addition to the business update and revenue KPIs, if you sell to enterprise it's a good practice to share your pipeline metrics:*
 
-	|Count #|Amount $|Win Prob %|Weighted $
+Stage|Count #|Amount $|Win Prob %|Weighted $
 TOFU Leads:|120|$120,000|5%|$6,000
 Sales-Qualified:||||
 Demos:||||
