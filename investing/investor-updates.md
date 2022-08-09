@@ -7,7 +7,7 @@ title: Investor Updates
 
 ----
 
-*We did not send out regular investor updates until after our Series A.  This was a missed opportunity for us; I advise you not to make the same mistake.*
+*At my startup, we did not send out regular investor updates until after our Series A.  This was a missed opportunity for us; I advise you not to make the same mistake.*
 
 ----
 
