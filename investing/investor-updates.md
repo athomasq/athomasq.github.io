@@ -31,9 +31,9 @@ The key is to not take too much time writing your updates.  A 3000-word email th
 
 #### How candid should I be in my investor updates?
 
-A common mistake is for founders to treat their investor updates as a continuation of their investor pitch.  When things go wrong -- and in startups, things are always going wrong -- such updates become intentionally uninformative or obscure.  
+A common mistake is for founders to treat their investor updates as a continuation of their investor pitch.  When things go wrong -- and in startups, things are always going wrong -- updates written this way become intentionally uninformative or obscure.  
 
-I get it; some amount of pitching is natural and maybe even necessary.  Even with investors, you still want to put your best foot forward.  But if your updates are full of irrelevant material while avoiding actual issues, your investors *will* recognize it, and more likely than not, think that you're in denial.  
+I get it; some amount of pitching is natural and maybe even necessary.  Even with investors, you still want to put your best foot forward.  But if your updates are full of irrelevancies while avoiding actual issues, your investors *will* recognize it, and, more likely than not, think that you're in denial.  
 
 My favourite founder update in recent times began like this: *"Well, that was a pretty crap month."*  That kind of transparency builds a lot of trust.  
 
@@ -54,18 +54,18 @@ Which KPIs?  I like to see:
 
 In addition to these essentials, you can optionally include functional or team updates, industry updates, strategic musings, whatever else you want.  But keep it short and focused!  
 
-Here are [two examples of update emails](/investor-update-examples), one concise and one verbose, with annotation by me.
+Here are [two examples of update emails](/investor-update-examples), one concise and one verbose, with annotations by me.
 
 
 #### What should I NOT include in an investor update?
 
-I sometimes see founders send "marketing updates" -- aimed at their customers -- to their investors.  Don't make this mistake; these are two completely different things.  
+I sometimes see founders send "marketing updates" -- aimed at their customers -- to their investors.  Don't make this mistake; these are two completely different things.  Same goes for drip campaigns and nurture .
 
-Some founders are hesitant to include revenue and other KPIs in their updates.  Personally, I find that an update without revenue, growth, burn and cash rates is of very limited utility -- it doesn't help me understand the "health" of the business, and without that understanding, it's hard to offer good, calibrated advice.  So I do advise including them.  But if it makes you feel better, put a disclaimer saying "confidential, please do not share".  
+Some founders are hesitant to include revenue and other KPIs in their updates.  Personally, I find that an update without revenue, growth, burn and cash rates is of very limited utility -- it doesn't help me understand the health of the business, and without that understanding, it's hard to offer good, calibrated advice.  So I do advise including them.  But if it makes you feel better, put a disclaimer saying "confidential, please do not share".  
 
 (Ultimately, it comes down to how much you trust your investors.)
 
-I wouldn't include any valuation numbers or fund-raising target numbers in an investor update -- remember, your future investors may (and often do) ask for all your letters as part of their diligence, so be thoughtful about that.  Also, don't include anything that is truly secret sauce.  Most investors won't understand or care. 
+I wouldn't include any valuation numbers or fund-raising target numbers in an investor update -- remember, your future investors may (and often do) ask for all your letters as part of their diligence, so be thoughtful about that.  Also, don't include anything that is truly secret sauce.  In any case, most investors won't understand or care about the technical details. 
 
 #### I've never sent updates in the past, and feel awkward about starting now.  What should I do?
 
