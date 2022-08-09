@@ -65,9 +65,7 @@ Some founders are hesitant to include revenue and other KPIs in their updates.  
 
 (Ultimately, it comes down to how much you trust your investors.)
 
-I wouldn't include any valuation numbers or fund-raising target numbers in an investor update -- remember, your future investors may (and often do) ask for all your letters as part of their diligence, so be thoughtful about that.
-
-Also don't include anything that is truly secret sauce.  Most investors won't understand or care. 
+I wouldn't include any valuation numbers or fund-raising target numbers in an investor update -- remember, your future investors may (and often do) ask for all your letters as part of their diligence, so be thoughtful about that.  Also, don't include anything that is truly secret sauce.  Most investors won't understand or care. 
 
 #### I've never sent updates in the past, and feel awkward about starting now.  What should I do?
 
