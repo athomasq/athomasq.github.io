@@ -23,12 +23,12 @@ It was a good month for the business, with all indicators moving in the right di
 
 ### KPIs
 
-**North star:** widgets-per-month: 314,159  (+10%)
-**MRR:** $24,300 (+12%)
-**Gross burn:** $28,000 (+6%)
-**Cash in bank:** $82,000
-**Baseline runway:** 20 months (const burn, MRR)
-**Projected runway:** 33 months (burn and MRR grow as forecast)
+**North star:** widgets-per-month: 314,159 (+10%)  
+**MRR:** $24,300 (+12%)  
+**Gross burn:** $28,000 (+6%)  
+**Cash in bank:** $82,000  
+**Baseline runway:** 20 months (constant burn and MRR)  
+**Projected runway:** 33 months (burn and MRR grow as forecast)  
 
 
 ### Specific Updates
