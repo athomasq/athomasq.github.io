@@ -5,10 +5,16 @@ title: Investor Update Examples
 ---
 ## Investor Update Examples
 
-----
+<br/>
+
+--------
+
+<br/>
 
 
-Here's an example of a concise investor update email:
+
+
+*Here's an example of a concise investor update email:*
 
 ------
 
@@ -48,7 +54,7 @@ Some customers are asking about widget insurance contracts, bundled with the ser
 <br/>
 
 
-Here's an example of a more detailed investor update email, with my editorial commentary in italics.
+*Here's an example of a more detailed investor update email, with my editorial commentary in italics.*
 
 
 
@@ -91,7 +97,6 @@ We had a good month on revenue and usage, but lost one big pipeline prospect.  T
 
 #### Business Update
 
-*This is the section where you talk about the health of the business as a whole.  For the most part, this comes down to customer traction -- sales, pipeline, feedback etc.  One approach is to break this down into "good", "bad" and "on my mind", like this:*
 
 **Good:** We signed a channel partnership with the Sirius Cybernetics Corp.  Hoping to get lots of high-quality leads from this.  The initial economics are merely okay, not great for us, but we're treating this as an experiment to find out if it works, not trying to optimize yet.
 
@@ -99,7 +104,7 @@ We had a good month on revenue and usage, but lost one big pipeline prospect.  T
 
 **On my mind:** How can we shorten our sales cycle? 
 
-*Another way to organize this section is by topic: "sales", "strategy" etc., like this:*
+*This is the section where you talk about the health of the business as a whole.  For the most part, this comes down to customer traction -- sales, pipeline, feedback etc.  One approach is to break this down into "good", "bad" and "on my mind", as above.  Another way to organize this section is by topic: "sales", "strategy" etc., like this:*
 
 **Sales**: We closed two new mid-market deals for 2k and have another 5k in qualified leads.  Going to conferences is working well as an acquisition strategy.  Still trying to figure out how to shorten our sales cycle.  On the flip side, we lost one big prospect due to budget constraints at their end.
 
@@ -107,11 +112,12 @@ We had a good month on revenue and usage, but lost one big pipeline prospect.  T
 
 *This is also where you talk about market conditions, business strategy, and other "big picture" stuff.  This should be the section you spend the most time writing.*  
 
+
 #### Pipeline Update
 
 *In addition to the business update and revenue KPIs, if you sell to enterprise it's a good practice to share your pipeline metrics:*
 
-|Count #|Amount $|Win Prob %|Weighted $
+	|Count #|Amount $|Win Prob %|Weighted $
 TOFU Leads:|120|$120,000|5%|$6,000
 Sales-Qualified:||||
 Demos:||||
@@ -124,11 +130,11 @@ Total:||||
 
 #### Product Update / Team Update / Finances Update / Market Update
 
-*Up to you which of these sections you want to include -- you may not need to include all of them every single month.  Some of the topics you could consider including in each of these sections:*
+*It's up to you which of these sections you want to include -- you may not need to include all of them every single month.  Some of the topics you could consider including in each of these sections:*
 
 *Product: gaps, roadmap, customer feedback, pricing*  
 *Team: hires, fires, gaps, productivity, org structure, culture challenges*  
-*Sales & Marketing: campaigns, tactics, gtm motion, funnel metrics, efficiency*  
+*Sales & Marketing: campaigns, tactics, motion, funnel metrics, efficiency*  
 *Finances: runway, fund-raising, unit economics, deeper dive on metrics*  
 *Market: competition, ecosystem, macro trends, moats and strategy*  
 
