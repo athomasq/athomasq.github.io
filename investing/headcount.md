@@ -1,9 +1,9 @@
 ---
 layout: default
 permalink: /:basename/
-title: On Hiring
+title: On Headcount
 ---
-## On Hiring and Headcount
+## On Headcount: A Rant
 
 ----
 
@@ -45,6 +45,10 @@ So the easy way out is to hire more people so that you can multi-task -- put one
 This is a recipe 
 
 If it's not existential, don't do it.
+
+Even if you're one of the few startups 
+
+The art of being a founder is saying no to good opportuntiies so that you can say yes to great ones.  Double down on what wors, again and again -- and prune everything else.
 
 ## Hiring reduces runway
 
