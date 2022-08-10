@@ -13,6 +13,10 @@ title: On Hiring Well
 
 <br/>
 
+The company you build is the business you build.
+
+Machine, then the machine that builds the machine, then the machine that bulids the machine that bulids the machine.
+
 Hiring is a funnel.  First, meet candidates (attract inbound, or locate outbound).  Second, select the best ones.  Third, convince them to join you.  Fourth, keep them happy and motivated and productive and growing so they don't leave.  You can improve
 
 The best hires are inbound missionaries
