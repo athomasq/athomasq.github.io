@@ -41,6 +41,7 @@ The other reason to be candid is simply this: investors want to help --  and the
 
 The absolute worst option is radio silence.  There's no quicker way to have your investors write you off.  Trust me, as an investor, I'd much rather learn about your challenges and problems and bad news *early*, so that I can try to help you fix them, rather than stay ignorant until it's too late.  
 
+
 #### What should I include in an investor update?
 
 The essentials are a summary of the business, your latest KPIs, your current set of opportunities and challenges, and your asks of investors.  
@@ -52,9 +53,14 @@ Which KPIs?  I like to see:
 - burn and burn trend  
 - cash in bank and runway  
 
-In addition to these essentials, you can optionally include functional or team updates, industry updates, strategic musings, whatever else you want.  But keep it short and focused!  
+In addition to these essentials, you can optionally include functional or team updates, industry updates, strategic musings, whatever else you want.  
 
-Here are [two examples of update emails](/investor-update-examples), one concise and one verbose, with annotations by me.  Btw, don't assume that verbose and detailed is necessarily better -- do whatever fits your own communication style.
+Here are two templates for update emails you can use:
+
+- [concise version](/investor-update-template-concise)
+- [verbose version](/investor-update-template-verbose)
+
+Btw, don't assume that verbose and detailed is necessarily better -- do whatever fits your own communication style.  
 
 
 #### What should I NOT include in an investor update?
@@ -67,9 +73,14 @@ Some founders are hesitant to include revenue and other KPIs in their updates.  
 
 I wouldn't include any valuation numbers or fund-raising target numbers in an investor update -- remember, your future investors may (and often do) ask for all your letters as part of their diligence, so be thoughtful about that.  Also, don't include anything that is truly secret sauce.  In any case, most investors won't understand or care about the technical details. 
 
+
 #### I've never sent updates in the past, and feel awkward about starting now.  What should I do?
 
 Don't overthink it.  Just add a line at the beginning saying: "Although we haven't done so in the past, we'll be sending regular monthly updates from now on.  Here's the first one."  And don't feel obliged to constantly fill in your investors on the last 6 or 12 or 18 months of progress.  Monthly updates should reflect monthly events.  (Maybe in the very first update, you can have a section called "highlights of the last year", but that's about it.)
+
+#### Should I send updates to friends and family investors?
+
+That's a nuanced question.  Sophisticated and experienced investors are fully aware of the challenges that almost all startups go through, and are not fazed by bad news; indeed, they want to hear it early.  But friends and family, who are betting their hard-earned savings on you personally -- I understand that you may not want to spook them.  For them, it may make sense to just send a quarterly or even an annual update, just to keep them in the loop, and not expecting any response or input or help.  This, like much else, is ultimately a judgement call. 
 
 #### Are there any exceptions to the above guidelines?
 
