@@ -387,6 +387,8 @@ What can I say about GEB that hasn't been said by a thousand geeks before me?  N
 - **The Boundless Sea**, David Abulafia
 - **The Outlaw Sea**, William Langewiesche
 - **Churchill's Secret War**, Madhusree Mukerjee
+- **Legacy of Violence**, Caroline Elkins
+- **Slouching Towards Utopia**, Brad DeLong
 
 [Back to Top ↩](/library#my-library)
 
@@ -494,6 +496,7 @@ What can I say about GEB that hasn't been said by a thousand geeks before me?  N
 - **One From Many**, Dee Hock
 - **Empires of Light**, Jill Jonnes
 - **Straphanger**, Taras Grescoe
+- **Empire of Pain**, Patrick Radden Keefe
 
 [Back to Top ↩](/library#my-library)
 
