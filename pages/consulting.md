@@ -35,5 +35,5 @@ I consider myself an expert on data and API business models and the modern data 
 
 ## My Rates
 
-I charge USD 5000 for half a day, USD 8000 for a full day, or USD 25000 for a week (onsite if schedules permit).  I prefer not to do hourly engagements unless they are part of a longer-term package. 
+I charge USD 1500 for an hour, USD 5000 for half a day, USD 8000 for a full day, or USD 25000 for a week (onsite if schedules permit).  
 
