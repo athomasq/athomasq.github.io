@@ -30,11 +30,11 @@ I'm fortunate to work with the following companies as an angel investor and/or a
 🏗️ [Citylitics](https://citylitics.com)  
 🤝 [AcuSpire](https://acuspire.ai)  
 💡 [Getware](https://www.getware.ai)  
-🚚 Erly 🪦  
+🚚 Erly 💀  
 💳 [Klanto](https://www.klanto.com)  
 💵 [Requity](https://www.requityhomes.com)  
 🧾 [Syro](https://www.syro.com)  
-🎲 TriplePlay 🪦  
+🎲 TriplePlay 💀  
 🎼 [Composer](https://www.composer.trade)  
 🛒 [Arima](https://www.arimadata.com)  
 📧 [Ubico](https://www.ubico.io)  
@@ -59,8 +59,8 @@ Between 2015 and 2017 I invested in a few startups in India:
 🚛 [Locus](https://locus.sh)  
 👁️ [Vue](https://vue.ai)  
 💊 [Wellthy](https://wellthytherapeutics.com)  
-🏘️ FastFox 🪦  
-🧰 Qyk 🪦  
+🏘️ FastFox 💀  
+🧰 Qyk 💀  
 
 
 ----
