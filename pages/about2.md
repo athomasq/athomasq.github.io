@@ -12,10 +12,4 @@ title: About · Abraham Thomas
 
 -----
 
-<br/>
-
-<b>
-
-Investing • Writing • Work • Media • Speaking • Interests • About Me • Contact
-
-</b>
+<b>Investing • Writing • Work • Media • Speaking • Interests • Bio • Contact</b>
