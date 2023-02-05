@@ -9,7 +9,7 @@ title: About · Abraham Thomas
 ----
 
 
-|<img style="width:200px" src="/assets/img/Abraham-Thomas.jpg">|Hi, I'm Abraham. I'm an [angel investor](/angel) living in Toronto. (Pitch me!)<br/><br/>I'm the co-founder and former Chief Data Officer of [Quandl](https://www.quandl.com), a tech startup that was acquired by [Nasdaq](https://www.nasdaq.com). <br/><br/>Before Quandl, I was a trader and portfolio manager at [Simplex](https://www.simplexasset.com), a multi-billion-dollar hedge fund in Tokyo.<br/><br/>I write essays on data, investing and startups. (Subscribe!)|
+|<img style="width:200px" src="/assets/img/Abraham-Thomas.jpg">|👋 Hi, I'm Abraham. I'm an [angel investor](/angel) living in Toronto. (Pitch me!)<br/><br/>I'm the co-founder and former Chief Data Officer of [Quandl](https://www.quandl.com), a tech startup that was acquired by [Nasdaq](https://www.nasdaq.com). <br/><br/>Before Quandl, I was a trader and portfolio manager at [Simplex](https://www.simplexasset.com), a multi-billion-dollar hedge fund in Tokyo.<br/><br/>I write essays on data, investing and startups. (Subscribe!)|
 
 
 <!--
