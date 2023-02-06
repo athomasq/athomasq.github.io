@@ -12,16 +12,22 @@ title: Angel Investment Criteria · Abraham Thomas
 
 ### Criteria
 
-* I invest at pre-seed and seed stage. I may follow on *pro rata* in Series A or B rounds, but I rarely write first cheques at those stages.
+🌱 I invest at pre-seed and seed stage. I may follow on *pro rata* in Series A or B rounds, but I rarely write first cheques at those stages.
 
-* I like SaaS, b2b marketplaces, platforms, data and API businesses, platforms & infrastructure, systems of record, unglamorous plumbing, and anything involving network effects.  
+📡 I like SaaS, b2b marketplaces, platforms, data and API businesses, platforms & infrastructure, systems of record, unglamorous plumbing, and anything involving network effects.  
 
-* I generally steer clear of consumer businesses, d2c and ecommerce, edtech, healthcare, RE and crypto.  You're welcome to pitch me if your startup falls in those categories, but my probability of investment is low.
+🛍 I generally steer clear of consumer businesses, d2c and ecommerce, edtech, healthcare, RE and crypto.  You're welcome to pitch me if your startup falls in those categories, but my probability of investment is low.
 
-* I like to see genuine technological or business model innovation.  Solving hard problems is a valuable moat.
+🚀 I like to see genuine technological or business model innovation.  Solving hard problems is a valuable moat.
 
-All these criteria are flexible for the right team in the right market with the right product.
+*All these criteria are flexible for the right team in the right market with the right product.*
 
+
+<br/>
+
+----
+
+<br/>
 
 
 ### Philosophy
@@ -35,3 +41,10 @@ All these criteria are flexible for the right team in the right market with the 
 🐶 I like both overdogs with "unfair advantages", and underdogs who are "scrappy, resilient, resourceful". I invest in both "brave new world" startups and "faster better cheaper" startups. 
 
 💼 Check out [my portfolio here](/portfolio)!
+
+
+<br/>
+
+----
+
+<br/>
