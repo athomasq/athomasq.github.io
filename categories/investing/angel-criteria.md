@@ -18,7 +18,7 @@ Here are my portfolio boundaries:
 
 📡 I like **B2B companies**, including SaaS, B2B marketplaces, platforms, data and API businesses, platforms & infrastructure, systems of record, unglamorous plumbing, and anything involving network effects.  
 
-🛍 I generally **steer clear of consumer businesses**, d2c and ecommerce, edtech, healthcare, RE and crypto.  You're welcome to pitch me if your startup falls in those categories, but my probability of investment is low.
+🛍 I generally **steer clear of consumer businesses**, d2c and ecommerce, edtech, healthcare, RE and crypto.  You're welcome to pitch me if your startup falls in those categories, but I'm unlikely to invest.
 
 🚀 I like to see genuine **technological or business model innovation**.  Solving hard problems is a valuable moat.
 
@@ -42,9 +42,9 @@ Here is my selection philosophy:
 
 🌎 I'm **flexible on geography, industry, and business model**. I prefer B2B to consumer. About half my portfolio is in Canada, and half outside it.
 
-🐶 I like both overdogs with "unfair advantages", and underdogs who are "scrappy, resilient, resourceful". I invest in both "brave new world" startups and "faster better cheaper" startups. 
+🐶 I like both overdogs with **unfair advantages**, and underdogs who are **scrappy, resilient, resourceful**. I invest in both 'brave new world" startups and "faster better cheaper" startups. 
 
-💼 Check out [my portfolio here](/portfolio)!
+*Check out [my portfolio here](/portfolio)!*
 
 
 <br/>
