@@ -12,6 +12,8 @@ title: Angel Investment Criteria · Abraham Thomas
 
 ### Criteria
 
+Here are my portfolio boundaries:
+
 🌱 I invest at **pre-seed and seed stage**. I may follow on *pro rata* in Series A or B rounds, but I rarely write first cheques at those stages.
 
 📡 I like **B2B companies**, including SaaS, B2B marketplaces, platforms, data and API businesses, platforms & infrastructure, systems of record, unglamorous plumbing, and anything involving network effects.  
@@ -31,6 +33,8 @@ title: Angel Investment Criteria · Abraham Thomas
 
 
 ### Philosophy
+
+Here is my selection philosophy:
 
 🔮 At the highest level, I invest in startups that are building **a future I want to be part of**, and I try to help them make that future a reality. Beyond that, there are no rules.
 
