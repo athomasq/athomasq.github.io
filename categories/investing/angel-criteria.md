@@ -12,7 +12,7 @@ title: Angel Investment Criteria · Abraham Thomas
 
 ### Criteria
 
-Here are my portfolio boundaries:
+Here are my portfolio guidelines:
 
 🌱 I invest at **pre-seed and seed stage**. I may follow on *pro rata* in Series A or B rounds, but I rarely write first cheques at those stages.
 
