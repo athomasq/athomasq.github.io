@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /:basename/
-title: Investment Criteria · Abraham Thomas
+title: Angel Investment Criteria · Abraham Thomas
 ---
 
 ## What I Invest In
