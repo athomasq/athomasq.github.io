@@ -12,26 +12,23 @@ title: How To Pitch Me · Abraham Thomas
 
 ### Mechanics
 
-*I find that these guidelines minimize wasted time and maximize our chances of a productive conversation:*
+*I suggest following these guidelines to minimize wasted time and maximize our chances of a productive conversation:*
 
-📧 **Email is the best way** to contact me: **athos1@gmail.com** 
+<br/>
+
+📧 The best way to contact me is by **email: athos1@gmail.com** 
 
 🧊 I welcome cold emails!  **No need for a warm intro**.
 
+📞 Don't send me text, linked-in, whatsapp or twitter DMs; **I may not respond**. (And if I do, it will only be to ask that you move the conversation over to email.)
+
 📝 Send me a brief message along with a **deck or memo**.  No need to ask permission to send a deck.  
 
-ℹ️ Your message should include the following **baseline info**: 
-- *what the company does*
-- *founder background(s)*
-- *company stage and traction*
-- *how much you're raising*
-- *valuation and terms*
+ℹ️ Your message should include the following **baseline info**: what the company does; founder background(s); company stage and traction; how much you're raising; and at what valuation.
 
 ❗️ Without this info, I will either ignore your email, or respond asking you to fill in the blanks, so please **save time for both of us** by including this info from the start.
 
 💡 If you have a **secret or special insight** into your market, unique expertise, or intriguing early signals of market pull / product validation, please mention them!
-
-📞 Don't send me text, linked-in, whatsapp or twitter DMs; **I may not respond**. (And if I do, it will only be to ask that you move the conversation over to email.)
 
 🤐 **I don't sign NDAs**, so please don't ask.
 
@@ -49,7 +46,9 @@ title: How To Pitch Me · Abraham Thomas
 
 ### Timelines
 
-*I try to reach investment decisions using no more than 2 meetings and 3 weeks of calendar time:*
+*I try to reach investment decisions using no more than 2 meetings and 2 weeks of calendar time:*
+
+<br/>
 
 1️⃣ You **email me your deck**, including the baseline info specified above.
 
@@ -66,7 +65,6 @@ title: How To Pitch Me · Abraham Thomas
 7️⃣ You send me the **investment docs and wire instructions**; I sign them and wire the funds.
 
 <br/>
-
 
 *Despite my best efforts, sometimes things slip; if I seem to drop the ball, please send me a nudge.  Also, please send calendar invites with links or locations for all meetings.* 
 
