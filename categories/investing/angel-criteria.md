@@ -10,7 +10,7 @@ title: Angel Investment Criteria · Abraham Thomas
 
 <br/> 
 
-### Portfolio Criteria
+### Portfolio Guidelines
 
 Here are my portfolio guidelines:
 
