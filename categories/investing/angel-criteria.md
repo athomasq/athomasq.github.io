@@ -22,7 +22,7 @@ Here are my portfolio guidelines:
 
 🚀 I like to see genuine **technological or business model innovation**.  Solving hard problems is a valuable moat.
 
-*All these criteria are flexible for the right team in the right market with the right product.  If in doubt, [pitch me](/pitch-me)!*
+*All these criteria are flexible for the right team in the right market with the right approach.  If in doubt, [pitch me](/pitch-me)!*
 
 
 <br/>
