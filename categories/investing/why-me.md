@@ -10,9 +10,8 @@ title: Why Work With Me · Abraham Thomas
 
 <br/> 
 
-## 
 
-### How I Invest
+### Guiding Principles
 
 I aim to be an investor who founders trust and can rely on.  This means:
 
@@ -23,7 +22,11 @@ I aim to be an investor who founders trust and can rely on.  This means:
 * **Respect for your time:** Quick responses, minimal friction.
 * **No games:** I win when you win.  
 
+<br/>
 
+----
+
+<br/>
 
 
 ### Why Work With Me?
