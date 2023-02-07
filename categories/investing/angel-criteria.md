@@ -12,7 +12,7 @@ title: Angel Investment Criteria · Abraham Thomas
 
 ### Portfolio Guidelines
 
-Here are my portfolio guidelines:
+<br/>
 
 🌱 I invest at **pre-seed and seed stage**. I may follow on *pro rata* in Series A or B rounds, but I rarely write first cheques at those stages.
 
@@ -36,7 +36,7 @@ Here are my portfolio guidelines:
 
 ### Portfolio Philosophy
 
-Here is my selection philosophy:
+<br/>
 
 🔮 At the highest level, I invest in startups that are building **a future I want to be part of**, and I try to help them make that future a reality. Beyond that, there are no rules.
 
