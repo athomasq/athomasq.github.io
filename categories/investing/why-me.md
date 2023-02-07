@@ -30,7 +30,7 @@ I aim to be an investor who founders trust and can rely on.  This means:
 
 ### Why Work With Me?
 
-🤝 **Networks:** I can help with introductions and references for potential customers, partners, job candidates, expert operators, and down-stream investors including many well-known VC firms.
+🤝 **Networks:** I can help with introductions and references for potential customers, partners, job candidates, expert operators, and down-stream investors including warm intros to many well-known VC firms.
 
 🧠 **Knowledge:** There are a few topics that I have specific deep expertise in: data & API business models; data science & data engineering; capital markets & B2B fintech; starting & scaling network-effects businesses; and building successful data-centric organizations.
 
