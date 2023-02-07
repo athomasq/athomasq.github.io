@@ -10,7 +10,7 @@ title: Angel Investment Criteria · Abraham Thomas
 
 <br/> 
 
-### Criteria
+### Portfolio Criteria
 
 Here are my portfolio guidelines:
 
@@ -34,7 +34,7 @@ Here are my portfolio guidelines:
 <br/>
 
 
-### Philosophy
+### Portfolio Philosophy
 
 Here is my selection philosophy:
 
