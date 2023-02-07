@@ -47,6 +47,8 @@ title: How To Pitch Me · Abraham Thomas
 
 *I typically reach investment decisions using no more than 2 meetings and 2 weeks of calendar time.  Here is the process I like to follow:*
 
+<br/>
+
 1️⃣ You **email me your deck**, including the baseline info specified above.
 
 2️⃣ I pass, or I send you **3-5 preliminary questions** to gauge if this is a fit.
