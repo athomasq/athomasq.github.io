@@ -12,7 +12,7 @@ title: How To Pitch Me · Abraham Thomas
 
 ### Mechanics
 
-*I review lots of companies.  To give your company the best chance of success, please follow these guidelines:*
+*I review lots of companies.  To give your company the best chance of success, please follow these instructions:*
 
 <br/>
 
@@ -33,11 +33,13 @@ title: How To Pitch Me · Abraham Thomas
 
 💡 If you have a **secret or special insight** into your market, unique expertise, or intriguing early signals of market pull / product validation, please mention them!
 
-📞 Don't send me text, linked-in, whatsapp or twitter DMs; **I won't respond**. 
+📞 Don't send me text, linked-in, whatsapp or twitter DMs; **I may not respond**. (And if I do, it will only be to ask that you move the conversation over to email.)
 
 🤐 **I don't sign NDAs**, so please don't ask.
 
-🎲 **I treat founders with respect**, and I ask that you reciprocate.
+🙇‍♂️ **I treat founders with respect**, and I ask that you reciprocate.
+
+
 
 
 <br/>
@@ -63,15 +65,13 @@ title: How To Pitch Me · Abraham Thomas
 
 5️⃣ We do a **deep-dive meeting** during which you answer these questions.  (Or you can answer them by email if you prefer).
 
-6️⃣ I pass, or I commit to invest, and you accept using the [YC handshake protocol](https://www.ycombinator.com/handshake/).
+6️⃣ I pass, or I commit to invest, and you accept using the [YC handshake](https://www.ycombinator.com/handshake/).
 
 7️⃣ You send me the **investment docs and wire instructions**; I sign them and wire the funds.
 
 <br/>
 
-*I try to keep on track with the above schedule, but sometimes things slip.  If you don't hear from me for several days or weeks, please send me a nudge.*
-
-*Also, please send calendar invites with links or locations for all meetings.* 
+*I try to keep on track with the above schedule, but sometimes things slip.  If you don't hear from me for several days or weeks, please send me a nudge.  Also, please send calendar invites with links or locations for all meetings.* 
 
 <br/>
 
