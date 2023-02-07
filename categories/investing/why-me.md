@@ -60,4 +60,9 @@ I can help on almost all operational aspects of early-stage startups. I’m espe
 
 
 <br/>
+
+----
+
 <br/>
+
+[Back to Investing Page ↩](/investing)

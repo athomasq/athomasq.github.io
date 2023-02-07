@@ -56,3 +56,5 @@ title: Angel Investment Criteria · Abraham Thomas
 ----
 
 <br/>
+
+[Back to Investing Page ↩](/investing)

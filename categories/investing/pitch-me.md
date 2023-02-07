@@ -86,4 +86,9 @@ title: How To Pitch Me · Abraham Thomas
 🤝 Don't ask me to introduce you to other investors if I've passed on your company; it's not a good signal and won't help you.
 
 <br/>
+
+----
+
 <br/>
+
+[Back to Investing Page ↩](/investing)
