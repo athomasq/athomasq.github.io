@@ -20,7 +20,7 @@ Here are my portfolio guidelines:
 
 🛍 I generally **steer clear of consumer businesses**, D2C ecommerce, edtech, healthcare, productivity, gaming, RE, silicon, security and crypto.  You're welcome to pitch me if your startup falls in those categories, but I'm very unlikely to invest.
 
-⚛️ I'm building competence in energy, space, bio, and other deeptech, especially where mediated by software and data.  I welcome pitches in those areas, even though I may not invest.
+⚛️ I'm building competence in energy, space, bio, and other **deeptech**, especially where mediated by software and data.  I welcome pitches in those areas, even though I may not be ready to invest.
 
 🚀 I like to see genuine **technological or business model innovation**.  Solving hard problems is a valuable moat.
 
@@ -44,11 +44,11 @@ Here is my selection philosophy:
 
 🌎 I'm **flexible on geography, industry, and business model**. I prefer B2B to consumer. About half my portfolio is in Canada, and half outside it.
 
-🐶 I like both overdogs with **unfair advantages**, and underdogs who are **scrappy, resilient, resourceful**. I invest in both 'brave new world" startups and "faster better cheaper" startups. 
+🐶 I like both overdogs with **unfair advantages**, and underdogs who are **scrappy, resilient, resourceful**. I invest in both 'brave new world" startups and 'faster better cheaper' startups. 
 
-👥 I don't really care about who else is investing. I welcome unusual ideas and atypical founder profiles. 
+👥 I don't really care about who else is investing. I welcome **unusual ideas** and atypical founder profiles. 
 
-*Check out [my portfolio here](/portfolio)!*
+❤️ Building a startup is hard. I seek **founders of character**: resourceful, resilient, optimistic, curious, competitive, and committed.  If this is you, please [reach out](/mailto:athos1@gmail.com)! 
 
 
 <br/>

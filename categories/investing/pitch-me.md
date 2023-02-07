@@ -12,13 +12,11 @@ title: How To Pitch Me · Abraham Thomas
 
 ### Mechanics
 
-*I review lots of companies.  To help me give your company the best chance of success, please follow these guidelines:*
+*I review lots of companies.  To give your company the best chance of success, please follow these guidelines:*
 
 <br/>
 
-📧 **Email is the best way** to contact me.  athos1@gmail.com. 
-
-📞 Don't send me text, linked-in, whatsapp or twitter messages. I am unlikely to respond. 
+📧 **Email is the best way** to contact me: **athos1@gmail.com** 
 
 🧊 I welcome cold emails!  **No need for a warm intro**.
 
@@ -31,7 +29,11 @@ title: How To Pitch Me · Abraham Thomas
 - *how much you're raising*
 - *valuation and terms*
 
-❗️ Without this info, I will either ignore your email, or respond asking you to fill in the blanks, so please save time for both of us by including this info from the start.
+❗️ Without this info, I will either ignore your email, or respond asking you to fill in the blanks, so please **save time for both of us** by including this info from the start.
+
+💡 If you have a **secret or special insight** into your market, unique expertise, or intriguing early signals of market pull / product validation, please mention them!
+
+📞 Don't send me text, linked-in, whatsapp or twitter DMs; **I won't respond**. 
 
 🤐 **I don't sign NDAs**, so please don't ask.
 
@@ -53,11 +55,11 @@ title: How To Pitch Me · Abraham Thomas
 
 1️⃣ You **email me your deck**, including the baseline info specified above.
 
-2️⃣ I pass, or I send you **3-5 preliminary questions** to gauge if this is a fit.
+2️⃣ I pass, or I send you **3-5 preliminary questions** to gauge if this is a fit.  The goal is to avoid wasting time for either of us.
 
 3️⃣ We do an **intro meeting**, in which you describe the vision, product, market, company, team, traction, tech, and macro trends (why now?).  
 
-4️⃣ I pass, or I send you **10-12 deep-dive questions**, in which I examine the business more closely.
+4️⃣ I pass, or I send you **10-12 deep-dive questions** that examine the business more closely.
 
 5️⃣ We do a **deep-dive meeting** during which you answer these questions.  (Or you can answer them by email if you prefer).
 
@@ -65,7 +67,11 @@ title: How To Pitch Me · Abraham Thomas
 
 7️⃣ You send me the **investment docs and wire instructions**; I sign them and wire the funds.
 
-Please send calendar invites with links or locations for all meetings. 
+<br/>
+
+*I try to keep on track with the above schedule, but sometimes things slip.  If you don't hear from me for several days or weeks, please send me a nudge.*
+
+*Also, please send calendar invites with links or locations for all meetings.* 
 
 <br/>
 
