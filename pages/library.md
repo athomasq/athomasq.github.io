@@ -18,7 +18,7 @@ To make it easier to browse, I've split this page by category:
 - [Essays, Memoirs & Journalism](/library#essays-memoirs--journalism)
 - [Language & Music](/library#language--music)
 - [Travel, Adventure & Exploration](/library#travel-adventure--exploration)
-- [Fiction](/library#fiction)
+- [Fiction](/library#Fiction)
 
 Books in **green**{: style="color: green"} are very good and recommended.  Books in **red**{: style="color: red"} are life-changing: I saw the world differently after reading them.  
 
