@@ -18,7 +18,7 @@ I'm an active angel investor in early-stage tech startups.
 * [What I invest in](/angel-criteria)
 * [How to pitch me](/pitch-me)
 * [How I help](/help-you)
-* [Why work with me](why-me)
+* [Why work with me](/why-me)
 * Strategy memos ([email me](mailto:athos1@gmail.com))
 
 <br/>
