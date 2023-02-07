@@ -12,9 +12,7 @@ title: How To Pitch Me · Abraham Thomas
 
 ### Mechanics
 
-*I review lots of companies.  To give your company the best chance of success, please follow these instructions:*
-
-<br/>
+*I find that these guidelines minimize wasted time and maximize our chances of a productive conversation:*
 
 📧 **Email is the best way** to contact me: **athos1@gmail.com** 
 
@@ -51,9 +49,7 @@ title: How To Pitch Me · Abraham Thomas
 
 ### Timelines
 
-*I typically reach investment decisions using no more than 2 meetings and 2 weeks of calendar time.  Here is the process I like to follow:*
-
-<br/>
+*I try to reach investment decisions using no more than 2 meetings and 3 weeks of calendar time:*
 
 1️⃣ You **email me your deck**, including the baseline info specified above.
 
@@ -71,7 +67,8 @@ title: How To Pitch Me · Abraham Thomas
 
 <br/>
 
-*I try to keep on track with the above schedule, but sometimes things slip.  If you don't hear from me for several days or weeks, please send me a nudge.  Also, please send calendar invites with links or locations for all meetings.* 
+
+*Despite my best efforts, sometimes things slip; if I seem to drop the ball, please send me a nudge.  Also, please send calendar invites with links or locations for all meetings.* 
 
 <br/>
 
