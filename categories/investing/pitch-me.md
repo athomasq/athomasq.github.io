@@ -67,9 +67,15 @@ Despite my best efforts, sometimes things slip; if I seem to drop the ball, plea
 
 ### Passing
 
-* I invest in fewer than 1% of the companies I see, so please don't take it personally if your company isn't for me.
+My philosophy on passing:
+
+* I don't believe in "retaining optionality".  If I don't plan to invest, I will let you know, explicitly.
+
+* I invest in fewer than 1% of the companies I see, so please don't take it personally if I don't invest in yours.
 
 * I try to provide thoughtful and actionable feedback on why I passed to all founders who I have at least a phone call with.
+
+* Sometimes there may be a great company doing everything right that just isn't a fit for me.  
 
 * I'm happy to stay in touch with companies I've passed on; feel free to add me to your update email list.
 
