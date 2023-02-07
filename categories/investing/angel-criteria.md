@@ -48,7 +48,7 @@ title: Angel Investment Criteria · Abraham Thomas
 
 👥 I don't really care about who else is investing. I welcome **unusual ideas** and atypical founder profiles. 
 
-❤️ Building a startup is hard. I seek **founders of character**: resourceful, resilient, optimistic, curious, competitive, and committed.  If this is you, please [reach out](/mailto:athos1@gmail.com)! 
+❤️ Building a startup is hard. I seek **founders of character**: resourceful, resilient, optimistic, curious, competitive, and committed.  If this is you, please [reach out](/pitch-me)! 
 
 
 <br/>
