@@ -10,31 +10,25 @@ title: How To Pitch Me · Abraham Thomas
 
 <br/> 
 
-### Mechanics
+### Guidelines
 
-*I suggest following these guidelines to minimize wasted time and maximize our chances of a productive conversation:*
+My goal with these guidelines is to **save time** for me and you:
 
-<br/>
+* The best way to contact me is by **email: athos1@gmail.com** 
 
-📧 The best way to contact me is by **email: athos1@gmail.com** 
+* I welcome cold emails!  **No need for a warm intro**.
 
-🧊 I welcome cold emails!  **No need for a warm intro**.
+* Don't send me text, linked-in, whatsapp or twitter DMs; **I may not respond**. (And if I do, it will only be to ask that you move the conversation over to email.)
 
-📞 Don't send me text, linked-in, whatsapp or twitter DMs; **I may not respond**. (And if I do, it will only be to ask that you move the conversation over to email.)
+* Send me a brief message along with a **deck or memo**.  No need to ask permission to send a deck.  
 
-📝 Send me a brief message along with a **deck or memo**.  No need to ask permission to send a deck.  
+* Your message should include the following **baseline info**: what the company does; founder background(s); company stage and traction; how much you're raising; and at what valuation.
 
-ℹ️ Your message should include the following **baseline info**: what the company does; founder background(s); company stage and traction; how much you're raising; and at what valuation.
+* If you have a **secret or special insight** into your market, unique expertise, or intriguing early signals of market pull / product validation, please mention them!
 
-❗️ Without this info, I will either ignore your email, or respond asking you to fill in the blanks, so please **save time for both of us** by including this info from the start.
+* **I don't sign NDAs**, so please don't ask.
 
-💡 If you have a **secret or special insight** into your market, unique expertise, or intriguing early signals of market pull / product validation, please mention them!
-
-🤐 **I don't sign NDAs**, so please don't ask.
-
-🙇‍♂️ **I treat founders with respect**, and I ask that you reciprocate.
-
-
+* **I treat founders with respect**, and I ask that you reciprocate.
 
 
 <br/>
@@ -44,29 +38,25 @@ title: How To Pitch Me · Abraham Thomas
 <br/>
 
 
-### Timelines
+### Process
 
-*I try to reach investment decisions using no more than 2 meetings and 2 weeks of calendar time:*
+I try to reach investment decisions using no more than 2 meetings and 2 weeks of calendar time, with the following steps:  
 
-<br/>
+* You **email me your deck**, including the baseline info specified above.
 
-1️⃣ You **email me your deck**, including the baseline info specified above.
+* I pass, or I send you **3-5 preliminary questions** to gauge if this is a fit.  The goal is to avoid wasting time for either of us.
 
-2️⃣ I pass, or I send you **3-5 preliminary questions** to gauge if this is a fit.  The goal is to avoid wasting time for either of us.
+* We do an **intro meeting**, in which you describe the vision, product, market, company, team, traction, tech, and macro trends (why now?).  
 
-3️⃣ We do an **intro meeting**, in which you describe the vision, product, market, company, team, traction, tech, and macro trends (why now?).  
+* I pass, or I send you **10-12 deep-dive questions** that examine the business more closely.
 
-4️⃣ I pass, or I send you **10-12 deep-dive questions** that examine the business more closely.
+* We do a **deep-dive meeting** during which you answer these questions.  (Or you can answer them by email if you prefer).
 
-5️⃣ We do a **deep-dive meeting** during which you answer these questions.  (Or you can answer them by email if you prefer).
+* I pass, or I commit to invest, and you accept using the [YC handshake](https://www.ycombinator.com/handshake/).
 
-6️⃣ I pass, or I commit to invest, and you accept using the [YC handshake](https://www.ycombinator.com/handshake/).
+* You send me the **investment docs and wire instructions**; I sign them and wire the funds.
 
-7️⃣ You send me the **investment docs and wire instructions**; I sign them and wire the funds.
-
-<br/>
-
-*Despite my best efforts, sometimes things slip; if I seem to drop the ball, please send me a nudge.  Also, please send calendar invites with links or locations for all meetings.* 
+Despite my best efforts, sometimes things slip; if I seem to drop the ball, please send me a nudge.  Also, please send calendar invites with links or locations for all meetings. 
 
 <br/>
 
@@ -77,13 +67,13 @@ title: How To Pitch Me · Abraham Thomas
 
 ### Passing
 
-☹️ I invest in fewer than 1% of the companies I see, so please don't take it personally if your company isn't for me.
+* I invest in fewer than 1% of the companies I see, so please don't take it personally if your company isn't for me.
 
-📝 I try to provide thoughtful and actionable feedback on why I passed to all founders who I have at least a phone call with.
+* I try to provide thoughtful and actionable feedback on why I passed to all founders who I have at least a phone call with.
 
-📪 I'm happy to stay in touch with companies I've passed on; feel free to add me to your update email list.
+* I'm happy to stay in touch with companies I've passed on; feel free to add me to your update email list.
 
-🤝 Don't ask me to introduce you to other investors if I've passed on your company; it's not a good signal and won't help you.
+* Don't ask me to introduce you to other investors if I've passed on your company; it's not a good signal and won't help you.
 
 <br/>
 
