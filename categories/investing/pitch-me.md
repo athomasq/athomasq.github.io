@@ -16,11 +16,13 @@ title: How To Pitch Me · Abraham Thomas
 
 <br/>
 
-📧 **Email is the best way** to contact me.  Don't send me text, linked-in, whatsapp or twitter messages, I may not respond.
+📧 **Email is the best way** to contact me.  athos1@gmail.com. 
+
+📞 Don't send me text, linked-in, whatsapp or twitter messages. I am unlikely to respond. 
 
 🧊 I welcome cold emails!  **No need for a warm intro**.
 
-📝 Send me a brief message along with a **deck or memo**.  No need to ask permission to send a deck.  If you don't or can't send me a deck, I can't invest.
+📝 Send me a brief message along with a **deck or memo**.  No need to ask permission to send a deck.  
 
 ℹ️ Your message should include the following **baseline info**: 
 - *what the company does*
@@ -63,6 +65,8 @@ title: How To Pitch Me · Abraham Thomas
 
 7️⃣ You send me the **investment docs and wire instructions**; I sign them and wire the funds.
 
+Please send calendar invites with links or locations for all meetings. 
+
 <br/>
 
 ----
@@ -72,13 +76,13 @@ title: How To Pitch Me · Abraham Thomas
 
 ### Passing
 
-☹️ I invest in fewer than 1% of the companies I see, so please don't take it personally if your company is not a fit.  
+☹️ I invest in fewer than 1% of the companies I see, so please don't take it personally if your company isn't for me.
 
 📝 I try to provide thoughtful and actionable feedback on why I passed to all founders who I have at least a phone call with.
 
-📞 I'm happy to stay in touch with companies I've passed on; please feel free to add me to your update email list.
+📪 I'm happy to stay in touch with companies I've passed on; feel free to add me to your update email list.
 
-🤝 But please don't ask me to introduce you to other investors if I've passed on your company; it's not a good signal and won't help you.
+🤝 Don't ask me to introduce you to other investors if I've passed on your company; it's not a good signal and won't help you.
 
 <br/>
 <br/>
