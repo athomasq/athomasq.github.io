@@ -16,7 +16,7 @@ Here are my portfolio guidelines:
 
 🌱 I invest at **pre-seed and seed stage**. I may follow on *pro rata* in Series A or B rounds, but I rarely write first cheques at those stages.
 
-📡 I like **B2B companies**, including vertical and horizontal SaaS, B2B marketplaces, platforms, data and API businesses, platforms & infrastructure, systems of record, unglamorous plumbing, AI/ML tools, and anything involving network effects.  
+📡 I like **B2B companies**, including vertical and horizontal SaaS, B2B marketplaces, data and API businesses, platforms & infrastructure, systems of record, unglamorous plumbing, AI/ML tools, and anything involving network effects.  
 
 🛍 I generally **steer clear of consumer businesses**, d2c ecommerce, edtech, healthcare, productivity, gaming, RE and crypto.  You're welcome to pitch me if your startup falls in those categories, but I'm unlikely to invest.
 
