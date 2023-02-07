@@ -10,6 +10,11 @@ title: Why Work With Me · Abraham Thomas
 
 <br/> 
 
+### 
+
+My goal is to be the best investor on your cap table.  I don't write large cheques, but I strive to offer the highest ratio of value-to-dollars-invested.
+
+
 ### Guiding Principles
 
 I aim to be an investor who founders trust and can rely on.  This means:
@@ -19,7 +24,8 @@ I aim to be an investor who founders trust and can rely on.  This means:
 * **Low ego:** I help if I can, and get out of the way if I can't.  
 * **High trust:** I act with integrity and professionalism.  
 * **Respect for your time:** Quick responses, minimal friction.
-* **No games:** I win when you win.  
+* **Strong alignment:** I win when you win.  
+* **Kindness and empathy:** I've been there, done that -- and I'm on your side.
 
 <br/>
 
