@@ -65,9 +65,9 @@ Between 2014 and 2017 I invested in a few startups in India:
 
 🌱 All the above investments were done at what would today (2023) be considered pre-seed stage: very early product with minimal or zero revenue.
 
-🧭 I invest only where I think I have an edge, in either dealflow or evaluation.  As a consequence, my portfolio tends to skew non-Bay Area, mostly B2B, and mostly under-represented or atypical founder profiles.
+<!--🧭 I invest only where I think I have an edge, in either dealflow or evaluation.  As a consequence, my portfolio tends to skew non-Bay Area, mostly B2B, and mostly under-represented or atypical founder profiles.-->
 
-🎯 I invest my own money.  This gives me a very different objective function from many (most?) startup investors. 
+<!--🎯 I invest my own money.  This gives me a very different objective function from many (most?) startup investors.-->
 
 😎 My portfolio companies have gone on to raise further funding from Sequoia, Tiger Global, Falcon Edge, GIC and others. 
 
