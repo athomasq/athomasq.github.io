@@ -25,8 +25,6 @@ title: Angel Investment Criteria · Abraham Thomas
 *All these criteria are flexible for the right team in the right market with the right approach.  If in doubt, [pitch me](/pitch-me)!*
 
 
-<br/>
-
 ----
 
 <br/>
@@ -46,8 +44,6 @@ title: Angel Investment Criteria · Abraham Thomas
 
 ❤️ Building a startup is hard. I seek **founders of character**: resourceful, resilient, optimistic, curious, ambitious, competitive, and committed.  If this is you, please [reach out](/pitch-me)! 
 
-
-<br/>
 
 ----
 
