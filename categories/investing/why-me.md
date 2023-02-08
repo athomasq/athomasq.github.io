@@ -16,13 +16,11 @@ My goal is to be the best investor on your cap table.  I don't write large chequ
 
 But don't just take my word for it.  Here are some testimonials from my portfolio founders:
 
-* *"Abraham is willing and able to provide advice that can be the tipping point for those difficult founder decisions. The nuance and detail that incorporates your unique business situation, the current market, and his own personal experiences is offered with swift confidence, which is the ultimate secret weapon for any founder.”"*
+* *"Abraham is willing and able to provide advice that can be the tipping point for those difficult founder decisions. The nuance and detail that incorporates your unique business situation, the current market, and his own personal experiences is offered with swift confidence, which is the ultimate secret weapon for any founder."*
 
 * *"Abraham is a great angel investor to work with. He's highly professional and always available for help. For anyone looking for capital, Abraham is an excellent addition to have on their cap table"*
 
 * *"Abraham has been our most responsive and helpful investor. He responds thoughtfully to every update, question and ask that we have, and takes the necessary action to make a positive impact on our business."*
-
-<br/>
 
 ----
 
@@ -40,8 +38,6 @@ I aim to be an investor who founders trust and can rely on.  This means:
 * **Alignment:** No zero-sum games; I win when you win.  
 * **Empathy:** I've been there, done that -- and I'm on your side.
 
-
-<br/>
 
 ----
 
@@ -68,8 +64,6 @@ I've worn lots of different hats as a founder; as a result I can help on almost 
 <!--🤝 **Resources and community:** I write regular memos for my portfolio founders, covering important market and macro trends, tactical and strategic advice, functional tips, and more.  My founders also form a supportive and friendly community that I foster.-->
 
 ❤️ **Empathy:** Being a founder is hard. As a founder who has been through the venture-backed journey myself, from inception to exit, I believe I can be more aligned, more insightful, and more empathetic about the challenges you face than most investors without that experience.
-
-<br/>
 
 ----
 
