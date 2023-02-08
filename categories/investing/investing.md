@@ -26,7 +26,7 @@ I'm an active angel investor in early-stage tech startups.
 
 
 **For other investors:**
-* [Portfolio companies](/portfolio)
+* [Portfolio companies](/portfolio-new)
 * [Portfolio performance](/performance)
 * [Investment themes and ideas](/thesis)
 * [Co-investing with me](/coinvest)
