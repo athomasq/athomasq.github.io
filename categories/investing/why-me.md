@@ -16,13 +16,13 @@ My goal is to be the best investor on your cap table.  I don't write large chequ
 
 But don't just take my word for it.  Here are some testimonials from my portfolio founders:
 
-* *"Abraham is willing and able to provide advice that can be the tipping point for those difficult founder decisions. The nuance and detail that incorporates your unique business situation, the current market, and his own personal experiences is offered with swift confidence, which is the ultimate secret weapon for any founder."*
+* *"Abraham is willing and able to provide advice that can be the tipping point for those difficult founder decisions. The nuance and detail that incorporates your unique business situation, the current market, and his own personal experiences is offered with swift confidence, which is **the ultimate secret weapon** for any founder."*
 
-* *"Abraham is a great angel investor to work with. He's highly professional and always available for help. For anyone looking for capital, Abraham is an excellent addition to have on their cap table"*
+* *"Abraham is **a great investor to work with**. He's highly professional and always available for help. For anyone looking for capital, Abraham is an excellent addition to have on their cap table"*
 
-* *"Abraham has been our most responsive and helpful investor. He responds thoughtfully to every update, question and ask that we have, and takes the necessary action to make a positive impact on our business."*
+* *"Abraham has been **our most responsive and helpful investor**. He responds thoughtfully to every update, question and ask that we have, and takes the necessary action to make a positive impact on our business."*
 
-* *"We have been extremely lucky to have found Abraham as an early angel investor in our company. He's been with us from right at the beginning and has consistently provided absolutely on-point advice at each stage, in the most hyper rational way which has been a massive assistance against the extreme highs and lows of running an early stage business. I've not only recommended, but actively encouraged other founders to work with Abraham as he brings so much more than just an investment."*"
+* *"We have been extremely lucky to have found Abraham as an early angel investor in our company. He's been with us from right at the beginning and has consistently provided **absolutely on-point advice** at each stage, in the most hyper rational way which has been a massive assistance against the extreme highs and lows of running an early stage business. I've not only recommended, but actively encouraged other founders to work with Abraham as he brings **so much more than just an investment**."*"
 
 
 ----
