@@ -12,9 +12,9 @@ title: Why Work With Me · Abraham Thomas
 
 ### Being The Best
 
-My goal is to be the best investor on your cap table.  I don't write large cheques, but I strive to offer the highest value relative to dollars invested.
+My goal is to be the best investor on your cap table.  I don't write large cheques, but I strive to offer the most value.
 
-But don't take my word for it.  Here are some testimonials from my portfolio founders:
+But don't just take my word for it.  Here are some testimonials from my portfolio founders:
 
 * *"asdf asdf asdf"*
 * *"jkl; jkl; jkl;"*
@@ -28,7 +28,7 @@ But don't take my word for it.  Here are some testimonials from my portfolio fou
 
 ### Guiding Principles
 
-I aim to be an investor who founders trust and can rely on, absolutely.  This means:
+I aim to be an investor who founders trust and can rely on.  This means:
 
 * **Support:** I'm a resource for you beyond just my dollars.
 * **Expertise:** I'm happy to share any knowledge I have.  
