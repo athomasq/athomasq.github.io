@@ -46,15 +46,15 @@ I'm fortunate to work with the following companies as an angel investor and/or a
 
 Between 2014 and 2017 I invested in a few startups in India:
 
-📺 [AdSparx](https://www.adsparx.com): video advertising tools [EXITED]  
-☀️ [Claro](https://www.claroenergy.in): solar-powered irrigation  
-🔬 [Doxper](http://doxper.com): digitizing health data  
-🌐 [i2e1](https://i2e1.com): distributed internet for everyone, everywhere  
-🚛 [Locus](https://locus.sh): last-mile logistics software [EXITED]  
-👁️ [Mad Street Den](https://www.madstreetden.com): computer vision for commerce  
-💊 [Wellthy](https://wellthytherapeutics.com): digital therapeutics  
-🏘️ FastFox: platform for real estate brokers [RIP]  
-🧰 Qyk: marketplace for local services [RIP]  
+📺 **[AdSparx](https://www.adsparx.com)**: video advertising tools [EXITED]  
+☀️ **[Claro](https://www.claroenergy.in)**: solar-powered irrigation  
+🔬 **[Doxper](http://doxper.com)**: digitizing health data  
+🌐 **[i2e1](https://i2e1.com)**: distributed internet for everyone, everywhere  
+🚛 **[Locus](https://locus.sh)**: last-mile logistics software [EXITED]  
+👁️ **[Mad Street Den](https://www.madstreetden.com)**: computer vision for commerce  
+💊 **[Wellthy](https://wellthytherapeutics.com)**: digital therapeutics  
+🏘️ **FastFox**: platform for real estate brokers [RIP]  
+🧰 **Qyk**: marketplace for local services [RIP]  
 
 
 ----
