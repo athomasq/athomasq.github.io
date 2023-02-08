@@ -72,6 +72,14 @@ Between 2014 and 2017 I invested in a few startups in India:
 😎 My portfolio companies have gone on to raise further funding from Sequoia, Tiger Global, Falcon Edge, GIC and others. 
 
 
+----
+
+<br/>
+
+[Back to Investing Page ↩](/investing)
+
+
+
 <!--
 In addition to investing directly in startups, I am an LP in and advisor to [GrowX Ventures](http://www.growxventures.com/), who I believe to be India's best seed-stage venture capital firm.  
 -->
