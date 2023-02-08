@@ -25,7 +25,7 @@ My angel investing career has had several distinct phases.  Combining them into 
 <br/>
 
 
-### Cohort 1: 2014 to 2017 (India)
+### Cohort I: 2014 to 2017 (India)
 
 I made my first arms-length angel investment in 2014, while running my own startup Quandl.  Over the next 3 years I invested in 8 more companies.  These were all small cheques into India-based startups, about half direct and half via syndicate.  I didn't follow any systematic strategy for selection or portfolio construction; this was a very *ad hoc* portfolio.
 
@@ -35,32 +35,34 @@ TVPI: **5.7**
 DPI: **3.7**  
 IRR: **39%**  
 
-**Key learnings:** power law outcomes; team and market above all else; deal mechanics matter; avoid competition.
+**Key learnings:** power law outcomes; team and market above all else; deal mechanics matter.
 
 ----
 
 <br/>
 
 
-### Cohort 2: 2019 to 2021 (global)
+### Cohort II: 2019 to 2021 (global)
 
 Between 2019 and 2021 I wrote 22 cheques into 14 companies, while running Quandl post its acquistion by Nasdaq.  These were slightly larger cheques, but with a different geographical focus than cohort 1: Canada, the US and Europe.  These investments were largely *ad hoc* initially, but were getting more intentinoal towards the end.
 
-Companies: **14**
-Cheques: **22**
-TVPI: **1.7**
-DPI: **0.1**
-IRR: **41%**
+Companies: **14**  
+Cheques: **22**  
+TVPI: **1.7**  
+DPI: **0.1**  
+IRR: **41%**  
 
-**Key learnings:** entry price matters; avoid both fomo and value investing; consensus decisions lead to mediocre outcomes; team and market still above all else.  
+**Key learnings:** entry price matters; avoid both fomo and value investing; consensus decisions lead to mediocre outcomes.  
 
 ----
 
 <br/>
 
-### Cohort 3: 2022 to present (global)
+### Cohort III: 2022 to present (global)
 
-Starting in 2022, I became more intentional about angel investing; this coincided with my moving on from Quandl and Nasdaq.  I now have a tighter thesis, portfolio model, and dealflow channels.  Statistics for this cohort are easy to calculate: no action, hence TVPI is 1, DPI is 0, and IRR is 0%.
+Starting in 2022, I became more intentional about angel investing; this coincided with my moving on from Quandl and Nasdaq.  I now have a tighter thesis, portfolio model, and dealflow channels.  
+
+Statistics for this cohort are easy to calculate: no action, hence TVPI is 1, DPI is 0, and IRR is 0%.
 
 **Key learnings:** differentiation matters; tech beats hype; trust your judgement.
 
