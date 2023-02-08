@@ -16,8 +16,10 @@ My goal is to be the best investor on your cap table.  I don't write large chequ
 
 But don't just take my word for it.  Here are some testimonials from my portfolio founders:
 
-* *"asdf asdf asdf"*
-* *"jkl; jkl; jkl;"*
+* *"Abraham is willing and able to provide advice that can be the tipping point for those difficult founder decisions. The nuance and detail that incorporates your unique business situation, the current market, and his own personal experiences is offered with swift confidence, which is the ultimate secret weapon for any founder.”"*
+
+* *"Abraham is a great angel investor to work with. He's highly professional and always available for help. For anyone looking for capital, Abraham is an excellent addition to have on their cap table"*
+
 * *"qwer qwer qwer"*
 
 <br/>
