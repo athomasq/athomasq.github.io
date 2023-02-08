@@ -34,7 +34,7 @@ I'm fortunate to work with the following companies as an angel investor and/or a
 📧 [Ubico](https://www.ubico.io): smart sales assistant  
 🎥 [Alchemic](https://www.alchemic.ca): cross-platform tools for creators  
 🤖 [Quandri](https://quandri.io): automation for insurance  
-🍅 [FarmTheory](https://www.farmtheory.in/home): marketplace for ugly produce  
+🍅 [FarmTheory](https://www.farmtheory.in/home): marketplace for ugly produce
 🥷 Stealth: stealthy mcstealthstartup  
 
 
@@ -51,7 +51,7 @@ Between 2014 and 2017 I invested in a few startups in India:
 🔬 [Doxper](http://doxper.com): digitizing health data
 🌐 [i2e1](https://i2e1.com): distributed internet for everyone, everywhere  
 🚛 [Locus](https://locus.sh): last-mile logistics software [EXITED]
-👁️ [Mad Street Den](https://www.madstreetden.com): computer vision AI  
+👁️ [Mad Street Den](https://www.madstreetden.com): computer vision for commerce  
 💊 [Wellthy](https://wellthytherapeutics.com): digital therapeutics  
 🏘️ FastFox: platform for real estate brokers 💀  
 🧰 Qyk: marketplace for local services 💀  

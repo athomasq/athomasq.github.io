@@ -30,11 +30,11 @@ I'm fortunate to work with the following companies as an angel investor and/or a
 🏗️ [Citylitics](https://citylitics.com)  
 🤝 [AcuSpire](https://acuspire.ai)  
 💡 [Getware](https://www.getware.ai)  
-🚚 Erly 💀  
+🚚 Erly [EXIT]  
 💳 [Klanto](https://www.klanto.com)  
 💵 [Requity](https://www.requityhomes.com)  
 🧾 [Syro](https://www.syro.com)  
-🎲 TriplePlay 💀  
+🎲 TriplePlay [EXIT]  
 🎼 [Composer](https://www.composer.trade)  
 🛒 [Arima](https://www.arimadata.com)  
 📧 [Ubico](https://www.ubico.io)  
