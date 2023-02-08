@@ -46,7 +46,7 @@ I'm fortunate to work with the following companies as an angel investor and/or a
 
 Between 2014 and 2017 I invested in a few startups in India:
 
-📺 **[AdSparx](https://www.adsparx.com)**: video advertising tools [EXITED]  
+📺 **AdSparx**: video advertising tools [EXITED]  
 ☀️ **[Claro](https://www.claroenergy.in)**: solar-powered irrigation  
 🔬 **[Doxper](http://doxper.com)**: digitizing health data  
 🌐 **[i2e1](https://i2e1.com)**: distributed internet for everyone, everywhere  
@@ -63,7 +63,7 @@ Between 2014 and 2017 I invested in a few startups in India:
 
 ### Portfolio Notes
 
-🌱 All the above investments were done at what would today (2022) be considered pre-seed stage: very early product with minimal or zero revenue.
+🌱 All the above investments were done at what would today (2023) be considered pre-seed stage: very early product with minimal or zero revenue.
 
 🧭 I invest only where I think I have an edge, in either dealflow or evaluation.  As a consequence, my portfolio tends to skew non-Bay Area, mostly B2B, and mostly under-represented or atypical founder profiles.
 
