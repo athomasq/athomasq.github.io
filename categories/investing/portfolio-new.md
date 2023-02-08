@@ -14,28 +14,28 @@ title: Portfolio · Abraham Thomas
 
 I'm fortunate to work with the following companies as an angel investor and/or advisor:
 
-🧠 [Daloopa](https://www.daloopa.com): next-gen financial modelling data  
-🏢 [Mero](https://mero.co): sensors for smart buildings  
-🛰 [Pixxel](https://www.pixxel.space): hyper-spectral imaging satellites  
-🌏 [Terra.do](https://terra.do): climate school and community  
-🖥️ [Setyl](https://www.setyl.com): inventory management for offices  
-🏫 [Canopy](https://www.canopyanalytics.com): data insights for property managers  
-🏡 [BuyProperly](https://buyproperly.ca): marketplace for fractional assets  
-🏗️ [Citylitics](https://citylitics.com): infrastructure data as a service  
-🤝 [AcuSpire](https://acuspire.ai): employment matching platform  
-💡 [Getware](https://www.getware.ai): surfacing implicit product insights  
-🚚 Erly: distributed fulfillment network 💀  
-💳 [Klanto](https://www.klanto.com): spend management platform  
-💵 [Requity](https://www.requityhomes.com): rent-to-own for real estate  
-🧾 [Syro](https://www.syro.com): B2B payments on crypto rails    
-🎲 TriplePlay: remote culture through games 💀  
-🎼 [Composer](https://www.composer.trade): rule-based investing platform  
-🛒 [Arima](https://www.arimadata.com): privacy-first marketing with synthetic data   
-📧 [Ubico](https://www.ubico.io): smart sales assistant  
-🎥 [Alchemic](https://www.alchemic.ca): cross-platform tools for creators  
-🤖 [Quandri](https://quandri.io): automation for insurance  
-🍅 [FarmTheory](https://www.farmtheory.in/home): marketplace for ugly produce
-🥷 Stealth: stealthy mcstealthstartup  
+🧠 **[Daloopa](https://www.daloopa.com)**: next-gen financial modelling data  
+🏢 **[Mero](https://mero.co)**: sensors for smart buildings  
+🛰 **[Pixxel](https://www.pixxel.space)**: hyper-spectral imaging satellites  
+🌏 **[Terra.do](https://terra.do)**: climate school and community  
+🖥️ **[Setyl](https://www.setyl.com)**: inventory management for offices  
+🏫 **[Canopy](https://www.canopyanalytics.com)**: data insights for property managers  
+🏡 **[BuyProperly](https://buyproperly.ca)**: marketplace for fractional assets  
+🏗️ **[Citylitics](https://citylitics.com)**: infrastructure data as a service  
+🤝 **[AcuSpire](https://acuspire.ai)**: employment matching platform  
+💡 **[Getware](https://www.getware.ai)**: surfacing implicit product insights  
+🚚 **Erly**: distributed fulfillment network [EXITED]      
+💳 **[Klanto](https://www.klanto.com)**: spend management platform  
+💵 **[Requity](https://www.requityhomes.com)**: rent-to-own for real estate  
+🧾 **[Syro](https://www.syro.com)**: B2B payments on crypto rails    
+🎲 **TriplePlay**: remote culture through games [EXITED]    
+🎼 **[Composer](https://www.composer.trade)**: rule-based investing platform  
+🛒 **[Arima](https://www.arimadata.com)**: privacy-first marketing with synthetic data   
+📧 **[Ubico](https://www.ubico.io)**: smart sales assistant  
+🎥 **[Alchemic](https://www.alchemic.ca)**: cross-platform tools for creators  
+🤖 **[Quandri](https://quandri.io)**: automation for insurance  
+🍅 **[FarmTheory](https://www.farmtheory.in/home)**: marketplace for ugly produce
+🥷 **Stealth**: stealthy mcstealthstartup  
 
 
 ----
@@ -48,13 +48,13 @@ Between 2014 and 2017 I invested in a few startups in India:
 
 📺 [AdSparx](https://www.adsparx.com): video advertising tools [EXITED]  
 ☀️ [Claro](https://www.claroenergy.in): solar-powered irrigation  
-🔬 [Doxper](http://doxper.com): digitizing health data
+🔬 [Doxper](http://doxper.com): digitizing health data  
 🌐 [i2e1](https://i2e1.com): distributed internet for everyone, everywhere  
-🚛 [Locus](https://locus.sh): last-mile logistics software [EXITED]
+🚛 [Locus](https://locus.sh): last-mile logistics software [EXITED]  
 👁️ [Mad Street Den](https://www.madstreetden.com): computer vision for commerce  
 💊 [Wellthy](https://wellthytherapeutics.com): digital therapeutics  
-🏘️ FastFox: platform for real estate brokers 💀  
-🧰 Qyk: marketplace for local services 💀  
+🏘️ FastFox: platform for real estate brokers [RIP]  
+🧰 Qyk: marketplace for local services [RIP]  
 
 
 ----
