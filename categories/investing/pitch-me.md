@@ -18,7 +18,7 @@ My goal with these guidelines is to **save time** for me and you:
 
 * I welcome cold emails!  **No need for a warm intro**.
 
-* Don't send me text, linked-in, whatsapp or twitter DMs; **I may not respond**. (And if I do, it will only be to ask that you move the conversation over to email.)
+* Don't send me text, LinkedIn, WhatsApp or Twitter messages; **I may not respond**. (And if I do, it will only be to ask that you move the conversation over to email.)
 
 * Send me a brief message along with a **deck or memo**.  No need to ask permission to send a deck.  
 
