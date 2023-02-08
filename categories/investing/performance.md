@@ -8,7 +8,7 @@ title: Portfolio Performance · Abraham Thomas
 
 ----
 
-*In the spirit of "building in public", I thought I'd share annual updates on my angel portfolio performance -- what's working and what's not.  This is not investment advice, nor is it an offer or solicitation to buy or sell securities or anything else.*
+*In the spirit of "building in public", I thought I'd share annual updates on my angel portfolio performance.  This is not investment advice, nor is it an offer or solicitation to buy or sell securities or anything else.*
 
 ---
 
