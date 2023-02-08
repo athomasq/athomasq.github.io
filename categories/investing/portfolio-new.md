@@ -34,7 +34,7 @@ I'm fortunate to work with the following companies as an angel investor and/or a
 📧 **[Ubico](https://www.ubico.io)**: smart sales assistant  
 🎥 **[Alchemic](https://www.alchemic.ca)**: cross-platform tools for creators  
 🤖 **[Quandri](https://quandri.io)**: automation for insurance  
-🍅 **[FarmTheory](https://www.farmtheory.in/home)**: marketplace for ugly produce
+🍅 **[FarmTheory](https://www.farmtheory.in/home)**: marketplace for ugly produce  
 🥷 **Stealth**: stealthy mcstealthstartup  
 
 
