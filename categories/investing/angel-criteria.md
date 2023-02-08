@@ -12,7 +12,7 @@ title: Angel Investment Criteria · Abraham Thomas
 
 ### Stages and Sectors
 
-🌱 I invest at **pre-seed and seed stage**. I may follow on *pro rata* in Series A or B rounds, but I rarely write first cheques at those stages.
+🌱 I invest at **pre-seed and seed stage**. I may follow on *pro rata* in Series A or B rounds, but I rarely write first cheques at those stages.  (I sometimes advise later stage companies iff they intersect with my areas of expertise.)
 
 📡 I like **B2B companies**, including vertical and horizontal software, B2B marketplaces, data and API businesses, platforms & infrastructure, systems of record, unglamorous plumbing, AI/ML tools, and anything involving network effects.  
 
