@@ -20,7 +20,7 @@ But don't just take my word for it.  Here are some testimonials from my portfoli
 
 * *"Abraham is a great angel investor to work with. He's highly professional and always available for help. For anyone looking for capital, Abraham is an excellent addition to have on their cap table"*
 
-* *"qwer qwer qwer"*
+* *"Abraham has been our most responsive and helpful investor. He responds thoughtfully to every update, question and ask that we have, and takes the necessary action to make a positive impact on our business."*
 
 <br/>
 
