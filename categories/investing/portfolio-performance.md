@@ -1,16 +1,62 @@
 ---
 layout: default
 permalink: /:basename/
-title: Portfolio · Abraham Thomas
+title: Portfolio Performance · Abraham Thomas
 ---
 
-## My Angel Portfolio
+## Investing in Public
 
 ----
 
+*In the spirit of "building in public", I thought I'd share annual updates on portfolio performance; what's working and what's not.  This is not investment advice, nor is it an offer or solicitation to buy or sell securities.*
+
+---
+
 <br/>
 
-### Current Portfolio: 2019 onwards
+### TLDR
+
+As of Dec 2022, my angel investments have an IRR of 49%.  I've made 29 investments, had 3 exits and 5 failures.  TVPI is x and DPI (the only metric that matters) is Y.
+
+My angel investing career has had several distinct phases.  Combining them into 1 portfolio (per the TLDR above) isn't as informative as breaking them into cohort.
+
+
+
+
+### Cohort 1: 2014 to 2017 -- 8 deals
+
+I made my first "arms-length" angel investment in 2014, while still running Quandl.  Over the next 3 years I made several more angel investments.  These were all small cheques into India-based startups, about half direct and half via syndicate.  I didn't follow any systematic strategy for either dealflow or selection; these were ad hoc investments.  Two notable companie in this cohort are Locus (Tiger, Falcon, GIC) and Mad Street (Sequoia.
+
+Investments
+DPI
+MOIC
+IRR
+Distrib
+
+
+### Cohrto 2: 2019 to 2021 -- 12 deals
+
+
+Between 2019 and 2021 I made a 14 invest,ents.  These were still small cheques, into startups in Canada, the US and Europe.  Still largeyl ad hoc but getting more intentional towards the end.  Companies in tis cohort include Daloopa
+
+Investments
+DPI
+MOIC
+IRR
+Distrib
+
+
+(Note that I didn't make any angel investments in 2018; we were busy selling Quandl.)
+
+
+### Cohort 3: 2022 to present -- 8 deals and counting
+
+Starting in 2022, I became more intentional about angel investing; this coincided with my moving on from Quandl / Nasdaq.  I now have a tighter thesis, portoflio model, and dealflow channels.  I still invest 
+
+
+
+Between 2014 and 2017, I invested in 
+
 
 I'm fortunate to work with the following companies as an angel investor or advisor:
 
@@ -48,14 +94,15 @@ I'm fortunate to work with the following companies as an angel investor or advis
 Between 2014 and 2017 I invested in a few startups in India:
 
 📺 **AdSparx**: video advertising tools [EXIT]  
+☀️ **[Claro](https://www.claroenergy.in)**: solar-powered irrigation  
 🔬 **[Doxper](http://doxper.com)**: digitizing health data  
 🌐 **[i2e1](https://i2e1.com)**: distributed internet for everyone, everywhere  
 🚛 **[Locus](https://locus.sh)**: last-mile logistics software [EXIT]  
 👁️ **[Mad Street Den](https://www.madstreetden.com)**: computer vision for commerce  
 💊 **[Wellthy](https://wellthytherapeutics.com)**: digital therapeutics  
+
 🏘️ **FastFox**: platform for real estate brokers [RIP]  
 🧰 **Qyk**: marketplace for local services [RIP]  
-🍽 **TableHero**: restaurant management software [RIP]  
 
 
 ----
