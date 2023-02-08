@@ -16,7 +16,7 @@ title: Portfolio Performance · Abraham Thomas
 
 ### TLDR
 
-As of Dec 2022, my angel investments have an IRR of 49%.  I've made 29 investments, with 3 exits and 5 failures; the remaining 21 companies are "live".
+As of Dec 2022, my angel investments have a blended IRR of 49%.  I've made 29 investments, with 3 exits and 5 failures; the remaining 21 companies are "live".
 
 My angel investing career has had several distinct phases.  Combining them into 1 portfolio isn't as informative as breaking them into cohorts, which I do in the next few sections.  These cohorts analogize nicely to "traditional" venture fund cycles.
 
