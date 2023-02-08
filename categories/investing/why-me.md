@@ -22,6 +22,9 @@ But don't just take my word for it.  Here are some testimonials from my portfoli
 
 * *"Abraham has been our most responsive and helpful investor. He responds thoughtfully to every update, question and ask that we have, and takes the necessary action to make a positive impact on our business."*
 
+* *"We have been extremely lucky to have found Abraham as an early angel investor in our company. He's been with us from right at the beginning and has consistently provided absolutely on-point advice at each stage, in the most hyper rational way which has been a massive assistance against the extreme highs and lows of running an early stage business. I've not only recommended, but actively encouraged other founders to work with Abraham as he brings so much more than just an investment."*"
+
+
 ----
 
 <br/>
@@ -61,7 +64,7 @@ I've worn lots of different hats as a founder; as a result I can help on almost 
 
 🌐 **Network effects:** Network effects businesses are hard to start, but extremely powerful at scale.  As the founder of a saas-enabled marketplace with multiple overlapping network effects, I have a lot of insight into the nuances of building and scaling such businesses.
 
-<!--🤝 **Resources and community:** I write regular memos for my portfolio founders, covering important market and macro trends, tactical and strategic advice, functional tips, and more.  My founders also form a supportive and friendly community that I foster.-->
+<!--🤝 **Resources and community:** I write regular memos for my portfolio founders, covering important market and macro trends, tactical and strategic tips, functional resources, and more; they tend to be more concrete and actionable than most "startup advice".  My founders also form a supportive and friendly community that I foster.-->
 
 ❤️ **Empathy:** Being a founder is hard. As a founder who has been through the venture-backed journey myself, from inception to exit, I believe I can be more aligned, more insightful, and more empathetic about the challenges you face than most investors without that experience.
 
