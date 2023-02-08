@@ -12,7 +12,7 @@ title: Portfolio · Abraham Thomas
 
 ### Current Portfolio: 2019 onwards
 
-I'm fortunate to work with the following companies as an angel investor and/or advisor:
+I'm fortunate to work with the following companies as an angel investor or advisor:
 
 🧠 **[Daloopa](https://www.daloopa.com)**: next-gen financial modelling data  
 🏢 **[Mero](https://mero.co)**: sensors for smart buildings  
@@ -24,12 +24,12 @@ I'm fortunate to work with the following companies as an angel investor and/or a
 🏗️ **[Citylitics](https://citylitics.com)**: infrastructure data as a service  
 🤝 **[AcuSpire](https://acuspire.ai)**: employment matching platform  
 💡 **[Getware](https://www.getware.ai)**: surfacing implicit product insights  
-🚚 **Erly**: distributed fulfillment network [EXITED]      
+🚚 **Erly**: distributed fulfillment network [EXIT]      
 💳 **[Klanto](https://www.klanto.com)**: spend management platform  
 💵 **[Requity](https://www.requityhomes.com)**: rent-to-own for real estate  
 🧾 **[Syro](https://www.syro.com)**: B2B payments on crypto rails    
-🎲 **TriplePlay**: remote culture through games [EXITED]    
-🎼 **[Composer](https://www.composer.trade)**: rule-based investing platform  
+🎲 **TriplePlay**: remote culture through games [EXIT]    
+🎼 **[Composer](https://www.composer.trade)**: rules-based investing for retail  
 🛒 **[Arima](https://www.arimadata.com)**: privacy-first marketing with synthetic data   
 📧 **[Ubico](https://www.ubico.io)**: smart sales assistant  
 🎥 **[Alchemic](https://www.alchemic.ca)**: cross-platform tools for creators  
@@ -37,6 +37,7 @@ I'm fortunate to work with the following companies as an angel investor and/or a
 🍅 **[FarmTheory](https://www.farmtheory.in/home)**: marketplace for ugly produce  
 🥷 **Stealth**: stealthy mcstealthstartup  
 
+<!-- For a more detailed description of these companies and why I invested, [click here](/portfolio-detailed).-->
 
 ----
 
@@ -46,11 +47,11 @@ I'm fortunate to work with the following companies as an angel investor and/or a
 
 Between 2014 and 2017 I invested in a few startups in India:
 
-📺 **AdSparx**: video advertising tools [EXITED]  
+📺 **AdSparx**: video advertising tools [EXIT]  
 ☀️ **[Claro](https://www.claroenergy.in)**: solar-powered irrigation  
 🔬 **[Doxper](http://doxper.com)**: digitizing health data  
 🌐 **[i2e1](https://i2e1.com)**: distributed internet for everyone, everywhere  
-🚛 **[Locus](https://locus.sh)**: last-mile logistics software [EXITED]  
+🚛 **[Locus](https://locus.sh)**: last-mile logistics software [EXIT]  
 👁️ **[Mad Street Den](https://www.madstreetden.com)**: computer vision for commerce  
 💊 **[Wellthy](https://wellthytherapeutics.com)**: digital therapeutics  
 🏘️ **FastFox**: platform for real estate brokers [RIP]  
