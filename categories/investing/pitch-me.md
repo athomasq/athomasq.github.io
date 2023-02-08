@@ -14,7 +14,7 @@ title: How To Pitch Me · Abraham Thomas
 
 My goal with these guidelines is to **save time** for me and you:
 
-* The best way to contact me is by **email: athos1@gmail.com** 
+* The best way to contact me is **email: athos1 at gmail dot com** 
 
 * I welcome cold emails!  **No need for a warm intro**.
 
