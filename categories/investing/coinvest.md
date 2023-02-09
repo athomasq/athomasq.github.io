@@ -1,10 +1,10 @@
 ---
 layout: default
 permalink: /:basename/
-title: Co-investing · Abraham Thomas
+title: Co-Investing · Abraham Thomas
 ---
 
-## Co-invest With Me
+## Co-Invest With Me
 
 ----
 
