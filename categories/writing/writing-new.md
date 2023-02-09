@@ -13,12 +13,16 @@ title: Writing · Abraham Thomas
 
 ### Where To Find My Writing
 
-For all my latest writing, subscribe to my newsletter [Pivotal](https://pivotal.substack.com/about).  Pivotal is an occasional newsletter of long-form essays on data, markets, investing, technology, startups and more.  It's good; [subscribe!](https://pivotal.substack.com/about)
+All my new writing can be found at [Pivotal](https://pivotal.substack.com/about), a newsletter of long-form essays on data, markets, investing, technology, startups and more.  It's good; [subscribe!](https://pivotal.substack.com/about)
 
 I've collected some of older essays on this page. I've also linked to some of my Twitter threads.  Enjoy! 
 
 
-### Latest Essays 
+----
+
+<br/>
+
+### ⏰ Latest Essays 
 
 *[The Perils of Prudence](https://pivotal.substack.com/p/the-perils-of-prudence)*  
 For startups, being prudent is the riskiest strategy of all.  A counter-intuitive truth involving polar exploration, migratory birds, board games and war.
@@ -27,14 +31,14 @@ For startups, being prudent is the riskiest strategy of all.  A counter-intuitiv
 What drives boom-bust cycles in private markets?  This article from early 2022 turned out to be remarkably prescient; it was picked up the [Financial Times](https://www.ft.com/content/077de7e3-e4e3-49d5-8a76-3cbbc4f492f5) and others.
 
 *[The Economics of Data Businesses](https://pivotal.substack.com/p/economics-of-data-biz)*  
-How data businesses start, grow, and dominate. I don't think I've ever received as many comments saying "finally! somebody nailed it!" as for this essay.
+How data businesses start, grow, and dominate. I don't think I've ever received as many comments saying "finally! somebody nailed it!" as I did for this essay.
 
 
 ----
 
 <br/>
 
-### On Startups and Technology
+### 📡 On Startups and Technology
 
 *[Ambition Should Be Made of Sterner Stuff](/sterner-stuff)*  
 In a memorable rallying cry, Marc Andreessen says "it's time to build".  But why haven't we been building?  What went wrong?
@@ -53,7 +57,7 @@ Older article with a click-baity title, but the thesis holds: software has the a
 
 <br/>
 
-### On Markets and Investing
+### 💹 On Markets and Investing
 
 *[Alfred Winslow Jones: the Hidden Architect of Modern Markets](/alfred-winslow-jones)*  
 Let me tell you all about Alfred Winslow Jones. You may not have heard of him, but he’s one of the most important financiers of the 20th century.
@@ -76,7 +80,7 @@ What does your counterparty know that you don't?
 
 <br/>
 
-### Anecdotes and Memoirs
+### 📚 Anecdotes and Memoirs
 
 *[Invasion!](/invasion)*  
 When I was 13 years old, I spent 3 days in the hold of a converted cargo ship, escaping a war zone with nothing more than what I could carry in a backpack. It was the best thing that ever happened to me.  
@@ -92,7 +96,7 @@ A brief history of progress in a niche but lucrative field: from paper and calcu
 
 <br/>
 
-### All Things Data
+### 📀 All Things Data
 
 *[So, You Want To Monetize Your Data](/so-you-want-to-monetize-your-data)*  
 A growing number of firms have business plans that revolve around "monetizing the data".  It's not that easy. 
@@ -111,7 +115,7 @@ Data behaves quite differently from other commodities, products and services -- 
 
 <br/>
 
-### On Thinking Well
+### 🧠 On Thinking Well
 
 
 *[A Fine Line Between Stupid and Clever](/a-fine-line-between-stupid-and-clever)*  
@@ -121,8 +125,9 @@ Everybody wants to be contrarian these days; they think it makes them look smart
 *[How To Be An Excellent Failure](/failure-modes)*  
 "Best practices" can be a trap. Functional excellence often breeds tunnel vision, and that way lies disaster.
 
-
-
+<br/>
+<br/>
+<br/>
 
 
 <!--
