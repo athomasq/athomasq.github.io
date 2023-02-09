@@ -11,7 +11,7 @@ title: Writing · Abraham Thomas
 <br/>
 
 
-### Where To Find My Writing
+### 🧭 Where To Find My Writing
 
 All my new writing can be found at [Pivotal](https://pivotal.substack.com/about), a newsletter of long-form essays on data, markets, investing, technology, startups and more.  It's good; [subscribe!](https://pivotal.substack.com/about)
 
