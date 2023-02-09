@@ -27,7 +27,7 @@ I work at the intersection of **data, markets, and technology**. Here are a few 
 
 ### Media
 
-🗞 My work, at Quandl and elsewhere, has been covered by the Wall Street Journal, the Financial Times, the Economist, CNBC, Bloomberg, Forbes, Business Insider, Quartz, the Globe and Mail (Canada) and many others. You can see a full list of articles [here](/press).
+🗞 My work has been covered by the Wall Street Journal, the Financial Times, the Economist, CNBC, Bloomberg, Forbes, Business Insider, Quartz, the Globe and Mail (Canada) and many others. You can see a full list of articles [here](/press).
 
 
 ----
@@ -63,7 +63,9 @@ I am an expert consultant on the topic of data, especially as it pertains to cap
 🛠 Transitioning from qualitative to quantitative methods  
 ⛷ Staying agile at scale via people, processes and technology  
 
-My clients are typically institutional investors: hedge funds, pension funds, sovereign wealth funds, venture capital firms, private equity firms etc.  To inquire about professional services, [email me](mailto:athos1@gmail.com).  
+My clients are typically institutional investors: hedge funds, pension funds, sovereign wealth funds, venture capital firms and private equity firms.  
+
+To inquire about professional services, [email me](mailto:athos1@gmail.com).  
 
 
 
@@ -78,8 +80,7 @@ My clients are typically institutional investors: hedge funds, pension funds, so
 
 Recent seminar venues include asset managers Winton, OTPP, CPPIB, UBS and Franklin Templeton; conferences include Strata, AI Trading, Princeton Quant, and Montgomery; and tech events include Toronto City Hall, TechTO, and the Toronto Stock Exchange. You can see a full list of talks [here](/talks).
 
-If you're interested in having me speak at your organization or event, [email me](mailto:athos1@gmail.com)
-
+To inquire about my speaking at your organization or event, [email me](mailto:athos1@gmail.com).
 
 
 ----
