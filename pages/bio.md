@@ -29,7 +29,7 @@ title: Bio · Abraham Thomas
 
 **I was 41** when Quandl was acquired by [Nasdaq](https://www.nasdaq.com/), in a successful and substantial exit.  
 
-**I'm 44 now**, and as always, excited for what the future holds!
+**I'm 45 now**, and as always, excited for what the future holds!
 
 ----
 

@@ -46,7 +46,7 @@ The optimist (and ex trader) in me says that every inefficiency is an opportunit
 
 I have a number of hobbies and interests that keep me pleasantly busy:
 
-📚 I'm an unapologetic [bibliophile](/library)  
+📚 I'm endlessly curious and an unapologetic [bibliophile](/library)  
 📷 I like to take [photographs](/gallery)  
 ✈️ I like to travel, both physically and [in spirit](/library/#travel-adventure--exploration)    
 🎲 I like to play Euro-style board games  

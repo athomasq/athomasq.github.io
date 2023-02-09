@@ -78,7 +78,7 @@ To inquire about professional services, [email me](mailto:athos1@gmail.com).
 
 👨‍🏫 I'm an experienced public speaker; my talks range from high-level keynotes for generalist audiences, to extremely concrete, actionable seminars on specific topics in data, markets and technology.  
 
-Recent seminar venues include asset managers Winton, OTPP, CPPIB, UBS and Franklin Templeton; conferences include Strata, AI Trading, Princeton Quant, and Montgomery; and tech events include Toronto City Hall, TechTO, and the Toronto Stock Exchange. You can see a full list of talks [here](/talks).
+Recent seminar venues include asset managers Winton, OTPP, CPPIB, UBS and Franklin Templeton; conferences include Strata, AI Trading, Princeton Quant, and Montgomery; and tech events include Toronto City Hall, TechTO, SaaStock, and the Toronto Stock Exchange. You can see a full list of talks [here](/talks).
 
 To inquire about my speaking at your organization or event, [email me](mailto:athos1@gmail.com).
 
