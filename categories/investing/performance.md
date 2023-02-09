@@ -16,9 +16,9 @@ title: Portfolio Performance · Abraham Thomas
 
 ### TLDR
 
-As of Dec 2022, my angel investments have a blended IRR of 49%.  I've invested in 29 companies, with 4 exits and 3 failures; the remaining 22 are "live".
+As of Dec 2022, my angel investments have a blended IRR of 49%.  I've invested in 29 companies, with 4 exits and 3 failures thus far.
 
-My angel investing career has had several distinct phases.  Combining them into 1 portfolio isn't as informative as breaking them into cohorts, which I do below.  These cohorts analogize nicely to "traditional" venture fund cycles.
+My angel investing career has had several distinct phases.  Combining them into a single portfolio isn't as informative as breaking them into cohorts, which I do below.  These cohorts analogize nicely to "traditional" venture fund cycles.
 
 ----
 
@@ -44,7 +44,7 @@ IRR: **39%**
 
 ### Cohort II: 2019 to 2021 (global)
 
-Between 2019 and 2021 I wrote 22 cheques into 14 companies, while running Quandl post its acquistion by Nasdaq.  These were slightly larger cheques, but with a different geographical focus than cohort I: Canada, the US and Europe.  These investments were largely *ad hoc* initially, but were getting more intentinoal towards the end.
+Between 2019 and 2021 I wrote 22 cheques into 14 companies, while running Quandl post its acquistion by Nasdaq.  These were slightly larger cheques, but with a different geographical focus than cohort I: Canada, the US and Europe.  These investments were somewhat *ad hoc* initially, but got more intentional towards the end.
 
 Companies: **14**  
 Cheques: **22**  
