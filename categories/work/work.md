@@ -20,6 +20,15 @@ I work at the intersection of **data, markets, and technology**. Here are a few 
 
 🎓 Studied Engineering Physics at IIT Bombay, India's top technology school. While there, I helped set up India's first campus data network, and won a bunch of awards, mostly for extra-curriculars and leadership.
 
+----
+
+<br/>
+
+
+### Media
+
+🗞 My work, at Quandl and elsewhere, has been covered by the Wall Street Journal, the Financial Times, the Economist, CNBC, Bloomberg, Forbes, Business Insider, Quartz, the Globe and Mail (Canada) and many others. You can see a full list of articles [here](/press).
+
 
 ----
 
@@ -28,7 +37,7 @@ I work at the intersection of **data, markets, and technology**. Here are a few 
 
 ### Board Roles
 
-🎯 I have served on and continue to serve on startup and private company boards.  Typically, these roles leverage my deep knowledge of data and network-effect businesses; my expertise in capital markets; my experience as a successful generalist founder; or some combination thereof.  
+🎯 I have served on and continue to serve on startup and private company boards.  Typically, these roles leverage my deep knowledge of data businesses; my expertise in capital markets; my experience as a successful generalist founder; or some combination thereof.  
 
 I'm availabe for additional board roles if the fit is right; [email me](mailto:athos1@gmail.com).  
 
@@ -69,17 +78,9 @@ My clients are typically institutional investors: hedge funds, pension funds, so
 
 Recent seminar venues include asset managers Winton, OTPP, CPPIB, UBS and Franklin Templeton; conferences include Strata, AI Trading, Princeton Quant, and Montgomery; and tech events include Toronto City Hall, TechTO, and the Toronto Stock Exchange. You can see a full list of talks [here](/talks).
 
-If you're interested in having me speak at your organization, [email me](mailto:athos1@gmail.com)
+If you're interested in having me speak at your organization or event, [email me](mailto:athos1@gmail.com)
 
 
-----
-
-<br/>
-
-
-### Media
-
-🗞 My work at Quandl has been covered by the Wall Street Journal, the Financial Times, the Economist, CNBC, Bloomberg, Forbes, Business Insider, Quartz, the Globe and Mail (Canada) and many others. You can see a full list of articles [here](/press).
 
 ----
 
