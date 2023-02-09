@@ -3,22 +3,30 @@
 - name: newline
 
 - name: Investing
-  link: /angel
+  link: /investing
 - name: Writing
   link: /writing
+- name: newline
+
+- name: Work
+  link: /work
+- name: Interests
+  link: /interests
 - name: newline
 
 - name: Library
   link: /library
 - name: Gallery
   link: /gallery
-- name: Talks
+- name: newline
+
+- name: Speaking
   link: /talks
+- name: Media
+  link: /press
 - name: newline
 
 - name: Bio
   link: /bio
-- name: Media
-  link: /press
 - name: Contact
   link: /contact
