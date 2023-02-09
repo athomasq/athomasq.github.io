@@ -30,7 +30,7 @@ I work at the intersection of **data, markets, and technology**. Here are a few 
 
 🎯 I have served on and continue to serve on startup and private company boards.  Typically, these roles leverage my deep knowledge of data and network-effect businesses; my expertise in capital markets; my experience as a successful generalist founder; or some combination thereof.  
 
-I'm availabe for additional board roles if the fit is right; please [email me](mailto:athos1@gmail.com).  
+I'm availabe for additional board roles if the fit is right; [email me](mailto:athos1@gmail.com).  
 
 
 ----
@@ -54,7 +54,7 @@ I am an expert consultant on the topic of data, especially as it pertains to cap
 🛠 Transitioning from qualitative to quantitative methods  
 ⛷ Staying agile through growth: people, processes, technology  
 
-My clients are typically institutional investors: hedge funds, pension funds, sovereign wealth funds, venture capital firms, private equity firms etc.  To inquire about professional services, please [email me](mailto:athos1@gmail.com).  
+My clients are typically institutional investors: hedge funds, pension funds, sovereign wealth funds, venture capital firms, private equity firms etc.  To inquire about professional services, [email me](mailto:athos1@gmail.com).  
 
 
 
@@ -69,7 +69,7 @@ My clients are typically institutional investors: hedge funds, pension funds, so
 
 Recent seminar venues include asset managers Winton, OTPP, CPPIB, UBS and Franklin Templeton; conferences include Strata, AI Trading, Princeton Quant, and Montgomery; and tech events include Toronto City Hall, TechTO, and the Toronto Stock Exchange. You can see a full list of talks [here](/talks).
 
-If you're interested in having me speak at your organization, please [email me](mailto:athos1@gmail.com)
+If you're interested in having me speak at your organization, [email me](mailto:athos1@gmail.com)
 
 
 ----
