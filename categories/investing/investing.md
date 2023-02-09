@@ -27,9 +27,10 @@ I'm an active angel investor in early-stage tech startups.
 **For others:**
 * [Portfolio companies](/portfolio-new)
 * [Portfolio statistics](/performance)
-* [Investment themes and ideas](/thesis)
+<!--* [Investment themes and ideas](/thesis)-->
+* Investment memos
 * [Co-investing with me](/coinvest)
-* Company memos ([email me](mailto:athos1@gmail.com))
+
 
 <br/>
 <br/>
