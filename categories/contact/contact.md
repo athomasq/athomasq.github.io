@@ -10,15 +10,13 @@ title: Contact · Abraham Thomas
 
 <br/>
 
+Email is the best way to reach me: **athos1 at gmail dot com** or click [here](mailto:athos1@gmail.com).  I read every email I receive, but I can't always promise a reply. 
 
-I enjoy meeting new people.
+To maximize your odds of a quick and positive response: be concise, be clear, be specific, offer two-way value if you can, and follow up once or twice but not more than that. 
 
-<img style="width:15px" src="/assets/img/email-icon.svg"> Email is the best way to [contact me](mailto:athos1@gmail.com).  
-<img style="width:15px" src="/assets/img/twitter-icon.svg"> I'm moderately active on [Twitter](https://twitter.com/athomasq).  
-<img style="width:15px" src="/assets/img/linkedin-icon.svg"> I also have a [LinkedIn profile](https://www.linkedin.com/in/athomasq/).  
-<img style="width:15px" src="/assets/img/coffee-icon.svg"> If you're in Toronto, I'd be happy to meet for a coffee.  
+Please don't message me on Twitter, LinkedIn, WhatsApp, or any other channel -- I'm unlikely to reply.
 
-To maximize your odds of a quick and positive response: be concise, be clear, be specific, offer two-way value if you can, and follow up once but not more than that. Thanks!
+Thanks!
 <br/>
 <br/>
 
