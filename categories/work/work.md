@@ -65,8 +65,21 @@ My clients are typically institutional investors: hedge funds, pension funds, so
 
 ### Speaking
 
-I'm an experienced public speaker; my talks range from high-level keynotes for generalist audiences, to extremely concrete, actionable seminars on specific topics in data, markets and technology.  If you're interested in having me speak at your organization, please [email me](mailto:athos1@gmail.com).  
+I'm an experienced public speaker; my talks range from high-level keynotes for generalist audiences, to extremely concrete, actionable seminars on specific topics in data, markets and technology.  
 
+Recent seminar venues include asset managers Winton, OTPP, CPPIB, UBS and Franklin Templeton; conferences include Strata, AI Trading, Princeton Quant, and Montgomery; and tech events include Toronto City Hall, TechTO, and the Toronto Stock Exchange. You can see a full list of talks [here](/talks).
+
+If you're interested in having me speak at your organization, please [email me](mailto:athos1@gmail.com)
+
+
+----
+
+<br/>
+
+
+### Media
+
+My work at Quandl has been covered by the Wall Street Journal, the Financial Times, the Economist, CNBC, Bloomberg, Forbes, Business Insider, Quartz, the Globe and Mail (Canada) and many others. You can see a full list of articles [here](/press).
 
 ----
 
