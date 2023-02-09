@@ -14,11 +14,11 @@ title: Interests · Abraham Thomas
 
 My professional interests lie at the intersection of **data, markets, and technology**.
 
-**Data:** As a species, we are defined by our ability to manipulate information: language, writing, software. It's not a coincidence that the word we associate most strongly with human evolutionary advantage — intelligence — means both raw data, and the capacity to act on it.
+📀 **Data:** As a species, we are defined by our ability to manipulate information: language, writing, software. It's not a coincidence that the word we associate most strongly with human evolutionary advantage — intelligence — means both raw data, and the capacity to act on it.
 
-**Markets:** Markets are the most effective and resilient mechanism we have found to solve a hard problem: how should society allocate resources in the face of incomplete information and uncertain outcomes?
+🏪 **Markets:** Markets are the most effective and resilient mechanism we have found to solve a hard problem: how should society allocate resources in the face of incomplete information and uncertain outcomes?
 
-**Technology:** Writing, agriculture, government, cities, money, industry: these and other technologies have impacted humanity in profound (and still evolving) ways. We're living through another technological revolution right now: software. And we've barely scratched the surface of what it can achieve.
+📡 **Technology:** Writing, agriculture, government, cities, money, industry: these and other technologies have impacted humanity in profound (and still evolving) ways. We're living through another technological revolution right now: software. And we've barely scratched the surface of what it can achieve.
 
 If you're also interested in these themes, I strongly recommend subscribing to my newsletter, [Pivotal](https://pivotal.substack.com/about).
 
@@ -34,8 +34,9 @@ Data can be noisy, messy or incomplete; more dangerously, it can be misleading, 
 
 Markets can be imperfect, incomplete, non-competitive, regulated, corrupt, captured, rigged or otherwise flawed.  Flawed markets lead to information errors, poor incentives and inequitable outcomes.  
 
-Technology is vulnerable to incompetence, malice, misuse, indifference, bias and unforeseen consequences.  
-The optimist (and ex trader) in me says that every inefficiency is an opportunity; the humanist in me cares for the individuals affected by these inefficiencies.  Using data-markets-technology to make the world a truly better place is not easy.
+Technology is vulnerable to incompetence, malice, misuse, indifference, bias and unforeseen consequences.
+
+The optimist (and ex trader) in me says that every inefficiency is an opportunity; the humanist in me cares for the individuals affected by these inefficiencies.  Using data-markets-technology to make the world a truly better place is not easy.  But what better way to spend one's life?
 
 ----
 
