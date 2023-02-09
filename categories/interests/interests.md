@@ -12,7 +12,7 @@ title: Interests · Abraham Thomas
 
 ### Professional 
 
-My professional interests lie at the intersection of **data, markets, and technology**.
+My professional interests lie at the intersection of data, markets, and technology.
 
 📀 **Data:** As a species, we are defined by our ability to manipulate information: language, writing, software. It's not a coincidence that the word we associate most strongly with human evolutionary advantage — intelligence — means both raw data, and the capacity to act on it.
 
