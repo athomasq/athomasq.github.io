@@ -30,7 +30,7 @@ How data businesses start, grow, and dominate. I don't think I've ever received 
 
 ### On All Things Data
 
-**[So, You Want To Monetize Your Data](/so-you-want-to-monetize-your-data)**  
+*[So, You Want To Monetize Your Data](/so-you-want-to-monetize-your-data)*  
 A growing number of firms have business plans that revolve around "monetizing the data".  It's not that easy. 
 
 **[High Frequency Macroeconomics](/covid-19-and-high-frequency-macro)**  
