@@ -16,7 +16,7 @@ I work at the intersection of **data, markets, and technology**. Here are a few 
 
 🚀 Founded Quandl, a SaaS-enabled B2B marketplace for data. We pioneered the category of [alternative data for finance](https://en.wikipedia.org/wiki/Alternative_data_(finance)), changing the industry along the way. Quandl was acquired by Nasdaq in 2018 in a successful and substantial exit.  
 
-📈 Early employee at Simplex Asset Management, a quant hedge fund. I built one of the bond market's first [algorithmic trading](https://en.wikipedia.org/wiki/Algorithmic_trading) systems, and headed US investing and operations for Simplex before retiring in 2007.
+📈 Early employee at Simplex Asset Management, a quant hedge fund. I built one of the bond market's first [algorithmic trading systems](https://en.wikipedia.org/wiki/Algorithmic_trading), and headed US investing and operations for Simplex before retiring in 2007.
 
 🎓 Studied Engineering Physics at IIT Bombay, India's top technology school. While there, I helped set up India's first campus data network, and won a bunch of awards, mostly for extra-curriculars and leadership.
 
@@ -61,7 +61,7 @@ I am an expert consultant on the topic of data, especially as it pertains to cap
 🏛️ Best practices in quantitative and quantamental investing  
 🛰️ Alternative data and untapped sources of edge  
 🛠 Transitioning from qualitative to quantitative methods  
-⛷ Staying agile through growth: people, processes, technology  
+⛷ Staying agile at scale via people, processes and technology  
 
 My clients are typically institutional investors: hedge funds, pension funds, sovereign wealth funds, venture capital firms, private equity firms etc.  To inquire about professional services, [email me](mailto:athos1@gmail.com).  
 
