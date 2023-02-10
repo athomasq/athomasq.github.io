@@ -18,7 +18,7 @@ I'm an active angel investor in early-stage tech startups.
 * [What I invest in](/angel-criteria)
 * [How to pitch me](/pitch-me)
 * [Why work with me](/why-me)
-* Founder resources
+<!--* Founder resources-->
 
 <br/>
 <br/>
@@ -26,9 +26,9 @@ I'm an active angel investor in early-stage tech startups.
 
 **For others:**
 * [Portfolio companies](/portfolio-new)
-* [Portfolio statistics](/performance)
+<!--* [Portfolio statistics](/portfolio-statistics)-->
 <!--* [Investment themes and ideas](/thesis)-->
-* Investment memos
+<!--* Investment memos-->
 * [Co-investing with me](/coinvest)
 
 

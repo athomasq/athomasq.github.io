@@ -1,22 +1,63 @@
 ---
 layout: default
 permalink: /:basename/
-title: Portfolio Performance · Abraham Thomas
+title: Portfolio Statistics · Abraham Thomas
 ---
 
 ## Investing in Public
 
 ----
 
-*In the spirit of "building in public", I thought I'd share annual updates on my angel portfolio performance.  This is not investment advice, nor is it an offer or solicitation to buy or sell securities or anything else.*
+*In the spirit of "building in public", I thought I'd share annual updates on my angel portfolio.  This is not investment advice, nor is it an offer or solicitation to buy or sell securities or anything else.*
+---
+
+<br/>
+
+### Overview
+
+I've angel invested in 29 companies, with 4 exits and 3 failures.
+
+My funnel over the last 12 months looks like this:
+
+* Decks reviewed: **372**
+* First call: **53**
+* Deep dives: **31**
+* Second call: **15**
+* Final diligence: **10**
+* Investments: **6** 
+
+My goal for 2023 is to see at least 500 companies, and hopefully make 8 investments.
 
 ---
 
 <br/>
 
-### TLDR
 
-As of Dec 2022, my angel investments have a blended IRR of 49%.  I've invested in 29 companies, with 4 exits and 3 failures thus far.
+<!--
+
+
+### Breakdowns
+
+Here are some ways to break down my portfolio:
+
+* By geography:
+* By stage: 11 pre-seed, 9 seed 
+* By sector: 
+* By demographic: 25 of 38 portfolio founders are from under-represented groups
+
+
+(Note that this includes the 20 companies in cohorts II and III, but not the 9 companies in cohort I; see below.)
+
+---
+
+<br/>
+
+-->
+
+
+### Performance
+
+As of Dec 2022, my angel investments have a blended IRR of 49%.  
 
 My angel investing career has had several distinct phases.  Combining them into a single portfolio isn't as informative as breaking them into cohorts, which I do below.  These cohorts analogize nicely to "traditional" venture fund cycles.
 
