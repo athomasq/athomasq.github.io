@@ -50,6 +50,15 @@ I aim to be an investor who founders trust and can rely on.  This means:
 
 ### Ways I Can Help
 
+<!--
+My secret sauce is that I spent a decade as the founder of a successful tech startup; but before that I spent another decade as a professional investor at a large hedge fund.  I think this combination is pretty unique, and it helps me help you more effectively.
+
+My investing experience helps you strategically: on resource allocation and business ; on financing and downstream investors; on competition, moats and ecosystem; on what it takes to win in the long term.  Here are some examples:
+
+My founder experience helps you *tactically*: on go-to-market, on positioning and story-telling; on data and API strategy; on culture and recruiting; and perhaps most important, with alignment and empathy.  Here are some examples:
+
+-->
+
 I've worn lots of different hats as a founder; as a result I can help on almost all operational aspects of early-stage startups. I’m especially strong on:  
 
 🧩 **Strategy:** Balancing growth rates and burn rates, team size and team speed; positioning for customers and investors; retaining optionality while seizing opportunity; and ultimately, maximizing your risk-adjusted expected value: these tasks are more important than ever in the current (2023) market environment.  
