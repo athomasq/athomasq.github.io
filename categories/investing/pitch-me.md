@@ -54,8 +54,6 @@ I try to reach investment decisions using no more than 2 meetings and 2 weeks of
 
 * I pass, or I commit to invest, and you accept using the [YC handshake protocol](https://www.ycombinator.com/handshake/).
 
-* You send me the **investment docs and wire instructions**; I sign them and wire the funds.
-
 Despite my best efforts, sometimes things slip; if I seem to drop the ball, please send me a nudge.  Also, please send calendar invites with links or locations for all meetings. 
 
 <br/>
