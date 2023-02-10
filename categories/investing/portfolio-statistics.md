@@ -16,7 +16,7 @@ title: Portfolio Statistics · Abraham Thomas
 
 ### Overview
 
-I've angel invested in 29 companies, with 4 exits and 3 failures.
+I've angel invested in 29 companies, with 4 exits, 3 failures, and 22 "live".
 
 My funnel over the last 12 months looks like this:
 
