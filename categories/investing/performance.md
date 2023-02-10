@@ -35,7 +35,7 @@ TVPI: **5.7**
 DPI: **3.7**  
 IRR: **39%**  
 
-**Key learnings:** power law outcomes; team and market above all else; deal mechanics matter.
+**Key learnings:** power law outcomes; team and market above all else; pay attention to deal mechanics; cash returned is the only metric.
 
 ----
 
@@ -64,7 +64,7 @@ Starting in 2022, I became more intentional about angel investing; this coincide
 
 Statistics for this cohort are easy to calculate: no action, hence TVPI is 1, DPI is 0, and IRR is 0%.
 
-**Key learnings:** differentiation matters; tech beats hype; trust your judgement.
+**Key learnings:** differentiation matters; tech beats hype; reason from first principles; trust your judgement.
 
 ----
 
