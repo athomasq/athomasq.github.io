@@ -25,10 +25,10 @@ I've collected some of older essays on this page. I've also linked to some of my
 ### ⏰ Latest Essays 
 
 *[The Perils of Prudence](https://pivotal.substack.com/p/the-perils-of-prudence)*  
-For startups, being prudent is the riskiest strategy of all.  A counter-intuitive truth involving polar exploration, migratory birds, board games and war.
+For startups, being prudent is the riskiest strategy of all.  A counter-intuitive explanation involving polar expeditions, migratory birds, board games and war.
 
 *[Minsky Moments in Venture Capital](https://pivotal.substack.com/p/minsky-moments-in-venture-capital)*  
-What drives boom-bust cycles in private markets?  This article from early 2022 turned out to be remarkably prescient; it was picked up the [Financial Times](https://www.ft.com/content/077de7e3-e4e3-49d5-8a76-3cbbc4f492f5) and others.
+What drives boom-bust cycles in private markets?  This essay from early 2022 offers some hypotheses that  turned out to be quite prescient.  As seen in the [Financial Times](https://www.ft.com/content/077de7e3-e4e3-49d5-8a76-3cbbc4f492f5)!
 
 *[The Economics of Data Businesses](https://pivotal.substack.com/p/economics-of-data-biz)*  
 How data businesses start, grow, and dominate. I don't think I've ever received as many comments saying "finally! somebody nailed it!" as I did for this essay.
