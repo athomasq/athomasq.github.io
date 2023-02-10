@@ -20,7 +20,7 @@ title: Angel Investment Criteria · Abraham Thomas
 
 ⚛️ I'm building competence in energy, space, bio, and other **deeptech**, especially where mediated by software and data.  I welcome pitches in those areas, even though I may not be ready to invest.
 
-🚀 I like to see genuine **technological or business model innovation**.  Solving hard problems is a valuable moat.
+🚀 I like to see genuine **technological innovation**.  Solving hard problems is a valuable moat.
 
 *All these criteria are flexible for the right team in the right market with the right approach.  If in doubt, [pitch me](/pitch-me)!*
 
@@ -34,7 +34,7 @@ title: Angel Investment Criteria · Abraham Thomas
 
 🔮 At the highest level, I invest in startups that are building **a future I want to be part of**, and I try to help them make that future a reality. Beyond that, there are no rules.
 
-🔥 **Team ability and macro trends** matter a lot to me. Big ideas, market pull and innovative tech are also important. Traction is a useful proxy; it validates these attributes. 
+🔥 **Team ability and macro tailwinds** matter a lot to me. Big ideas, market pull and innovative tech are also important. Traction is a useful proxy; it validates these attributes. 
 
 🌎 I'm **flexible on geography, industry, and business model**. I prefer B2B to consumer. About half my portfolio is in Canada, and half outside it.
 
