@@ -33,16 +33,13 @@ My goal for 2023 is to see at least 500 companies, and hopefully make 8 investme
 <br/>
 
 
-<!--
-
-
 ### Breakdowns
 
 Here are some ways to break down my portfolio:
 
-* By geography:
+* By geography: nominally 11 Canada, 9 global -- but most teams are distributed 
 * By stage: 11 pre-seed, 9 seed 
-* By sector: 
+* By sector: 5 MAD stack, 3 infrastructure, 3 fintech, 3 SaaS, 6 other
 * By demographic: 25 of 38 portfolio founders are from under-represented groups
 
 
@@ -51,8 +48,6 @@ Here are some ways to break down my portfolio:
 ---
 
 <br/>
-
--->
 
 
 ### Performance
@@ -70,13 +65,14 @@ My angel investing career has had several distinct phases.  Combining them into 
 
 I made my first arms-length angel investment in 2014, while running my own startup Quandl.  Over the next 3 years I invested in 8 more companies.  These were all small cheques into India-based startups, about half direct and half via syndicate.  I didn't follow any systematic strategy for selection or portfolio construction; this was a very *ad hoc* portfolio.
 
-Companies: **9**  
-Cheques: **14**  
-TVPI: **5.7**  
-DPI: **3.7**  
-IRR: **39%**  
+* Companies: **9**  
+* Cheques: **14**  
+* TVPI: **5.7**  
+* DPI: **3.7**  
+* IRR: **39%**  
 
-**Key learnings:** power law outcomes; team and market above all else; pay attention to deal mechanics; cash returned is the only metric.
+**Key learnings:** power law outcomes; pay attention to deal mechanics; DPI is more important than MOIC or IRR.
+
 
 ----
 
@@ -103,7 +99,7 @@ IRR: **41%**
 
 Starting in 2022, I became more intentional about angel investing; this coincided with my moving on from Quandl and Nasdaq.  I now have a tighter thesis, portfolio model, and dealflow channels.  
 
-Statistics for this cohort are easy to calculate: no action, hence TVPI is 1, DPI is 0, and IRR is 0%.
+Statistics for this cohort are easy to calculate: none of them have had financing events post my cheque, hence TVPI is 1, DPI is 0, and IRR is 0%.
 
 **Key learnings:** differentiation matters; tech beats hype; reason from first principles; trust your judgement.
 
