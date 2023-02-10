@@ -9,6 +9,7 @@ title: Portfolio Statistics · Abraham Thomas
 ----
 
 *In the spirit of "building in public", I thought I'd share annual updates on my angel portfolio.  This is not investment advice, nor is it an offer or solicitation to buy or sell securities or anything else.*
+
 ---
 
 <br/>
@@ -37,11 +38,10 @@ My goal for 2023 is to see at least 500 companies, and hopefully make 8 investme
 
 Here are some ways to break down my portfolio:
 
-* By geography: nominally 11 Canada, 9 global -- but most teams are distributed 
-* By stage: 11 pre-seed, 9 seed 
-* By sector: 5 MAD stack, 3 infrastructure, 3 fintech, 3 SaaS, 6 other
-* By demographic: 25 of 38 portfolio founders are from under-represented groups
-
+* Geography: 11 Canada, 9 global -- but most teams are distributed 
+* Stage: 11 pre-seed, 9 seed 
+* Sector: 5 MAD stack, 3 infrastructure, 3 fintech, 3 SaaS, 6 other
+* Demographics: 25 of 38 founders are from under-represented groups
 
 (Note that this includes the 20 companies in cohorts II and III, but not the 9 companies in cohort I; see below.)
 
@@ -83,11 +83,11 @@ I made my first arms-length angel investment in 2014, while running my own start
 
 Between 2019 and 2021 I wrote 22 cheques into 14 companies, while running Quandl post its acquistion by Nasdaq.  These were slightly larger cheques, but with a different geographical focus than cohort I: Canada, the US and Europe.  These investments were somewhat *ad hoc* initially, but got more intentional towards the end.
 
-Companies: **14**  
-Cheques: **22**  
-TVPI: **1.7**  
-DPI: **0.1**  
-IRR: **41%**  
+* Companies: **14**  
+* Cheques: **22**  
+* TVPI: **1.7**  
+* DPI: **0.1**  
+* IRR: **41%**  
 
 **Key learnings:** entry price matters; avoid both fomo and value investing; consensus decisions lead to mediocre outcomes.  
 
@@ -99,7 +99,7 @@ IRR: **41%**
 
 Starting in 2022, I became more intentional about angel investing; this coincided with my moving on from Quandl and Nasdaq.  I now have a tighter thesis, portfolio model, and dealflow channels.  
 
-Statistics for this cohort are easy to calculate: none of them have had financing events post my cheque, hence TVPI is 1, DPI is 0, and IRR is 0%.
+Statistics for this cohort are easy to calculate: none of them have had further financing events, hence TVPI is 1, DPI is 0, and IRR is 0%.
 
 **Key learnings:** differentiation matters; tech beats hype; reason from first principles; trust your judgement.
 
