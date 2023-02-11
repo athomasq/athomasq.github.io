@@ -15,7 +15,7 @@ title: Writing · Abraham Thomas
 
 All my new writing can be found at [Pivotal](https://pivotal.substack.com/about), a newsletter of long-form essays on data, markets, investing, technology, startups and more.  It's good; [subscribe!](https://pivotal.substack.com/about)
 
-I've collected some of older essays on this page. I've also linked to some of my Twitter threads.  Enjoy! 
+I've collected some of older essays on this page. I've also linked to some of my Twitter threads.  Popular articles are marked with a ✅.  Enjoy! 
 
 
 ----
@@ -24,13 +24,13 @@ I've collected some of older essays on this page. I've also linked to some of my
 
 ### ⏰ Latest Essays 
 
-*[The Perils of Prudence](https://pivotal.substack.com/p/the-perils-of-prudence)*  
+*[The Perils of Prudence](https://pivotal.substack.com/p/the-perils-of-prudence)*✅  
 For startups, being prudent is the riskiest strategy of all.  A counter-intuitive explanation involving polar expeditions, migratory birds, board games and war.
 
-*[Minsky Moments in Venture Capital](https://pivotal.substack.com/p/minsky-moments-in-venture-capital)*  
+*[Minsky Moments in Venture Capital](https://pivotal.substack.com/p/minsky-moments-in-venture-capital)*✅  
 What drives boom-bust cycles in private markets?  This essay from early 2022 offers some hypotheses that  turned out to be quite prescient.  As seen in the [Financial Times](https://www.ft.com/content/077de7e3-e4e3-49d5-8a76-3cbbc4f492f5)!
 
-*[The Economics of Data Businesses](https://pivotal.substack.com/p/economics-of-data-biz)*  
+*[The Economics of Data Businesses](https://pivotal.substack.com/p/economics-of-data-biz)*✅  
 How data businesses start, grow, and dominate. I don't think I've ever received as many comments saying "finally! somebody nailed it!" as I did for this essay.
 
 
@@ -40,7 +40,7 @@ How data businesses start, grow, and dominate. I don't think I've ever received 
 
 ### 📡 On Startups and Technology
 
-*[Ambition Should Be Made of Sterner Stuff](/sterner-stuff)*  
+*[Ambition Should Be Made of Sterner Stuff](/sterner-stuff)*✅  
 In a memorable rallying cry, Marc Andreessen says "it's time to build".  But why haven't we been building?  What went wrong?
 
 *[Aliens Among Us](/aliens)*  
@@ -57,9 +57,9 @@ Older article with a click-baity title, but the thesis holds: software has the a
 
 <br/>
 
-### 💹 On Markets and Investing
+### 📈 On Markets and Investing
 
-*[Alfred Winslow Jones: the Hidden Architect of Modern Markets](/alfred-winslow-jones)*  
+*[Alfred Winslow Jones: the Hidden Architect of Modern Markets](/alfred-winslow-jones)*✅  
 Let me tell you all about Alfred Winslow Jones. You may not have heard of him, but he’s one of the most important financiers of the 20th century.
 
 *[Explaining Rentec's Returns](/rentecs-returns)*  
@@ -82,7 +82,7 @@ What does your counterparty know that you don't?
 
 ### 📚 Anecdotes and Memoirs
 
-*[Invasion!](/invasion)*  
+*[Invasion!](/invasion)*✅  
 When I was 13 years old, I spent 3 days in the hold of a converted cargo ship, escaping a war zone with nothing more than what I could carry in a backpack. It was the best thing that ever happened to me.  
 
 *[The Accidental Investor](/the-accidental-investor)*  
@@ -122,7 +122,7 @@ Data behaves quite differently from other commodities, products and services -- 
 Everybody wants to be contrarian these days; they think it makes them look smart. But the thing about being truly contrarian is that it doesn’t make you look smart. It makes you look dumb.
 
 
-*[How To Be An Excellent Failure](/failure-modes)*  
+*[How To Be An Excellent Failure](/failure-modes)*✅  
 "Best practices" can be a trap. Functional excellence often breeds tunnel vision, and that way lies disaster.
 
 <br/>
