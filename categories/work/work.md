@@ -10,7 +10,7 @@ title: Work · Abraham Thomas
 
 <br/> 
 
-### Professional Career
+### 📊 Professional Career
 
 I work at the intersection of **data, markets, and technology**. Here are a few things I've done:
 
@@ -25,9 +25,9 @@ I work at the intersection of **data, markets, and technology**. Here are a few 
 <br/>
 
 
-### Media
+### 🗞 Media
 
-🗞 My work has been covered by the Wall Street Journal, the Financial Times, the Economist, CNBC, Bloomberg, Forbes, Business Insider, Quartz, the Globe and Mail (Canada) and many others. You can see a full list of articles [here](/press).
+My work has been covered by the Wall Street Journal, the Financial Times, the Economist, CNBC, Bloomberg, Forbes, Business Insider, Quartz, the Globe and Mail (Canada) and many others. You can see a full list of articles [here](/press).
 
 
 ----
@@ -35,9 +35,9 @@ I work at the intersection of **data, markets, and technology**. Here are a few 
 <br/>
 
 
-### Board Roles
+### 🎯 Board Roles
 
-🎯 I have served on and continue to serve on startup and private company boards.  Typically, these roles leverage my deep knowledge of data businesses; my expertise in capital markets; my experience as a successful generalist founder; or some combination thereof.  
+I have served on and continue to serve on startup and private company boards.  Typically, these roles leverage my deep knowledge of data businesses; my expertise in capital markets; my experience as a successful generalist founder; or some combination thereof.  
 
 I'm availabe for additional board roles if the fit is right; [email me](mailto:athos1@gmail.com).  
 
@@ -47,7 +47,7 @@ I'm availabe for additional board roles if the fit is right; [email me](mailto:a
 <br/>
 
 
-### Consulting and Advisory
+### 🧭 Consulting and Advisory
 
 I am an expert consultant on the topic of data, especially as it pertains to capital markets and financial services.  Topics I regularly advise on include:
 
@@ -74,9 +74,9 @@ To inquire about professional services, [email me](mailto:athos1@gmail.com).
 <br/>
 
 
-### Speaking
+### 👨‍🏫 Speaking
 
-👨‍🏫 I'm an experienced public speaker; my talks range from high-level keynotes for generalist audiences, to extremely concrete, actionable seminars on specific topics in data, markets and technology.  
+I'm an experienced public speaker; my talks range from high-level keynotes for generalist audiences, to extremely concrete, actionable seminars on specific topics in data, markets and technology.  
 
 Recent seminar venues include asset managers Winton, OTPP, CPPIB, UBS and Franklin Templeton; conferences include Strata, AI Trading, Princeton Quant, and Montgomery; and tech events include Toronto City Hall, TechTO, SaaStock, and the Toronto Stock Exchange. You can see a full list of talks [here](/talks).
 
