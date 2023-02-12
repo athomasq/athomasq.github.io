@@ -10,7 +10,7 @@ title: Interests · Abraham Thomas
 
 <br/> 
 
-### Professional 
+### 💻 Professional 
 
 My professional interests lie at the intersection of data, markets, and technology.
 
@@ -26,7 +26,7 @@ If you're also interested in these themes, I strongly recommend subscribing to m
 
 <br/>
 
-### Ethical
+### ⚖️ Ethical
 
 While I believe in the ability of markets, data and technology to make the world a better place, I'm also keenly aware of their limitations. 
 
@@ -42,7 +42,7 @@ The optimist (and ex trader) in me says that every inefficiency is an opportunit
 
 <br/>
 
-### Personal
+### ❤️ Personal
 
 I have a number of hobbies and interests that keep me pleasantly busy:
 

@@ -28,7 +28,7 @@ Books in **green**{: style="color: green"} are very good and recommended.  Books
 
 <br/>
 
-### Science & Mathematics
+### 🔬 Science & Mathematics
 - **One Two Three … Infinity**, George Gamow
 - **In Search of Schrodinger's Cat**, John Gribbin
 - **The Quark and the Jaguar**, Murray Gell-Mann
@@ -172,7 +172,7 @@ What can I say about GEB that hasn't been said by a thousand geeks before me?  N
 
 <br/>
 
-### History & Biography
+### 🗿 History & Biography
 - **The Epic of Latin America**, John Crow
 - **The Scramble for Africa**, Thomas Pakenham
 - **The Blue Nile**, Alan Moorehead
@@ -398,7 +398,7 @@ What can I say about GEB that hasn't been said by a thousand geeks before me?  N
 
 <br/>
 
-### Essays, Memoirs & Journalism
+### 📔 Essays, Memoirs & Journalism
 - **Rising from the Plains**, John McPhee
 - **In Suspect Terrain**, John McPhee
 - **Assembling California**, John McPhee
@@ -506,7 +506,7 @@ What can I say about GEB that hasn't been said by a thousand geeks before me?  N
 
 <br/>
 
-### Language & Music
+### 🎼 Language & Music
 - **The Joy of Lex**, Giles Brandreth
 - **More Joy of Lex**, Giles Brandreth
 - **The Joy of Cliches**, Nigel Rees
@@ -574,7 +574,7 @@ This is a terrific book and one of the top 5 non-fiction books I've ever read. (
 
 <br/>
 
-### Travel, Adventure & Exploration
+### 🧳 Travel, Adventure & Exploration
 
 I have a minor obsession with collecting travel books. I doubt I'll visit all or even a tenth of all the places I want to visit, but I can read about them... 
 
@@ -1107,7 +1107,7 @@ I have a minor obsession with collecting travel books. I doubt I'll visit all or
 
 <br/>
 
-### Fiction
+### 🎭 Fiction
 - **Things Fall Apart**, Chinua Achebe
 - **No Longer At Ease**, Chinua Achebe
 - **Arrow of God**, Chinua Achebe
