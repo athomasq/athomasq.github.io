@@ -16,7 +16,7 @@ I'm fortunate to be an investor in the following companies:
 
 🧠 **[Daloopa](https://www.daloopa.com)**: next-gen financial modelling data  
 🏢 **[Mero](https://mero.co)**: sensors for smart buildings  
-<!--🛰 **[Pixxel](https://www.pixxel.space)**: hyper-spectral imaging satellites-->  
+<!--🛰 **[Pixxel](https://www.pixxel.space)**: hyper-spectral imaging satellites  -->
 🌏 **[Terra.do](https://terra.do)**: climate school and community  
 🖥️ **[Setyl](https://www.setyl.com)**: inventory management for offices  
 🏫 **[Canopy](https://www.canopyanalytics.com)**: data insights for property managers  
@@ -29,7 +29,7 @@ I'm fortunate to be an investor in the following companies:
 💵 **[Requity](https://www.requityhomes.com)**: rent-to-own for real estate  
 🧾 **[Syro](https://www.syro.com)**: B2B payments on crypto rails    
 🎲 **TriplePlay**: remote culture through games [EXIT]    
-<!--🎼 **[Composer](https://www.composer.trade)**: rules-based investing for retail-->  
+<!--🎼 **[Composer](https://www.composer.trade)**: rules-based investing for retail  -->  
 🛒 **[Arima](https://www.arimadata.com)**: privacy-first marketing with synthetic data   
 📧 **[Ubico](https://www.ubico.io)**: smart sales assistant  
 🎥 **[Alchemic](https://www.alchemic.ca)**: cross-platform tools for creators  
