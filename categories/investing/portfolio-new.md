@@ -24,12 +24,12 @@ I'm fortunate to be an investor in the following companies:
 🏗️ **[Citylitics](https://citylitics.com)**: infrastructure data as a service  
 🤝 **[AcuSpire](https://acuspire.ai)**: employment matching platform  
 💡 **[Getware](https://www.getware.ai)**: surfacing implicit product insights  
-🚚 **Erly**: distributed fulfillment network [EXIT]      
+🚚 **Erly**: distributed fulfillment network [EXIT]  
 💳 **[Klanto](https://www.klanto.com)**: spend management platform  
 💵 **[Requity](https://www.requityhomes.com)**: rent-to-own for real estate  
-🧾 **[Syro](https://www.syro.com)**: B2B payments on crypto rails    
-🎲 **TriplePlay**: remote culture through games [EXIT]    
-<!--🎼 **[Composer](https://www.composer.trade)**: rules-based investing for retail  -->  
+🧾 **[Syro](https://www.syro.com)**: B2B payments on crypto rails  
+🎲 **TriplePlay**: remote culture through games [EXIT]  
+<!--🎼 **[Composer](https://www.composer.trade)**: rules-based investing for retail  -->
 🛒 **[Arima](https://www.arimadata.com)**: privacy-first marketing with synthetic data   
 📧 **[Ubico](https://www.ubico.io)**: smart sales assistant  
 🎥 **[Alchemic](https://www.alchemic.ca)**: cross-platform tools for creators  
