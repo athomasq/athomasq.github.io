@@ -54,7 +54,7 @@ I aim to be an investor who founders trust and can rely on.  This means:
 
 ### Ways I Can Help
 
-My secret sauce is that I spent a decade as the founder of a successful tech startup; but before that I spent another decade as a professional investor at a large hedge fund.  I think this combination is pretty unique, and it helps me help you more effectively.
+My secret sauce is that I spent a decade as the founder of a successful tech startup; but before that I spent another decade as a professional investor at a large hedge fund.  I think this combination is pretty unique, and it lets me help you more effectively.
 
 #### 🌎 Strategy
 
