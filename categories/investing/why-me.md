@@ -74,11 +74,11 @@ My investing experience helps you *strategically*: on resource allocation and bu
 
 My founder experience helps you *tactically*: on go-to-market, on positioning and story-telling; on data and API strategy; on culture and recruiting; and perhaps most important, with alignment and empathy.  I've worn lots of different hats as a founder; as a result I can help on almost all operational aspects of early-stage startups.  Here are some examples:
 
-* **Go-to-market:** A great product won't change the world unless it's matched with great distribution. And modern distribution is complex: inbound, outbound, bottom-up, top-down, pincer, product-driven, sales-driven, community-driven, channel-driven, hybrid -- there are so many interacting options. I can help you navigate them.
+* **Go-To-Market:** A great product won't change the world unless it's matched with great distribution. And modern distribution is complex: inbound, outbound, bottom-up, top-down, pincer, product-driven, sales-driven, community-driven, channel-driven, hybrid -- there are so many interacting options. I can help you navigate them.
 
-* **Data and API strategy**: I know the modern data ecosystem well, and can help on almost every aspect of data in your organization: business and commercial strategy, infrastructure and technical choices, benefits and limitations of data, building effective data teams, and more.
+* **Data and API Strategy**: I know the modern data ecosystem well, and can help on almost every aspect of data in your organization: business and commercial strategy, infrastructure and technical choices, benefits and limitations of data, building effective data teams, and more.
 
-* **Network effects:** Network effects businesses are hard to start, but extremely powerful at scale.  As the founder of a saas-enabled marketplace with multiple overlapping network effects, I have a lot of insight into the nuances of building and scaling such businesses.
+* **Network Effects:** Network effects businesses are hard to start, but extremely powerful at scale.  As the founder of a saas-enabled marketplace with multiple overlapping network effects, I have a lot of insight into the nuances of building and scaling such businesses.
 
 <!--🤝 **Resources and community:** I write regular memos for my portfolio founders, covering important market and macro trends, tactical and strategic tips, functional resources, and more; they tend to be more concrete and actionable than most "startup advice".  My founders also form a supportive and friendly community that I foster.-->
 
