@@ -12,7 +12,7 @@ title: Why Work With Me · Abraham Thomas
 
 ### Being The Best
 
-My goal is to be the best investor on your cap table.  I don't write large cheques, but I strive to offer the most value.
+My goal is to be the best investor on your cap table, period.  
 
 But don't just take my word for it.  Here are some testimonials from my portfolio founders:
 
