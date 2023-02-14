@@ -16,7 +16,7 @@ title: Angel Investment Criteria · Abraham Thomas
 
 📡 I like **B2B companies**, including vertical and horizontal software, B2B marketplaces, data and API businesses, platforms & infrastructure, systems of record, unglamorous plumbing, AI/ML tools, and anything involving network effects.  
 
-🛍 I generally **steer clear of consumer businesses**, D2C ecommerce, edtech, healthcare, productivity, gaming, RE, silicon, security, cannabis and crypto.  You're welcome to pitch me if your startup falls in those categories, but I'm very unlikely to invest.
+🛍 I generally **steer clear of consumer businesses**, D2C ecommerce, healthcare, gaming, real estate, seed hedge funds, silicon, security, cannabis and crypto.  You're welcome to pitch me if your startup falls in those categories, but I'm very unlikely to invest.
 
 ⚛️ I'm building competence in energy, space, bio, and other **deeptech**, especially where mediated by software and data.  I welcome pitches in those areas, even though I may not be ready to invest.
 
