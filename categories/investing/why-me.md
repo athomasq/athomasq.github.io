@@ -26,7 +26,7 @@ But don't just take my word for it.  Here are some testimonials from my portfoli
 
 * *"When I have a hard problem, **I call Abraham**. He's experienced the same challenges first hand and survived. He truly puts the time and effort to making sure the founders he works with are successful."*
 
-* *"Working with Abraham as an investor has been a journey of **candid, thoughtful strategic advice**. As a founder himself, Abraham empathizes with the ups and downs in running a company.  We turn to him constantly at times of our most difficult decisions and lean on his experience.  He is **always genuine** and spends an outsized amount of time and effort with us."*"
+* *"Working with Abraham as an investor has been a journey of **candid, thoughtful strategic advice**. As a founder himself, Abraham empathizes with the ups and downs in running a company.  We turn to him constantly at times of our most difficult decisions and lean on his experience.  He is **always genuine** and spends an outsized amount of time and effort with us."*
 
 * *"A **world class teacher** for go to market, hiring, fundraising and messaging. He's been great at both diving into the details as well as thinking about the long term strategic view. Any B2B founder would benefit greatly from working with him."*
 
