@@ -38,9 +38,9 @@ title: Angel Investment Criteria · Abraham Thomas
 
 🌎 I'm **flexible on geography, industry, and business model**. I prefer B2B to consumer. About half my portfolio is in Canada, and half outside it.
 
-🐶 I like both overdogs with **unfair advantages**, and underdogs who are **scrappy, resilient, resourceful**. I invest in both 'brave new world" startups and 'faster better cheaper' startups. 
+🐶 I like both overdogs with **earned unfair advantages**, and underdogs who are **scrappy, resilient, resourceful**. I invest in both 'brave new world' startups and 'faster better cheaper' startups. 
 
-👥 I don't care who else is investing. I welcome atypical founders and unusual stories. What matters is your **competence and motivation**.  
+<!-- 👥 I don't care who else is investing. I welcome atypical founders and unusual stories. What matters is your **competence and motivation**.  -->
 
 ❤️ Building a startup is hard. I seek **founders of character**: resourceful, resilient, optimistic, curious, ambitious, competitive, and committed.  If this is you, please [reach out](/pitch-me)! 
 
