@@ -7,7 +7,7 @@ title: Investor Updates
 
 ----
 
-*At Quandl, we did not send out regular investor updates until after our Series A.  This was a missed opportunity for us; I advise you not to make the same mistake.*
+*At Quandl (the startup I co-founded), we did not send out regular investor updates until after our Series A.  This was a missed opportunity for us; I advise you not to make the same mistake.*
 
 ----
 
@@ -78,15 +78,19 @@ I wouldn't include any valuation numbers or fund-raising target numbers in an in
 
 Don't overthink it.  Just add a line at the beginning saying: "Although we haven't done so in the past, we'll be sending regular monthly updates from now on.  Here's the first one."  And don't feel obliged to constantly fill in your investors on the last 6 or 12 or 18 months of progress.  Monthly updates should reflect monthly events.  (Maybe in the very first update, you can have a section called "highlights of the last year", but that's about it.)
 
+<!--
 #### Should I send updates to friends and family investors?
 
 That's a nuanced question.  Sophisticated and experienced investors are fully aware of the challenges that almost all startups go through, and are not fazed by bad news; indeed, they want to hear it early.  But friends and family, who are betting their hard-earned savings on you personally -- I understand that you may not want to spook them.  For them, it may make sense to just send a quarterly or even an annual update, just to keep them in the loop, and not expecting any response or input or help.  This, like much else, is ultimately a judgement call. 
+-->
 
 #### Are there any exceptions to the above guidelines?
 
 These guidelines are for pre-seed and seed stage companies.  Once you've raised a Series A and have a formal board, all of this becomes obsolete and will be replaced by whatever communication cadence you agree upon with your new investors.  (But many of the habits you develop via these updates will serve you in good stead at that time).
 
-#### Do you think it's worthwhile to add potential investors who aren't in this round to our investor updates? For example, we've been introduced to a few A firms, or Seed & A firms, who have not invested in this round but want to stay updated. Do you think we should add them to investor updates or keep it more personal and just check in every once in a while?
+#### Do you think it's worthwhile to add potential investors who aren't in this round to our investor updates? 
+
+(For example, we've been introduced to a few A firms, or Seed & A firms, who have not invested in this round but want to stay updated. Do you think we should add them to investor updates or keep it more personal and just check in every once in a while?)
 
 My instinct is to not add them to the standard monthly investor update, but instead send a more personalized update once every 3-6 months or so, to a selected subset.  
 
@@ -98,7 +102,7 @@ That being said, maximizing valuation is not the most important goal for a found
 
 So my preferred solution is to create a small list of investors who you really like -- who would be your "dream investors" for the next round -- and send them quarterly updates.  Or you can send them suitably redacted versions of the monthly updates if you prefer -- whatever makes sense (and is less work) for you.  But don't send updates to everyone who ever expressed interest -- that's just not efficient use of your time, and there's also a risk of becoming "too exposed" -- everyone wants to feel like they are the only ones with access to the next hot deal, they don't want to be just one of 50 people getting the same carbon copy update.  That's why personalization also helps.
 
-For what it's worth -- our Series B was a pre-emptive round that happened thanks to "lines not dots".  We were introduced to a firm around the time of our Series A -- they were interested but couldn't move fast enough.  But I liked them and they liked me, so I met them next time I was in California, and I spoke to the partner every 6 months or so.  I called him shortly after we launched our marketplace (big step forward for the business) and even though we had lots of cash in the bank and weren't raising, he said -- "I've seen enough, I want to lead your Series B right now" (not in exactly those words, but that was the gist).  So it can totally work!  And he was a great investor to have on board.  BUT we didn't really pitch anyone else or do a competitive auction, so I know we didn't maximize valuation.  
+<!--For what it's worth -- our Series B was a pre-emptive round that happened thanks to "lines not dots".  We were introduced to a firm around the time of our Series A -- they were interested but couldn't move fast enough.  But I liked them and they liked me, so I met them next time I was in California, and I spoke to the partner every 6 months or so.  I called him shortly after we launched our marketplace (big step forward for the business) and even though we had lots of cash in the bank and weren't raising, he said -- "I've seen enough, I want to lead your Series B right now" (not in exactly those words, but that was the gist).  So it can totally work!  And he was a great investor to have on board.  BUT we didn't really pitch anyone else or do a competitive auction, so I know we didn't maximize valuation.  -->
 
 
 <br/>
