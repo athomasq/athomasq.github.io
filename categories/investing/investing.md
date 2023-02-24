@@ -29,7 +29,7 @@ I'm an active angel investor in early-stage tech startups.
 * [Portfolio statistics](/portfolio-statistics)
 <!--* [Investment themes and ideas](/thesis)-->
 <!--* Investment memos-->
-* [Co-investing with me](/coinvest)
+<!--* [Co-investing with me](/coinvest)-->
 
 
 <br/>
