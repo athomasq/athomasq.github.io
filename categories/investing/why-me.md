@@ -12,7 +12,7 @@ title: Why Work With Me · Abraham Thomas
 
 ### Being The Best
 
-My goal is to be the best investor on your cap table, period.  
+My goal is to be the best angel investor on your cap table.  
 
 But don't just take my word for it.  Here are some testimonials from my portfolio founders:
 
