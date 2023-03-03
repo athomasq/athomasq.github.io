@@ -14,6 +14,7 @@ title: Press · Abraham Thomas
 
 Here are some articles in which I'm quoted or featured:
 
+- [A Minsky Moment for Venture Capital](https://www.ft.com/content/077de7e3-e4e3-49d5-8a76-3cbbc4f492f5) - Financial Times [<small>pdf</small>](/assets/docs/FT-minsky.pdf)
 - [Alternative Data Comes of Age](https://www.cnbc.com/2019/04/23/alternative-data-comes-of-age.html) - CNBC [<small>pdf</small>](/assets/docs/CNBC-of-age.pdf)
 - [The Data Game](https://www.theglobeandmail.com/investing/article-quandl-and-the-invasive-use-of-data/) - Globe and Mail (Canada) [<small>pdf</small>](/assets/docs/GM-data-game.pdf)
 - [Alternative Data and Long-Term Investing](https://www.forbes.com/sites/michaelmolnar/2020/09/11/yes-alternative-data-is-useful-beyond-next-quarters-results/#1c5eae0a1ec5) - Forbes [<small>pdf</small>](/assets/docs/F-mm-interview.pdf)
