@@ -389,6 +389,9 @@ What can I say about GEB that hasn't been said by a thousand geeks before me?  N
 - **Churchill's Secret War**, Madhusree Mukerjee
 - **Legacy of Violence**, Caroline Elkins
 - **Slouching Towards Utopia**, Brad DeLong
+- **The Napoleonic Wars**, Alexander Mikaberidze
+- **Lords of the Horizons**, Jason Goodwin
+- **Osman's Dream**, Caroline Finkel
 
 [Back to Top ↩](/library#my-library)
 
