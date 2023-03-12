@@ -35,6 +35,7 @@ I'm fortunate to be an investor in the following companies:
 🎥 **[Alchemic](https://www.alchemic.ca)**: cross-platform tools for creators  
 🤖 **[Quandri](https://quandri.io)**: automation for insurance  
 🍅 **[FarmTheory](https://www.farmtheory.in/home)**: marketplace for ugly produce  
+🏩 **[Kordie](https://www.kordie.com)**: online learning for hospitality  
 🥷 **Stealth**: stealthy mcstealthstartup  
 
 <!-- For a more detailed description of these companies and why I invested, [click here](/portfolio-detailed).-->
