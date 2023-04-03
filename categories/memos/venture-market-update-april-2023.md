@@ -26,7 +26,7 @@ title: Venture Market Update - April 2023
 
 * Limited data points, but the typical round right now is 10-15M on 30-45M pre.  They say 1M ARR hurdle, but I suspect that most startups getting funded are a bit beyond that – 1.5 to 2ish.  So we’re looking at a 15x to 30x ARR multiple.  
 
-* That’s down a lot from the 100x seen in 2021, but it’s still above the 7x seen in public market comparables.  Obviously, publicly traded SaaS cos are much later stage and so growth is much lower, but still – either the public multiple has to expand to say 10x, or the A multiple has to contract to say 12x, for the market to equilibriate.  This imbalance is why the A market is currently a bit gridlocked.
+* That’s down a lot from the 100x seen in 2021, but it’s still above the 7x seen in public market comparables.  Obviously, publicly traded SaaS cos are much later stage and so growth is much lower, but still – either the public multiple has to expand to say 10x, or the A multiple has to contract to say 12x, for the market to equilibriate.  This imbalance is why the A market is currently gridlocked.
 
 <br/>
 
@@ -41,7 +41,7 @@ title: Venture Market Update - April 2023
 
 * To keep the door open for future rounds, try not to fall below 2x yoy – this is the widely accepted dividing line between “high-growth” and “zombie” companies (there doesn’t seem to be anything in between).  Also, if you can show that you have ability to grow a lot faster (than your current “efficient” level, whatever that is) with additional capital, then that’s very helpful.
 
-* Of course if you’re growing at 5x yoy in a hot market, then all of this is moot and you’ll likely be able to raise.  Unfortunately most of us are not in this fortunate situation.  
+* Of course if you’re growing at 5x yoy in a hot market, then all of this is moot and you’ll likely be able to raise.  Unfortunately most of us are not in this fortunate situation.  (Note that most of the companies that were growing 5-10x yoy at the peak of the bubble, were selling to other startups, equally flush with cash.  That kind of growth turned out to be unsustainable.)
 
 <br/>
 
@@ -49,12 +49,17 @@ title: Venture Market Update - April 2023
 
 * (strategic) In the current market environment, you can’t count on a Series A even if you do everything right.  Things could get better over the next 6-12 months, but they might not.  So on balance, this suggests putting more weight on a “plan B” – a path to profitability, where you control your own destiny.  Don’t be “Series A or bust”.
 
-* (strategic) When capital is cheap, it makes sense to follow the “venture trajectory” – raise large rounds and spend to grow.  This also enables business models which depend on financing to get off the ground.  But when capital gets expensive (e.g. right now), it’s worth thinking about whether the venture trajectory makes sense for your business and also for you as a founder.  There’s a lot to be said for growing at a steady rate, staying cash-efficient, and not diluting especially in today’s choppy market.  
+* (strategic) When capital is cheap, it makes sense to follow the “venture trajectory” – raise large rounds and spend to grow.  This also enables business models which depend on financing to get off the ground.  But when capital gets expensive (e.g. right now), it’s worth thinking about whether the venture trajectory makes sense for your business and also for you as a founder.  There’s a lot to be said for growing at a steady rate, staying cash-efficient, and not diluting, especially in today’s choppy market.  
 
-* (strategic) The danger scenario is the messy middle – companies who are growing okay, with okay efficiency.  In a “normal” venture environment (say 2015-2019), these companies will get funded – maybe not by a Benchmark or a Sequoia, but by someone.  Today, that’s not happening.  If this is you, take action now.  It’s hard to magically kindle growth, so maybe the action is figuring out how to get to breakeven with the cash you currently have.  Maybe raise a bridge round; maybe cut costs. 12 months of runway suddenly feels very limiting.
+* (strategic) The danger scenario is the messy middle – companies who are growing okay, with okay efficiency.  In a “normal” venture environment (say 2015-2019), these companies will get funded – maybe not by a Benchmark or a Sequoia, but by someone.  Today, that’s not happening.  If this is you, take action now.  It’s hard to magically kindle growth, so maybe the action is figuring out how to get to breakeven with the cash you currently have.  Maybe raise a bridge round; maybe cut costs. 6-12 months of runway suddenly feels very limiting.
 
-* (tactical) Be wary of meeting-itis.  Deals aren’t being done but VCs are taking lots of meetings “to get to know you”, to track your progress, hear your story, map the market whatever.  Be very disciplined about this – do not mistake an inbound inquiry for actual investment interest. 
+* (tactical) Be wary of meeting-itis.  Deals aren’t being done but VCs are taking lots of meetings “to get to know you”, to track your progress, hear your story, map the market, whatever.  Be very disciplined about this – do not mistake an inbound inquiry for actual investment interest. 
 
 * (tactical) Be wary of vultures and bottom feeders and opportunistic investors.  There are funds who are writing very predatory term sheets (low valuations, preference multiples, lots of structure and control) to companies who have no choice.  And there are late-stage companies who raised a bunch of cash in 2021 but don’t have the metrics to back that up, who are aggressively trying to acquire early-stage startups “on the cheap” in order to juice their own growth.   
+
+<br/>
+<br/>
+<br/>
+
 
 
