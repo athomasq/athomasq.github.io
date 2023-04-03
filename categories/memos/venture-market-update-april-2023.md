@@ -41,7 +41,7 @@ title: Venture Market Update - April 2023
 
 * To keep the door open for future rounds, try not to fall below 2x yoy – this is the widely accepted dividing line between “high-growth” and “zombie” companies (there doesn’t seem to be anything in between).  Also, if you can show that you have ability to grow a lot faster (than your current “efficient” level, whatever that is) with additional capital, then that’s very helpful.
 
-* Of course if you’re growing at 5x yoy in a hot market, then all of this is moot and you’ll likely be able to raise.  Unfortunately most of us are not in this fortunate situation.  (Note that most of the companies that were growing 5-10x yoy at the peak of the bubble, were selling to other startups, equally flush with cash.  That kind of growth turned out to be unsustainable.)
+* Of course if you’re growing at 5x yoy in a hot market, then all of this is moot and you’ll likely be able to raise.  Unfortunately most of us are not in this fortunate situation.  
 
 <br/>
 
