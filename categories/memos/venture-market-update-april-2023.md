@@ -45,7 +45,7 @@ title: Venture Market Update - April 2023
 
 <br/>
 
-### Thoughts and recommendations
+### Thoughts and Recommendations
 
 * (strategic) In the current market environment, you can’t count on a Series A even if you do everything right.  Things could get better over the next 6-12 months, but they might not.  So on balance, this suggests putting more weight on a “plan B” – a path to profitability, where you control your own destiny.  Don’t be “Series A or bust”.
 
@@ -56,6 +56,25 @@ title: Venture Market Update - April 2023
 * (tactical) Be wary of meeting-itis.  Deals aren’t being done but VCs are taking lots of meetings “to get to know you”, to track your progress, hear your story, map the market, whatever.  Be very disciplined about this – do not mistake an inbound inquiry for actual investment interest. 
 
 * (tactical) Be wary of vultures and bottom feeders and opportunistic investors.  There are funds who are writing very predatory term sheets (low valuations, preference multiples, lots of structure and control) to companies who have no choice.  And there are late-stage companies who raised a bunch of cash in 2021 but don’t have the metrics to back that up, who are aggressively trying to acquire early-stage startups “on the cheap” in order to juice their own growth.   
+
+<br/>
+
+### Added: State of the Series B Market
+
+Added new section on Series B.  I'm less familiar with this market than with Seed and Series A, so there's less data to back this up; please weight my observations accordingly.
+
+I'm seeing a few patterns at Series B:
+
+* Growth investors are bargain-shopping ie looking for cheap deals and offering aggressive terms.  This includes a lot of mid-market PE firms who now have a clear thesis: "Many of the high fliers of 2021 will become zombies -- 2 to 10M ARR growing 0-50% yoy, but not profitable -- this isn't enough to raise further venture capital.  This creates an opportunity for us to acquire them at 2-3x revenue, cut costs aggressively, maybe roll up a few adjacent firms, and then sell for 4-6x revenue in a few years".  Often, zombie companies have no choice but to accept their bid, because they have no cash and their VCs can't or won't bridge them.
+
+* Some of the startups that raised really big rounds in 2021-22 are now planning to make that money last 4-5 years (which is historically unprecedented).  They're not spending aggressively on growth; instead they're hoping that their revenue will grow organically to the point where (a) it offsets their burn = infinite runway and (b) it justifies their valuation.  
+
+* I'm seeing a fair bit of "tuck-in acquisition" -- a PE firm or growth equity firm acquires a zombie company OR they have already put money into a high-flier; now they desperately need to juice growth; so they're casting a wide net looking for early stage (pre Series A) startups that they can bolt on to the existing business.  I bet some of you have already fielded such inquiries.
+
+* Zooming out, the IPO window remains closed.  Until that window reopens, it's very hard for the late stage market to clear at "long-term rational" prices; instead you get all this kind of reshuffling and structure and game-playing.
+
+* My best guess is that the hurdle for a decent Series B remains 3-5M ARR growing >100% ie >2x yoy.  But with a heavy weight on profitability / runway, because of these game dynamics -- the best way to raise money is to show that you don't need it.  
+
 
 <br/>
 <br/>
