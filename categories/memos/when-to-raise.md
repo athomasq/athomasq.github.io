@@ -26,8 +26,6 @@ You should raise your next round:
 10.	Avoiding tweener valuations if possible
 
 
-----
-
 <br/>
 
 ### Detailed Memo: When To Raise Capital
@@ -36,7 +34,6 @@ When should you raise your next round?  If you’re running out of cash, you don
 
 You want to triangulate between the following imperatives:
 
-----
 
 <br/>
 
@@ -46,7 +43,6 @@ VCs love to invest – and therefore, you should try to raise – just after a m
 
 Playing the game in lookahead mode, you want to start thinking right now about what that inflection point (or points – could be multiple!) is and building towards that.  What is the one thing that maximally de-risks the business right now?  Solve that, and then make that solution / story the heart of your pitch. 
 
-----
 
 <br/>
 
@@ -60,7 +56,6 @@ What you don’t want to do is raise just because you’re running out of cash, 
 
 Note that ‘avenues to deploy cash’ is not quite the same as ‘use of funds’.  To me, ‘use of funds’ is like a budget – it lays out the functional areas where you will spend (X% on headcount, Y% on infra, Z% on marketing etc.).  ‘Avenues to deploy’ is more like ‘what will I achieve with this money’: if you give me this cash, I will hit these business milestones (ARR, growth, customer base etc.).  (These represent the next stage of de-risking for the business).   
 
-----
 
 <br/>
 
@@ -70,7 +65,6 @@ You want to raise from a position of financial strength: either 12+ months of ru
 
 (The standard advice used to be to raise when you have 6 months of runway, so as to bank as much growth as possible before hitting the road, but that’s changed.  In the current capital-constrained environment, 6 months doesn’t leave you enough margin of safety in case the macro environment stays soft, or fund-raising takes longer than expected.)
 
-----
 
 <br/>
 
@@ -81,13 +75,16 @@ Some inflection points are qualitative, but there are also some widely accepted 
 For a seed round, there’s no explicit traction benchmark, but there needs to be some sort of suggestive evidence that traction is on the way – a combination of team, market, technology, insight, angle of attack – mostly qualitative signals.
 
 For a Series B, the expectation is $3-5M ARR growing rapidly (2-3x year over year) but more importantly a scalable GTM that investors can deploy cash against – inside or enterprise sales, or paid marketing, or a network effect flywheel.  At this point PMF risk should largely be mitigated and it’s all about scaling with capital. 
-5. Industry Trends
+
+
+<br/>
+
+### 5. Industry Trends
 
 Industries go through warm and cold spells, and so do technologies.  If there’s market momentum behind the kind of stuff you do, it’s not a bad idea to capitalize on it.  It’s easier to raise money for an imperfect startup in a rising tide / thematically strong market, than it is to raise money for a fantastic startup that is swimming against the current.  (Yes, a lot of this is perception, but often, perception drives reality). 
 
 Be warned, however, that you should not try to shoehorn your company into the trend du jour.  That’s a really bad idea.  VCs often see founders sprinkle buzzwords (crypto AI fintech ML creator data whatever) into vanilla pitches, and it rarely works.  Let the trend come to you, and if it doesn’t, don’t worry about it.  But if it does, try to strike while the iron is hot.
 
-----
 
 <br/>
 
@@ -97,7 +94,6 @@ I don't advise trying to ‘time’ the market per se, but it's important to be 
 
 Conversely, when capital is abundant, fund-raising is (relatively) easy, and it makes sense to seize the opportunity.  Don’t over-optimize on valuation or round size; if you can get a good investor at a fair price on clean terms with a quick process, then do it, and get back to building your business.  When money is on the table, take it.  
 
-----
 
 <br/>
 
@@ -109,7 +105,6 @@ Nothing builds credibility like saying you're going to do something, and then do
 
 Having said all this, the majority of your pitches will still be to investors who you’re meeting for the first time, and there’s nothing wrong with that.  But if you have a few ‘dream investors’ that you want to court, try to meet them and set the stage 3-6 months in advance of your full-on fund-raising process.  (Longer if it’s a late stage deal).
 
-----
 
 <br/>
 
@@ -119,7 +114,6 @@ It's important to show momentum through your fund-raising process – you don't 
 
 Also be aware that Jul, Aug and the second half of Dec tend to be quiet times for VC deals, so don't start your fund-raising process on Jun 30th.  Investor seasonality matters too! 
 
-----
 
 <br/>
 
@@ -129,7 +123,6 @@ Fund-raising takes time, effort, and focus.  It pulls you away from actually bui
 
 Therefore, you should (1) spend as little time as possible on it – run a disciplined, calendar-bound process that keeps every investor in sync and moving forward – in the current market environment, I’d say 45-60 days max and (2) fund-raise when you are confident that the business can run without you for 2 months – this is a function of team and maturity.
 
-----
 
 <br/>
 
@@ -140,7 +133,6 @@ VC investment rounds tend to cluster at particular sizes / valuations: currently
 That being said, this is probably your least important consideration, especially as you move into later stage.  (Many Series A investors these days are large multi-stage funds who can write first cheques at anywhere from 1M to 5M in ARR).  
 
 
-----
 
 <br/>
 
