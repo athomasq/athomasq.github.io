@@ -14,9 +14,9 @@ title: Series A Benchmarks - Q4 2022
 
 There’s a tendency to think of Series A metrics as inputs to an IF statement:
 
-IF metrics  
-THEN get funded  
-ELSE don’t get funded  
+	IF metrics  
+	THEN get funded;  
+	ELSE don’t get funded;  
 
 I think this paints a deterministic, binary vision of the VC decision-making process that isn't very realistic.  The truth is more fluid.
 
@@ -29,7 +29,7 @@ At Series A, most VCs look for three underlying characteristics in a business:
 
 Unfortunately, it’s usually not possible to provide *direct* evidence of these characteristics.  So investors have to rely on *proxy signals* aka pattern-matching.
 
-The most common proxy signal or pattern is something like this: “1M ARR, growing 3x year-over-year, with efficient customer acquisition and strong retention”.
+The most common proxy signal or pattern is something like this: **“1M ARR, growing 3x year-over-year, with efficient customer acquisition and strong retention”**.
 
 Why is this a useful signal?  Because it’s very unlikely that a startup can exhibit all of these attributes unless they have the underlying characteristics (PMF-TAM-GTM) in place.  And the reason for that is that *these attributes pull in opposite directions*.  
 
@@ -43,17 +43,17 @@ Mind you, only the very best companies manage to hit everything perfectly.  More
 
 ----
 
-</br>
+<br/>
 
 
 ### Primary Metrics
 
 Here’s what you need to raise a Series A of 10M at a pre of 40-60M – my best estimate of where the market is as of Q4 2022.  I use letter grades:
 
-A = best in class
-B = very solid
-C = acceptable
-D = disqualifying
+A = best in class  
+B = very solid  
+C = acceptable  
+D = disqualifying  
 
 Almost no start-up has all As. 
 
@@ -77,7 +77,7 @@ Avoid Ds. If you have any Ds, you’ll find it hard to raise a Series A at this 
 
 ----
 
-</br>
+<br/>
 
 ### Secondary Metrics
 
@@ -92,10 +92,12 @@ SaaS Sales Metrics for a strong company:
 
 One final piece is length of sales cycle.  Of course, this depends on your ACV.  But here are what people would like to see:
 
-deal size	sales cycle	quota deals / yr	quota $ / yr
-SMB	5-20k	0-2 weeks	30-60	300-500k
-Mid-market	10-40k	2-6 weeks	15-30	500-700k
-Enterprise	80-200k	2-6 months	5-15	700k-1m
+|Category  |Deal Size|Sales Cycle|Quota: deals/year|Quota: dollars/year|
+|:---------|:-------:|:---------:|:---------------:|:-----------------:|
+|SMB       |5-20k    |0-2 weeks  |30-60            |300-500k           |
+|Mid market|10-40k   |2-6 weeks  |15-30            |500-700k           |
+|Enterprise|80-300k  |2-6 months |5-15             |700k-1m            |
+|Mega      |500k-5m  |6-12 months|1-2	           |1-2m               |
 
 
 Take all these secondary metrics with a hefty grain of salt!  I’m a lot less sure of these metrics than I am of the primary metrics, simply because each business is very different.  (E.g. if you’re a marketplace, or have a hardware component, or a data business).  
@@ -104,7 +106,7 @@ Also, a lot of these secondary metrics are likely to take a hit in the current e
 
 ----
 
-</br>
+<br/>
 
 ### Qualitative Metrics
 
@@ -124,7 +126,7 @@ Some of these are quantifiable but it’s hard to put a number on them from a fo
 
 ----
 
-</br>
+<br/>
 
 ### Other Rounds
 
