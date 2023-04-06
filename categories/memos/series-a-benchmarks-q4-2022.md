@@ -15,8 +15,8 @@ title: Series A Benchmarks - Q4 2022
 There’s a tendency to think of Series A metrics as inputs to an IF statement:
 
 	IF metrics  
-	THEN get funded;  
-	ELSE don’t get funded;  
+	THEN get funded  
+	ELSE don’t get funded  
 
 I think this paints a deterministic, binary vision of the VC decision-making process that isn't very realistic.  The truth is more fluid.
 
@@ -39,7 +39,7 @@ Similarly, you can get rapid growth with either strong PMF, or with aggressive (
 
 What it comes down to is an exercise in combining probabilities.  If all these attributes (1M, growth, efficiency, retention) are present simultaneously, it seems likely that the startup has strong PMF-TAM-GTM; and conversely, if the startup doesn’t have strong PMF-TAM-GTM, it’s very unlikely that it can hit all those attributes simultaneously.
 
-Mind you, only the very best companies manage to hit everything perfectly.  More often, “fundable” companies are good-to-great on 3-4 of these attributes and average-to-good on the others.  The VC’s job is to triangulate across all of these; the next section explains how.
+Mind you, only the very best companies manage to hit everything perfectly.  More often, “fundable” companies are good-to-great on 3-4 of these attributes and average-to-good on the others.  The VC’s job is to triangulate across all of these; your task as a founder is to make sure you satisfy that triangulation.  The next section explains how.
 
 ----
 
@@ -64,13 +64,13 @@ It’s okay to have one C among the Bs, but as a rough guideline every C needs t
 Avoid Ds. If you have any Ds, you’ll find it hard to raise a Series A at this valuation range.
 
 
-|Metric        |A = great|B = solid|C = acceptable|D = poor|
-|:-------------|:-------:|:-------:|:------------:|:------:|
-|ARR           |USD 1-5M |USD 1-3M |USD 800k      |USD 500k|
-|Growth y/y    |>5x      |3-5x     |2-3x          |<2x     |
-|NRR           |>120%    |100-120% |90-100%       |<90%    |
-|Burn Multiple |<1x      |1-2x     |2-3x          |>3x     |
-|Founder Equity|>80%     |60-80%   |40-60%        |<40%    |
+|Metric    |A = great|B = solid|C = okay|D = poor|
+|:---------|:-------:|:-------:|:------:|:------:|
+|ARR       |USD 1-5M |USD 1-3M |USD 800k|USD 500k|
+|Growth y/y|>5x      |3-5x     |2-3x    |<2x     |
+|NRR       |>120%    |100-120% |90-100% |<90%    |
+|Burn Mult |<1x      |1-2x     |2-3x    |>3x     |
+|Fndr Eqty |>80%     |60-80%   |40-60%  |<40%    |
 
 
 (Founder equity going into Series A is the one that people are sometimes surprised by.  But it’s becoming far less important than the others in this market environment.)
@@ -95,7 +95,7 @@ One final piece is length of sales cycle.  Of course, this depends on your ACV. 
 |Category  |Deal Size|Sales Cycle|Quota: deals/year|Quota: dollars/year|
 |:---------|:-------:|:---------:|:---------------:|:-----------------:|
 |SMB       |5-20k    |0-2 weeks  |30-60            |300-500k           |
-|Mid market|10-40k   |2-6 weeks  |15-30            |500-700k           |
+|Mid-market|10-40k   |2-6 weeks  |15-30            |500-700k           |
 |Enterprise|80-300k  |2-6 months |5-15             |700k-1m            |
 |Mega      |500k-5m  |6-12 months|1-2	           |1-2m               |
 
