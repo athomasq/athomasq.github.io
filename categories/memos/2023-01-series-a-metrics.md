@@ -43,10 +43,7 @@ What it comes down to is an exercise in combining probabilities.  If all these a
 
 Mind you, only the very best companies manage to hit everything perfectly.  More often, “fundable” companies are good-to-great on 3-4 of these attributes and average-to-good on the others.  The VC’s job is to triangulate across all of these; your task as a founder is to make sure you satisfy that triangulation.  The next section explains how.
 
-----
-
 <br/>
-
 
 ### Primary Metrics
 
@@ -65,6 +62,7 @@ It’s okay to have one C among the Bs, but as a rough guideline every C needs t
 
 Avoid Ds. If you have any Ds, you’ll find it hard to raise a Series A at this valuation range.
 
+----
 
 |Metric    |A = great|B = solid|C = okay|D = poor|
 |:---------|:-------:|:-------:|:------:|:------:|
@@ -74,10 +72,10 @@ Avoid Ds. If you have any Ds, you’ll find it hard to raise a Series A at this 
 |Burn Mult |<1x      |1-2x     |2-3x    |>3x     |
 |Fndr Eqty |>80%     |60-80%   |40-60%  |<40%    |
 
+----
+
 
 (Founder equity going into Series A is the one that people are sometimes surprised by.  But it’s becoming far less important than the others in this market environment.)
-
-----
 
 <br/>
 
@@ -94,6 +92,8 @@ SaaS Sales Metrics for a strong company:
 
 One final piece is length of sales cycle.  Of course, this depends on your ACV.  But here are what people would like to see:
 
+----
+
 |Category  |Deal Size|Sales Cycle|Quota: deals/year|Quota: dollars/year|
 |:---------|:-------:|:---------:|:---------------:|:-----------------:|
 |SMB       |5-20k    |0-2 weeks  |30-60            |300-500k           |
@@ -101,12 +101,12 @@ One final piece is length of sales cycle.  Of course, this depends on your ACV. 
 |Enterprise|80-300k  |2-6 months |5-15             |700k-1m            |
 |Mega      |500k-5m  |6-12 months|1-2	           |1-2m               |
 
+----
 
 Take all these secondary metrics with a hefty grain of salt!  I’m a lot less sure of these metrics than I am of the primary metrics, simply because each business is very different.  (E.g. if you’re a marketplace, or have a hardware component, or a data business).  
 
 Also, a lot of these secondary metrics are likely to take a hit in the current economic climate – longer sales cycles, higher churn rates etc. – so some VCs are recalibrating their expectations.  Others, unfortunately, are not.  
 
-----
 
 <br/>
 
@@ -126,8 +126,6 @@ Here are some things that people look at:
 Some of these are quantifiable but it’s hard to put a number on them from a founder’s POV.  But you should be aware of these criteria nonetheless.  To the extent that you can paper over weaknesses in your quantitative metrics, by using strengths in analogous or corresponding qualitative metrics, you should do so!
 
 
-----
-
 <br/>
 
 ### Other Rounds
@@ -142,8 +140,6 @@ And then Pre-Seed is even before that: at Pre-Seed, there’s no real evidence y
 <br/>
 
 ----
-
-<br/>
 
 [Back to Memos ↩](/memos)
 
