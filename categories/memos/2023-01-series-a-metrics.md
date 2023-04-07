@@ -1,10 +1,10 @@
 ---
 layout: default
 permalink: /:basename/
-title: How To Think About Your Series A Metrics
+title: How To Think About Series A Metrics
 ---
 
-## How To Think About Your Series A Metrics
+## How To Think About Series A Metrics
 
 ----
 
