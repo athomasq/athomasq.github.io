@@ -92,7 +92,7 @@ Be warned, however, that you should not try to shoehorn your company into the tr
 
 I don't advise trying to ‘time’ the market per se, but it's important to be aware of the general macro and fund-raising environment.  There are times when capital is abundant, and other times when it’s scarce.  When capital is scarce, fund-raising takes an enormous amount of time, effort, and focus – all of which would be better spent on building the business.  So if possible, avoid situations where you’re forced to raise in a capital-scarce environment (easier said than done I know). 
 
-Conversely, when capital is abundant, fund-raising is (relatively) easy, and it makes sense to seize the opportunity.  Don’t over-optimize on valuation or round size; if you can get a good investor at a fair price on clean terms with a quick process, then do it, and get back to building your business.  When money is on the table, take it.  
+Conversely, when capital is abundant, fund-raising is (relatively) easy, and it makes sense to seize the opportunity.  Don’t over-optimize on valuation or round size.  **If you can get a good investor at a fair price on clean terms with a quick process, do it**.  And then get back to building your business.  When money is on the table, take it.  
 
 
 <br/>
