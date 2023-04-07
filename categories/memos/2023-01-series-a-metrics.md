@@ -123,7 +123,7 @@ Here are some things that people look at:
 * Structural economics, growth model, efficiency, potential for compounding  
 * Defensibility, network effects, moats  
 
-Some of these are quantifiable but it’s hard to put a number on them from a founder’s POV.  But you should be aware of these criteria nonetheless. 
+Some of these are quantifiable but it’s hard to put a number on them from a founder’s POV.  But you should be aware of these criteria nonetheless.  To the extent that you can paper over weaknesses in your quantitative metrics, by using strengths in analogous or corresponding qualitative metrics, you should do so!
 
 
 ----
