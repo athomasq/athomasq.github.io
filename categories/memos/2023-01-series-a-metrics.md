@@ -1,16 +1,16 @@
 ---
 layout: default
 permalink: /:basename/
-title: Series A Benchmarks - Q4 2022
+title: How To Think About Your Series A Metrics
 ---
 
-## Series A Benchmarks - Q4 2022
+## How To Think About Your Series A Metrics
 
 ----
 
 <br/>
 
-### Series A Requires A Probabilistic Mental Model
+### Probabilistic Mental Model
 
 There’s a tendency to think of Series A metrics as inputs to an IF statement:
 
@@ -48,7 +48,7 @@ Mind you, only the very best companies manage to hit everything perfectly.  More
 
 ### Primary Metrics
 
-Here’s what you need to raise a Series A of 10M at a pre of 40-60M – my best estimate of where the market is as of Q4 2022.  I use letter grades:
+As of Q4 2022, here's what you need to raise a Series A of 10M at a pre of 40-50M (my best estimate of the current market).  I use letter grades:
 
 A = best in class  
 B = very solid  
