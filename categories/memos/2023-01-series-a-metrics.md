@@ -90,7 +90,7 @@ SaaS Sales Metrics for a strong company:
 * Payback Period < 12 months  
 * Gross Margin > 75%  
 
-One final piece is length of sales cycle.  Of course, this depends on your ACV.  But here are what people would like to see:
+One final piece is length of sales cycle.  Of course, this depends on your ACV.  But here is what people would like to see:
 
 ----
 
