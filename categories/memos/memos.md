@@ -27,8 +27,6 @@ title: Founder Memos
 
 ----
 
-<br/>
-
 [Back to Investing Page ↩](/investing)
 
 <br/>
