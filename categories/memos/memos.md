@@ -20,6 +20,18 @@ title: Founder Memos
 <span style="color:#A9A9A9;">2023-01</span> &emsp;&emsp;&emsp; [How To Think About Series A Metrics](/2023-01-series-a-metrics)  
 <span style="color:#A9A9A9;">2023-04</span> &emsp;&emsp;&emsp; [Venture Market Update, Q1 2023](/2023-04-venture-market-update)  
 
+
+<!--
+Finding the right investor
+Should you raise venture capital?
+Headcount is a vanity metric
+The iron law of pricing
+Sales comp model
+Cash and runway model
+Levelling up as a founder
+-->
+
+
 <br/>
 <br/>
 <br/>
