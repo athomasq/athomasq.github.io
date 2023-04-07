@@ -39,7 +39,7 @@ For a startup to hit 1M ARR with rapid growth implies a large underlying market.
 
 Similarly, you can get rapid growth with either strong PMF, or with aggressive (brute-force) sales and marketing.  But aggressive GTM is usually expensive.  And if there’s no PMF, it inevitably results in high churn, sooner or later.  So if you see rapid growth along with cheap GTM and sustained low churn, that suggests that there is, in fact, true PMF.
 
-What it comes down to is an exercise in combining probabilities.  If all these attributes (1M, growth, efficiency, retention) are present simultaneously, it seems very likely that the startup has strong PMF-TAM-GTM; and conversely, if the startup doesn’t have strong PMF-TAM-GTM, it’s very unlikely that it can hit all those attributes simultaneously.
+*What it comes down to is an exercise in combining probabilities.*  If all these attributes (revenue, growth, efficiency, retention) are present simultaneously, it seems very likely that the startup has strong PMF-TAM-GTM; and conversely, if the startup doesn’t have strong PMF-TAM-GTM, it’s very unlikely that it can hit all those attributes simultaneously.
 
 Mind you, only the very best companies manage to hit everything perfectly.  More often, “fundable” companies are good-to-great on 3-4 of these attributes and average-to-good on the others.  The VC’s job is to triangulate across all of these; your task as a founder is to make sure you satisfy that triangulation.  The next section explains how.
 
