@@ -138,6 +138,14 @@ And then Pre-Seed is even before that: at Pre-Seed, there’s no real evidence y
 
 
 <br/>
+
+----
+
+<br/>
+
+[Back to Memos ↩](/memos)
+
+<br/>
 <br/>
 <br/>
 

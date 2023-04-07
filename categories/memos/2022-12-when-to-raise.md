@@ -145,3 +145,15 @@ Next, it may seem like many of these criteria are beyond your control.  It’s a
 
 Finally, you’ll notice that there’s a blurry line between pitch advice and business advice.  This is to be expected.  The best fund-raising strategy is always to build a good business! 
 
+
+<br/>
+
+----
+
+<br/>
+
+[Back to Memos ↩](/memos)
+
+<br/>
+<br/>
+<br/>

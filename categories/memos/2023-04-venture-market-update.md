@@ -77,6 +77,14 @@ I'm seeing a few patterns at Series B:
 
 
 <br/>
+
+----
+
+<br/>
+
+[Back to Memos ↩](/memos)
+
+<br/>
 <br/>
 <br/>
 

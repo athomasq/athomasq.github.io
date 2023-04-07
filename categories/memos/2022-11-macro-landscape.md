@@ -194,3 +194,14 @@ The key is simple: survive.  The next couple of years may be tough, but if you s
 
 
 
+<br/>
+
+----
+
+<br/>
+
+[Back to Memos ↩](/memos)
+
+<br/>
+<br/>
+<br/>
