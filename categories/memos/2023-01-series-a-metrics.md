@@ -75,7 +75,7 @@ Avoid Ds. If you have any Ds, you’ll find it hard to raise a Series A at this 
 ----
 
 
-(Founder equity going into Series A is the one that people are sometimes surprised by.  But it’s becoming far less important than the others in this market environment.)
+(Founder equity going into Series A is the one that people are sometimes surprised by.  There was a time when VCs would refuse to fund startups where the founder owned too little of the company, going into the A, for fear of misaligned incentives.  But I suspect that's changing; in the current market environment, VCs understand that sometimes founders have to dilute a lot, just to stay alive.)
 
 <br/>
 
