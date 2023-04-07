@@ -29,7 +29,9 @@ At Series A, most VCs look for three underlying characteristics in a business:
 
 Unfortunately, it’s usually not possible to provide *direct* evidence of these characteristics.  So investors have to rely on *proxy signals* aka pattern-matching.
 
-The most common proxy signal or pattern is something like this: **“1M ARR, growing 3x year-over-year, with efficient customer acquisition and strong retention”**.
+The most common proxy signal or pattern is something like this: 
+
+*“1M ARR, growing 3x year-over-year, with efficient customer acquisition and strong retention.”*
 
 Why is this a useful signal?  Because it’s very unlikely that a startup can exhibit all of these attributes unless they have the underlying characteristics (PMF-TAM-GTM) in place.  And the reason for that is that *these attributes pull in opposite directions*.  
 
@@ -37,7 +39,7 @@ For a startup to hit 1M ARR with rapid growth implies a large underlying market.
 
 Similarly, you can get rapid growth with either strong PMF, or with aggressive (brute-force) sales and marketing.  But aggressive GTM is usually expensive.  And if there’s no PMF, it inevitably results in high churn, sooner or later.  So if you see rapid growth along with cheap GTM and sustained low churn, that suggests that there is, in fact, true PMF.
 
-What it comes down to is an exercise in combining probabilities.  If all these attributes (1M, growth, efficiency, retention) are present simultaneously, it seems likely that the startup has strong PMF-TAM-GTM; and conversely, if the startup doesn’t have strong PMF-TAM-GTM, it’s very unlikely that it can hit all those attributes simultaneously.
+What it comes down to is an exercise in combining probabilities.  If all these attributes (1M, growth, efficiency, retention) are present simultaneously, it seems very likely that the startup has strong PMF-TAM-GTM; and conversely, if the startup doesn’t have strong PMF-TAM-GTM, it’s very unlikely that it can hit all those attributes simultaneously.
 
 Mind you, only the very best companies manage to hit everything perfectly.  More often, “fundable” companies are good-to-great on 3-4 of these attributes and average-to-good on the others.  The VC’s job is to triangulate across all of these; your task as a founder is to make sure you satisfy that triangulation.  The next section explains how.
 
@@ -55,7 +57,7 @@ B = very solid
 C = acceptable  
 D = disqualifying  
 
-Almost no start-up has all As. 
+First, note that almost no start-up has all As. 
 
 You should aim to have mostly Bs, and that’s fine.  B is the baseline for fundability by a top venture firm.  Not saying they will all fund you, but if you score Bs on all criteria, you will get a whole bunch of conversations, some serious interest, and hopefully a handful of term sheets.
 
