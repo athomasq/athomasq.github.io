@@ -22,6 +22,8 @@ title: Founder Memos
 
 
 <!--
+Investor updates
+
 Finding the right investor
 Should you raise venture capital?
 Headcount is a vanity metric
