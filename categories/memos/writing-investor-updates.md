@@ -97,9 +97,15 @@ I would not add them to the standard monthly investor update, but instead send a
 
 If they're not experienced startup investors, I would send just a quarterly or even annual update, just to keep them in the loop, and not expecting any response or input or help.  Experienced startup investors are fully aware of the challenges that almost all startups go through, and are not fazed by bad news; indeed, they want to hear it early.  But friends and family, who are betting their hard-earned savings on you personally -- I understand that you may not want to spook them.  (This, like much else, is ultimately a judgement call.)  
 
+<br/>
+
+----
+
+[Back to Memos ↩](/memos)
+
+<br/>
+<br/>
+<br/>
 
 
-<br/>
-<br/>
-<br/>
-<br/>
+
