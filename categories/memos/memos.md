@@ -16,9 +16,9 @@ title: Founder Memos
 <span style="color:#A9A9A9;">2022-11</span> &emsp;&emsp;&emsp; [Macro Landscape, Q4 2022](/2022-11-macro-landscape)  
 -->
 
-<span style="color:#A9A9A9;">2022-12</span> &emsp;&emsp;&emsp; [When To Raise Your Next Round](/2022-12-when-to-raise)  
-<span style="color:#A9A9A9;">2023-01</span> &emsp;&emsp;&emsp; [How To Think About Series A Metrics](/2023-01-series-a-metrics)  
-<span style="color:#A9A9A9;">2023-04</span> &emsp;&emsp;&emsp; [Venture Market Update, Q1 2023](/2023-04-venture-market-update)  
+<span style="color:#A9A9A9;">2022-12</span> &emsp;&emsp;&emsp; [When To Raise Your Next Round](/when-to-raise-your-next-round)  
+<span style="color:#A9A9A9;">2023-01</span> &emsp;&emsp;&emsp; [How To Think About Series A Metrics](/how-to-think-about-series-a-metrics)  
+<span style="color:#A9A9A9;">2023-04</span> &emsp;&emsp;&emsp; [Venture Market Update, Q1 2023](/venture-market-update-q1-2023)  
 
 
 <!--
