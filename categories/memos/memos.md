@@ -10,7 +10,6 @@ title: Founder Memos
 
 <br/>
 
-### Financing and Venture Capital
 
 <!--
 <span style="color:#A9A9A9;">2022-11</span> &emsp;&emsp;&emsp; [Macro Landscape, Q4 2022](/2022-11-macro-landscape)  
