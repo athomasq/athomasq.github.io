@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /:basename/
-title: When To Raise
+title: When To Raise Your Next Round
 ---
 
 ## When Should I Raise My Next Round?
