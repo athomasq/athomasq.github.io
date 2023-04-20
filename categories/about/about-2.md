@@ -8,6 +8,6 @@ title: About · Abraham Thomas
 
 ----
 
-|<img style="width:200px" src="/assets/img/Abraham-Thomas.jpg">|👋 Hi, I'm Abraham.<br/><br/> I'm the co-founder of Quandl, a successful tech startup that was acquired by Nasdaq.<br/><br/>Before Quandl, I was a quant trader and portfolio manager at Simplex, a large hedge fund in Tokyo. <br/><br/>I write essays on data, markets and technology: [subscribe!](/writing)<br/><br/>I'm an active angel investor: [pitch me!](/investing)|
+|<img style="width:220px" src="/assets/img/Abraham-Thomas.jpg">|👋 Hi, I'm Abraham.<br/><br/> I'm the co-founder of Quandl, a successful tech startup that was acquired by Nasdaq.<br/><br/>Before Quandl, I was a quant trader and portfolio manager at Simplex, a large hedge fund in Tokyo. <br/><br/>I write essays on data, markets and technology: [subscribe!](/writing)<br/><br/>I'm an active angel investor: [pitch me!](/investing)|
 
 ----
