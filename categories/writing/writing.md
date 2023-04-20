@@ -25,7 +25,7 @@ I've collected some of older essays on this page. I've also linked to some of my
 ### ⏰ Latest Essays 
 
 *[The Perils of Prudence](https://pivotal.substack.com/p/the-perils-of-prudence)*  ⭐️  
-For startups, being prudent is the riskiest strategy of all.  A counter-intuitive explanation involving polar expeditions, migratory birds, board games and war.
+For startups, being prudent is the riskiest strategy of all.  A counter-intuitive explanation featuring polar expeditions, migratory birds, board games, mountain-climbing and war.
 
 *[Minsky Moments in Venture Capital](https://pivotal.substack.com/p/minsky-moments-in-venture-capital)*  ⭐️  
 What drives boom-bust cycles in private markets?  This essay from early 2022 offers some hypotheses that  turned out to be quite prescient.  As seen in the [Financial Times](https://www.ft.com/content/077de7e3-e4e3-49d5-8a76-3cbbc4f492f5)!
