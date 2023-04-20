@@ -10,7 +10,7 @@ title: Investing · Abraham Thomas
 
 <br/> 
 
-I'm an active angel investor in early-stage tech startups.
+I'm an active angel investor in early-stage tech startups. [Pitch me!](mailto:athos1@gmail.com)
 
 <br/>
 
