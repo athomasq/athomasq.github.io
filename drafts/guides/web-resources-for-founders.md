@@ -168,7 +168,7 @@ Most of these articles are relevant for early stage founders, ie, from zero till
 
 This material is a few years old.  The best current wisdom is to be found in operational docs (decks & memos) or on Twitter; it hasn't yet been collected into books or blog posts.  
 
-I welcome recommendations for new articles to add to this list -- please [email me](mailto:athos1@gmail.com) your suggestions!  
+I welcome recommendations for new articles to add to this list -- please [email me](mailto:at@abrahamthomas.info) your suggestions!  
 
 A final vital piece of advice: **think for yourself**.  You can't build a startup the way you build a piece of IKEA furniture, by following instructions.  Reading all these articles is just table stakes; the necessary context and framework and background required for you to make smart, contrarian, correct decisions.  But only you can make those decisions.
 

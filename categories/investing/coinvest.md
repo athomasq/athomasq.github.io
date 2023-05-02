@@ -15,7 +15,7 @@ Consensus decisions lead to mediocre outcomes.  For this reason, I prefer to inv
 
 This means that I typically invest in rounds that are undersubscribed.  This in turn means that I'm happy to share dealflow with co-investors.
 
-If you'd like to co-invest with me, please [reach out](mailto:athos1@gmail.com).  
+If you'd like to co-invest with me, please [reach out](mailto:at@abrahamthomas.info).  
 
 
 ----

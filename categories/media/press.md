@@ -60,7 +60,7 @@ https://www.marketwatch.com/story/the-explosion-of-alternative-data-gives-regula
 
 ### Inquiries
 
-For press inquiries, please [email me](mailto:athos1@gmail.com).  Topics in which I have some expertise include: 
+For press inquiries, please [email me](mailto:at@abrahamthomas.info).  Topics in which I have some expertise include: 
 
 - The use of data, AI/ML and technology in finance
 - Hedge funds, quantitative investing and capital markets

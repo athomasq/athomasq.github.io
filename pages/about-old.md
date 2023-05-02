@@ -45,7 +45,7 @@ https://abrahamthomas.info/bond-arbitrage/
 🔗 I like hard tech, data moats, APIs, and network effects.  
 🔧 I try to be a low-ego, high-support investor, not just a cheque.   
 
-📫 **Founders, if this sounds like a fit, [please reach out!](mailto:athos1@gmail.com)**    
+📫 **Founders, if this sounds like a fit, [please reach out!](mailto:at@abrahamthomas.info)**    
 
 
 <!--
@@ -88,7 +88,7 @@ My work at Quandl has been covered by the Wall Street Journal, the Financial Tim
 
 I often speak at conferences, seminars and other public events. Recent seminar venues include asset managers Winton, OTPP, CPPIB, UBS and Franklin Templeton; conferences include Strata, AIDST, Princeton and Montgomery; and tech events include Toronto City Hall, TechTO, and the Toronto Stock Exchange. You can see a full list of talks [here](/talks).
 
-For press and speaker inquires, please [email me](mailto:athos1@gmail.com).
+For press and speaker inquires, please [email me](mailto:at@abrahamthomas.info).
 
 <br/>
 
@@ -110,7 +110,7 @@ Topics I advise on include:
 🏭 **Ops:** Managing data teams, processes and operations  
 
 
-To inquire about professional services, please [email me](mailto:athos1@gmail.com).
+To inquire about professional services, please [email me](mailto:at@abrahamthomas.info).
 
 
 <br/>
@@ -150,7 +150,7 @@ I have a number of hobbies and interests that keep me pleasantly busy:
 
 I enjoy meeting new people.
 
-<img style="width:15px" src="/assets/img/email-icon.svg"> Email is the best way to [contact me](mailto:athos1@gmail.com).  
+<img style="width:15px" src="/assets/img/email-icon.svg"> Email is the best way to [contact me](mailto:at@abrahamthomas.info).  
 <img style="width:15px" src="/assets/img/twitter-icon.svg"> I'm moderately active on [Twitter](https://twitter.com/athomasq).  
 <img style="width:15px" src="/assets/img/linkedin-icon.svg"> I also have a [LinkedIn profile](https://www.linkedin.com/in/athomasq/).  
 <img style="width:15px" src="/assets/img/coffee-icon.svg"> If you're in Toronto, I'd be happy to meet for a coffee.  

@@ -10,7 +10,7 @@ title: Contact · Abraham Thomas
 
 <br/>
 
-Email is the best way to reach me: **athos1 at gmail dot com** or click [here](mailto:athos1@gmail.com).  I read every email I receive, but I can't always promise a reply. 
+[Email](mailto:at@abrahamthomas.info) is the best way to reach me.  I read every email I receive, but I can't always promise a reply. 
 
 To maximize your odds of a quick and positive response: be concise, be clear, be specific, offer two-way value if you can, and follow up once or twice but not more than that. 
 

@@ -64,7 +64,7 @@ In addition to investing directly in startups, I am an LP in and advisor to [Gro
 
 If you're a startup founder looking for investment, I'd be happy to chat -- with the caveat that I say no to the vast majority of deals I see, and even when I do say yes, I invest fairly small amounts.
 
-I prefer B2B to consumer.  I'm most familiar with business models that involve data, APIs and network effects, though I'm open to others.  I especially like startups solving tedious problems in unglamorous sectors.  If any of this sounds like you, please [email me](mailto:athos1@gmail.com)!
+I prefer B2B to consumer.  I'm most familiar with business models that involve data, APIs and network effects, though I'm open to others.  I especially like startups solving tedious problems in unglamorous sectors.  If any of this sounds like you, please [email me](mailto:at@abrahamthomas.info)!
 
 
 <br/>

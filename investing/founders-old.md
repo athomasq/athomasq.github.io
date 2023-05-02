@@ -10,7 +10,7 @@ title: For Founders
 
 <br/>
 
-If you're a startup founder looking for angel investment, please [email me](mailto:athos1@gmail.com)!
+If you're a startup founder looking for angel investment, please [email me](mailto:at@abrahamthomas.info)!
 
 To set expectations: 
 - I invest small amounts.
@@ -22,7 +22,7 @@ To set expectations:
 
 Here's a list of my current [angel investments](/angel).  
 
-Startups are hard.  If I can help you with advice from my own journey as a founder, I'd be happy to do so; please [email me](mailto:athos1@gmail.com)!
+Startups are hard.  If I can help you with advice from my own journey as a founder, I'd be happy to do so; please [email me](mailto:at@abrahamthomas.info)!
 
 
 <br/>

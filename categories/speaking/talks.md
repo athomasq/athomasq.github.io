@@ -104,7 +104,7 @@ I hope to eventually upload slides and transcripts for most of these talks.
 ### Inquiries
 
 
-If you'd like me to speak at your event, please [email me](mailto:athos1@gmail.com).  Topics I often speak about include: 
+If you'd like me to speak at your event, please [email me](mailto:at@abrahamthomas.info).  Topics I often speak about include: 
 
 - Modern financial markets and quantitative investing
 - Data, especially unusual sources and applications of data

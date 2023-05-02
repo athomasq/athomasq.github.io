@@ -28,4 +28,4 @@ This website was created using [Github Pages] and [Jekyll].  The design is mostl
 [Sriram Krishnan]: https://sriramk.com/
 [Devon Zuegel]: https://devonzuegel.com/page/about-me 
 
-[email me]: mailto:athos1@gmail.com 
+[email me]: mailto:at@abrahamthomas.info 

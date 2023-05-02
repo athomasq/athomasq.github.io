@@ -11,7 +11,7 @@ title: Consulting · Abraham Thomas
 <br/>
 
 
-I am available to consult of data businesses and data driven investing.  If you are interested in retaining my services, please [email me](mailto:athos1@gmail.com).
+I am available to consult of data businesses and data driven investing.  If you are interested in retaining my services, please [email me](mailto:at@abrahamthomas.info).
 
 <br/>
 
