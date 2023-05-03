@@ -20,7 +20,7 @@ title: Japan Guide · Abraham Thomas
 
 ### About This Guide
 
-I lived in Japan for many years, and have visited the country many times.  This guide is the distillation of all I've learned over more than 25 years as a resident, business visitor, and tourist. 
+I lived in Japan for many years, during which time I travelled extensively all over the country.  And I’ve visited Japan a dozen or so times after I moved away.  This guide is the distillation of all I've learned over more than 25 years as a resident, business visitor, and tourist. 
 
 Most websites and guidebooks try to be *comprehensive* – they have information about every city, every neighbourhood, every sight.  In a country like Japan, this can quickly get overwhelming. 
 
