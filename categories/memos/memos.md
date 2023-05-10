@@ -11,8 +11,9 @@ title: Founder Memos
 <br/>
 
 
-
+<!--
 <span style="color:#A9A9A9;">2022-11</span> &emsp;&emsp;&emsp; [Macro Landscape, Q4 2022](/macro-landscape-q4-2022)  
+-->
 
 <span style="color:#A9A9A9;">2022-09</span> &emsp;&emsp;&emsp; [Writing Investor Updates](/writing-investor-updates)  
 <span style="color:#A9A9A9;">2022-12</span> &emsp;&emsp;&emsp; [When To Raise Your Next Round](/when-to-raise-your-next-round)  
