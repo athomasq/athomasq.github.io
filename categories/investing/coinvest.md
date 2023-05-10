@@ -10,12 +10,9 @@ title: Co-Investing · Abraham Thomas
 
 <br/>
 
-I welcome your dealflow, and I'm happy to share mine.  If you'd like to co-invest with me, please reach out: at@abrahamthomas.info.  
+Consensus decisions lead to mediocre outcomes.  I prefer to invest in startups *before* they are appreciated by the market.  
 
-Consensus decisions lead to mediocre outcomes.  For this reason, I prefer to invest in startups *before* they are appreciated by the market.  
-
-This means that I typically invest in rounds that are undersubscribed.  This in turn means that I'm happy to share dealflow with co-investors.
-
+Therefore, I welcome your dealflow, and I'm happy to share mine.  If you'd like to co-invest with me, please reach out: at@abrahamthomas.info.  
 
 
 ----
