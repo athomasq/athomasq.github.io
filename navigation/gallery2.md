@@ -31,7 +31,7 @@ table, th, td {
 {% endfor %}
 -->
 
-{% for item in site.data.photos %}   
+{% for item in site.data.photos2 %}   
   {% if item.album != "newline" %}
     <br/>
     <br/>
