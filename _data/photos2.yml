@@ -1,197 +1,63 @@
 - album: Japan
   pictures:
-    - name: Umbrella
+    - name: Asakusa-Main
       link: /gallery/umbrella
-      smol: /assets/smol/Umbrella_.jpg
+      smol: /assets/temp/asakusa-main.jpg
       width: 270px
-    - name: Curtain
+    - name: Asakusa-Incense
       link: /gallery/curtain
-      smol: /assets/smol/Curtain_.jpg
-      width: 270px
-    - name: Rocks
+      smol: /assets/temp/asakusa-incense.jpg
+      width: 120px
+    - name: Asakusa-Izakaya
       link: /gallery/rocks
-      smol: /assets/smol/Rocks_.jpg
-      width: 120px
+      smol: /assets/temp/asakusa-izakaya.jpg
+      width: 270px
 
 - album: newline
   pictures:
-    - name: Lantern
+    - name: Diners-Waiting
       link: /gallery/lantern
-      smol: /assets/smol/Lantern_.jpg
+      smol: /assets/temp/diners-waiting.jpg
       width: 120px
-    - name: Scramble
+    - name: Shinjuku-Izakaya
       link: /gallery/scramble
-      smol: /assets/smol/Scramble_.jpg
+      smol: /assets/temp/shinjuku-izakaya.jpg
       width: 270px
-    - name: Fence
+    - name: Sumida-Night
       link: /gallery/fence
-      smol: /assets/smol/Fence_.jpg
+      smol: /assets/temp/sumida-night.jpg
       width: 270px
 
 - album: newline
   pictures:
-    - name: Alley
+    - name: Yellow-Lantern
       link: /gallery/alley
-      smol: /assets/smol/Alley_.jpg
-      width: 163px
-    - name: Green
+      smol: /assets/temp/yellow-lantern.jpg
+      width: 124px
+    - name: Shibuya-Neon
       link: /gallery/green
-      smol: /assets/smol/Green_.jpg
-      width: 248px
-    - name: Marsh
+      smol: /assets/temp/shibuya-neon.jpg
+      width: 124px
+    - name: Akihabara-Waitress
       link: /gallery/marsh
-      smol: /assets/smol/Marsh_.jpg
-      width: 248px
-
-- album: Alberta
-  pictures:
-    - name: Canoes
-      link: /gallery/canoes
-      smol: /assets/smol/Canoes_.jpg
-      width: 120px
-    - name: Canyon
-      link: /gallery/canyon
-      smol: /assets/smol/Canyon_.jpg
-      width: 270px    
-    - name: Reflection
-      link: /gallery/reflection
-      smol: /assets/smol/Reflection_.jpg
-      width: 270px
-    
-- album: newline
-  pictures:
-    - name: Bridge
-      link: /gallery/bridge
-      smol: /assets/smol/Bridge_.jpg
-      width: 270px
-    - name: Waterfall
-      link: /gallery/waterfall
-      smol: /assets/smol/Waterfall_.jpg
-      width: 120px
-    - name: Glacier
-      link: /gallery/glacier
-      smol: /assets/smol/Glacier_.jpg
-      width: 270px
-
-- album: Amsterdam
-  pictures:
-    - name: Tram
-      link: /gallery/tram
-      smol: /assets/smol/Tram_.jpg
-      width: 140px
-    - name: Canal
-      link: /gallery/canal
-      smol: /assets/smol/Canal_.jpg
-      width: 108px
-    - name: Scooter
-      link: /gallery/scooter
-      smol: /assets/smol/Scooter_.jpg
-      width: 243px
-    - name: Boats
-      link: /gallery/boats
-      smol: /assets/smol/Boats_.jpg
-      width: 162px
-
-- album: Paris
-  pictures:
-    - name: Louvre
-      link: /gallery/louvre
-      smol: /assets/smol/Louvre_.jpg
-      width: 105px
-    - name: Cafe
-      link: /gallery/cafe
-      smol: /assets/smol/Cafe_.jpg
-      width: 235px
-    - name: Metro
-      link: /gallery/metro
-      smol: /assets/smol/Metro_.jpg
-      width: 105px
-    - name: Orsay
-      link: /gallery/orsay
-      smol: /assets/smol/Orsay_.jpg
-      width: 210px
-
-- album: Parks
-  pictures:
-    - name: Branch
-      link: /gallery/branch
-      smol: /assets/smol/Branch_.jpg
-      width: 120px
-    - name: Path
-      link: /gallery/path
-      smol: /assets/smol/Path_.jpg
-      width: 270px
-    - name: Tree
-      link: /gallery/tree
-      smol: /assets/smol/Tree_.jpg
-      width: 270px
-
-- album: Cities
-  pictures:
-    - name: Dome
-      link: /gallery/dome
-      smol: /assets/smol/Dome_.jpg
-      width: 270px
-    - name: Cobbles
-      link: /gallery/cobbles
-      smol: /assets/smol/Cobbles_.jpg
-      width: 120px
-    - name: After
-      link: /gallery/after
-      smol: /assets/smol/After_.jpg
-      width: 270px
-
-- album: Japan+
-  pictures:
-    - name: Buddha
-      link: /gallery/buddha
-      smol: /assets/smol/Buddha_.jpg
-      width: 270px
-    - name: Incense
-      link: /gallery/incense
-      smol: /assets/smol/Incense_.jpg
-      width: 270px
-    - name: Span
-      link: /gallery/span
-      smol: /assets/smol/Span_.jpg
-      width: 120px
-
-- album: newline
-  pictures:
-    - name: Pavilion
-      link: /gallery/pavilion
-      smol: /assets/smol/Pavilion_.jpg
+      smol: /assets/temp/akihabara-waitress.jpg
       width: 124px
-    - name: Moss
-      link: /gallery/moss
-      smol: /assets/smol/Moss_.jpg
+    - name: Shinjuku-Taxi
+      link: /gallery/marsh
+      smol: /assets/temp/shinjuku-taxi.jpg
       width: 279px
-    - name: Pink
-      link: /gallery/pink
-      smol: /assets/smol/Pink_.jpg
-      width: 124px
-    - name: Bamboo
-      link: /gallery/bamboo
-      smol: /assets/smol/Bamboo_.jpg
-      width: 124px
 
 - album: newline
   pictures:
-    - name: Texture
-      link: /gallery/texture
-      smol: /assets/smol/Texture_.jpg
-      width: 252px
-    - name: Ramen
-      link: /gallery/ramen
-      smol: /assets/smol/Ramen_.jpg
-      width: 116px
-    - name: Rush
-      link: /gallery/rush
-      smol: /assets/smol/Rush_.jpg
-      width: 116px
-    - name: Node
-      link: /gallery/node
-      smol: /assets/smol/Node_.jpg
-      width: 168px
-
-
+    - name: Incense-Burner
+      link: /gallery/lantern
+      smol: /assets/temp/incense-burner.jpg
+      width: 270px
+    - name: Asakusa-Pedestrians
+      link: /gallery/scramble
+      smol: /assets/temp/asakusa-pedestrians.jpg
+      width: 270px
+    - name: Ramen-Stall
+      link: /gallery/fence
+      smol: /assets/temp/ramen-stall.jpg
+      width: 120px
