@@ -8,13 +8,18 @@
       link: /gallery/curtain
       smol: /assets/temp/asakusa-incense.jpg
       width: 120px
+    - name: Incense-Burner
+      link: /gallery/lantern
+      smol: /assets/temp/incense-burner.jpg
+      width: 270px
+
+
+- album: newline
+  pictures:
     - name: Asakusa-Izakaya
       link: /gallery/rocks
       smol: /assets/temp/asakusa-izakaya.jpg
       width: 270px
-
-- album: newline
-  pictures:
     - name: Diners-Waiting
       link: /gallery/lantern
       smol: /assets/temp/diners-waiting.jpg
@@ -23,20 +28,16 @@
       link: /gallery/scramble
       smol: /assets/temp/shinjuku-izakaya.jpg
       width: 270px
-    - name: Sumida-Night
-      link: /gallery/fence
-      smol: /assets/temp/sumida-night.jpg
-      width: 270px
 
 - album: newline
   pictures:
-    - name: Yellow-Lantern
-      link: /gallery/alley
-      smol: /assets/temp/yellow-lantern.jpg
-      width: 124px
     - name: Shibuya-Neon
       link: /gallery/green
       smol: /assets/temp/shibuya-neon.jpg
+      width: 124px
+    - name: Yellow-Lantern
+      link: /gallery/alley
+      smol: /assets/temp/yellow-lantern.jpg
       width: 124px
     - name: Akihabara-Waitress
       link: /gallery/marsh
@@ -49,9 +50,9 @@
 
 - album: newline
   pictures:
-    - name: Incense-Burner
-      link: /gallery/lantern
-      smol: /assets/temp/incense-burner.jpg
+    - name: Sumida-Night
+      link: /gallery/fence
+      smol: /assets/temp/sumida-night.jpg
       width: 270px
     - name: Asakusa-Pedestrians
       link: /gallery/scramble
