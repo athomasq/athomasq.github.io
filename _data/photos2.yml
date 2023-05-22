@@ -38,26 +38,26 @@
       link: /gallery/lantern
       smol: /assets/temp/diners-waiting.jpg
       width: 124px
-    - name: Akihabara-Waitress
-      link: /gallery/marsh
-      smol: /assets/temp/akihabara-waitress.jpg
-      width: 124px
-    - name: Asakusa-Pedestrians
-      link: /gallery/scramble
-      smol: /assets/temp/asakusa-pedestrians.jpg
-      width: 279px
-
-- album: newline
-  pictures:
     - name: Asakusa-Izakaya
       link: /gallery/rocks
       smol: /assets/temp/asakusa-izakaya.jpg
-      width: 270px
+      width: 279px
+    - name: Ramen-Stall
+      link: /gallery/fence
+      smol: /assets/temp/ramen-stall.jpg
+      width: 124px
+
+- album: newline
+  pictures:
     - name: Sumida-Night
       link: /gallery/fence
       smol: /assets/temp/sumida-night.jpg
       width: 270px
-    - name: Ramen-Stall
-      link: /gallery/fence
-      smol: /assets/temp/ramen-stall.jpg
+    - name: Akihabara-Waitress
+      link: /gallery/marsh
+      smol: /assets/temp/akihabara-waitress.jpg
       width: 120px
+    - name: Asakusa-Pedestrians
+      link: /gallery/scramble
+      smol: /assets/temp/asakusa-pedestrians.jpg
+      width: 270px
