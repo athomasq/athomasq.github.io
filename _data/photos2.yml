@@ -79,7 +79,7 @@
 
 - album: newline
   pictures:
-    - name: Azumbashi
+    - name: Azumabashi
       link: /gallery/alley
       smol: /assets/temp/azumabashi.jpg
       width: 120px
@@ -90,4 +90,34 @@
     - name: Tea-Shop
       link: /gallery/marsh
       smol: /assets/temp/tea-shop.jpg
+      width: 270px
+
+- album: newline
+  pictures:
+    - name: East Garden
+      link: /gallery/alley
+      smol: /assets/temp/east-garden.jpg
+      width: 270px
+    - name: Meiji-Beer
+      link: /gallery/scramble
+      smol: /assets/temp/meiji-beer.jpg
+      width: 270px
+    - name: Sumo-Statue
+      link: /gallery/marsh
+      smol: /assets/temp/sumo-statue.jpg
+      width: 120px
+
+- album: newline
+  pictures:
+    - name: Shinjuku-Neon
+      link: /gallery/scramble
+      smol: /assets/temp/shinjuku-neon.jpg
+      width: 270px
+    - name: Asakusa-Tower
+      link: /gallery/alley
+      smol: /assets/temp/asakusa-tower.jpg
+      width: 120px
+    - name: Harajuku-Pedestrians
+      link: /gallery/marsh
+      smol: /assets/temp/harajuku-pedestrians.jpg
       width: 270px
