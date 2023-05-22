@@ -99,14 +99,14 @@
       link: /gallery/scramble
       smol: /assets/temp/shinjuku-zakkyo.jpg
       width: 270px
+    - name: Tea-Shop
+      link: /gallery/marsh
+      smol: /assets/temp/tea-shop.jpg
+      width: 270px
     - name: Azumabashi-Boat
       link: /gallery/alley
       smol: /assets/temp/azumabashi-boat.jpg
       width: 120px
-    - name: Shibuya-Crossing
-      link: /gallery/scramble
-      smol: /assets/temp/shibuya-crossing.jpg
-      width: 270px
 
 - album: newline
   pictures:
@@ -114,12 +114,11 @@
       link: /gallery/scramble
       smol: /assets/temp/meiji-beer.jpg
       width: 270px
-    - name: Sumo-Statue
+    - name: Nihombashi-Office
       link: /gallery/marsh
-      smol: /assets/temp/sumo-statue.jpg
+      smol: /assets/temp/nihombashi-office.jpg
       width: 120px
-    - name: Tea-Shop
-      link: /gallery/marsh
-      smol: /assets/temp/tea-shop.jpg
+    - name: Monzen-nakacho
+      link: /gallery/scramble
+      smol: /assets/temp/monzen-nakacho.jpg
       width: 270px
-
