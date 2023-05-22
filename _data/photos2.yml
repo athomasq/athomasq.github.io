@@ -68,29 +68,15 @@
       link: /gallery/umbrella
       smol: /assets/temp/students.jpg
       width: 270px
-    - name: Nijubashi
-      link: /gallery/curtain
-      smol: /assets/temp/nijubashi.jpg
-      width: 270px
     - name: Takeshita-Dori
       link: /gallery/lantern
       smol: /assets/temp/takeshita.jpg
       width: 120px
-
-- album: newline
-  pictures:
-    - name: Azumabashi-Boat
-      link: /gallery/alley
-      smol: /assets/temp/azumabashi-boat.jpg
-      width: 120px
-    - name: Shibuya-Crossing
-      link: /gallery/scramble
-      smol: /assets/temp/shibuya-crossing.jpg
-      width: 270px
-    - name: Tea-Shop
+    - name: Harajuku-Pedestrians
       link: /gallery/marsh
-      smol: /assets/temp/tea-shop.jpg
+      smol: /assets/temp/harajuku-pedestrians.jpg
       width: 270px
+
 
 - album: newline
   pictures:
@@ -98,13 +84,13 @@
       link: /gallery/alley
       smol: /assets/temp/east-garden.jpg
       width: 270px
-    - name: Meiji-Beer
-      link: /gallery/scramble
-      smol: /assets/temp/meiji-beer.jpg
+    - name: Nijubashi
+      link: /gallery/curtain
+      smol: /assets/temp/nijubashi.jpg
       width: 270px
-    - name: Sumo-Statue
-      link: /gallery/marsh
-      smol: /assets/temp/sumo-statue.jpg
+    - name: Asakusa-Tower
+      link: /gallery/alley
+      smol: /assets/temp/asakusa-tower.jpg
       width: 120px
 
 - album: newline
@@ -113,11 +99,27 @@
       link: /gallery/scramble
       smol: /assets/temp/shinjuku-zakkyo.jpg
       width: 270px
-    - name: Asakusa-Tower
+    - name: Azumabashi-Boat
       link: /gallery/alley
-      smol: /assets/temp/asakusa-tower.jpg
+      smol: /assets/temp/azumabashi-boat.jpg
       width: 120px
-    - name: Harajuku-Pedestrians
-      link: /gallery/marsh
-      smol: /assets/temp/harajuku-pedestrians.jpg
+    - name: Shibuya-Crossing
+      link: /gallery/scramble
+      smol: /assets/temp/shibuya-crossing.jpg
       width: 270px
+
+- album: newline
+  pictures:
+    - name: Meiji-Beer
+      link: /gallery/scramble
+      smol: /assets/temp/meiji-beer.jpg
+      width: 270px
+    - name: Sumo-Statue
+      link: /gallery/marsh
+      smol: /assets/temp/sumo-statue.jpg
+      width: 120px
+    - name: Tea-Shop
+      link: /gallery/marsh
+      smol: /assets/temp/tea-shop.jpg
+      width: 270px
+
