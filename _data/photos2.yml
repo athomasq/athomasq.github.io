@@ -68,18 +68,22 @@
       link: /gallery/umbrella
       smol: /assets/temp/students.jpg
       width: 270px
-    - name: Takeshita-Dori
-      link: /gallery/lantern
-      smol: /assets/temp/takeshita.jpg
-      width: 120px
     - name: Harajuku-Pedestrians
       link: /gallery/marsh
       smol: /assets/temp/harajuku-pedestrians.jpg
       width: 270px
+    - name: Takeshita-Dori
+      link: /gallery/lantern
+      smol: /assets/temp/takeshita.jpg
+      width: 120px
 
 
 - album: newline
   pictures:
+    - name: Asakusa-Tower
+      link: /gallery/alley
+      smol: /assets/temp/asakusa-tower-day.jpg
+      width: 120px
     - name: East Garden
       link: /gallery/alley
       smol: /assets/temp/east-garden.jpg
@@ -88,10 +92,6 @@
       link: /gallery/curtain
       smol: /assets/temp/nijubashi.jpg
       width: 270px
-    - name: Asakusa-Tower
-      link: /gallery/alley
-      smol: /assets/temp/asakusa-tower.jpg
-      width: 120px
 
 - album: newline
   pictures:
