@@ -79,9 +79,9 @@
 
 - album: newline
   pictures:
-    - name: Azumabashi
+    - name: Azumabashi-Boat
       link: /gallery/alley
-      smol: /assets/temp/azumabashi.jpg
+      smol: /assets/temp/azumabashi-boat.jpg
       width: 120px
     - name: Shibuya-Crossing
       link: /gallery/scramble
