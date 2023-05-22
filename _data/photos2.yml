@@ -1,4 +1,4 @@
-- album: Japan
+- album: Tokyo 1
   pictures:
     - name: Asakusa-Main
       link: /gallery/umbrella
@@ -60,4 +60,34 @@
     - name: Asakusa-Pedestrians
       link: /gallery/scramble
       smol: /assets/temp/asakusa-pedestrians.jpg
+      width: 270px
+
+- album: Tokyo 2
+  pictures:
+    - name: Ochanomizu-Students
+      link: /gallery/umbrella
+      smol: /assets/temp/students.jpg
+      width: 270px
+    - name: Nijubashi
+      link: /gallery/curtain
+      smol: /assets/temp/nijubashi.jpg
+      width: 270px
+    - name: Takeshita-Dori
+      link: /gallery/lantern
+      smol: /assets/temp/takeshita.jpg
+      width: 120px
+
+- album: newline
+  pictures:
+    - name: Azumbashi
+      link: /gallery/alley
+      smol: /assets/temp/azumabashi.jpg
+      width: 120px
+    - name: Shibuya-Crossing
+      link: /gallery/scramble
+      smol: /assets/temp/shibuya-crossing.jpg
+      width: 270px
+    - name: Tea-Shop
+      link: /gallery/marsh
+      smol: /assets/temp/tea-shop.jpg
       width: 270px
