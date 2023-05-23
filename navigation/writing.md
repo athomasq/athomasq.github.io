@@ -36,7 +36,7 @@ What drives boom-bust cycles in private markets?  This essay from early 2022 off
 How data businesses start, grow, and dominate. I don't think I've ever received as many comments saying "finally! somebody nailed it!" as I did for this essay.
 
 *[Data in the Age of AI](https://pivotal.substack.com/p/data-in-the-age-of-ai)*    
-A follow-up of sorts to the previous essay. How does the sudden explosion in AI affect data and data businesses? Featuring complementary assets, trust hierarchies, peace dividends, software-in-the-loop, latent and golden data, first-class tools and more.
+A follow-up to the previous essay. How does the sudden explosion in AI affect data and data businesses? Featuring complementary assets, trust hierarchies, peace dividends, software-in-the-loop, latent and golden data, first-class tools and more.
 
 
 ----
