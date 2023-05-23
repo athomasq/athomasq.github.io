@@ -33,6 +33,9 @@ What drives boom-bust cycles in private markets?  This essay from early 2022 off
 *[The Economics of Data Businesses](https://pivotal.substack.com/p/economics-of-data-biz)*  ⭐️  
 How data businesses start, grow, and dominate. I don't think I've ever received as many comments saying "finally! somebody nailed it!" as I did for this essay.
 
+*[Data in the Age of AI](https://pivotal.substack.com/p/data-in-the-age-of-ai)*    
+A follow-up of sorts to the previous essay. How does the sudden explosion in AI affect data and data businesses? Featuring complementary assets, trust hierarchies, peace dividends, software-in-the-loop, latent and golden data, first-class tools and more.
+
 
 ----
 
@@ -124,6 +127,16 @@ Everybody wants to be contrarian these days; they think it makes them look smart
 
 *[How To Be An Excellent Failure](/failure-modes)*  ⭐️  
 "Best practices" can be a trap. Functional excellence often breeds tunnel vision, and that way lies disaster.
+
+----
+
+<br/>
+
+### ⛩️ Japan Guide
+
+
+*[Abraham's Curated Guide to Japan](https://abrahamthomas.gumroad.com/l/wwrni)*  
+24,000 words; 60 original photographs; 1 opinionated writer – welcome to my e-book on visiting Japan!  I lived in Japan for many years and have visited many times since then; this guide is the distillation of everything I've learned.  
 
 <br/>
 <br/>
