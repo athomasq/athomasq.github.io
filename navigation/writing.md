@@ -15,7 +15,9 @@ title: Writing · Abraham Thomas
 
 All my new writing can be found at [Pivotal](https://pivotal.substack.com/about), a newsletter of long-form essays on data, markets, investing, technology, startups and more.  It's good -- [subscribe!](https://pivotal.substack.com/about)
 
-I've collected some of older essays on this page. I've also linked to some of my Twitter threads.  Popular articles are marked with a ⭐️.  Enjoy! 
+I've collected some of older essays on this page. I've also linked to some of my Twitter threads.  Popular articles are marked with a ⭐️.   
+
+**Update May 2023:** I wrote an e-book -- [check it out!](https://abrahamthomas.gumroad.com/l/wwrni)  
 
 
 ----
@@ -136,7 +138,7 @@ Everybody wants to be contrarian these days; they think it makes them look smart
 
 
 *[Abraham's Curated Guide to Japan](https://abrahamthomas.gumroad.com/l/wwrni)*  
-24,000 words; 60 original photographs; 1 opinionated writer – welcome to my e-book on visiting Japan!  I lived in Japan for many years and have visited many times since then; this guide is the distillation of everything I've learned.  
+24,000 words; 60 original photographs; 1 opinionated writer – welcome to my e-book on touring Japan!  I lived in Japan for many years and have visited many times since then; this guide is the distillation of all my best advice.  
 
 <br/>
 <br/>
