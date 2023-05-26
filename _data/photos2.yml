@@ -179,14 +179,14 @@
       link: /gallery/lantern
       smol: /assets/temp/istanbul-topkapi.jpg
       width: 270px
-    - name: Istanbul-Cikis-Var
-      link: /gallery/alley
-      smol: /assets/temp/istanbul-cikis-var.jpg
-      width: 120px
     - name: Istanbul-Fishermen
       link: /gallery/umbrella
       smol: /assets/temp/istanbul-fishermen.jpg
       width: 270px
+    - name: Istanbul-Cikis-Var
+      link: /gallery/alley
+      smol: /assets/temp/istanbul-cikis-var.jpg
+      width: 120px
 
 - album: newline
   pictures:
