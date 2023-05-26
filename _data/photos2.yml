@@ -249,16 +249,14 @@
       link: /gallery/curtain
       smol: /assets/temp/istanbul-nurosmaniye-wall.jpg
       width: 279px
-    - name: Istanbul-Coloured-Steps
-      link: /gallery/marsh
-      smol: /assets/temp/istanbul-coloured-steps.jpg
+    - name: Istanbul-Watering-Plants
+      link: /gallery/alley
+      smol: /assets/temp/istanbul-watering-plants.jpg
       width: 124px
     - name: Istanbul-Eminonu-Docks
       link: /gallery/curtain
       smol: /assets/temp/istanbul-eminonu-docks.jpg
       width: 124px
-
-
 
 - album: newline
   pictures:
@@ -270,13 +268,13 @@
       link: /gallery/lantern
       smol: /assets/temp/istanbul-booksellers.jpg
       width: 279px
+    - name: Istanbul-Coloured-Steps
+      link: /gallery/marsh
+      smol: /assets/temp/istanbul-coloured-steps.jpg
+      width: 124px
     - name: Istanbul-Balat-Colours
       link: /gallery/marsh
       smol: /assets/temp/istanbul-balat-colours.jpg
-      width: 124px
-    - name: Istanbul-Watering-Plants
-      link: /gallery/alley
-      smol: /assets/temp/istanbul-watering-plants.jpg
       width: 124px
 
 - album: newline
