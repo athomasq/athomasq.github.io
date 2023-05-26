@@ -122,3 +122,52 @@
       link: /gallery/scramble
       smol: /assets/temp/monzen-nakacho.jpg
       width: 270px
+
+- album: Kyoto 1
+  pictures:
+    - name: Ryoanji-Door
+      link: /gallery/umbrella
+      smol: /assets/temp/ryoanji-door.jpg
+      width: 270px
+    - name: Ryoanji-Corridor
+      link: /gallery/marsh
+      smol: /assets/temp/ryoanji-corridor.jpg
+      width: 120px
+    - name: Ryoanji-Garden
+      link: /gallery/lantern
+      smol: /assets/temp/ryoanji-garden.jpg
+      width: 270px
+
+- album: newline
+  pictures:
+    - name: Ginkakuji-Green
+      link: /gallery/alley
+      smol: /assets/temp/ginkakuji-green.jpg
+      width: 124px
+    - name: Ginkakuji-Moss
+      link: /gallery/alley
+      smol: /assets/temp/ginkakuji-moss.jpg
+      width: 279px
+    - name: Honenin-Pink
+      link: /gallery/curtain
+      smol: /assets/temp/honenin-pink.jpg
+      width: 124px
+    - name: Arashiyama-Bamboo
+      link: /gallery/curtain
+      smol: /assets/temp/arashiyama-bamboo.jpg
+      width: 124px
+
+- album: newline
+  pictures:
+    - name: Kyoto-Kimonos
+      link: /gallery/scramble
+      smol: /assets/temp/kyoto-kimonos.jpg
+      width: 270px
+    - name: Kiyomizu-Kimonos
+      link: /gallery/marsh
+      smol: /assets/temp/kiyomizu-kimonos.jpg
+      width: 120px
+    - name: Ginkakuji-Sapling
+      link: /gallery/alley
+      smol: /assets/temp/ginkakuji-sapling.jpg
+      width: 270px
