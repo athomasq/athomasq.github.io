@@ -222,7 +222,6 @@
       smol: /assets/temp/istanbul-hagia-sofia.jpg
       width: 124px
 
-
 - album: newline
   pictures:
     - name: Istanbul-Suleymaniye
@@ -237,3 +236,62 @@
       link: /gallery/scramble
       smol: /assets/temp/istanbul-streetcar-tracks.jpg
       width: 120px
+
+
+
+- album: Istanbul 2
+  pictures:
+    - name: Istanbul-Eyup-Sultan
+      link: /gallery/umbrella
+      smol: /assets/temp/istanbul-eyup-sultan.jpg
+      width: 120px
+    - name: Istanbul-Booksellers
+      link: /gallery/lantern
+      smol: /assets/temp/istanbul-booksellers.jpg
+      width: 280px
+    - name: Istanbul-Coloured-Steps
+      link: /gallery/marsh
+      smol: /assets/temp/istanbul-coloured-steps.jpg
+      width: 120px
+    - name: Istanbul-Balat-Colours
+      link: /gallery/marsh
+      smol: /assets/temp/istanbul-balat-colours.jpg
+      width: 120px
+
+- album: newline
+  pictures:
+    - name: Istanbul-fruit-seller
+      link: /gallery/alley
+      smol: /assets/temp/istanbul-fruit-seller.jpg
+      width: 124px
+    - name: Istanbul-Watering-Plants
+      link: /gallery/alley
+      smol: /assets/temp/istanbul-watering-plants.jpg
+      width: 124px
+    - name: Istanbul-Nurosmaniye-Wall
+      link: /gallery/curtain
+      smol: /assets/temp/istanbul-nurosmaniye-wall.jpg
+      width: 279px
+    - name: Istanbul-Eminonu-Docks
+      link: /gallery/curtain
+      smol: /assets/temp/istanbul-eminonu-docks.jpg
+      width: 124px
+
+- album: newline
+  pictures:
+    - name: Istanbul-Galata-Night
+      link: /gallery/alley
+      smol: /assets/temp/istanbul-galata-night.jpg
+      width: 124px
+    - name: Istanbul-Bosphorus-Night
+      link: /gallery/alley
+      smol: /assets/temp/istanbul-bosphorus-night.jpg
+      width: 279px
+    - name: Istanbul-Star-Bufe
+      link: /gallery/curtain
+      smol: /assets/temp/istanbul-star-bufe.jpg
+      width: 124px
+    - name: Istanbul-Chestnut-Vendor
+      link: /gallery/curtain
+      smol: /assets/temp/istanbul-chestnut-vendor.jpg
+      width: 124px
