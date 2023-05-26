@@ -171,3 +171,69 @@
       link: /gallery/scramble
       smol: /assets/temp/kyoto-kimonos.jpg
       width: 270px
+
+
+- album: Istanbul 1
+  pictures:
+    - name: Istanbul-Fishermen
+      link: /gallery/umbrella
+      smol: /assets/temp/istanbul-fishermen.jpg
+      width: 270px
+    - name: Istanbul-Topkapi
+      link: /gallery/lantern
+      smol: /assets/temp/istanbul-topkapi.jpg
+      width: 270px
+    - name: Istanbul-Bayezit-Gate
+      link: /gallery/marsh
+      smol: /assets/temp/istanbul-bayezit-gate.jpg
+      width: 120px
+
+- album: newline
+  pictures:
+    - name: Istanbul-Balat-Steps
+      link: /gallery/alley
+      smol: /assets/temp/istanbul-balat-steps.jpg
+      width: 270px
+    - name: Istanbul-Cikis-Var
+      link: /gallery/alley
+      smol: /assets/temp/istanbul-cikis-var.jpg
+      width: 120px
+    - name: Istanbul-Rustem-Pasha
+      link: /gallery/curtain
+      smol: /assets/temp/istanbul-rustem-pasha.jpg
+      width: 270px
+
+- album: newline
+  pictures:
+    - name: Istanbul-Olive-Seller
+      link: /gallery/alley
+      smol: /assets/temp/istanbul-olive-seller.jpg
+      width: 124px
+    - name: Istanbul-Bazaar
+      link: /gallery/alley
+      smol: /assets/temp/istanbul-bazaar.jpg
+      width: 124px
+    - name: Istanbul-Hagia-Eirene
+      link: /gallery/curtain
+      smol: /assets/temp/istanbul-hagia-eirene.jpg
+      width: 279px
+    - name: Istanbul-Hagia-Sofia
+      link: /gallery/curtain
+      smol: /assets/temp/istanbul-hagia-sofia.jpg
+      width: 124px
+
+
+- album: newline
+  pictures:
+    - name: Istanbul-Suleymaniye
+      link: /gallery/scramble
+      smol: /assets/temp/istanbul-suleymaniye.jpg
+      width: 270px
+    - name: Istanbul-Safa-Sweets
+      link: /gallery/alley
+      smol: /assets/temp/istanbul-safa-sweets.jpg
+      width: 270px
+    - name: Istanbul-Streetcar-Tracks
+      link: /gallery/scramble
+      smol: /assets/temp/istanbul-streetcar-tracks.jpg
+      width: 120px
