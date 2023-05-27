@@ -10,24 +10,23 @@ title: Interests · Abraham Thomas
 
 <br/>
 
-### ❤️ Personal
+### 🧭 Exploring
 
-I have a number of hobbies and interests that keep me pleasantly busy:
+I'm currently exploring a number of ideas in the AI/ML space, especially around data, data tools and data business models. Some things I'm looking at:
 
-📚 I'm endlessly curious and an unapologetic [bibliophile](/library)  
-📷 I like to take [photographs](/gallery)  
-✈️ I like to travel, both physically and [in spirit](/library/#travel-adventure--exploration)    
-🎲 I like to play Euro-style board games  
-🎨 I haunt galleries and museums whenever I can  
-🍱 I like to cook, and also to eat well  
-🎶 I like to discover new music of almost every genre  
-🏅 I over-analyze sports, using data of course  
-🎾 I play semi-competitive tennis (NTRP 4-5)  
-🔠 I used to play tournament Scrabble, but haven't for a while   
-🌸 I used to curate a rather popular poetry newsletter  
-🏋🏾 I work out, sleep well, and practise happiness  
-📋 I'm a prolific list-maker, curator and reviewer  
-✒️ I like to [write](/writing), as this website makes abundantly clear 🙂   
+💎 Proprietary, latent, golden and small data assets.
+
+🛠 Tools to help generative models become first-class citizens in the data ecosystem.
+
+🤝 Trust hierarchies and the confidence chain: signatures, provenance, identity, curation, quality.
+
+🤖 The compute explosion, software-in-the-loop, ubiquitous agents.
+
+🔑 New limiting factors, especially energy, hardware, and atoms not bits.
+
+If you're working on any of these, I'd love to [hear from you](/mailto:at@abrahamthomas.info).
+
+
 
 ----
 
@@ -53,16 +52,40 @@ If you're also interested in these themes, I strongly recommend subscribing to m
 
 While I believe in the ability of markets, data and technology to make the world a better place, I'm also keenly aware of their limitations. 
 
-Data can be noisy, messy or incomplete; more dangerously, it can be misleading, biased or falsified.  Not all questions can be answered with data.  High-quality decision-making under uncertainty with imperfect information is hard, and therefore valuable.
+😑 Data can be noisy, messy or incomplete; more dangerously, it can be misleading, biased or falsified.  Not all questions can be answered with data.  High-quality decision-making under uncertainty with imperfect information is hard, and therefore valuable.
 
-Markets can be imperfect, incomplete, non-competitive, regulated, corrupt, captured, rigged or otherwise flawed.  Flawed markets lead to information errors, poor incentives and inequitable outcomes.  
+🏴‍☠️ Markets can be imperfect, incomplete, non-competitive, regulated, corrupt, captured, rigged or otherwise flawed.  Flawed markets lead to information errors, poor incentives and inequitable outcomes.  
 
-Technology is vulnerable to incompetence, malice, misuse, indifference, bias and unforeseen consequences.
+💣 Technology is vulnerable to incompetence, malice, misuse, indifference, bias and unforeseen consequences.
 
 The optimist (and ex trader) in me says that every inefficiency is an opportunity; the humanist in me cares for the individuals affected by these inefficiencies.  Using data-markets-technology to make the world a truly better place is not easy.  But what better way to spend one's life?
 
+
 ----
 
+<br/>
+
+### ❤️ Personal
+
+I have a number of hobbies and interests that keep me pleasantly busy:
+
+📚 I'm endlessly curious and an unapologetic [bibliophile](/library)  
+📷 I like to take [photographs](/gallery)  
+✈️ I like to travel, both physically and [in spirit](/library/#travel-adventure--exploration)    
+🎲 I like to play Euro-style board games  
+🎨 I haunt galleries and museums whenever I can  
+🍱 I like to cook, and also to eat well  
+🎶 I like to discover new music of almost every genre  
+🏅 I over-analyze sports, using data of course  
+🎾 I play semi-competitive tennis (NTRP 4-5)  
+🔠 I used to play tournament Scrabble, but haven't for a while   
+🌸 I used to curate a rather popular poetry newsletter  
+🏋🏾 I work out, sleep well, and practise happiness  
+📋 I'm a prolific list-maker, curator and reviewer  
+✒️ I like to [write](/writing), as this website makes abundantly clear 🙂   
+
+
+----
 
 <br/>
 
