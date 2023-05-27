@@ -8,6 +8,29 @@ title: Interests · Abraham Thomas
 
 ----
 
+<br/>
+
+### ❤️ Personal
+
+I have a number of hobbies and interests that keep me pleasantly busy:
+
+📚 I'm endlessly curious and an unapologetic [bibliophile](/library)  
+📷 I like to take [photographs](/gallery)  
+✈️ I like to travel, both physically and [in spirit](/library/#travel-adventure--exploration)    
+🎲 I like to play Euro-style board games  
+🎨 I haunt galleries and museums whenever I can  
+🍱 I like to cook, and also to eat well  
+🎶 I like to discover new music of almost every genre  
+🏅 I over-analyze sports, using data of course  
+🎾 I play semi-competitive tennis (NTRP 4-5)  
+🔠 I used to play tournament Scrabble, but haven't for a while   
+🌸 I used to curate a rather popular poetry newsletter  
+🏋🏾 I work out, sleep well, and practise happiness  
+📋 I'm a prolific list-maker, curator and reviewer  
+✒️ I like to [write](/writing), as this website makes abundantly clear 🙂   
+
+----
+
 <br/> 
 
 ### 💻 Professional 
@@ -40,29 +63,6 @@ The optimist (and ex trader) in me says that every inefficiency is an opportunit
 
 ----
 
-<br/>
-
-### ❤️ Personal
-
-I have a number of hobbies and interests that keep me pleasantly busy:
-
-📚 I'm endlessly curious and an unapologetic [bibliophile](/library)  
-📷 I like to take [photographs](/gallery)  
-✈️ I like to travel, both physically and [in spirit](/library/#travel-adventure--exploration)    
-🎲 I like to play Euro-style board games  
-🎨 I haunt galleries and museums whenever I can  
-🍱 I like to cook, and also to eat well  
-🎶 I like to discover new music of almost every genre  
-🏅 I over-analyze sports, using data of course  
-🎾 I play semi-competitive tennis (NTRP 4-5)  
-🔠 I used to play tournament Scrabble, but haven't for a while   
-🌸 I used to curate a rather popular poetry newsletter  
-🏋🏾 I work out, sleep well, and practise happiness  
-📋 I'm a prolific list-maker, curator and reviewer  
-✒️ I like to [write](/writing), as this website makes abundantly clear :)   
-
-
-----
 
 <br/>
 
