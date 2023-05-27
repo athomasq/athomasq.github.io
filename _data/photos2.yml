@@ -172,6 +172,22 @@
       smol: /assets/temp/kimono-heels.jpg
       width: 270px
 
+- album: newline
+  pictures:
+    - name: Honenin-Gateway
+      link: /gallery/scramble
+      smol: /assets/temp/honenin-gateway.jpg
+      width: 270px
+    - name: Ginkakuji-Sapling
+      link: /gallery/alley
+      smol: /assets/temp/ginkakuji-sapling.jpg
+      width: 270px
+    - name: Daitokuji-Garden
+      link: /gallery/scramble
+      smol: /assets/temp/daitokuji-garden.jpg
+      width: 120px
+
+
 
 - album: Istanbul 1
   pictures:
