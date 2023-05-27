@@ -12,17 +12,17 @@ title: Interests · Abraham Thomas
 
 ### 🧭 Exploring
 
-I'm currently exploring a number of ideas in the AI/ML space, especially around data, data tools and data business models. Some things I'm looking at:
+I'm currently exploring ideas in the AI/ML space, especially around data, data tools and data business models. Some things I'm looking at:
 
-💎 Proprietary, latent, golden and small data assets.
+💎 Proprietary, latent, golden and small data assets; and how to build, connect and monetize those assets.
 
-🛠 Tools to help generative models become first-class citizens in the data ecosystem.
+🛠 Data infrastructure, especially tools that help generative models become first-class consumers as well as producers of data.
 
 🤝 Trust hierarchies and the confidence chain: signatures, provenance, identity, curation, quality.
 
-🤖 The compute explosion, software-in-the-loop, ubiquitous agents.
+🤖 The compute explosion, software-in-the-loop, ubiquitous agents, matching versus ranking, productivity versus distribution.
 
-🔑 New limiting factors, especially energy, hardware, and atoms not bits.
+🔑 New areas of abundance and scarcity, especially energy, hardware, and "atoms not bits".
 
 If you're working on any of these, I'd love to [hear from you](/mailto:at@abrahamthomas.info).
 
