@@ -162,11 +162,11 @@
     - name: Kimono-Men
       link: /gallery/scramble
       smol: /assets/temp/kimono-men.jpg
-      width: 120px
+      width: 270px
     - name: Kimono-Photo
       link: /gallery/alley
       smol: /assets/temp/kimono-photo.jpg
-      width: 270px
+      width: 120px
     - name: Kimono-Heels
       link: /gallery/scramble
       smol: /assets/temp/kimono-heels.jpg
