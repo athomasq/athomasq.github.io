@@ -13,6 +13,6 @@ title: About · Abraham Thomas
 
 |I'm currently on sabbatical: [reading](/library), [writing](/writing) and [travelling](/gallery); also [investing](/investing), [advising](/work), and exploring [new ideas](/interests).|
 
-|I write a well-regarded [newsletter](/https://pivotal.substack.com) on data, investing and startups. I’m also an active [angel investor](/investing). For updates, follow me on [Twitter](https://twitter.com/athomasq)!|
+|I write a well-regarded [newsletter](https://pivotal.substack.com) on data, investing and startups. I’m also an active [angel investor](/investing). For updates, follow me on [Twitter](https://twitter.com/athomasq)!|
 
 ----
