@@ -14,7 +14,7 @@ title: Interests · Abraham Thomas
 
 I'm currently exploring ideas in the AI/ML space, especially around data, data tools and data business models. Some things I'm looking at:
 
-💎 Proprietary, latent, golden and small data assets; and how to build, connect and monetize those assets.
+💎 Proprietary, latent, golden and small data assets; and how to build, connect and capture value from those assets.
 
 🛠 Data infrastructure, especially tools that help generative models become first-class consumers as well as producers of data.
 
