@@ -159,17 +159,17 @@
 
 - album: newline
   pictures:
-    - name: Three-Kimonos
+    - name: Kimono-Men
       link: /gallery/scramble
-      smol: /assets/temp/three-kimonos.jpg
+      smol: /assets/temp/kimono-men.jpg
       width: 120px
-    - name: Ginkakuji-Sapling
+    - name: Kimono-Photo
       link: /gallery/alley
-      smol: /assets/temp/ginkakuji-sapling.jpg
+      smol: /assets/temp/kimono-photo.jpg
       width: 270px
-    - name: Kyoto-Kimonos
+    - name: Kimono-Heels
       link: /gallery/scramble
-      smol: /assets/temp/kyoto-kimonos.jpg
+      smol: /assets/temp/kimono-heels.jpg
       width: 270px
 
 
