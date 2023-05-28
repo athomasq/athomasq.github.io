@@ -392,6 +392,7 @@ What can I say about GEB that hasn't been said by a thousand geeks before me?  N
 - **The Napoleonic Wars**, Alexander Mikaberidze
 - **Lords of the Horizons**, Jason Goodwin
 - **Osman's Dream**, Caroline Finkel
+- **The Evolution of Civilizations**, Carroll Quigley
 
 [Back to Top ↩](/library#my-library)
 
@@ -500,6 +501,7 @@ What can I say about GEB that hasn't been said by a thousand geeks before me?  N
 - **Empires of Light**, Jill Jonnes
 - **Straphanger**, Taras Grescoe
 - **Empire of Pain**, Patrick Radden Keefe
+- **Devil in the Grove**, Gilbert King
 
 [Back to Top ↩](/library#my-library)
 
@@ -1100,6 +1102,7 @@ I have a minor obsession with collecting travel books. I doubt I'll visit all or
 - **A Book of Lands and Peoples**, Eric Newby (ed.)
 - **A Taste for Travel**, John Julius Norwich (ed.)
 - **The Faber Book of the Sea**, John Coote (ed.)
+- **Istanbul: A Traveller's Reader**, Laurence Kelly (ed.)
 
 [Back to Top ↩](/library#my-library)
 
