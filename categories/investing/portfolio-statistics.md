@@ -16,7 +16,9 @@ title: Portfolio Statistics · Abraham Thomas
 
 ### Overview
 
-I've angel invested in 29 companies, with 4 exits, 3 failures, and 22 "live".
+As of Dec 2022, I've angel invested in 29 companies, with 1 substantial exit at ~40x, 3 exits that each returned ~1x, 3 failures, and 22 "live".
+
+Of the 22 live positions, there are 6 companies that I'm confident will each return at least 10x; there are 8 others that I am pessimistic about; and it's too early to tell for the remaining 8.
 
 My funnel over the last 12 months looks like this:
 
