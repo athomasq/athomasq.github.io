@@ -12,7 +12,8 @@ title: Co-Investing · Abraham Thomas
 
 Consensus decisions lead to mediocre outcomes.  I prefer to invest in startups *before* they are appreciated by the market.  
 
-Therefore, I welcome your dealflow, and I'm happy to share mine.  If you'd like to co-invest with me, please reach out: at@abrahamthomas.info.  
+If you'd like to co-invest with me, please reach out: at@abrahamthomas.info.  
+
 
 
 ----
