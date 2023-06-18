@@ -312,6 +312,21 @@
 
 - album: Kyoto 2
   pictures:
+    - name: Kiyomizu-Dera
+      link: /gallery/alley
+      smol: /assets/temp/kiyomizu-dera.jpg
+      width: 270px
+    - name: Kinkaku-Ji
+      link: /gallery/alley
+      smol: /assets/temp/kinkaku-ji.jpg
+      width: 270px
+    - name: Kiyomizu-Pagoda
+      link: /gallery/curtain
+      smol: /assets/temp/kiyomizu-pagoda.jpg
+      width: 120px
+
+- album: newline
+  pictures:
     - name: Fushimi-Gate
       link: /gallery/umbrella
       smol: /assets/temp/fushimi-gate.jpg
@@ -324,20 +339,5 @@
       link: /gallery/marsh
       smol: /assets/temp/arashiyama-grove.jpg
       width: 264px
-
-- album: newline
-  pictures:
-    - name: Kiyomizu-Dera
-      link: /gallery/alley
-      smol: /assets/temp/kiyomizu-dera.jpg
-      width: 120px
-    - name: Kinkaku-Ji
-      link: /gallery/alley
-      smol: /assets/temp/kinkaku-ji.jpg
-      width: 270px
-    - name: Kurama-Dera
-      link: /gallery/curtain
-      smol: /assets/temp/kurama-dera.jpg
-      width: 270px
 
 
