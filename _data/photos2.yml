@@ -187,41 +187,6 @@
       smol: /assets/temp/daitokuji-garden.jpg
       width: 120px
 
-- album: Kyoto 2
-  pictures:
-    - name: Fushimi-Gate
-      link: /gallery/umbrella
-      smol: /assets/temp/fushimi-gate.jpg
-      width: 120px
-    - name: Inside-Torii
-      link: /gallery/lantern
-      smol: /assets/temp/inside-torii.jpg
-      width: 270px
-    - name: Arashiyama-Grove
-      link: /gallery/marsh
-      smol: /assets/temp/arashiyama-grove.jpg
-      width: 270px
-
-- album: newline
-  pictures:
-    - name: Kurama-Entry-Flag
-      link: /gallery/alley
-      smol: /assets/temp/kurama-entry-flag.jpg
-      width: 124px
-    - name: Kurama-Lantern
-      link: /gallery/alley
-      smol: /assets/temp/kurama-lantern.jpg
-      width: 124px
-    - name: Kurama-Dera
-      link: /gallery/curtain
-      smol: /assets/temp/kurama-dera.jpg
-      width: 279px
-    - name: Kurama-Mountains
-      link: /gallery/curtain
-      smol: /assets/temp/kurama-mountains.jpg
-      width: 124px
-
-
 - album: Istanbul 1
   pictures:
     - name: Istanbul-Topkapi
@@ -344,3 +309,40 @@
       link: /gallery/curtain
       smol: /assets/temp/istanbul-chestnut-vendor.jpg
       width: 124px
+
+- album: Kyoto 2
+  pictures:
+    - name: Fushimi-Gate
+      link: /gallery/umbrella
+      smol: /assets/temp/fushimi-gate.jpg
+      width: 132px
+    - name: Inside-Torii
+      link: /gallery/lantern
+      smol: /assets/temp/inside-torii.jpg
+      width: 264px
+    - name: Arashiyama-Grove
+      link: /gallery/marsh
+      smol: /assets/temp/arashiyama-grove.jpg
+      width: 264px
+
+- album: newline
+  pictures:
+    - name: Kurama-Entry-Flag
+      link: /gallery/alley
+      smol: /assets/temp/kurama-entry-flag.jpg
+      width: 124px
+    - name: Kurama-Lantern
+      link: /gallery/alley
+      smol: /assets/temp/kurama-lantern.jpg
+      width: 124px
+    - name: Kurama-Dera
+      link: /gallery/curtain
+      smol: /assets/temp/kurama-dera.jpg
+      width: 279px
+    - name: Kurama-Mountains
+      link: /gallery/curtain
+      smol: /assets/temp/kurama-mountains.jpg
+      width: 124px
+
+
+
