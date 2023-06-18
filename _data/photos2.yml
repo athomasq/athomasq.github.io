@@ -355,3 +355,18 @@
       smol: /assets/temp/kurama-flag.jpg
       width: 120px
 
+- album: newline
+  pictures:
+    - name: Sanneizaka-Pubs
+      link: /gallery/alley
+      smol: /assets/temp/sanneizaka-pubs.jpg
+      width: 120px
+    - name: Sanneizaka-Sweets
+      link: /gallery/alley
+      smol: /assets/temp/sanneizaka-sweets.jpg
+      width: 270px
+    - name: Sanneizaka-Lanterns
+      link: /gallery/curtain
+      smol: /assets/temp/sanneizaka-lanterns.jpg
+      width: 270px
+
