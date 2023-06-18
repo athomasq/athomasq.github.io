@@ -327,22 +327,17 @@
 
 - album: newline
   pictures:
-    - name: Kurama-Entry-Flag
+    - name: Kiyomizu-Dera
       link: /gallery/alley
-      smol: /assets/temp/kurama-entry-flag.jpg
-      width: 124px
-    - name: Kurama-Lantern
+      smol: /assets/temp/kiyomizu-dera.jpg
+      width: 120px
+    - name: Kinkaku-Ji
       link: /gallery/alley
-      smol: /assets/temp/kurama-lantern.jpg
-      width: 124px
+      smol: /assets/temp/kinkaku-ji.jpg
+      width: 270px
     - name: Kurama-Dera
       link: /gallery/curtain
       smol: /assets/temp/kurama-dera.jpg
-      width: 279px
-    - name: Kurama-Mountains
-      link: /gallery/curtain
-      smol: /assets/temp/kurama-mountains.jpg
-      width: 124px
-
+      width: 270px
 
 
