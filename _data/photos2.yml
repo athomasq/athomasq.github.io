@@ -340,4 +340,18 @@
       smol: /assets/temp/arashiyama-grove.jpg
       width: 264px
 
+- album: newline
+  pictures:
+    - name: Maiko
+      link: /gallery/alley
+      smol: /assets/temp/maiko.jpg
+      width: 270px
+    - name: Fushimi-Steps
+      link: /gallery/alley
+      smol: /assets/temp/fushimi-steps.jpg
+      width: 270px
+    - name: Kurama-Flag
+      link: /gallery/curtain
+      smol: /assets/temp/kurama-flag.jpg
+      width: 120px
 
