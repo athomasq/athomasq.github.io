@@ -331,9 +331,9 @@
       link: /gallery/umbrella
       smol: /assets/temp/fushimi-gate.jpg
       width: 132px
-    - name: Lantern-and-Torii
-      link: /gallery/alley
-      smol: /assets/temp/lantern-and-torii.jpg
+    - name: Inside-Torii
+      link: /gallery/lantern
+      smol: /assets/temp/inside-torii.jpg
       width: 264px
     - name: Arashiyama-Grove
       link: /gallery/marsh
@@ -361,9 +361,9 @@
       link: /gallery/alley
       smol: /assets/temp/kyoto-street-scene.jpg
       width: 124px
-    - name: Inside-Torii
-      link: /gallery/lantern
-      smol: /assets/temp/inside-torii.jpg
+    - name: Lantern-and-Torii
+      link: /gallery/alley
+      smol: /assets/temp/lantern-and-torii.jpg
       width: 279px
     - name: Sanneizaka-Dusk
       link: /gallery/alley
