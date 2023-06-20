@@ -357,16 +357,20 @@
 
 - album: newline
   pictures:
-    - name: Sanneizaka-Pubs
+    - name: Kyoto-Street-Scene
       link: /gallery/alley
-      smol: /assets/temp/sanneizaka-pubs.jpg
-      width: 120px
-    - name: Sanneizaka-Sweets
+      smol: /assets/temp/kyoto-street-scene.jpg
+      width: 124px
+    - name: Lantern-and-Torii
       link: /gallery/alley
-      smol: /assets/temp/sanneizaka-sweets.jpg
-      width: 270px
-    - name: Sanneizaka-Lanterns
+      smol: /assets/temp/lantern-and-torii.jpg
+      width: 279px
+    - name: Sanneizaka-Dusk
+      link: /gallery/alley
+      smol: /assets/temp/sanneizaka-dusk.jpg
+      width: 124px
+    - name: Nineizaka-Umbrellas
       link: /gallery/curtain
-      smol: /assets/temp/sanneizaka-lanterns.jpg
-      width: 270px
+      smol: /assets/temp/nineizaka-umbrellas.jpg
+      width: 124px
 
