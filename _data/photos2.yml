@@ -374,3 +374,22 @@
       smol: /assets/temp/nineizaka-umbrellas.jpg
       width: 124px
 
+
+- album: Japan B/W
+  pictures:
+    - name: Asakusa-Alley-Lamps
+      link: /gallery/alley
+      smol: /assets/temp/asakusa-alley-lamps.jpg
+      width: 124px
+    - name: Asakusa-Okamoto-Cops
+      link: /gallery/alley
+      smol: /assets/temp/asakusa-okamoto-cops.jpg
+      width: 124px
+    - name: Asakuda-Diners-Waiting
+      link: /gallery/curtain
+      smol: /assets/temp/asakusa-diners-waiting.jpg
+      width: 124px
+    - name: Shinjuku-Pub-Motorbike
+      link: /gallery/curtain
+      smol: /assets/temp/shinjuku-pub-motorbike.jpg
+      width: 279px
