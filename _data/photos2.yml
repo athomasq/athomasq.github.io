@@ -393,3 +393,22 @@
       link: /gallery/curtain
       smol: /assets/temp/shinjuku-pub-motorbike.jpg
       width: 279px
+
+- album: newline
+  pictures:
+    - name: Asakusa-Don-Quijote
+      link: /gallery/alley
+      smol: /assets/temp/asakusa-don-quijote.jpg
+      width: 168px
+    - name: Asakusa-Pedestrians-BW
+      link: /gallery/alley
+      smol: /assets/temp/asakusa-pedestrians-bw.jpg
+      width: 252px
+    - name: Asakuda-Two-Men
+      link: /gallery/curtain
+      smol: /assets/temp/asakusa-two-men.jpg
+      width: 103px
+    - name: Nihombashi-Corridor-BW
+      link: /gallery/curtain
+      smol: /assets/temp/nihombashi-corridor-bw.jpg
+      width: 126px
