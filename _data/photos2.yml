@@ -365,12 +365,12 @@
       link: /gallery/alley
       smol: /assets/temp/lantern-and-torii.jpg
       width: 279px
-    - name: Sanneizaka-Dusk
-      link: /gallery/alley
-      smol: /assets/temp/sanneizaka-dusk.jpg
-      width: 124px
-    - name: Nineizaka-Umbrellas
+    - name: Kurama-One-Lantern
       link: /gallery/curtain
-      smol: /assets/temp/nineizaka-umbrellas.jpg
+      smol: /assets/temp/kurama-one-lantern.jpg
+      width: 124px
+    - name: Nineizaka-Pubs
+      link: /gallery/alley
+      smol: /assets/temp/nineizaka-pubs.jpg
       width: 124px
 
