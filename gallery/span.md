@@ -13,4 +13,4 @@ Canon Rebel XT + Sigma 30mm: 1/60s f/5.6
 
 <a href="/gallery/incense"> &laquo; Prev </a> &emsp; · &emsp; 
 <a href="/gallery"> Home </a> &emsp; · &emsp; 
-<a href="/gallery/pavilion"> Next &raquo; </a>
+<a href="/gallery/texture"> Next &raquo; </a>
