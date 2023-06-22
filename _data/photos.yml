@@ -209,3 +209,22 @@
       smol: /assets/smol/Corridor_.jpg
       width: 120px
 
+- album: newline
+  pictures:
+    - name: Pavilion
+      link: /gallery/pavilion
+      smol: /assets/smol/Pavilion_.jpg
+      width: 124px
+    - name: Moss
+      link: /gallery/moss
+      smol: /assets/smol/Moss_.jpg
+      width: 279px
+    - name: Pink
+      link: /gallery/pink
+      smol: /assets/smol/Pink_.jpg
+      width: 124px
+    - name: Bamboo
+      link: /gallery/bamboo
+      smol: /assets/smol/Bamboo_.jpg
+      width: 124px
+
