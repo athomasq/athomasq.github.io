@@ -194,4 +194,18 @@
       smol: /assets/smol/Node_.jpg
       width: 168px
 
+- album: Kyoto
+  pictures:
+    - name: Door
+      link: /gallery/door
+      smol: /assets/smol/Door_.jpg
+      width: 270px
+    - name: Rocks
+      link: /gallery/rocks
+      smol: /assets/smol/Rocks_.jpg
+      width: 270px
+    - name: Corridor
+      link: /gallery/corridor
+      smol: /assets/smol/Corridor_.jpg
+      width: 120px
 
