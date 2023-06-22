@@ -1,12 +1,12 @@
 ---
 layout: photo
-title: Rocks · Abraham Thomas
+title: Waves · Abraham Thomas
 ---
 
-<img src="/assets/photos/Rocks.jpg" width="360px" class="photo">
+<img src="/assets/photos/Waves.jpg" width="360px" class="photo">
 
 <i>
-**Rocks**  
+**Waves**  
 Daitoku-ji, Kyōto -- 2019  
 Sony A7 + FE 24-105mm G lens: 24mm 1/200s f/8
 </i>

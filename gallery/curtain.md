@@ -13,4 +13,4 @@ Sony A7 + FE 24-105mm G lens: 105mm 1/125s f/8
 
 <a href="/gallery/umbrella"> &laquo; Prev </a> &emsp; · &emsp; 
 <a href="/gallery"> Home </a> &emsp; · &emsp; 
-<a href="/gallery/rocks"> Next &raquo; </a>
+<a href="/gallery/waves"> Next &raquo; </a>

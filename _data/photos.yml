@@ -8,9 +8,9 @@
       link: /gallery/curtain
       smol: /assets/smol/Curtain_.jpg
       width: 270px
-    - name: Rocks
-      link: /gallery/rocks
-      smol: /assets/smol/Rocks_.jpg
+    - name: Waves
+      link: /gallery/waves
+      smol: /assets/smol/Waves_.jpg
       width: 120px
 
 - album: newline
