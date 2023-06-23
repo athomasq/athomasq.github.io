@@ -12,7 +12,7 @@ title: Portfolio · Abraham Thomas
 
 ### Current Portfolio: 2019 onwards
 
-I'm fortunate to be an investor in the following companies:
+I'm fortunate to be part of the following companies:
 
 🧠 **[Daloopa](https://www.daloopa.com)**: next-gen financial modelling data  
 🏢 **[Mero](https://mero.co)**: sensors for smart buildings  
@@ -27,16 +27,17 @@ I'm fortunate to be an investor in the following companies:
 🚚 **Erly**: distributed fulfillment network [EXIT]  
 💳 **[Klanto](https://www.klanto.com)**: spend management platform  
 💵 **[Requity](https://www.requityhomes.com)**: rent-to-own for real estate  
-🧾 **[Syro](https://www.syro.com)**: B2B payments on crypto rails  
+🙊 **[Syro](https://www.syro.com)**: seamless secret management 
 🎲 **TriplePlay**: remote culture through games [EXIT]  
-<!--🎼 **[Composer](https://www.composer.trade)**: rules-based investing for retail  -->
+🎼 **[Composer](https://www.composer.trade)**: AI-powered investing for retail  
 🛒 **[Arima](https://www.arimadata.com)**: privacy-first marketing with synthetic data   
 📧 **[Ubico](https://www.ubico.io)**: smart sales assistant  
 🎥 **[Alchemic](https://www.alchemic.ca)**: cross-platform tools for creators  
 🤖 **[Quandri](https://quandri.io)**: automation for insurance  
 🍅 **[FarmTheory](https://www.farmtheory.in/home)**: marketplace for ugly produce  
-🏩 **[Kordie](https://www.kordie.com)**: online learning for hospitality  
-🥷 **Stealth**: stealthy mcstealthstartup  
+🏩 **[Kordie](https://www.kordie.com)**: upskilling the hospitality industry  
+📞 **[Productive](https://productive.ai/)**: an API to the content of your call  
+🤐 **Stealth**: stealthy mcstealthstartup  
 
 <!-- For a more detailed description of these companies and why I invested, [click here](/portfolio-detailed).-->
 
