@@ -27,7 +27,7 @@ I'm fortunate to be part of the following companies:
 🚚 **Erly**: distributed fulfillment network [EXIT]  
 💳 **[Klanto](https://www.klanto.com)**: spend management platform  
 💵 **[Requity](https://www.requityhomes.com)**: rent-to-own for real estate  
-🙊 **[Syro](https://www.syro.com)**: seamless secret management 
+🙊 **[Syro](https://www.syro.com)**: seamless secret management  
 🎲 **TriplePlay**: remote culture through games [EXIT]  
 🎼 **[Composer](https://www.composer.trade)**: AI-powered investing for retail  
 🛒 **[Arima](https://www.arimadata.com)**: privacy-first marketing with synthetic data   
