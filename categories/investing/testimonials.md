@@ -37,24 +37,4 @@ But don't just take my word for it.  Here are some testimonials from my portfoli
 
 [Back to Investing Page ↩](/investing)
 
-
-<!--
-
-### Ways I Help
-
-🤝 **Networks:** I can help with introductions and references for potential customers, partners, job candidates, expert operators, and down-stream investors including warm intros to many well-known VC firms.
-
-🧠 **Knowledge:** There are a few topics that I have specific deep expertise in: data & API business models; data science & data engineering; capital markets & B2B fintech; starting & scaling network-effects businesses; and building successful data-centric organizations.
-
-🔧 **Execution:** I can help tactically on almost all operational aspects of early-stage startups: product & engineering; sales & marketing; culture & team-building; go-to-market strategy; narrative creation & positioning; and fund-raising.
-
-
-
 <br/>
-
-----
-
-<br/>
-
--->
-
