@@ -36,7 +36,7 @@ What drives boom-bust cycles in private markets?  This essay from early 2022 off
 How data businesses start, grow, and dominate. I don't think I've ever received as many comments saying "finally! somebody nailed it!" as I did for this essay.
 
 *[Data in the Age of AI](https://pivotal.substack.com/p/data-in-the-age-of-ai)*    
-A follow-up to the previous essay. How does the sudden explosion in AI affect data and data businesses? Featuring complementary assets, trust hierarchies, peace dividends, software-in-the-loop, latent and golden data, first-class tools and more.
+How does the sudden explosion in AI affect data and data businesses? Featuring complementary assets, trust hierarchies, peace dividends, software-in-the-loop, latent and golden data, first-class tools and more.
 
 
 ----
@@ -48,15 +48,19 @@ A follow-up to the previous essay. How does the sudden explosion in AI affect da
 *[Ambition Should Be Made of Sterner Stuff](/sterner-stuff)*  ⭐️  
 In a memorable rallying cry, Marc Andreessen says "it's time to build".  But why haven't we been building?  What went wrong?
 
+<!--
 *[Aliens Among Us](/aliens)*  
 We search the skies for extraterrestrials, and we worry that software might achieve sentience.  But alien intelligences already live among us; we just don't recognize them.
-
+-->
 
 *[APIs Are Eating the World](/APIs-are-eating-the-world)*  
 Software is eating the world -- and APIs are how software talks to other software. That's why so many of the hottest new tech companies, from Stripe to Shopify, are essentially just APIs.
 
+
+<!--
 *[Software Eats Marxism](/software-eats-marxism)*  
 Older article with a click-baity title, but the thesis holds: software has the ability to make central planning a feasible reality. 
+-->
 
 ----
 
@@ -67,15 +71,16 @@ Older article with a click-baity title, but the thesis holds: software has the a
 *[Alfred Winslow Jones: the Hidden Architect of Modern Markets](/alfred-winslow-jones)*  ⭐️  
 Let me tell you all about Alfred Winslow Jones. You may not have heard of him, but he’s one of the most important financiers of the 20th century.
 
+<!--
 *[Explaining Rentec's Returns](/rentecs-returns)*  
 What lies behind Renaissance's incredible returns? It turns out you don't need to invoke magic, genius or skulduggery; what you see is exactly what you'd expect, given a few simple assumptions.
-
 
 *[The Goldilocks Theory of Trading Regimes](/two-extremes-of-market-efficiency)*  
 It's hard to make money in markets that are perfectly efficient or perfectly inefficient.  What investors crave is a market that is moderate, predictable, and time-bound in its inefficiency.
 
 *[Data-Driven versus Data-Informed: Two Philosophies of Investing](/data-driven-data-informed)*  
 Do you let data tell you what to do in toto?  Or is data merely one input into a non-generalizable process that ultimately relies on human judgement?  This, increasingly, seems to be the key divide in active asset management. 
+-->
 
 *[Silk Ties and Suckers: A Trading Story](/silk-ties)*  
 What does your counterparty know that you don't?
@@ -93,9 +98,10 @@ When I was 13 years old, I spent 3 days in the hold of a converted cargo ship, e
 *[The Accidental Investor](/the-accidental-investor)*  
 I fell into finance by accident. Here's how it happened. 
 
+<!--
 *[Three Decades of Bond Arbitrage](/bond-arbitrage)*  
 A brief history of progress in a niche but lucrative field: from paper and calculators to real-time algorithms and high-frequency execution.  I had a ringside seat.
-
+-->
 
 ----
 
@@ -138,7 +144,7 @@ Everybody wants to be contrarian these days; they think it makes them look smart
 
 
 *[Abraham's Curated Guide to Japan](https://abrahamthomas.gumroad.com/l/wwrni)*  
-24,000 words; 60 original photographs; 1 opinionated writer – welcome to my e-book on touring Japan!  I lived in Japan for many years and have visited many times since then; this guide is the distillation of all my best advice.  
+24,000 words; 100 original photographs; 1 opinionated writer – welcome to my e-book on touring Japan!  I lived in Japan for many years and have visited many times since then; this guide is the distillation of all my best advice.  
 
 <br/>
 <br/>
