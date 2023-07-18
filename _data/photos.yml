@@ -209,3 +209,17 @@
       smol: /assets/smol/Bamboo_.jpg
       width: 124px
 
+- album: newline
+  pictures:
+    - name: Kimono-1
+      link: /gallery/kimono-1
+      smol: /assets/smol/Kimono-1_.jpg
+      width: 270px
+    - name: Kimono-2
+      link: /gallery/kimono-2
+      smol: /assets/smol/Kimono-2_.jpg
+      width: 120px
+    - name: Kimono-3
+      link: /gallery/kimono-3
+      smol: /assets/sml/Kimono-3_.jpg
+      width: 270px
