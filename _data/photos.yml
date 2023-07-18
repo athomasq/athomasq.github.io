@@ -221,5 +221,20 @@
       width: 120px
     - name: Kimono-3
       link: /gallery/kimono-3
-      smol: /assets/sml/Kimono-3_.jpg
+      smol: /assets/smol/Kimono-3_.jpg
       width: 270px
+
+- album: newline
+  pictures:
+    - name: Gateway
+      link: /gallery/gateway
+      smol: /assets/smol/Gateway_.jpg
+      width: 270px
+    - name: Sapling
+      link: /gallery/sapling
+      smol: /assets/smol/Sapling_.jpg
+      width: 270px
+    - name: Daitokuji
+      link: /gallery/daitokuji
+      smol: /assets/smol/Daitokuji_.jpg
+      width: 120px
