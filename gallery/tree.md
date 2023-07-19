@@ -13,4 +13,4 @@ Canon Rebel XT + EF-S 10-22mm: 10mm 1/100s f/7.1
 
 <a href="/gallery/path"> &laquo; Prev </a> &emsp; · &emsp; 
 <a href="/gallery"> Home </a> &emsp; · &emsp; 
-<a href="/gallery/dome"> Next &raquo; </a>
+<a href="/gallery/canoes"> Next &raquo; </a>

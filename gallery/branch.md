@@ -11,6 +11,6 @@ Adirondack State Park, NY, USA -- 2007
 Canon Rebel XT + EF-S 10-22mm: 11mm 1/30s f/18  
 </i>
 
-<a href="/gallery/orsay"> &laquo; Prev </a> &emsp; · &emsp; 
+<a href="/gallery/after"> &laquo; Prev </a> &emsp; · &emsp; 
 <a href="/gallery"> Home </a> &emsp; · &emsp; 
 <a href="/gallery/path"> Next &raquo; </a>

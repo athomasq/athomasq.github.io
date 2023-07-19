@@ -13,4 +13,4 @@ Canon Rebel XT + Sigma 30mm: 1/25s f/1.4
 
 <a href="/gallery/cobbles"> &laquo; Prev </a> &emsp; · &emsp; 
 <a href="/gallery"> Home </a> &emsp; · &emsp; 
-<a href="/gallery/buddha"> Next &raquo; </a>
+<a href="/gallery/branch"> Next &raquo; </a>

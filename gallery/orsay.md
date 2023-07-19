@@ -13,4 +13,4 @@ iPhone 5s: 4mm 1/30s f/2.2
 
 <a href="/gallery/metro"> &laquo; Prev </a> &emsp; · &emsp; 
 <a href="/gallery"> Home </a> &emsp; · &emsp; 
-<a href="/gallery/branch"> Next &raquo; </a>
+<a href="/gallery/dome"> Next &raquo; </a>
