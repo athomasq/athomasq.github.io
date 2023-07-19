@@ -374,3 +374,37 @@
       smol: /assets/temp/nineizaka-pubs.jpg
       width: 124px
 
+- album: Japan+
+  pictures:
+    - name: Buddha
+      link: /gallery/buddha
+      smol: /assets/smol/Buddha_.jpg
+      width: 270px
+    - name: Incense
+      link: /gallery/incense
+      smol: /assets/smol/Incense_.jpg
+      width: 270px
+    - name: Span
+      link: /gallery/span
+      smol: /assets/smol/Span_.jpg
+      width: 120px
+
+- album: newline
+  pictures:
+    - name: Texture
+      link: /gallery/texture
+      smol: /assets/smol/Texture_.jpg
+      width: 252px
+    - name: Ramen
+      link: /gallery/ramen
+      smol: /assets/smol/Ramen_.jpg
+      width: 116px
+    - name: Rush
+      link: /gallery/rush
+      smol: /assets/smol/Rush_.jpg
+      width: 116px
+    - name: Node
+      link: /gallery/node
+      smol: /assets/smol/Node_.jpg
+      width: 168px
+

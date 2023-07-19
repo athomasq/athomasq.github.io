@@ -43,138 +43,6 @@
       smol: /assets/smol/Marsh_.jpg
       width: 248px
 
-- album: Alberta
-  pictures:
-    - name: Canoes
-      link: /gallery/canoes
-      smol: /assets/smol/Canoes_.jpg
-      width: 120px
-    - name: Canyon
-      link: /gallery/canyon
-      smol: /assets/smol/Canyon_.jpg
-      width: 270px    
-    - name: Reflection
-      link: /gallery/reflection
-      smol: /assets/smol/Reflection_.jpg
-      width: 270px
-    
-- album: newline
-  pictures:
-    - name: Bridge
-      link: /gallery/bridge
-      smol: /assets/smol/Bridge_.jpg
-      width: 270px
-    - name: Waterfall
-      link: /gallery/waterfall
-      smol: /assets/smol/Waterfall_.jpg
-      width: 120px
-    - name: Glacier
-      link: /gallery/glacier
-      smol: /assets/smol/Glacier_.jpg
-      width: 270px
-
-- album: Amsterdam
-  pictures:
-    - name: Tram
-      link: /gallery/tram
-      smol: /assets/smol/Tram_.jpg
-      width: 140px
-    - name: Canal
-      link: /gallery/canal
-      smol: /assets/smol/Canal_.jpg
-      width: 108px
-    - name: Scooter
-      link: /gallery/scooter
-      smol: /assets/smol/Scooter_.jpg
-      width: 243px
-    - name: Boats
-      link: /gallery/boats
-      smol: /assets/smol/Boats_.jpg
-      width: 162px
-
-- album: Paris
-  pictures:
-    - name: Louvre
-      link: /gallery/louvre
-      smol: /assets/smol/Louvre_.jpg
-      width: 105px
-    - name: Cafe
-      link: /gallery/cafe
-      smol: /assets/smol/Cafe_.jpg
-      width: 235px
-    - name: Metro
-      link: /gallery/metro
-      smol: /assets/smol/Metro_.jpg
-      width: 105px
-    - name: Orsay
-      link: /gallery/orsay
-      smol: /assets/smol/Orsay_.jpg
-      width: 210px
-
-- album: Parks
-  pictures:
-    - name: Branch
-      link: /gallery/branch
-      smol: /assets/smol/Branch_.jpg
-      width: 120px
-    - name: Path
-      link: /gallery/path
-      smol: /assets/smol/Path_.jpg
-      width: 270px
-    - name: Tree
-      link: /gallery/tree
-      smol: /assets/smol/Tree_.jpg
-      width: 270px
-
-- album: Cities
-  pictures:
-    - name: Dome
-      link: /gallery/dome
-      smol: /assets/smol/Dome_.jpg
-      width: 270px
-    - name: Cobbles
-      link: /gallery/cobbles
-      smol: /assets/smol/Cobbles_.jpg
-      width: 120px
-    - name: After
-      link: /gallery/after
-      smol: /assets/smol/After_.jpg
-      width: 270px
-
-- album: Japan+
-  pictures:
-    - name: Buddha
-      link: /gallery/buddha
-      smol: /assets/smol/Buddha_.jpg
-      width: 270px
-    - name: Incense
-      link: /gallery/incense
-      smol: /assets/smol/Incense_.jpg
-      width: 270px
-    - name: Span
-      link: /gallery/span
-      smol: /assets/smol/Span_.jpg
-      width: 120px
-
-- album: newline
-  pictures:
-    - name: Texture
-      link: /gallery/texture
-      smol: /assets/smol/Texture_.jpg
-      width: 252px
-    - name: Ramen
-      link: /gallery/ramen
-      smol: /assets/smol/Ramen_.jpg
-      width: 116px
-    - name: Rush
-      link: /gallery/rush
-      smol: /assets/smol/Rush_.jpg
-      width: 116px
-    - name: Node
-      link: /gallery/node
-      smol: /assets/smol/Node_.jpg
-      width: 168px
-
 - album: Kyoto
   pictures:
     - name: Door
@@ -238,3 +106,102 @@
       link: /gallery/daitokuji
       smol: /assets/smol/Daitokuji_.jpg
       width: 120px
+
+- album: Amsterdam
+  pictures:
+    - name: Tram
+      link: /gallery/tram
+      smol: /assets/smol/Tram_.jpg
+      width: 140px
+    - name: Canal
+      link: /gallery/canal
+      smol: /assets/smol/Canal_.jpg
+      width: 108px
+    - name: Scooter
+      link: /gallery/scooter
+      smol: /assets/smol/Scooter_.jpg
+      width: 243px
+    - name: Boats
+      link: /gallery/boats
+      smol: /assets/smol/Boats_.jpg
+      width: 162px
+
+- album: Paris
+  pictures:
+    - name: Louvre
+      link: /gallery/louvre
+      smol: /assets/smol/Louvre_.jpg
+      width: 105px
+    - name: Cafe
+      link: /gallery/cafe
+      smol: /assets/smol/Cafe_.jpg
+      width: 235px
+    - name: Metro
+      link: /gallery/metro
+      smol: /assets/smol/Metro_.jpg
+      width: 105px
+    - name: Orsay
+      link: /gallery/orsay
+      smol: /assets/smol/Orsay_.jpg
+      width: 210px
+
+- album: Cities
+  pictures:
+    - name: Dome
+      link: /gallery/dome
+      smol: /assets/smol/Dome_.jpg
+      width: 270px
+    - name: Cobbles
+      link: /gallery/cobbles
+      smol: /assets/smol/Cobbles_.jpg
+      width: 120px
+    - name: After
+      link: /gallery/after
+      smol: /assets/smol/After_.jpg
+      width: 270px
+
+- album: Parks
+  pictures:
+    - name: Branch
+      link: /gallery/branch
+      smol: /assets/smol/Branch_.jpg
+      width: 120px
+    - name: Path
+      link: /gallery/path
+      smol: /assets/smol/Path_.jpg
+      width: 270px
+    - name: Tree
+      link: /gallery/tree
+      smol: /assets/smol/Tree_.jpg
+      width: 270px
+
+- album: Alberta
+  pictures:
+    - name: Canoes
+      link: /gallery/canoes
+      smol: /assets/smol/Canoes_.jpg
+      width: 120px
+    - name: Canyon
+      link: /gallery/canyon
+      smol: /assets/smol/Canyon_.jpg
+      width: 270px    
+    - name: Reflection
+      link: /gallery/reflection
+      smol: /assets/smol/Reflection_.jpg
+      width: 270px
+    
+- album: newline
+  pictures:
+    - name: Bridge
+      link: /gallery/bridge
+      smol: /assets/smol/Bridge_.jpg
+      width: 270px
+    - name: Waterfall
+      link: /gallery/waterfall
+      smol: /assets/smol/Waterfall_.jpg
+      width: 120px
+    - name: Glacier
+      link: /gallery/glacier
+      smol: /assets/smol/Glacier_.jpg
+      width: 270px
+
