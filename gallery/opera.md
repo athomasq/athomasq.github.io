@@ -13,4 +13,4 @@ Sony A7 + FE 24-105mm G lens: ISO 50 105mm f/8 1/100s
 
 <a href="/gallery/angels"> &laquo; Prev </a> &emsp; · &emsp; 
 <a href="/gallery"> Home </a> &emsp; · &emsp; 
-<a href="/gallery/terrace"> Next &raquo; </a>
+<a href="/gallery/window"> Next &raquo; </a>

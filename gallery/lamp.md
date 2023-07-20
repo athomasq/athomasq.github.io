@@ -11,6 +11,6 @@ Brühlsche Terrasse, Dresden -- 2023
 Sony A7 + FE 24-105mm G lens: ISO 1000 48mm f/4 1/10s
 </i>
 
-<a href="/gallery/sky"> &laquo; Prev </a> &emsp; · &emsp; 
+<a href="/gallery/arch"> &laquo; Prev </a> &emsp; · &emsp; 
 <a href="/gallery"> Home </a> &emsp; · &emsp; 
 <a href="/gallery/tram"> Next &raquo; </a>

@@ -11,6 +11,6 @@ Dresdner Schloss, Dresden -- 2023
 Sony A7 + FE 24-105mm G lens: 105mm 1/15s f/4 ISO 1250
 </i>
 
-<a href="/gallery/angels"> &laquo; Prev </a> &emsp; · &emsp; 
+<a href="/gallery/waiters"> &laquo; Prev </a> &emsp; · &emsp; 
 <a href="/gallery"> Home </a> &emsp; · &emsp; 
-<a href="/gallery/passage"> Next &raquo; </a>
+<a href="/gallery/arch"> Next &raquo; </a>

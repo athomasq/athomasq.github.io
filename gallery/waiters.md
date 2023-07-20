@@ -11,6 +11,6 @@ Auguststraße, Dresden -- 2023
 Sony A7 + FE 24-105mm G lens: 105mm 1/15s f/4 ISO 800
 </i>
 
-<a href="/gallery/passage"> &laquo; Prev </a> &emsp; · &emsp; 
+<a href="/gallery/window"> &laquo; Prev </a> &emsp; · &emsp; 
 <a href="/gallery"> Home </a> &emsp; · &emsp; 
-<a href="/gallery/terrace"> Next &raquo; </a>
+<a href="/gallery/tower"> Next &raquo; </a>

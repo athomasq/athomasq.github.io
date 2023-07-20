@@ -11,6 +11,6 @@ R. Elbe, Dresden -- 2023
 Sony A7 + FE 24-105mm G lens: ISO 800 29mm f/4 1/30s
 </i>
 
-<a href="/gallery/tower"> &laquo; Prev </a> &emsp; · &emsp; 
+<a href="/gallery/passage"> &laquo; Prev </a> &emsp; · &emsp; 
 <a href="/gallery"> Home </a> &emsp; · &emsp; 
-<a href="/gallery/lamp"> Next &raquo; </a>
+<a href="/gallery/terrace"> Next &raquo; </a>
