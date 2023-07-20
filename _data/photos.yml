@@ -107,6 +107,45 @@
       smol: /assets/smol/Daitokuji_.jpg
       width: 120px
 
+- album: Dresden
+  pictures:
+    - name: Angels
+      link: /gallery/angels
+      smol: /assets/smol/Angels_.jpg
+      width: 164px
+    - name: Tower
+      link: /gallery/tower
+      smol: /assets/smol/Tower_.jpg
+      width: 164px
+    - name: Passage
+      link: /gallery/passage
+      smol: /assets/smol/Passage_.jpg
+      width: 164px
+    - name: Waiters
+      link: /gallery/waiters
+      smol: /assets/smol/Waiters_.jpg
+      width: 164px
+
+- album: newline
+  pictures:
+    - name: Terrace
+      link: /gallery/terrace
+      smol: /assets/smol/Terrace_.jpg
+      width: 164px
+    - name: Tramlines
+      link: /gallery/tramlines
+      smol: /assets/smol/Tramlines_.jpg
+      width: 164px
+    - name: Ring
+      link: /gallery/ring
+      smol: /assets/smol/Ring_.jpg
+      width: 164px
+    - name: Window
+      link: /gallery/window
+      smol: /assets/smol/Window_.jpg
+      width: 164px
+
+
 - album: Amsterdam
   pictures:
     - name: Tram
