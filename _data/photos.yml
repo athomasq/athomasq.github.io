@@ -231,10 +231,6 @@
 
 - album: newline
   pictures:
-    - name: Canoes
-      link: /gallery/canoes
-      smol: /assets/smol/Canoes_.jpg
-      width: 120px
     - name: Canyon
       link: /gallery/canyon
       smol: /assets/smol/Canyon_.jpg
@@ -243,6 +239,10 @@
       link: /gallery/reflection
       smol: /assets/smol/Reflection_.jpg
       width: 270px
+    - name: Canoes
+      link: /gallery/canoes
+      smol: /assets/smol/Canoes_.jpg
+      width: 120px
     
 - album: newline
   pictures:
