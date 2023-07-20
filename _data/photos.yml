@@ -113,9 +113,9 @@
       link: /gallery/tramlines
       smol: /assets/smol/Tramlines_.jpg
       width: 124px
-    - name: Window
-      link: /gallery/window
-      smol: /assets/smol/Window_.jpg
+    - name: Passage
+      link: /gallery/passage
+      smol: /assets/smol/Passage_.jpg
       width: 124px
     - name: Sky
       link: /gallery/sky
@@ -136,9 +136,9 @@
       link: /gallery/opera
       smol: /assets/smol/Opera_.jpg
       width: 279px
-    - name: Passage
-      link: /gallery/passage
-      smol: /assets/smol/Passage_.jpg
+    - name: Window
+      link: /gallery/window
+      smol: /assets/smol/Window_.jpg
       width: 124px
     - name: Waiters
       link: /gallery/waiters
