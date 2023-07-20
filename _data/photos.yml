@@ -113,13 +113,13 @@
       link: /gallery/tramlines
       smol: /assets/smol/Tramlines_.jpg
       width: 124px
-    - name: Angels
-      link: /gallery/angels
-      smol: /assets/smol/Angels_.jpg
+    - name: Window
+      link: /gallery/window
+      smol: /assets/smol/Window_.jpg
       width: 124px
-    - name: Opera
-      link: /gallery/opera
-      smol: /assets/smol/Opera_.jpg
+    - name: Sky
+      link: /gallery/sky
+      smol: /assets/smol/Sky_.jpg
       width: 279px
     - name: Terrace
       link: /gallery/terrace
@@ -128,13 +128,13 @@
 
 - album: newline
   pictures:
-    - name: Window
-      link: /gallery/window
-      smol: /assets/smol/Window_.jpg
+    - name: Angels
+      link: /gallery/angels
+      smol: /assets/smol/Angels_.jpg
       width: 124px
-    - name: Arch
-      link: /gallery/arch
-      smol: /assets/smol/Arch_.jpg
+    - name: Opera
+      link: /gallery/opera
+      smol: /assets/smol/Opera_.jpg
       width: 279px
     - name: Passage
       link: /gallery/passage
@@ -151,9 +151,9 @@
       link: /gallery/tower
       smol: /assets/smol/Tower_.jpg
       width: 120px
-    - name: Sky
-      link: /gallery/sky
-      smol: /assets/smol/Sky_.jpg
+    - name: Arch
+      link: /gallery/arch
+      smol: /assets/smol/Arch_.jpg
       width: 270px
     - name: Lamp
       link: /gallery/lamp
