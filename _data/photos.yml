@@ -161,7 +161,7 @@
       width: 270px
 
 
-- album: Amsterdam
+- album: Cities
   pictures:
     - name: Tram
       link: /gallery/tram
@@ -180,7 +180,7 @@
       smol: /assets/smol/Boats_.jpg
       width: 162px
 
-- album: Paris
+- album: newline
   pictures:
     - name: Louvre
       link: /gallery/louvre
@@ -199,7 +199,7 @@
       smol: /assets/smol/Orsay_.jpg
       width: 210px
 
-- album: Cities
+- album: newline
   pictures:
     - name: Dome
       link: /gallery/dome
@@ -229,7 +229,7 @@
       smol: /assets/smol/Tree_.jpg
       width: 270px
 
-- album: Alberta
+- album: newline
   pictures:
     - name: Canoes
       link: /gallery/canoes
