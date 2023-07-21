@@ -160,6 +160,51 @@
       smol: /assets/smol/Lamp_.jpg
       width: 270px
 
+- album: Graffiti
+  pictures:
+    - name: Hackescher
+      link: /gallery/hackescher
+      smol: /assets/smol/Hackescher_.jpg
+      width: 120px
+    - name: Mitte
+      link: /gallery/mitte
+      smol: /assets/smol/Mitte_.jpg
+      width: 270px
+    - name: Oranien
+      link: /gallery/oranien
+      smol: /assets/smol/Oranien_.jpg
+      width: 270px
+
+- album: newline
+  pictures:
+    - name: Mauer
+      link: /gallery/mauer
+      smol: /assets/smol/Mauer_.jpg
+      width: 270px
+    - name: Mariannen
+      link: /gallery/mariannen
+      smol: /assets/smol/Mariannen_.jpg
+      width: 120px
+    - name: Bethanien
+      link: /gallery/bethanien
+      smol: /assets/smol/Bethanien_.jpg
+      width: 270px
+
+
+- album: newline
+  pictures:
+    - name: Kreuzberg
+      link: /gallery/kreuzberg
+      smol: /assets/smol/Kreuzberg_.jpg
+      width: 270px
+    - name: Westkreuz
+      link: /gallery/westkreuz
+      smol: /assets/smol/Westkreuz_.jpg
+      width: 270px
+    - name: Stralauer
+      link: /gallery/stralauer
+      smol: /assets/smol/Stralauer_.jpg
+      width: 120px
 
 - album: Cities
   pictures:
