@@ -200,9 +200,9 @@
       link: /gallery/westkreuz
       smol: /assets/smol/Westkreuz_.jpg
       width: 245px
-    - name: Stralauer
-      link: /gallery/stralauer
-      smol: /assets/smol/Stralauer_.jpg
+    - name: Holzmarkt
+      link: /gallery/holzmarkt
+      smol: /assets/smol/Holzmarkt_.jpg
       width: 138px
 
 - album: Cities
