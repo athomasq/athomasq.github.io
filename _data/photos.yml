@@ -195,15 +195,15 @@
     - name: Kreuzberg
       link: /gallery/kreuzberg
       smol: /assets/smol/Kreuzberg_.jpg
-      width: 282px
+      width: 276px
     - name: Westkreuz
       link: /gallery/westkreuz
       smol: /assets/smol/Westkreuz_.jpg
-      width: 252px
+      width: 245px
     - name: Stralauer
       link: /gallery/stralauer
       smol: /assets/smol/Stralauer_.jpg
-      width: 126px
+      width: 138px
 
 - album: Cities
   pictures:
