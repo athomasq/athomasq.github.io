@@ -242,21 +242,21 @@
 - album: newline
   pictures:
     - name: Tickets
-      link: /gallery/tikets
+      link: /gallery/tickets
       smol: /assets/smol/Tickets_.jpg
-      width: 146px
-    - name: Photographer
-      link: /gallery/photographer
-      smol: /assets/smol/Photographer_.jpg
-      width: 219px
+      width: 124px
+    - name: Stairwell
+      link: /gallery/stairwell
+      smol: /assets/smol/Stairwell_.jpg
+      width: 279pxpx
     - name: Streetcar
       link: /gallery/streetcar
       smol: /assets/smol/Streetcar_.jpg
-      width: 146px
+      width: 124px
     - name: Analog
       link: /gallery/analog
       smol: /assets/smol/Analog_.jpg
-      width: 146px
+      width: 124px
 
 - album: Cities
   pictures:
