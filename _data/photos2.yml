@@ -161,15 +161,15 @@
   pictures:
     - name: Kimono-Men
       link: /gallery/scramble
-      smol: /assets/temp/kimono-men.jpg
+      smol: /assets/smol/Kimono-1_.jpg
       width: 270px
     - name: Kimono-Photo
       link: /gallery/alley
-      smol: /assets/temp/kimono-photo.jpg
+      smol: /assets/smol/Kimono-2_.jpg
       width: 120px
     - name: Kimono-Heels
       link: /gallery/scramble
-      smol: /assets/temp/kimono-heels.jpg
+      smol: /assets/smol/Kimono-3_.jpg
       width: 270px
 
 - album: newline
