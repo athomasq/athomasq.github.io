@@ -192,9 +192,9 @@
 
 - album: newline
   pictures:
-    - name: Kreuzberg
-      link: /gallery/kreuzberg
-      smol: /assets/smol/Kreuzberg_.jpg
+    - name: Resistance
+      link: /gallery/resistance
+      smol: /assets/smol/Resistance_.jpg
       width: 276px
     - name: Westkreuz
       link: /gallery/westkreuz
@@ -219,20 +219,20 @@
       link: /gallery/cap
       smol: /assets/smol/Cap_.jpg
       width: 124px
-    - name: Airpods
-      link: /gallery/airpods
-      smol: /assets/smol/Airpods_.jpg
+    - name: Cyclist
+      link: /gallery/cyclist
+      smol: /assets/smol/Cyclist_.jpg
       width: 279px
 
 - album: newline
   pictures:
-    - name: Cyclist
-      link: /gallery/cyclist
-      smol: /assets/smol/Cyclist_.jpg
-      width: 270px
     - name: Railings
       link: /gallery/railings
       smol: /assets/smol/Railings_.jpg
+      width: 270px
+    - name: Airpods
+      link: /gallery/airpods
+      smol: /assets/smol/Airpods_.jpg
       width: 270px
     - name: Underground
       link: /gallery/underground
@@ -244,19 +244,19 @@
     - name: Tickets
       link: /gallery/tikets
       smol: /assets/smol/Tickets_.jpg
-      width: 124px
-    - name: Resistance
-      link: /gallery/resistance
-      smol: /assets/smol/Resistance_.jpg
-      width: 279px
+      width: 146px
+    - name: Photographer
+      link: /gallery/photographer
+      smol: /assets/smol/Photographer_.jpg
+      width: 219px
     - name: Streetcar
       link: /gallery/streetcar
       smol: /assets/smol/Streetcar_.jpg
-      width: 124px
+      width: 146px
     - name: Analog
       link: /gallery/analog
       smol: /assets/smol/Analog_.jpg
-      width: 124px
+      width: 146px
 
 - album: Cities
   pictures:
