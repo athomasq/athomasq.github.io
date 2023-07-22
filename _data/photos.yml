@@ -172,6 +172,62 @@
       smol: /assets/smol/Glimmer_.jpg
       width: 124px
 
+- album: Istanbul 2
+  pictures:
+    - name: Eyup
+      link: /gallery/eyup
+      smol: /assets/smol/Eyup_.jpg
+      width: 124px
+    - name: Nurosmaniye
+      link: /gallery/nurosmaniye
+      smol: /assets/smol/Nurosmaniye_.jpg
+      width: 279px
+    - name: Watering
+      link: /gallery/watering
+      smol: /assets/smol/Watering_.jpg
+      width: 124px
+    - name: Eminonu
+      link: /gallery/eminonu
+      smol: /assets/smol/Eminonu_.jpg
+      width: 124px
+
+- album: newline
+  pictures:
+    - name: Fruitseller
+      link: /gallery/fruitseller
+      smol: /assets/smol/Fruitseller_.jpg
+      width: 124px
+    - name: Booksellers
+      link: /gallery/booksellers
+      smol: /assets/smol/Booksellers_.jpg
+      width: 279px
+    - name: Colours
+      link: /gallery/colours
+      smol: /assets/smol/Colours_.jpg
+      width: 124px
+    - name: Balat
+      link: /gallery/balat
+      smol: /assets/smol/Balat_.jpg
+      width: 124px
+
+- album: newline
+  pictures:
+    - name: Galata
+      link: /gallery/galata
+      smol: /assets/smol/Galata_.jpg
+      width: 124px
+    - name: Bosphorus
+      link: /gallery/bosphorus
+      smol: /assets/smol/Bosphorus_.jpg
+      width: 279px
+    - name: Bufe
+      link: /gallery/bufe
+      smol: /assets/smol/Bufe_.jpg
+      width: 124px
+    - name: Chestnuts
+      link: /gallery/chestnuts
+      smol: /assets/smol/Chestnuts_.jpg
+      width: 124px
 
 
 - album: Dresden
