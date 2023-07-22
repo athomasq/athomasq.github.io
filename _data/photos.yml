@@ -234,16 +234,16 @@
       link: /gallery/airpods
       smol: /assets/smol/Airpods_.jpg
       width: 270px
-    - name: Underground
-      link: /gallery/underground
-      smol: /assets/smol/Underground_.jpg
+    - name: Tickets
+      link: /gallery/tickets
+      smol: /assets/smol/Tickets_.jpg
       width: 120px
 
 - album: newline
   pictures:
-    - name: Tickets
-      link: /gallery/tickets
-      smol: /assets/smol/Tickets_.jpg
+    - name: Underground
+      link: /gallery/underground
+      smol: /assets/smol/Underground_.jpg
       width: 124px
     - name: Stairwell
       link: /gallery/stairwell
