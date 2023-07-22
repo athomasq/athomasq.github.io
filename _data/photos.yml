@@ -107,6 +107,73 @@
       smol: /assets/smol/Daitokuji_.jpg
       width: 120px
 
+
+- album: Istanbul
+  pictures:
+    - name: Topkapi
+      link: /gallery/topkapi
+      smol: /assets/smol/Topkapi_.jpg
+      width: 270px
+    - name: Fishermen
+      link: /gallery/fishermen
+      smol: /assets/smol/Fishermen_.jpg
+      width: 270px
+    - name: Exit
+      link: /gallery/exit
+      smol: /assets/smol/Exit_.jpg
+      width: 120px
+
+- album: newline
+  pictures:
+    - name: Steps
+      link: /gallery/steps
+      smol: /assets/smol/Steps_.jpg
+      width: 270px
+    - name: Bayezit
+      link: /gallery/bayezit
+      smol: /assets/smol/Bayezit_.jpg
+      width: 120px
+    - name: Meydani
+      link: /gallery/meydani
+      smol: /assets/smol/Meydani_.jpg
+      width: 270px
+
+- album: newline
+  pictures:
+    - name: Suleymaniye
+      link: /gallery/suleymaniye
+      smol: /assets/smol/Suleymaniye_.jpg
+      width: 270px
+    - name: Eirene
+      link: /gallery/eirene
+      smol: /assets/smol/Eirene_.jpg
+      width: 270px
+    - name: Sofiya
+      link: /gallery/sofiya
+      smol: /assets/smol/Sofiya_.jpg
+      width: 120px
+
+- album: newline
+  pictures:
+    - name: Bazaar
+      link: /gallery/bazaar
+      smol: /assets/smol/Bazaar_.jpg
+      width: 124px
+    - name: Olives
+      link: /gallery/olives
+      smol: /assets/smol/Olives_.jpg
+      width: 124px
+    - name: Safa
+      link: /gallery/safa
+      smol: /assets/smol/Safa_.jpg
+      width: 279px
+    - name: Glimmer
+      link: /gallery/glimmer
+      smol: /assets/smol/Glimmer_.jpg
+      width: 124px
+
+
+
 - album: Dresden
   pictures:
     - name: Tramlines
