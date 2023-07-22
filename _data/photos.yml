@@ -160,7 +160,7 @@
       smol: /assets/smol/Lamp_.jpg
       width: 270px
 
-- album: Berlin Graffiti
+- album: Graffiti
   pictures:
     - name: Hackescher
       link: /gallery/hackescher
