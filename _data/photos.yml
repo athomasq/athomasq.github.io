@@ -111,80 +111,80 @@
 - album: Tokyo
   pictures:
     - name: Omotesando
-      link: /gallery/topkapi
-      smol: /assets/smol/Topkapi_.jpg
+      link: /gallery/omotesando
+      smol: /assets/smol/Omotesando_.jpg
       width: 270px
     - name: Harajuku
-      link: /gallery/fishermen
-      smol: /assets/smol/Fishermen_.jpg
+      link: /gallery/harajuku
+      smol: /assets/smol/Harajuku_.jpg
       width: 270px
     - name: Takeshita
-      link: /gallery/exit
-      smol: /assets/smol/Exit_.jpg
+      link: /gallery/takeshita
+      smol: /assets/smol/Takeshita_.jpg
       width: 120px
 
 - album: newline
   pictures:
     - name: Asakusa
-      link: /gallery/topkapi
-      smol: /assets/smol/Topkapi_.jpg
+      link: /gallery/asakusa
+      smol: /assets/smol/Asakusa_.jpg
       width: 120px
-    - name: Higashi
-      link: /gallery/fishermen
-      smol: /assets/smol/Fishermen_.jpg
+    - name: East
+      link: /gallery/east
+      smol: /assets/smol/East_.jpg
       width: 270px
     - name: Nijubashi
-      link: /gallery/exit
-      smol: /assets/smol/Exit_.jpg
+      link: /gallery/nijubashi
+      smol: /assets/smol/Nijubashi_.jpg
       width: 270px
 
 - album: newline
   pictures:
     - name: Zakkyo
-      link: /gallery/topkapi
-      smol: /assets/smol/Topkapi_.jpg
+      link: /gallery/zakkyo
+      smol: /assets/smol/Zakkyo_.jpg
       width: 270px
     - name: Cha
-      link: /gallery/fishermen
-      smol: /assets/smol/Fishermen_.jpg
+      link: /gallery/cha
+      smol: /assets/smol/Cha_.jpg
       width: 270px
     - name: Azumabashi
-      link: /gallery/exit
-      smol: /assets/smol/Exit_.jpg
+      link: /gallery/azumabashi
+      smol: /assets/smol/Azumabashi_.jpg
       width: 120px
 
 - album: newline
   pictures:
     - name: Hozomon
-      link: /gallery/topkapi
-      smol: /assets/smol/Topkapi_.jpg
+      link: /gallery/hozomon
+      smol: /assets/smol/Hozomon_.jpg
       width: 270px
     - name: Incense
-      link: /gallery/fishermen
-      smol: /assets/smol/Fishermen_.jpg
+      link: /gallery/incense
+      smol: /assets/smol/Incense_.jpg
       width: 270px
     - name: Maids
-      link: /gallery/exit
-      smol: /assets/smol/Exit_.jpg
+      link: /gallery/maids
+      smol: /assets/smol/Maids_.jpg
       width: 120px
 
 - album: newline
   pictures:
     - name: Loft
-      link: /gallery/topkapi
-      smol: /assets/smol/Topkapi_.jpg
+      link: /gallery/loft
+      smol: /assets/smol/Loft_.jpg
       width: 124px
     - name: Pubs
-      link: /gallery/topkapi
-      smol: /assets/smol/Topkapi_.jpg
+      link: /gallery/pubs
+      smol: /assets/smol/Pubs_.jpg
       width: 279px
     - name: Sign
-      link: /gallery/exit
-      smol: /assets/smol/Exit_.jpg
+      link: /gallery/sign
+      smol: /assets/smol/Sign_.jpg
       width: 124px
     - name: Ramen
-      link: /gallery/fishermen
-      smol: /assets/smol/Fishermen_.jpg
+      link: /gallery/ramen
+      smol: /assets/smol/Ramen_.jpg
       width: 124px
 
 
