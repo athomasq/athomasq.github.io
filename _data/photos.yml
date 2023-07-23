@@ -108,6 +108,86 @@
       width: 120px
 
 
+- album: Tokyo
+  pictures:
+    - name: Omotesando
+      link: /gallery/topkapi
+      smol: /assets/smol/Topkapi_.jpg
+      width: 270px
+    - name: Harajuku
+      link: /gallery/fishermen
+      smol: /assets/smol/Fishermen_.jpg
+      width: 270px
+    - name: Takeshita
+      link: /gallery/exit
+      smol: /assets/smol/Exit_.jpg
+      width: 120px
+
+- album: newline
+  pictures:
+    - name: Asakusa
+      link: /gallery/topkapi
+      smol: /assets/smol/Topkapi_.jpg
+      width: 120px
+    - name: Higashi
+      link: /gallery/fishermen
+      smol: /assets/smol/Fishermen_.jpg
+      width: 270px
+    - name: Nijubashi
+      link: /gallery/exit
+      smol: /assets/smol/Exit_.jpg
+      width: 270px
+
+- album: newline
+  pictures:
+    - name: Zakkyo
+      link: /gallery/topkapi
+      smol: /assets/smol/Topkapi_.jpg
+      width: 270px
+    - name: Cha
+      link: /gallery/fishermen
+      smol: /assets/smol/Fishermen_.jpg
+      width: 270px
+    - name: Azumabashi
+      link: /gallery/exit
+      smol: /assets/smol/Exit_.jpg
+      width: 120px
+
+- album: newline
+  pictures:
+    - name: Hozomon
+      link: /gallery/topkapi
+      smol: /assets/smol/Topkapi_.jpg
+      width: 270px
+    - name: Incense
+      link: /gallery/fishermen
+      smol: /assets/smol/Fishermen_.jpg
+      width: 270px
+    - name: Maids
+      link: /gallery/exit
+      smol: /assets/smol/Exit_.jpg
+      width: 120px
+
+- album: newline
+  pictures:
+    - name: Loft
+      link: /gallery/topkapi
+      smol: /assets/smol/Topkapi_.jpg
+      width: 124px
+    - name: Pubs
+      link: /gallery/topkapi
+      smol: /assets/smol/Topkapi_.jpg
+      width: 279px
+    - name: Sign
+      link: /gallery/exit
+      smol: /assets/smol/Exit_.jpg
+      width: 124px
+    - name: Ramen
+      link: /gallery/fishermen
+      smol: /assets/smol/Fishermen_.jpg
+      width: 124px
+
+
 - album: Istanbul
   pictures:
     - name: Topkapi
