@@ -163,9 +163,9 @@
       link: /gallery/incense
       smol: /assets/smol/Incense_.jpg
       width: 270px
-    - name: Maids
-      link: /gallery/maids
-      smol: /assets/smol/Maids_.jpg
+    - name: Sign
+      link: /gallery/sign
+      smol: /assets/smol/Sign_.jpg
       width: 120px
 
 - album: newline
@@ -178,13 +178,13 @@
       link: /gallery/pubs
       smol: /assets/smol/Pubs_.jpg
       width: 279px
-    - name: Sign
-      link: /gallery/sign
-      smol: /assets/smol/Sign_.jpg
-      width: 124px
     - name: Ramen
       link: /gallery/ramen
       smol: /assets/smol/Ramen_.jpg
+      width: 124px
+    - name: Maids
+      link: /gallery/maids
+      smol: /assets/smol/Maids_.jpg
       width: 124px
 
 
