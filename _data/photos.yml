@@ -107,6 +107,84 @@
       smol: /assets/smol/Daitokuji_.jpg
       width: 120px
 
+- album: Kyoto 2
+  pictures:
+    - name: Sunset
+      link: /gallery/door
+      smol: /assets/smol/Door_.jpg
+      width: 270px
+    - name: Kinkakuji
+      link: /gallery/rocks
+      smol: /assets/smol/Rocks_.jpg
+      width: 270px
+    - name: Glow
+      link: /gallery/corridor
+      smol: /assets/smol/Corridor_.jpg
+      width: 120px
+
+- album: newline
+  pictures:
+    - name: Shrine
+      link: /gallery/door
+      smol: /assets/smol/Door_.jpg
+      width: 120px
+    - name: Vermilion
+      link: /gallery/rocks
+      smol: /assets/smol/Rocks_.jpg
+      width: 270px
+    - name: Grove
+      link: /gallery/corridor
+      smol: /assets/smol/Corridor_.jpg
+      width: 270px
+
+- album: newline
+  pictures:
+    - name: Fushimi
+      link: /gallery/door
+      smol: /assets/smol/Door_.jpg
+      width: 270px
+    - name: Maiko
+      link: /gallery/rocks
+      smol: /assets/smol/Rocks_.jpg
+      width: 270px
+    - name: Street
+      link: /gallery/corridor
+      smol: /assets/smol/Corridor_.jpg
+      width: 120px
+
+- album: newline
+  pictures:
+    - name: Marching
+      link: /gallery/door
+      smol: /assets/smol/Door_.jpg
+      width: 279px
+    - name: Stone
+      link: /gallery/rocks
+      smol: /assets/smol/Rocks_.jpg
+      width: 124px
+    - name: Kurama
+      link: /gallery/corridor
+      smol: /assets/smol/Corridor_.jpg
+      width: 124px
+    - name: Flag
+      link: /gallery/corridor
+      smol: /assets/smol/Corridor_.jpg
+      width: 124px
+
+- album: newline
+  pictures:
+    - name: Sannenzaka
+      link: /gallery/door
+      smol: /assets/smol/Door_.jpg
+      width: 270px
+    - name: Kiyomizu
+      link: /gallery/rocks
+      smol: /assets/smol/Rocks_.jpg
+      width: 270px
+    - name: Ninenzaka
+      link: /gallery/corridor
+      smol: /assets/smol/Corridor_.jpg
+      width: 120px
 
 - album: Tokyo
   pictures:
