@@ -173,17 +173,17 @@
 
 - album: newline
   pictures:
-    - name: Sannenzaka
-      link: /gallery/sannenzaka
-      smol: /assets/smol/Sannenzaka_.jpg
+    - name: Ninenzaka
+      link: /gallery/ninenzaka
+      smol: /assets/smol/Ninenzaka_.jpg
       width: 270px
     - name: Kiyomizu
       link: /gallery/kiyomizu
       smol: /assets/smol/Kiyomizu_.jpg
       width: 270px
-    - name: Ninenzaka
-      link: /gallery/ninenzaka
-      smol: /assets/smol/Ninenzaka_.jpg
+    - name: Sannenzaka
+      link: /gallery/sannenzaka
+      smol: /assets/smol/Sannenzaka_.jpg
       width: 120px
 
 - album: Tokyo
