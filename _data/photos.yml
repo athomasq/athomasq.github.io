@@ -109,6 +109,36 @@
 
 - album: Kyoto 2
   pictures:
+    - name: Maiko
+      link: /gallery/maiko
+      smol: /assets/smol/Maiko_.jpg
+      width: 220px
+    - name: Kinkakuji
+      link: /gallery/kinkakuji
+      smol: /assets/smol/Kinkakuji_.jpg
+      width: 220px
+    - name: Grove
+      link: /gallery/grove
+      smol: /assets/smol/Grove_.jpg
+      width: 220px
+
+- album: newline
+  pictures:
+    - name: Shrine
+      link: /gallery/shrine
+      smol: /assets/smol/Shrine_.jpg
+      width: 120px
+    - name: Vermilion
+      link: /gallery/vermilion
+      smol: /assets/smol/Vermilion_.jpg
+      width: 270px
+    - name: Marching
+      link: /gallery/marching
+      smol: /assets/smol/Marching_.jpg
+      width: 270px
+
+- album: newline
+  pictures:
     - name: Glow
       link: /gallery/glow
       smol: /assets/smol/Glow_.jpg
@@ -124,54 +154,9 @@
 
 - album: newline
   pictures:
-    - name: Fushimi
-      link: /gallery/fushimi
-      smol: /assets/smol/Fushimi_.jpg
-      width: 270px
-    - name: Vermilion
-      link: /gallery/vermilion
-      smol: /assets/smol/Vermilion_.jpg
-      width: 270px
-    - name: Shrine
-      link: /gallery/shrine
-      smol: /assets/smol/Shrine_.jpg
-      width: 120px
-
-- album: newline
-  pictures:
-    - name: Maiko
-      link: /gallery/maiko
-      smol: /assets/smol/Maiko_.jpg
-      width: 270px
-    - name: Kinkakuji
-      link: /gallery/kinkakuji
-      smol: /assets/smol/Kinkakuji_.jpg
-      width: 270px
     - name: Flag
       link: /gallery/flag
       smol: /assets/smol/Flag_.jpg
-      width: 120px
-
-- album: newline
-  pictures:
-    - name: Marching
-      link: /gallery/marching
-      smol: /assets/smol/Marching_.jpg
-      width: 270px
-    - name: Grove
-      link: /gallery/grove
-      smol: /assets/smol/Grove_.jpg
-      width: 270px
-    - name: Street
-      link: /gallery/street
-      smol: /assets/smol/Street_.jpg
-      width: 120px
-
-- album: newline
-  pictures:
-    - name: Kurama
-      link: /gallery/kurama
-      smol: /assets/smol/Kurama_.jpg
       width: 124px
     - name: Stone
       link: /gallery/stone
