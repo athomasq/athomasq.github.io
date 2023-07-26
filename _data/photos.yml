@@ -250,7 +250,6 @@
       smol: /assets/smol/Maids_.jpg
       width: 124px
 
-
 - album: Istanbul
   pictures:
     - name: Topkapi
@@ -621,4 +620,4 @@
       link: /gallery/glacier
       smol: /assets/smol/Glacier_.jpg
       width: 270px
-
+      
