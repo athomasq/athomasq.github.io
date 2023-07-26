@@ -109,32 +109,17 @@
 
 - album: Kyoto 2
   pictures:
-    - name: Sunset
-      link: /gallery/sunset
-      smol: /assets/smol/Sunset_.jpg
-      width: 270px
-    - name: Kinkakuji
-      link: /gallery/kinkakuji
-      smol: /assets/smol/Kinkakuji_.jpg
-      width: 270px
     - name: Glow
       link: /gallery/glow
       smol: /assets/smol/Glow_.jpg
       width: 120px
-
-- album: newline
-  pictures:
-    - name: Shrine
-      link: /gallery/shrine
-      smol: /assets/smol/Shrine_.jpg
-      width: 120px
-    - name: Vermilion
-      link: /gallery/vermilion
-      smol: /assets/smol/Vermilion_.jpg
+    - name: Kiyomizu
+      link: /gallery/kiyomizu
+      smol: /assets/smol/Kiyomizu_.jpg
       width: 270px
-    - name: Grove
-      link: /gallery/grove
-      smol: /assets/smol/Grove_.jpg
+   - name: Sunset
+      link: /gallery/sunset
+      smol: /assets/smol/Sunset_.jpg
       width: 270px
 
 - album: newline
@@ -143,9 +128,39 @@
       link: /gallery/fushimi
       smol: /assets/smol/Fushimi_.jpg
       width: 270px
+    - name: Vermilion
+      link: /gallery/vermilion
+      smol: /assets/smol/Vermilion_.jpg
+      width: 270px
+    - name: Shrine
+      link: /gallery/shrine
+      smol: /assets/smol/Shrine_.jpg
+      width: 120px
+
+- album: newline
+  pictures:
     - name: Maiko
       link: /gallery/maiko
       smol: /assets/smol/Maiko_.jpg
+      width: 270px
+    - name: Kinkakuji
+      link: /gallery/kinkakuji
+      smol: /assets/smol/Kinkakuji_.jpg
+      width: 270px
+    - name: Flag
+      link: /gallery/flag
+      smol: /assets/smol/Flag_.jpg
+      width: 120px
+
+- album: newline
+  pictures:
+    - name: Marching
+      link: /gallery/marching
+      smol: /assets/smol/Marching_.jpg
+      width: 270px
+    - name: Grove
+      link: /gallery/grove
+      smol: /assets/smol/Grove_.jpg
       width: 270px
     - name: Street
       link: /gallery/street
@@ -154,37 +169,22 @@
 
 - album: newline
   pictures:
-    - name: Marching
-      link: /gallery/marching
-      smol: /assets/smol/Marching_.jpg
-      width: 279px
-    - name: Stone
-      link: /gallery/stone
-      smol: /assets/smol/Stone_.jpg
-      width: 124px
     - name: Kurama
       link: /gallery/kurama
       smol: /assets/smol/Kurama_.jpg
       width: 124px
-    - name: Flag
-      link: /gallery/flag
-      smol: /assets/smol/Flag_.jpg
+    - name: Stone
+      link: /gallery/stone
+      smol: /assets/smol/Stone_.jpg
       width: 124px
-
-- album: newline
-  pictures:
     - name: Ninenzaka
       link: /gallery/ninenzaka
       smol: /assets/smol/Ninenzaka_.jpg
-      width: 270px
-    - name: Kiyomizu
-      link: /gallery/kiyomizu
-      smol: /assets/smol/Kiyomizu_.jpg
-      width: 270px
+      width: 279px
     - name: Sannenzaka
       link: /gallery/sannenzaka
       smol: /assets/smol/Sannenzaka_.jpg
-      width: 120px
+      width: 124px
 
 - album: Tokyo
   pictures:
