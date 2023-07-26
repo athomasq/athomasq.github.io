@@ -139,10 +139,6 @@
 
 - album: newline
   pictures:
-    - name: Glow
-      link: /gallery/glow
-      smol: /assets/smol/Glow_.jpg
-      width: 120px
     - name: Kiyomizu
       link: /gallery/kiyomizu
       smol: /assets/smol/Kiyomizu_.jpg
@@ -151,6 +147,10 @@
       link: /gallery/sunset
       smol: /assets/smol/Sunset_.jpg
       width: 270px
+    - name: Glow
+      link: /gallery/glow
+      smol: /assets/smol/Glow_.jpg
+      width: 120px
 
 - album: newline
   pictures:
