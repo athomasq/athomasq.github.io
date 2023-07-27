@@ -154,10 +154,6 @@
 
 - album: newline
   pictures:
-    - name: Flag
-      link: /gallery/flag
-      smol: /assets/smol/Flag_.jpg
-      width: 124px
     - name: Stone
       link: /gallery/stone
       smol: /assets/smol/Stone_.jpg
@@ -169,6 +165,10 @@
     - name: Sannenzaka
       link: /gallery/sannenzaka
       smol: /assets/smol/Sannenzaka_.jpg
+      width: 124px
+    - name: Flag
+      link: /gallery/flag
+      smol: /assets/smol/Flag_.jpg
       width: 124px
 
 - album: Tokyo
