@@ -112,15 +112,15 @@
     - name: Maiko
       link: /gallery/maiko
       smol: /assets/smol/Maiko_.jpg
-      width: 220px
+      width: 270px
     - name: Kinkakuji
       link: /gallery/kinkakuji
       smol: /assets/smol/Kinkakuji_.jpg
-      width: 220px
-    - name: Grove
-      link: /gallery/grove
-      smol: /assets/smol/Grove_.jpg
-      width: 220px
+      width: 270px
+    - name: Flag
+      link: /gallery/flag
+      smol: /assets/smol/Flag_.jpg
+      width: 120px
 
 - album: newline
   pictures:
@@ -154,22 +154,19 @@
 
 - album: newline
   pictures:
-    - name: Stone
-      link: /gallery/stone
-      smol: /assets/smol/Stone_.jpg
-      width: 124px
-    - name: Ninenzaka
-      link: /gallery/ninenzaka
-      smol: /assets/smol/Ninenzaka_.jpg
-      width: 279px
     - name: Sannenzaka
       link: /gallery/sannenzaka
       smol: /assets/smol/Sannenzaka_.jpg
-      width: 124px
-    - name: Flag
-      link: /gallery/flag
-      smol: /assets/smol/Flag_.jpg
-      width: 124px
+      width: 120px
+    - name: Grove
+      link: /gallery/grove
+      smol: /assets/smol/Grove_.jpg
+      width: 270px
+    - name: Ninenzaka
+      link: /gallery/ninenzaka
+      smol: /assets/smol/Ninenzaka_.jpg
+      width: 270px
+
 
 - album: Tokyo
   pictures:
