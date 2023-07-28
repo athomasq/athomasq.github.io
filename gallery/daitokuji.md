@@ -13,4 +13,4 @@ Sony A7 + FE 24-105mm G lens: 24mm 1/200s f/8
 
 <a href="/gallery/sapling"> &laquo; Prev </a> &emsp; · &emsp; 
 <a href="/gallery"> Home </a> &emsp; · &emsp; 
-<a href="/gallery/tramlines"> Next &raquo; </a>
+<a href="/gallery/maiko"> Next &raquo; </a>

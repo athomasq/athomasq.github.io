@@ -3,7 +3,7 @@ layout: photo
 title: Flag · Abraham Thomas
 ---
 
-<img src="/assets/photos/Glow.jpg" width="360px" class="photo">
+<img src="/assets/photos/Flag.jpg" width="360px" class="photo">
 
 <i>
 **Flag**  
