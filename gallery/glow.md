@@ -13,4 +13,4 @@ Sony A7 + FE 24-105mm G lens: ISO 200, 32mm, f/4, 1/200s
 
 <a href="/gallery/sunset"> &laquo; Prev </a> &emsp; · &emsp; 
 <a href="/gallery"> Home </a> &emsp; · &emsp; 
-<a href="/gallery/stone"> Next &raquo; </a>
+<a href="/gallery/sannenzaka"> Next &raquo; </a>

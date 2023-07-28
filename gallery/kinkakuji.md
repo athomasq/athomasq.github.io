@@ -13,4 +13,4 @@ Canon Rebel XT + Sigma 30mm Prime: ISO 100, 30mm, f/5.6, 1/60s
 
 <a href="/gallery/maiko"> &laquo; Prev </a> &emsp; · &emsp; 
 <a href="/gallery"> Home </a> &emsp; · &emsp; 
-<a href="/gallery/grove"> Next &raquo; </a>
+<a href="/gallery/flag"> Next &raquo; </a>
