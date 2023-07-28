@@ -13,4 +13,4 @@ Sony A7 + Zeiss FE 55mm: ISO 400, 55mm, f/1.8, 1/80s
 
 <a href="/gallery/loft"> &laquo; Prev </a> &emsp; · &emsp; 
 <a href="/gallery"> Home </a> &emsp; · &emsp; 
-<a href="/gallery/maids"> Next &raquo; </a>
+<a href="/gallery/sign"> Next &raquo; </a>

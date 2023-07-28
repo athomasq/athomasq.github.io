@@ -13,4 +13,4 @@ iPhone 12 Pro Max: ISO 32, 5.1mm, f/1.6, 1/2200s
 
 <a href="/gallery/incense"> &laquo; Prev </a> &emsp; · &emsp; 
 <a href="/gallery"> Home </a> &emsp; · &emsp; 
-<a href="/gallery/sign"> Next &raquo; </a>
+<a href="/gallery/loft"> Next &raquo; </a>

@@ -230,10 +230,6 @@
 
 - album: newline
   pictures:
-    - name: Sign
-      link: /gallery/sign
-      smol: /assets/smol/Sign_.jpg
-      width: 124px
     - name: Loft
       link: /gallery/loft
       smol: /assets/smol/Loft_.jpg
@@ -242,6 +238,10 @@
       link: /gallery/pubs
       smol: /assets/smol/Pubs_.jpg
       width: 279px
+    - name: Sign
+      link: /gallery/sign
+      smol: /assets/smol/Sign_.jpg
+      width: 124px
     - name: Maids
       link: /gallery/maids
       smol: /assets/smol/Maids_.jpg
