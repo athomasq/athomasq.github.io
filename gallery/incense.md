@@ -11,6 +11,6 @@ Sensō-ji, Tōkyō -- 2006
 Canon Rebel XT + Sigma 30mm: 1/4000s f/2.2
 </i>
 
-<a href="/gallery/buddha"> &laquo; Prev </a> &emsp; · &emsp; 
+<a href="/gallery/hozomon"> &laquo; Prev </a> &emsp; · &emsp; 
 <a href="/gallery"> Home </a> &emsp; · &emsp; 
-<a href="/gallery/span"> Next &raquo; </a>
+<a href="/gallery/street"> Next &raquo; </a>

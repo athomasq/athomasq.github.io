@@ -185,9 +185,9 @@
 
 - album: newline
   pictures:
-    - name: Asakusa
-      link: /gallery/asakusa
-      smol: /assets/smol/Asakusa_.jpg
+    - name: Pagoda
+      link: /gallery/pagoda
+      smol: /assets/smol/Pagoda_.jpg
       width: 120px
     - name: East
       link: /gallery/east
@@ -223,13 +223,17 @@
       link: /gallery/incense
       smol: /assets/smol/Incense_.jpg
       width: 270px
-    - name: Sign
-      link: /gallery/sign
-      smol: /assets/smol/Sign_.jpg
+    - name: Street
+      link: /gallery/street
+      smol: /assets/smol/Street_.jpg
       width: 120px
 
 - album: newline
   pictures:
+    - name: Sign
+      link: /gallery/sign
+      smol: /assets/smol/Sign_.jpg
+      width: 124px
     - name: Loft
       link: /gallery/loft
       smol: /assets/smol/Loft_.jpg
@@ -238,10 +242,6 @@
       link: /gallery/pubs
       smol: /assets/smol/Pubs_.jpg
       width: 279px
-    - name: Ramen
-      link: /gallery/ramen
-      smol: /assets/smol/Ramen_.jpg
-      width: 124px
     - name: Maids
       link: /gallery/maids
       smol: /assets/smol/Maids_.jpg
