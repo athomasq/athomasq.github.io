@@ -520,6 +520,78 @@
       smol: /assets/smol/Analog_.jpg
       width: 124px
 
+- album: Quebec
+  pictures:
+    - name: Lighthouse
+      link: /gallery/lighthouse
+      smol: /assets/smol/Lighthouse_.jpg
+      width: 124px
+    - name: Ring
+      link: /gallery/ring
+      smol: /assets/smol/Ring_.jpg
+      width: 124px
+    - name: Blue
+      link: /gallery/blue
+      smol: /assets/smol/Blue_.jpg
+      width: 124px
+    - name: Windswept
+      link: /gallery/windswept
+      smol: /assets/smol/Windswept_.jpg
+      width: 279px
+
+- album: newline
+  pictures:
+    - name: One
+      link: /gallery/one
+      smol: /assets/smol/One_.jpg
+      width: 120px
+    - name: Zodiac
+      link: /gallery/zodiac
+      smol: /assets/smol/Zodiac_.jpg
+      width: 270px
+    - name: Gull
+      link: /gallery/gull
+      smol: /assets/smol/Gull_.jpg
+      width: 270px
+
+- album: newline
+  pictures:
+    - name: Clouds
+      link: /gallery/clouds
+      smol: /assets/smol/Clouds_.jpg
+      width: 279px
+    - name: Sail
+      link: /gallery/sail
+      smol: /assets/smol/Sail_.jpg
+      width: 124px
+    - name: Cove
+      link: /gallery/cove
+      smol: /assets/smol/Cove_.jpg
+      width: 124px
+    - name: Riverbed
+      link: /gallery/riverbed
+      smol: /assets/smol/Riverbed_.jpg
+      width: 124px
+
+- album: newline
+  pictures:
+    - name: Two
+      link: /gallery/two
+      smol: /assets/smol/Two_.jpg
+      width: 279px
+    - name: Nord
+      link: /gallery/nord
+      smol: /assets/smol/Nord_.jpg
+      width: 124px
+    - name: Whale
+      link: /gallery/whale
+      smol: /assets/smol/Whale_.jpg
+      width: 124px
+    - name: Chute
+      link: /gallery/chute
+      smol: /assets/smol/Chute_.jpg
+      width: 124px
+
 - album: Cities
   pictures:
     - name: Tram
