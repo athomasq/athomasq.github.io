@@ -544,15 +544,19 @@
     - name: One
       link: /gallery/one
       smol: /assets/smol/One_.jpg
-      width: 120px
+      width: 124px
+    - name: Purple
+      link: /gallery/purple
+      smol: /assets/smol/Purple_.jpg
+      width: 124px
     - name: Zodiac
       link: /gallery/zodiac
       smol: /assets/smol/Zodiac_.jpg
-      width: 270px
+      width: 124px
     - name: Clouds
       link: /gallery/clouds
       smol: /assets/smol/Clouds_.jpg
-      width: 270px
+      width: 279px
 
 - album: newline
   pictures:
