@@ -526,18 +526,18 @@
       link: /gallery/lighthouse
       smol: /assets/smol/Lighthouse_.jpg
       width: 124px
-    - name: Ring
-      link: /gallery/ring
-      smol: /assets/smol/Ring_.jpg
-      width: 124px
+    - name: Two
+      link: /gallery/two
+      smol: /assets/smol/Two_.jpg
+      width: 279px
     - name: Blue
       link: /gallery/blue
       smol: /assets/smol/Blue_.jpg
       width: 124px
-    - name: Windswept
-      link: /gallery/windswept
-      smol: /assets/smol/Windswept_.jpg
-      width: 279px
+    - name: Ring
+      link: /gallery/ring
+      smol: /assets/smol/Ring_.jpg
+      width: 124px
 
 - album: newline
   pictures:
@@ -549,24 +549,24 @@
       link: /gallery/zodiac
       smol: /assets/smol/Zodiac_.jpg
       width: 270px
-    - name: Gull
-      link: /gallery/gull
-      smol: /assets/smol/Gull_.jpg
+    - name: Clouds
+      link: /gallery/clouds
+      smol: /assets/smol/Clouds_.jpg
       width: 270px
 
 - album: newline
   pictures:
-    - name: Clouds
-      link: /gallery/clouds
-      smol: /assets/smol/Clouds_.jpg
+    - name: Cove
+      link: /gallery/cove
+      smol: /assets/smol/Cove_.jpg
+      width: 124px
+    - name: Gull
+      link: /gallery/gull
+      smol: /assets/smol/Gull_.jpg
       width: 279px
     - name: Sail
       link: /gallery/sail
       smol: /assets/smol/Sail_.jpg
-      width: 124px
-    - name: Cove
-      link: /gallery/cove
-      smol: /assets/smol/Cove_.jpg
       width: 124px
     - name: Riverbed
       link: /gallery/riverbed
@@ -575,9 +575,9 @@
 
 - album: newline
   pictures:
-    - name: Two
-      link: /gallery/two
-      smol: /assets/smol/Two_.jpg
+    - name: Windswept
+      link: /gallery/windswept
+      smol: /assets/smol/Windswept_.jpg
       width: 279px
     - name: Nord
       link: /gallery/nord
