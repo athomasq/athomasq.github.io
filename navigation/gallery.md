@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /:basename/
-title: Gallery · Abraham Thomas
+title: Photography · Abraham Thomas
 ---
 
 <head>
