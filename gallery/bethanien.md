@@ -13,4 +13,4 @@ Sony A7 + FE 24-105mm G lens: ISO 100 105mm f/11 1/200s
 
 <a href="/gallery/mariannen"> &laquo; Prev </a> &emsp; · &emsp; 
 <a href="/gallery"> Home </a> &emsp; · &emsp; 
-<a href="/gallery/kreuzberg"> Next &raquo; </a>
+<a href="/gallery/resistance"> Next &raquo; </a>
