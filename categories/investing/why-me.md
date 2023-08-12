@@ -32,20 +32,6 @@ I aim to be an investor who founders trust and can rely on.  This means:
 
 My secret sauce is that I spent a decade as the founder of a successful tech startup; but before that I spent another decade as a professional investor at a large hedge fund.  I think this combination is pretty unique, and it lets me help you more effectively.
 
-#### 🌎 Strategy
-
-My investing experience helps you *strategically*: on resource allocation and business planning; on financing and downstream investors; on competition, moats and ecosystem; on what it takes to win in the long term.  Here are some examples:
-
-* **Resource Allocation:** Balancing growth rates and burn rates, team size and team speed; retaining optionality while seizing opportunity; and ultimately, maximizing your risk-adjusted expected value: resource allocation is central to the CEO's job, and I can help you think systematically and rigorously through it.
-
-* **Financing:** I've raised lots of venture capital, and advised founders who've raised lots more. I can help with: deciding when and why and how much to raise; building a powerful pitch (and the company to support it); executing a disciplined and effective fund-raising process; negotiating terms; and closing the deal.  I can also provide warm intros to many well-known VC firms.
-
-* **Story-Telling:** The ability to craft a compelling narrative -- for customers, for partners, for investors, for employees, for the press -- is an essential part of the founder's toolkit, and it's something I have a lot of experience with.  Category creation is an especial strength.
-
-* **Recruiting and Culture:** The team you build is the company you build. To attract and retain and empower and scale a truly world-class team is perhaps the biggest challenge for founders today. Creating a strong, sustainable, high-performance, happy culture is the key to solving this challenge, and it's something I pride myself on.
-
-* **Macro:** Businesses are not built in a vacuum. Successful founders need to understand the macro environment; economic cycles and the cost of capital; business model evolution; customer, partner and investor dynamics; and more -- and this is truer than ever in 2023. 
-
 #### 🎯 Tactics
 
 My founder experience helps you *tactically*: on go-to-market, on positioning and story-telling; on data and API strategy; on culture and recruiting; and perhaps most important, with alignment and empathy.  I've worn lots of different hats as a founder; as a result I can help on almost all operational aspects of early-stage startups.  Here are some examples:
@@ -58,7 +44,23 @@ My founder experience helps you *tactically*: on go-to-market, on positioning an
 
 * **Resources and community:** I write regular memos for my portfolio founders, covering important market and macro trends, tactical and strategic tips, functional resources, and more; they tend to be more concrete and actionable than most "startup advice".  My founders also form a supportive and friendly community that I foster.
 
-* **Empathy ❤️:** Being a founder is hard. As a founder who has been through the venture-backed journey myself, from inception to exit, I believe I can be more aligned, more insightful, and more empathetic about the challenges you face than most investors without that experience.
+* **Empathy:** Being a founder is hard. As a founder who has been through the venture-backed journey myself, from inception to exit, I believe I can be more aligned, more insightful, and more empathetic about the challenges you face than most investors without that experience.
+
+#### 🌎 Strategy
+
+My investing experience helps you *strategically*: on resource allocation and business planning; on financing and downstream investors; on competition, moats and ecosystem; on what it takes to win in the long term.  Here are some examples:
+
+* **Resource Allocation:** Balancing growth rates and burn rates, team size and team speed; retaining optionality while seizing opportunity; and ultimately, maximizing your risk-adjusted expected value: resource allocation is central to the CEO's job, and I can help you think systematically and rigorously through it.
+
+* **Financing:** I've raised lots of venture capital, and advised founders who've raised lots more. I can help with: deciding when and why and how much to raise; building a powerful pitch (and the company to support it); executing a disciplined and effective fund-raising process; negotiating terms; and closing the deal.  
+
+* **Introductions:** I can help with introductions and references for potential customers, partners, job candidates, expert operators, and down-stream investors.  Specifically, I can provide warm intros to partners at many well-known VC firms, from seed to Series B, across the USA, Canada and India. 
+
+* **Story-Telling:** The ability to craft a compelling narrative -- for customers, for partners, for investors, for employees, for the press -- is an essential part of the founder's toolkit, and it's something I have a lot of experience with.  Category creation is an especial strength.
+
+* **Recruiting and Culture:** The team you build is the company you build. To attract and retain and empower and scale a truly world-class team is perhaps the biggest challenge for founders today. Creating a strong, sustainable, high-performance, happy culture is the key to solving this challenge, and it's something I pride myself on.
+
+* **Macro:** Businesses are not built in a vacuum. Successful founders need to understand the macro environment; economic cycles and the cost of capital; business model evolution; customer, partner and investor dynamics; and more -- and this is truer than ever in 2023. 
 
 
 
