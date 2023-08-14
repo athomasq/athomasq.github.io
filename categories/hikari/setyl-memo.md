@@ -109,9 +109,9 @@ Somewhat unusually for its stage, Setyl has received four "legit" acquisition of
 
 7. Somewhat immune to AI disruption, thanks to their focus on physical assets and data collection.  
 
-8. Fair price even given the current soft venture market: 30x ARR multiple (12.7 on 430k) for a seed company growing >2x yoy is very reasonable.
+8. Fair price given market conditions: 12.7M for 430k of ARR growing >2x and close to profitability is very reasonable.
 
-9. Asymmetric bet: I think they could exit for anywhere between 50M and 500M, giving plenty of upside, but there's a floor thanks to the existing acquisition interest; I think it's unlikely that investors will lose money from here.
+9. Asymmetric bet: I think there's a floor on value thanks to the existing acquisition interest, which makes this an asymmetric bet -- lots of upside, limited downside.
 
 
 ### Risks and Concerns
