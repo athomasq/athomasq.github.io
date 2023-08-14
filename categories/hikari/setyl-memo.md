@@ -20,6 +20,7 @@ They have line of sight to profitability and don't need the money, but one of th
 
 I'm sharing this with a small number of people I know personally; it will be my first syndicate investment (so you know the bar is going to be high).
 
+<br/> 
 
 ### Company Overview: Problem and Solution
 
@@ -33,6 +34,7 @@ Today, these assets are invariably tracked by hand -- by individual IT managers 
 
 Setyl automates this.  They have built a SaaS solution that makes it easy for managers to track asset ownership, renewals, costs, depreciation, licensing, usage and much more.
 
+<br/> 
 
 ### Customers and Traction
 
@@ -50,7 +52,7 @@ Setyl's metrics are strong.  As of 31 July 2023:
 
 Once a company joins Setyl, it's very unlikely that they will migrate off it, because all their asset tracking data is on the Setyl platform.   This is a classic "system of record" effect and a big reason I like the company; it manifests in the low churn and high NRR.
 
-
+<br/> 
 
 ### Team and Company
 
@@ -60,7 +62,7 @@ Founder Christopher Batts is a product manager, with experience at the Economist
 
 The dev team is distributed across Serbia, Georgia and Portugal, low cost centres for engineering work that are still easily accessible and in nearby time zones.  They have a tiny sales and marketing team in the UK.
 
-
+<br/> 
 
 ### Growth Philosophy
 
@@ -68,6 +70,7 @@ Christopher and Milorad don't want to get on the VC treadmill.  Rather than "gro
 
 I don't expect Setyl to print rapid paper markups from follow-on VC investors; rather, I expect them to build a solid, sustainable, valuable business for the medium term.  That being said, there are some low hanging fruit available with a little investment today (content and SEO, more spend on leads, and hiring a couple more sales and ops reps), which brings us to the current round.
 
+<br/> 
 
 ### Financing and Round Details
 
@@ -76,6 +79,8 @@ Sety is raising USD 1M in a priced equity round, at a pre-money of USD 12.7M.  (
 The round is being led by James Isilay, the CEO of Cognism (a venture-backed startup with a valuation of ~USD 500M).  Cognism was one of Setyl's early customers; James subsequently liked the product so much that he became an angel investor in Setyl's pre-seed round.  He's now leading the seed round and joining Setyl's board.  Cognism sells to almost exactly the same customer profile as Setyl, at much larger scale, so James' operational advice and audience knowledge will be valuable as Setyl grows.
 
 Setyl's current net burn is USD 35k/month and they have USD 400k in the bank (including anticipated tax credits).  So they have over 12 months runway, and even if growth slows, they will be profitable by the end of that period.  So they don't need to raise money.  But they're pragmatic: they're open to taking money if it's on the table, especially at reasonable terms from value-add investors like James.
+
+<br/> 
 
 ### My Involvement
 
@@ -87,11 +92,13 @@ I'm not a passive investor; I've been actively helping and advising Setyl as the
 
 I plan to continue my involvement well beyond this round, so you can be assured of close oversight of the company.
 
+<br/> 
 
 ### Aside: Acquisition Offers
 
 Somewhat unusually for its stage, Setyl has received four "legit" acquisition offers in the last year -- one from a large public company, two from PE firms, and one from a late stage tech startup, all working roughly in the "office productivity" space.   (It's a testament to how universal / horizontal the Setyl offering is, that there are so many potential buyers.)  The valuation ranges suggested were comparable and indeed possibly a little bit higher than the current round, but the founders weren't interested in selling.  Nonetheless, this suggests that there's an exit available here if things don't work out; it derisks the investment quite a bit in my view.
 
+<br/> 
 
 ### Things I Like
 
@@ -99,7 +106,7 @@ Somewhat unusually for its stage, Setyl has received four "legit" acquisition of
 
 2. Truly horizontal play: sellable to pretty much *any* organization.  This helps on multiple fronts: big TAM, easier GTM, and it opens up acquisition / exit possibilities -- Setyl fits into a large universe of acquirers.
 
-3. Differentiated offering thanks to the focus on "physical" assets (many competitors track SaaS spend instead -- easier to build, customers are other tech companies so easier to sell to in good times, less so today).
+3. Differentiated offering thanks to the focus on "physical" assets (many competitors track SaaS spend instead -- easier to build, customers are other tech companies so easier to sell to in good times, but less so today).
 
 4. Super sticky thanks to the "system-of-record" effect: customers rarely churn.  This is perhaps the strongest single point.
 
@@ -109,10 +116,13 @@ Somewhat unusually for its stage, Setyl has received four "legit" acquisition of
 
 7. Somewhat immune to AI disruption, thanks to their focus on physical assets and data collection.  
 
-8. Fair price given market conditions: 12.7M for 430k of ARR growing >2x and close to profitability is very reasonable.
+8. Frugal and efficient; close to profitability; not dependent on capital markets or venture funding to survive.
 
-9. Asymmetric bet: I think there's a floor on value thanks to the existing acquisition interest, which makes this an asymmetric bet -- lots of upside, limited downside.
+9. Fair price given market conditions: 12.7M is median for (non-AI) seed rounds today, but most seed startups don't have anywhere close to Setyl's traction.  The combination of 430k ARR, >2x growth, 133% NRR, low burn and large market makes it quite attractive.
 
+10. Asymmetric bet: I think there's a floor on value thanks to the existing acquisition interest, which makes this an asymmetric bet -- lots of upside, limited downside.
+
+<br/> 
 
 ### Risks and Concerns
 
@@ -138,9 +148,10 @@ Here are the deal terms:
 * Amount: GBP 800k ~= USD 1M
 * Valuation: GBP 10M pre-money ~= USD 12.7M
 * Allocation: GBP 200k ~= USD 250k
-* Estimated Fees: 4%
-* Carry: 20%
+* Syndication Fee: 4%
 * Management Fee: 1% annually for 7 years
+* Carry: 20%
+
 
 
 # Footnotes
