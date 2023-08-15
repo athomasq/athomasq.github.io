@@ -16,7 +16,7 @@ I'm leading a syndicate to invest in the seed round of Setyl.
 
 Setyl is a UK-based tech startup with a SaaS product that "manages company assets" for traditional IT departments.  It's a sticky solution for a painful problem in a large and underserved market. 
 
-<img src="/assets/img/setyl-1.jpg" width="500px" class="photo">
+<img src="/assets/img/setyl-1.jpg" width="420px" class="photo">
 
 Setyl is currently at USD 425,000 ARR growing 2.2x yoy with 133% net retention.  They're raising USD 1M at a pre-money valuation of USD 12.7M, in a pre-emptive round led by an existing investor.  Setyl doesn't need the money; they will reach profitability without the financing.  
 
@@ -32,11 +32,11 @@ Setyl is building the system of record for office management -- physical assets 
 
 Today, these assets are typically tracked by hand -- by individual IT managers working with Excel and Google Sheets, if not paper ledgers and files.  It's tedious, time-consuming, and inefficient.  
 
-<img src="/assets/img/setyl-2.jpg" width="500px" class="photo">
+<img src="/assets/img/setyl-2.jpg" width="420px" class="photo">
 
 Setyl automates this.  Their SaaS solution makes it easy for IT managers to track asset ownership, renewals, costs, depreciation, licensing, utilization and much more.  It's not just about tracking; Setyl generates direct ROI by helping companies optimize usage, not pay for idle assets, time their renewal cycles etc.
 
-<img src="/assets/img/setyl-3.jpg" width="400px" class="photo">
+<img src="/assets/img/setyl-3.jpg" width="420px" class="photo">
 
 <br/> 
 
@@ -68,7 +68,7 @@ The rest of the team is split between the UK and low-cost dev centres in Europe.
 
 Setyl's sweet spot is mid-market organizations: 300 employees (+/- 200).  They're getting really good traction in this tier.
 
-<img src="/assets/img/setyl-4.jpg" width="400px" class="photo">
+<img src="/assets/img/setyl-4.jpg" width="420px" class="photo">
 
 The product is truly horizontal: customers include schools, hospitals, software firms, banks, a security company, and more.  As such there's a massive TAM here: pretty much every organization has office assets to manage.
 
