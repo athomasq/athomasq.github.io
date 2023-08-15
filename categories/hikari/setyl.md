@@ -142,13 +142,10 @@ The valuation ranges suggested were comparable and indeed possibly a little bit 
 
 1. Startups are risky and most startups fail; Setyl is no exception.
 
-2. Setyl started out in the SME segment but has since moved up to the mid-market tier which is their current sweet spot.  They're still building out features required to capture true enterprise customers.
+2. There's still a lot of work to be done in their go-to-market and scaling strategy -- it's far from fully baked.  (Which is expected for a seed-stage company.)
 
-3. There's still a lot of work to be done in their go-to-market and scaling strategy -- it's far from fully baked.  (Which is expected for a seed-stage company.)
+3. For dollar-based investors, there is (hedgeable) currency risk since Setyl is a UK-based and GBP-denominated company. 
 
-4. For dollar-based investors, there is (hedgeable) currency risk since Setyl is a UK-based and GBP-denominated company. 
-
-5. System-of-record stickiness helps Setyl retain existing customers, but it doesn't necessarily help them acquire new customers; in that respect, it's not a full-fledged network effect.
 
 <br/>
 <br/>
@@ -170,6 +167,11 @@ The valuation ranges suggested were comparable and indeed possibly a little bit 
 <br/>
 
 ### Footnotes
+
+
+2. Setyl started out in the SME segment but has since moved up to the mid-market tier which is their current sweet spot.  They're still building out features required to capture true enterprise customers.
+
+5. System-of-record stickiness helps Setyl retain existing customers, but it doesn't necessarily help them acquire new customers; in that respect, it's not a full-fledged network effect.
 
 
 I've invested 3x my usual angel cheque size into Setyl, which gives you a sense of my commitment).
