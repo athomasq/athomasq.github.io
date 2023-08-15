@@ -16,7 +16,7 @@ I'm leading a syndicate to invest in the seed round of Setyl.
 
 Setyl is a UK-based tech startup with a SaaS product that "manages company assets" for traditional IT departments.  It's a sticky solution for a painful problem in a large and underserved market. 
 
-<img src="/assets/img/setyl-1.jpg" class="image">
+<img src="/assets/img/setyl-1.jpg" width="400px" class="photo">
 
 Setyl is currently at USD 425,000 ARR growing 2.2x yoy with 133% net retention.  They're raising USD 1M at a pre-money valuation of USD 12.7M, in a pre-emptive round led by an existing investor.  Setyl doesn't need the money; they will reach profitability without the financing.  
 
@@ -34,7 +34,7 @@ Today, these assets are typically tracked by hand -- by individual IT managers w
 
 Setyl automates this.  Their SaaS solution makes it easy for IT managers to track asset ownership, renewals, costs, depreciation, licensing, utilization and much more.  It's not just about tracking; Setyl generates direct ROI by helping companies optimize usage, not pay for idle assets, time their renewal cycles etc.
 
-<img src="/assets/img/setyl-2.jpg" class="image">
+<img src="/assets/img/setyl-2.jpg" width="400px" class="photo">
 
 <br/> 
 
@@ -44,7 +44,7 @@ Customers love Setyl.  Here are some quotes:
 
 *"a phenomenal tool for internal due diligence" ... "a godsend for helping me organize our office -- I would highly recommend it to anyone" ... "our whole asset management has improved" ... "streamlines our processes completely" ...*
 
-<img src="/assets/img/setyl-3.jpg" class="image">
+<img src="/assets/img/setyl-3.jpg" width="400px" class="photo">
 
 Setyl's metrics are strong.  As of 31 July 2023:
 
@@ -70,7 +70,7 @@ Setyl's sweet spot is mid-market organizations: 300 employees (+/- 200).  They'r
 
 The product is truly horizontal: customers include schools, hospitals, software firms, banks, a security company, and more.  As such there's a massive TAM here: pretty much every organization has office assets to manage.
 
-<img src="/assets/img/setyl-4.jpg" class="image">
+<img src="/assets/img/setyl-4.jpg" width="400px" class="photo">
 
 <br/> 
 
