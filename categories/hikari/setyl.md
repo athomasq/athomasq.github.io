@@ -16,7 +16,7 @@ I'm leading a syndicate to invest in the seed round of Setyl.
 
 Setyl is a UK-based tech startup with a SaaS product that "manages company assets" for traditional IT departments.  It's a sticky solution for a painful problem in a large and underserved market. 
 
-Setyl is currently at USD 425,000 ARR growing 2.2x yoy with 133% net retention. They're raising USD 1M at a pre-money valuation of USD 12.7M, in a pre-emptive round led by an inside investor.  Setyl doesn't need the money; they will reach profitability without the financing.  
+Setyl is currently at USD 425,000 ARR growing 2.2x yoy with 133% net retention.  They're raising USD 1M at a pre-money valuation of USD 12.7M, in a pre-emptive round led by an existing investor.  Setyl doesn't need the money; they will reach profitability without the financing.  
 
 I've managed to get some allocation in the round thanks to helping the founders over the years (I invested in their pre-seed as well). I'm sharing this with a small number of people I know personally; it will be my first syndicate investment.
 
@@ -28,7 +28,7 @@ Setyl is building the system of record for office management -- physical assets 
 
 Today, these assets are typically tracked by hand -- by individual IT managers working with Excel and Google Sheets, if not paper ledgers and files.  It's tedious, time-consuming, and inefficient.  
 
-Setyl automates this.  Their SaaS solution makes it easy for IT managers to track asset ownership, renewals, costs, depreciation, licensing, usage and much more.  It's not just about tracking; Setyl generates direct ROI by helping companies optimize usage, not pay for idle assets, time their renewal cycles etc.
+Setyl automates this.  Their SaaS solution makes it easy for IT managers to track asset ownership, renewals, costs, depreciation, licensing, utilization and much more.  It's not just about tracking; Setyl generates direct ROI by helping companies optimize usage, not pay for idle assets, time their renewal cycles etc.
 
 <br/> 
 
@@ -44,7 +44,7 @@ Setyl's metrics are strong.  As of 31 July 2023:
 * ARR is USD 425,000, up from USD 190,000 in July 2022.  
 * NRR of +133% reflects strong upsell and minimal churn.
 
-Once a company joins Setyl, it's very unlikely that they will migrate off it, because all their asset tracking data is on the Setyl platform.   This is a classic "system-of-record" effect and a big reason I like the company; it manifests in the low churn and high NRR.
+Once a company joins Setyl, it's very unlikely that they will migrate off it, because all their asset data is on the Setyl platform.   This is a classic "system-of-record" effect and a big reason I like the company; it manifests in the low churn and high NRR.
 
 <br/> 
 
@@ -60,7 +60,7 @@ The rest of the team is split between the UK and low-cost dev centres in Europe.
 
 Setyl's sweet spot is mid-market organizations: 300 employees (+/- 200).  They're getting really good traction in this tier.
 
-The product is truly horizontal: their clients include schools, hospitals, software firms, banks, a security company, a government department and more.  As such there's potential for a massive TAM here: pretty much every organization has office assets to manage.
+The product is truly horizontal: customers include schools, hospitals, software firms, banks, a security company, and more.  As such there's a massive TAM here: pretty much every organization has office assets to manage.
 
 <br/> 
 
@@ -68,7 +68,7 @@ The product is truly horizontal: their clients include schools, hospitals, softw
 
 Christopher and Milorad don't want to be tied to the VC treadmill.  Rather than "grow at all costs", they prefer to "grow while controlling their own destiny".  This means keeping expenses low, raising small amounts of capital at reasonable valuations, and staying profitable or close to it.  
 
-This means they have optionality: they can raise follow-on venture capital (Series A at 1.5-2M ARR) to accelerate growth if they want to, but they can also build a solid, sustainable, cash-efficient business if they choose; they're not locked into either path.
+As a result they have optionality: they can raise follow-on venture capital (Series A at 1.5-2M ARR) to accelerate growth if they want to, but they can also build a solid, sustainable, cash-efficient business if they choose; they're not locked into either path.
 
 Growth so far has been achieved with minimal investment in marketing (a small monthly lead budget) and largely founder-driven sales.  But there are some low hanging fruit available with a little investment today (content and SEO, more spend on leads, and hiring a couple more sales and ops reps), which brings us to the current round.
 
@@ -76,7 +76,7 @@ Growth so far has been achieved with minimal investment in marketing (a small mo
 
 ### Financing and Round Details
 
-Setyl is raising USD 1M in a priced equity round, at a pre-money of USD 12.7M.  (Note that the actual deal will be priced in GBP -- I'm using 1.27 for exchange rate).  There's a single share class, owned by founders and investors alike.
+Setyl is raising USD 1M in a priced equity round, at a pre-money of USD 12.7M.  (Note that the actual deal will be priced in GBP -- I'm using 1.27 as the exchange rate).  There's a single share class, owned by founders and investors alike.
 
 The round is being led by James Isilay, the CEO of Cognism (a venture-backed startup that he took from 0 to 50M ARR in a very short time).  Cognism was one of Setyl's earliest (cold outbound) customers; James subsequently became an angel investor in Setyl's pre-seed round.  He's now leading the seed round and joining Setyl's board.  Cognism sells to almost exactly the same audience profile as Setyl, at much larger scale, so James' operational advice and customer knowledge will be valuable as Setyl grows.
 
@@ -86,7 +86,7 @@ Setyl doesn't need the money.  But the founders are pragmatic: they're open to t
 
 ### My Involvement
 
-I invested in Setyl's friends and family round and can vouch for the company's progress on multiple fronts since then - product, technology, customers, revenue, reputation and more.  I can also vouch for the founders' integrity, commitment, responsibility, and ability to execute.  
+I invested in Setyl's friends and family round and can vouch for the company's progress on multiple fronts since then -- product, technology, customers, revenue, reputation and more.  I can also vouch for the founders' integrity, commitment, responsibility, and ability to execute.  
 
 I'm not a passive investor; I've been actively helping and advising Setyl as they grow.  Specifically, I've been helping with strategic planning; with growth and go-to-market; and with partnerships.  This help is a big reason I'm getting this allocation; here's what Christopher wrote as a testimonial:
 
@@ -114,7 +114,7 @@ The valuation ranges suggested were comparable and indeed possibly a little bit 
 
 4. Super sticky thanks to the "system-of-record" effect: customers rarely churn.  This is perhaps the strongest single point.
 
-5. Large surface area, touching IT, finance, HR and Ops departments; self-serve usage by all of these, not siloed in IT -- again, makes it hard for customers to churn.
+5. Large surface area, touching IT, finance, HR and Ops departments, with self-serve usage by all of these, not siloed in IT -- again, makes it hard for customers to churn.
 
 6. I think well of the team: they're hardworking, humble, pragmatic, and likeable.
 
@@ -140,16 +140,13 @@ The valuation ranges suggested were comparable and indeed possibly a little bit 
 
 5. System-of-record stickiness helps Setyl retain existing customers, but it doesn't necessarily help them acquire new customers; in that respect, it's not a full-fledged network effect.
 
+<br/>
+<br/>
 
 <!--
 
-4. System-of-record stickiness helps Setyl today, but if a well-funded competitor emerges and attempts a land-grab, the same effect makes it hard for Setyl to take business away from them.
+### Deal Terms
 
-
-# Deal Terms
-
-
-Here are the deal terms:
 
 * Round: Seed
 * Raising As: Equity (ordinary shares)
@@ -160,24 +157,23 @@ Here are the deal terms:
 * Management Fee: 1% annually for 7 years
 * Carry: 20%
 
+<br/>
 
-
-# Footnotes
-
+### Footnotes
 
 
 I've invested 3x my usual angel cheque size into Setyl, which gives you a sense of my commitment).
-
-Quite apart from the gains in efficiency (time saved for IT managers), Setyl has a direct ROI in terms of optimizing usage: they help companies not pay for assets they aren't using, whether physical or digital.
 
 
 True AI companies tend to be high variance -- lofty valuations, massive capital needs, lots of competition, rapid growth but also potential zeros depending on industry scenarios -- making them tricky for investors.  But non-AI companies are also in a tough spot -- they could be completely disrupted by AI.  Setyl is interesting because it can't be easily disrupted by AI per se -- because of the physical data collection and organization aspect. 
 
 Over the last 3 years, I've tracked / evaluate close to 1000 pre-seed and seed startups.  I'd put Setyl in the top 20, and probably the top 10 of deals that I've seen (noting that I don't chase after the g).  It's not about individual numbers, but rather about the combination of all of them: it's unusual to find a company with this combination of decent growth, low churn, good upsell, efficient burn and very reasonable valuation.
 
-I'm basing the fee structure on 5 AngelList syndicates that I'm a member of.  I like Ben Zises'
+I'm basing the fee structure on 5 AngelList syndicates that I'm a member of.  I like Ben Zises' explanation of his fees for the Super Angel Syndicate:
 
-There is a 1% annual management fee paid over 7 years to the manager of this SPV (Super Angel Syndicate). Averaged over 10 years, this is 0.7% per year and works out to $70 total for a $1k investment. This is separate from the relatively small setup/admin fee that AngelList charges to handle all legal, tax/accounting, software, compliance and regulatory expenses over the life of the investment. After completing more than 20 SPVs, it is clear to me the amount of work that is involved. First, to secure allocations in often highly competitive rounds (which can be years in the making), then to work with the founders to collect, compile and present the information, prepare, and launch, provide IR support, and ongoing updates to investors. With 350+ investors across SuperAngel SPVs, it has proven to be a substantial time commitment and one that takes me away from other fee opportunities. As we grow, the management fee is extremely helpful in covering the costs involved in leading a top-tier angel fund and syndicate. You can learn more about AngelList SPV fees here and here.  
+There is a 1% annual management fee paid over 7 years to the manager of this SPV (Super Angel Syndicate). Averaged over 10 years, this is 0.7% per year and works out to $70 total for a $1k investment. This is separate from the relatively small setup/admin fee that AngelList charges to handle all legal, tax/accounting, software, compliance and regulatory expenses over the life of the investment. 
+
+After completing more than 20 SPVs, it is clear to me the amount of work that is involved. First, to secure allocations in often highly competitive rounds (which can be years in the making), then to work with the founders to collect, compile and present the information, prepare, and launch, provide IR support, and ongoing updates to investors. With 350+ investors across SuperAngel SPVs, it has proven to be a substantial time commitment and one that takes me away from other fee opportunities. As we grow, the management fee is extremely helpful in covering the costs involved in leading a top-tier angel fund and syndicate. 
 
 
 -->
