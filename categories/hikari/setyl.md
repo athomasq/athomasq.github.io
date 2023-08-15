@@ -14,9 +14,9 @@ title: Setyl Investment Memo
 
 I'm leading a syndicate to invest in the seed round of Setyl.
 
-Setyl is a UK-based tech startup with a SaaS product that "manages company assets" for traditional IT departments.  It's a sticky solution for a painful problem in a large, unglamorous, underserved market. 
+Setyl is a UK-based tech startup with a SaaS product that "manages company assets" for traditional IT departments.  It's a sticky solution for a painful problem in a large and underserved market. 
 
-Setyl is currently at USD 432,000 ARR growing 2.2x yoy with 133% net retention. They're raising USD 1M at a pre-money valuation of USD 12.7M, in a pre-emptive round led by an inside investor.  Setyl doesn't need the money; they will reach profitability without the financing.  
+Setyl is currently at USD 425,000 ARR growing 2.2x yoy with 133% net retention. They're raising USD 1M at a pre-money valuation of USD 12.7M, in a pre-emptive round led by an inside investor.  Setyl doesn't need the money; they will reach profitability without the financing.  
 
 I've managed to get some allocation in the round thanks to helping the founders over the years (I invested in their pre-seed as well). I'm sharing this with a small number of people I know personally; it will be my first syndicate investment.
 
@@ -28,7 +28,7 @@ Setyl is building the system of record for office management -- physical assets 
 
 Today, these assets are typically tracked by hand -- by individual IT managers working with Excel and Google Sheets, if not paper ledgers and files.  It's tedious, time-consuming, and inefficient.  
 
-Setyl automates this.  Their SaaS solution makes it easy for managers to track asset ownership, renewals, costs, depreciation, licensing, usage and much more.
+Setyl automates this.  Their SaaS solution makes it easy for IT managers to track asset ownership, renewals, costs, depreciation, licensing, usage and much more.  It's not just about tracking; Setyl generates direct ROI by helping companies optimize usage, not pay for idle assets, time their renewal cycles etc.
 
 <br/> 
 
@@ -41,7 +41,7 @@ Customers love Setyl.  Here are some quotes:
 Setyl's metrics are strong.  As of 31 July 2023:
 
 * Over 150 customers in over 20 countries.  
-* ARR is USD 432,000, up from USD 192,000 in July 2022.  
+* ARR is USD 425,000, up from USD 190,000 in July 2022.  
 * NRR of +133% reflects strong upsell and minimal churn.
 
 Once a company joins Setyl, it's very unlikely that they will migrate off it, because all their asset tracking data is on the Setyl platform.   This is a classic "system-of-record" effect and a big reason I like the company; it manifests in the low churn and high NRR.
@@ -50,19 +50,27 @@ Once a company joins Setyl, it's very unlikely that they will migrate off it, be
 
 ### Team and Company
 
-Setyl is incorporated in the UK, and gets most of its revenue from that market; the rest from Europe.  (Which means North America is green field territory for them).
+Setyl is incorporated in the UK. Founder Christopher Batts is a product manager, with experience at the Economist and at tech startups Goji and TeeSpring.  Co-founder Milorad Doljanin is an experienced sales and operations leader, with executive stints at BP, EON and PetroChina.  They're both first-time founders.  I like them -- they are thoughtful, practical, keen and hardworking.
 
-Founder Christopher Batts is a product manager, with experience at the Economist and at tech startups Goji and TeeSpring.  Co-founder Milorad Doljanin is an experienced sales and operations leader, with executive stints at BP, EON and PetroChina.  They're both first-time founders.  
+The rest of the team is split between the UK and low-cost dev centres in Europe.  It's still a small team with low burn.
 
-The dev team is distributed across Serbia, Georgia and Portugal.  They have a tiny sales and marketing team in the UK.
+<br/>
+
+### Market
+
+Setyl's sweet spot is mid-market organizations: 300 employees (+/- 200).  They're getting really good traction in this tier.
+
+The product is truly horizontal: their clients include schools, hospitals, software firms, banks, a security company, a government department and more.  As such there's potential for a massive TAM here: pretty much every organization has office assets to manage.
 
 <br/> 
 
 ### Growth Philosophy
 
-Christopher and Milorad don't want to get on the VC treadmill.  Rather than "grow at all costs", they prefer to "grow while controlling their own destiny".  This means keeping expenses low, raising small amounts of capital at reasonable valuations, and staying profitable or close to it.  Growth so far has been achieved with minimal investment in marketing (a small monthly lead budget) and largely founder-driven sales. 
+Christopher and Milorad don't want to be tied to the VC treadmill.  Rather than "grow at all costs", they prefer to "grow while controlling their own destiny".  This means keeping expenses low, raising small amounts of capital at reasonable valuations, and staying profitable or close to it.  
 
-I don't expect Setyl to print rapid paper markups from follow-on VC investors; rather, I expect them to build a solid, sustainable, valuable business for the medium term.  That being said, there are some low hanging fruit available with a little investment today (content and SEO, more spend on leads, and hiring a couple more sales and ops reps), which brings us to the current round.
+This means they have optionality: they can raise follow-on venture capital (Series A at 1.5-2M ARR) to accelerate growth if they want to, but they can also build a solid, sustainable, cash-efficient business if they choose; they're not locked into either path.
+
+Growth so far has been achieved with minimal investment in marketing (a small monthly lead budget) and largely founder-driven sales.  But there are some low hanging fruit available with a little investment today (content and SEO, more spend on leads, and hiring a couple more sales and ops reps), which brings us to the current round.
 
 <br/> 
 
@@ -70,7 +78,7 @@ I don't expect Setyl to print rapid paper markups from follow-on VC investors; r
 
 Setyl is raising USD 1M in a priced equity round, at a pre-money of USD 12.7M.  (Note that the actual deal will be priced in GBP -- I'm using 1.27 for exchange rate).  There's a single share class, owned by founders and investors alike.
 
-The round is being led by James Isilay, the CEO of Cognism (a venture-backed startup with a 2023 valuation of ~USD 500M).  Cognism was one of Setyl's earliest customers; James subsequently became an angel investor in Setyl's pre-seed round.  He's now leading the seed round and joining Setyl's board.  Cognism sells to almost exactly the same customer profile as Setyl, at much larger scale, so James' operational advice and audience knowledge will be valuable as Setyl grows.
+The round is being led by James Isilay, the CEO of Cognism (a venture-backed startup that he took from 0 to 50M ARR in a very short time).  Cognism was one of Setyl's earliest (cold outbound) customers; James subsequently became an angel investor in Setyl's pre-seed round.  He's now leading the seed round and joining Setyl's board.  Cognism sells to almost exactly the same audience profile as Setyl, at much larger scale, so James' operational advice and customer knowledge will be valuable as Setyl grows.
 
 Setyl doesn't need the money.  But the founders are pragmatic: they're open to taking an offer if it's on the table, especially at reasonable terms from value-add investors like James.
 
@@ -78,13 +86,13 @@ Setyl doesn't need the money.  But the founders are pragmatic: they're open to t
 
 ### My Involvement
 
-I invested in Setyl's friends and family round and have watched them progress from prototype with negligible revenue, to where they are today.  I can vouch for the company's progress on multiple fronts - product, technology, customers, reputation and more.  I can also vouch for the founders' integrity, commitment, responsibility, and ability to execute.  
+I invested in Setyl's friends and family round and can vouch for the company's progress on multiple fronts since then - product, technology, customers, revenue, reputation and more.  I can also vouch for the founders' integrity, commitment, responsibility, and ability to execute.  
 
-I'm not a passive investor; I've been actively helping and advising Setyl as they grow.  Specifically, I've been helping with strategic planning (balancing growth rate, burn rate, cash runway and financing); with growth and go-to-market; and with partnerships.  This help is a big reason I'm getting this allocation; here's what Christopher wrote as a testimonial:
+I'm not a passive investor; I've been actively helping and advising Setyl as they grow.  Specifically, I've been helping with strategic planning; with growth and go-to-market; and with partnerships.  This help is a big reason I'm getting this allocation; here's what Christopher wrote as a testimonial:
 
 *We have been extremely lucky to have found Abraham as an early angel investor in our company. He’s been with us from right at the beginning and has consistently provided absolutely on-point advice at each stage, in the most hyper rational way which has been a massive assistance.*
 
-I plan to continue my involvement well beyond this round, so you can be assured of close oversight of the company.
+I will continue my involvement beyond this round, so you can be assured of close oversight of the company.
 
 <br/> 
 
@@ -106,7 +114,7 @@ The valuation ranges suggested were comparable and indeed possibly a little bit 
 
 4. Super sticky thanks to the "system-of-record" effect: customers rarely churn.  This is perhaps the strongest single point.
 
-5. Large surface area, touching IT, finance, HR and Ops at customer orgs -- again, makes it hard for customers to churn.
+5. Large surface area, touching IT, finance, HR and Ops departments; self-serve usage by all of these, not siloed in IT -- again, makes it hard for customers to churn.
 
 6. I think well of the team: they're hardworking, humble, pragmatic, and likeable.
 
@@ -124,15 +132,19 @@ The valuation ranges suggested were comparable and indeed possibly a little bit 
 
 1. Startups are risky and most startups fail; Setyl is no exception.
 
-2. Right now most of Setyl's customers are small to medium enterprises: 50 to 500 people.  SME budgets are always precarious.  Setyl is moving upmarket (and their entry ACV is steadily ticking higher) but that's a work in progress.
+2. Setyl started out in the SME segment but has since moved up to the mid-market tier which is their current sweet spot.  They're still building out features required to capture true enterprise customers.
 
 3. There's still a lot of work to be done in their go-to-market and scaling strategy -- it's far from fully baked.  (Which is expected for a seed-stage company.)
 
-4. System-of-record stickiness helps Setyl today, but if a well-funded competitor emerges and attempts a land-grab, the same effect makes it hard for Setyl to take business away from them.
+4. For dollar-based investors, there is (hedgeable) currency risk since Setyl is a UK-based and GBP-denominated company. 
 
+5. System-of-record stickiness helps Setyl retain existing customers, but it doesn't necessarily help them acquire new customers; in that respect, it's not a full-fledged network effect.
 
 
 <!--
+
+4. System-of-record stickiness helps Setyl today, but if a well-funded competitor emerges and attempts a land-grab, the same effect makes it hard for Setyl to take business away from them.
+
 
 # Deal Terms
 
