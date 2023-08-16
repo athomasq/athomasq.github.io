@@ -32,9 +32,10 @@ Setyl is building the system of record for office management -- physical assets 
 
 Today, these assets are typically tracked by hand -- by individual IT managers working with Excel and Google Sheets, if not paper ledgers and files.  It's tedious, time-consuming, and inefficient.  
 
+Setyl automates this.  Their SaaS solution makes it easy for IT managers to track asset ownership, renewals, costs, depreciation, licensing, utilization and much more.  It's not just about tracking; Setyl generates direct ROI by helping companies optimize usage, not pay for idle assets, time their renewal cycles etc.
+
 <img src="/assets/img/setyl-2.jpg" width="420px" class="photo">
 
-Setyl automates this.  Their SaaS solution makes it easy for IT managers to track asset ownership, renewals, costs, depreciation, licensing, utilization and much more.  It's not just about tracking; Setyl generates direct ROI by helping companies optimize usage, not pay for idle assets, time their renewal cycles etc.
 
 <img src="/assets/img/setyl-3.jpg" width="420px" class="photo">
 
@@ -46,7 +47,7 @@ Customers love Setyl.  Here are some quotes:
 
 *"a phenomenal tool for internal due diligence" ... "a godsend for helping me organize our office -- I would highly recommend it to anyone" ... "our whole asset management has improved" ... "streamlines our processes completely" ...*
 
-Setyl's metrics are strong.  As of 31 July 2023:
+Setyl's metrics are strong.  As of July 2023:
 
 * Over 150 customers in over 20 countries.  
 * ARR is USD 425,000, up from USD 190,000 in July 2022.  
@@ -68,9 +69,9 @@ The rest of the team is split between the UK and low-cost dev centres in Europe.
 
 Setyl's sweet spot is mid-market organizations: 300 employees (+/- 200).  They're getting really good traction in this tier.
 
-<img src="/assets/img/setyl-4.jpg" width="420px" class="photo">
-
 The product is truly horizontal: customers include schools, hospitals, software firms, banks, a security company, and more.  As such there's a massive TAM here: pretty much every organization has office assets to manage.
+
+<img src="/assets/img/setyl-4.jpg" width="420px" class="photo">
 
 <br/> 
 
@@ -88,7 +89,7 @@ Growth so far has been achieved with minimal investment in marketing (a small mo
 
 Setyl is raising USD 1M in a priced equity round, at a pre-money of USD 12.7M.  (Note that the actual deal will be priced in GBP -- I'm using 1.27 as the exchange rate).  There's a single share class, owned by founders and investors alike.
 
-The round is being led by James Isilay, the CEO of Cognism (a venture-backed startup that he took from 0 to 50M ARR in a very short time).  Cognism was one of Setyl's earliest (cold outbound) customers; James subsequently became an angel investor in Setyl's pre-seed round.  He's now leading the seed round and joining Setyl's board.  Cognism sells to almost exactly the same audience profile as Setyl, at much larger scale, so James' operational advice and customer knowledge will be valuable as Setyl grows.
+The round is being led by James Isilay, the CEO of Cognism (a venture-backed startup that James has taken from 0 to 50M ARR in a very short time).  Cognism was one of Setyl's earliest (cold outbound) customers; James subsequently became an angel investor in Setyl's pre-seed round.  He's now leading the seed round and joining Setyl's board.  Cognism sells to almost exactly the same audience profile as Setyl, at much larger scale, so James' operational advice and customer knowledge will be valuable as Setyl grows.
 
 Setyl doesn't need the money.  But the founders are pragmatic: they're open to taking an offer if it's on the table, especially at reasonable terms from value-add investors like James.
 
@@ -96,7 +97,7 @@ Setyl doesn't need the money.  But the founders are pragmatic: they're open to t
 
 ### My Involvement
 
-I invested in Setyl's friends and family round and can vouch for the company's progress on multiple fronts since then -- product, technology, customers, revenue, reputation and more.  I can also vouch for the founders' integrity, commitment, responsibility, and ability to execute.  
+I invested in Setyl's pre-seed round and can vouch for the company's progress on multiple fronts since then -- product, technology, customers, revenue, reputation and more.  I can also vouch for the founders' integrity, commitment, responsibility, and ability to execute.  
 
 I'm not a passive investor; I've been actively helping and advising Setyl as they grow.  Specifically, I've been helping with strategic planning; with growth and go-to-market; and with partnerships.  This help is a big reason I'm getting this allocation; here's what Christopher wrote as a testimonial:
 
@@ -146,40 +147,36 @@ The valuation ranges suggested were comparable and indeed possibly a little bit 
 
 3. For dollar-based investors, there is (hedgeable) currency risk since Setyl is a UK-based and GBP-denominated company. 
 
-
 <br/>
-<br/>
-
-<!--
 
 ### Deal Terms
 
 
 * Round: Seed
-* Raising As: Equity (ordinary shares)
-* Amount: GBP 800k ~= USD 1M
+* Raising: Equity (ordinary shares)
 * Valuation: GBP 10M pre-money ~= USD 12.7M
-* Allocation: GBP 200k ~= USD 250k
-* Syndication Fee: 4%
-* Management Fee: 1% annually for 7 years
+* Raise amount: GBP 800k ~= USD 1M
+* Syndicate allocation: GBP 200k ~= USD 250k
+* Syndication fee: 4% (one-time)
+* Management fee: 1% annually for 7 years
 * Carry: 20%
 
 <br/>
+<br/>
+
+
+
+
+<!--
 
 ### Footnotes
 
-
-2. Setyl started out in the SME segment but has since moved up to the mid-market tier which is their current sweet spot.  They're still building out features required to capture true enterprise customers.
-
-5. System-of-record stickiness helps Setyl retain existing customers, but it doesn't necessarily help them acquire new customers; in that respect, it's not a full-fledged network effect.
+* I've invested 3x my usual angel cheque size into Setyl, which gives you a sense of my commitment).
 
 
-I've invested 3x my usual angel cheque size into Setyl, which gives you a sense of my commitment).
+* True AI companies tend to be high variance -- lofty valuations, massive capital needs, lots of competition, rapid growth but also potential zeros depending on industry scenarios -- making them tricky for investors.  But non-AI companies are also in a tough spot -- they could be completely disrupted by AI.  Setyl is interesting because it can't be easily disrupted by AI per se -- because of the physical data collection and organization aspect. 
 
-
-True AI companies tend to be high variance -- lofty valuations, massive capital needs, lots of competition, rapid growth but also potential zeros depending on industry scenarios -- making them tricky for investors.  But non-AI companies are also in a tough spot -- they could be completely disrupted by AI.  Setyl is interesting because it can't be easily disrupted by AI per se -- because of the physical data collection and organization aspect. 
-
-Over the last 3 years, I've tracked / evaluate close to 1000 pre-seed and seed startups.  I'd put Setyl in the top 20, and probably the top 10 of deals that I've seen (noting that I don't chase after the g).  It's not about individual numbers, but rather about the combination of all of them: it's unusual to find a company with this combination of decent growth, low churn, good upsell, efficient burn and very reasonable valuation.
+* Over the last 3 years, I've tracked / evaluated close to 1000 pre-seed and seed startups.  I'd put Setyl's traction in the top 20, and probably the top 10 of deals that I've seen (noting that I don't chase after the ).  It's not about individual numbers, but rather about the combination of all of them: it's unusual to find a company with this combination of decent growth, low churn, good upsell, efficient burn and very reasonable valuation.
 
 I'm basing the fee structure on 5 AngelList syndicates that I'm a member of.  I like Ben Zises' explanation of his fees for the Super Angel Syndicate:
 
