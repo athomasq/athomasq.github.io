@@ -14,23 +14,21 @@ title: Setyl Investment Memo
 
 I'm leading a syndicate to invest in the seed round of Setyl.
 
-Setyl is a UK-based tech startup with a SaaS product that "manages company assets" for traditional IT departments.  It's a sticky solution for a painful problem in a large and underserved market. 
+Setyl is a UK-based tech startup with a SaaS product that manages office assets for mid-sized organizations.  It's a sticky solution for a painful problem in a large and underserved market. 
 
 <img src="/assets/img/setyl-1.jpg" width="420px" class="photo">
 
-Setyl is at USD 425,000 ARR as of July 2023, growing 2.2x yoy with 133% net retention.  They're raising USD 1M at a pre-money valuation of USD 12.7M, in a pre-emptive round led by an existing investor.  Setyl doesn't need the money; they will reach profitability without the financing.  
+Setyl is at USD 425,000 ARR as of July 2023, growing 2.2x yoy with 133% net retention.  They're raising USD 1M at a pre-money valuation of USD 12.7M, in a pre-emptive round led by an existing investor.  
 
-I've received some allocation in the round thanks to helping the founders over the years (I invested in their pre-seed as well). <!--I'm sharing this with a small number of people I know personally; it will be my first syndicate investment.-->
+I've received some allocation in the round thanks to helping the founders over the years (I invested in their pre-seed as well), and I'm sharing this with a small number of people I know personally. <!--; it will be my first syndicate investment.-->
 
 <br/> 
 
 ### Company Overview: Problem and Solution
 
+Setyl is building a software "system of record" for office asset management -- both physical assets like laptops and printers, office chairs and desks, printers and routers, plus digital assets like software licenses, subscriptions and contracts.  
 
-
-Setyl is building the system of record for office management -- physical assets like laptops and printers, office chairs and desks, printers and routers, plus digital assets like software licenses, subscriptions and contracts.  
-
-Today, these assets are typically tracked by hand -- by individual IT managers working with Excel and Google Sheets, if not paper ledgers and files.  It's tedious, time-consuming, and inefficient.  
+Today, these assets are typically tracked by hand -- by IT and office managers working with Excel and Google Sheets, if not paper ledgers and files.  It's tedious, time-consuming, and inefficient.  
 
 Setyl automates this.  Their SaaS solution makes it easy for IT managers to track asset ownership, renewals, costs, depreciation, licensing, utilization and much more.  It's not just about tracking; Setyl generates direct ROI by helping companies optimize usage, not pay for idle assets, time their renewal cycles etc.
 
@@ -61,13 +59,13 @@ Once a company joins Setyl, it's very unlikely that they will migrate off it, be
 
 Setyl is incorporated in the UK. Founder Christopher Batts is a product manager, with experience at the Economist and at tech startups Goji and TeeSpring.  Co-founder Milorad Doljanin is an experienced sales and operations leader, with executive stints at BP, EON and PetroChina.  They're both first-time founders.  I like them -- they are thoughtful, practical, keen and hardworking.
 
-The rest of the team is split between the UK and low-cost dev centres in Europe.  It's still a small team with low burn.
+The rest of the company is split between the UK and low-cost dev centres in Europe.  It's still a small team of 10 people.
 
 <br/>
 
 ### Market
 
-Setyl's sweet spot is mid-market organizations: 300 employees (+/- 200).  They're getting really good traction in this tier.
+Setyl's sweet spot is mid-market organizations: 300 employees (+/- 200).  They're getting solid traction in this tier.
 
 The product is truly horizontal: customers include schools, hospitals, software firms, banks, a security company, and more.  As such there's a massive TAM here: pretty much every organization has office assets to manage.
 
@@ -77,11 +75,11 @@ The product is truly horizontal: customers include schools, hospitals, software 
 
 ### Growth Philosophy
 
-Christopher and Milorad don't want to be tied to the VC treadmill.  Rather than "grow at all costs", they prefer to "grow while controlling their own destiny".  This means keeping expenses low, raising small amounts of capital at reasonable valuations, and staying profitable or close to it.  
+Christopher and Milorad don't want to be tied to the VC treadmill.  Rather than "grow at all costs", they prefer to "grow while controlling their own destiny".  This means keeping expenses low, raising reasonable amounts of capital at reasonable valuations, and staying within a line of sight to profitability.
 
-As a result they have optionality: they can raise follow-on venture capital (Series A at 1.5-2M ARR) to accelerate growth if they want to, but they can also build a solid, sustainable, cash-efficient business if they choose; they're not locked into either path.
+As a result they have optionality: they can raise follow-on venture capital (Series A once they get to 1.5-2M ARR) to accelerate growth, but they can also build a solid, sustainable, cash-efficient business; they're not locked into either path.
 
-Growth so far has been achieved with minimal investment in marketing (a small monthly lead budget) and largely founder-driven sales.  But there are some low hanging fruit available with a little investment today (content and SEO, more spend on leads, and hiring a couple more sales and ops reps), which brings us to the current round.
+Setyl's growth so far has been achieved with minimal investment in marketing (a small monthly lead budget) and largely founder-driven sales.  But there are some clear expansion opportunities available with a little investment today (content and SEO, more spend on leads, hiring a couple more sales and ops reps), and the founders want to be ambitious in grasping these.
 
 <br/> 
 
@@ -91,7 +89,7 @@ Setyl is raising USD 1M in a priced equity round, at a pre-money of USD 12.7M.  
 
 The round is being led by James Isilay, the CEO of Cognism (a venture-backed startup that James has taken from 0 to 50M ARR in a very short time).  Cognism was one of Setyl's earliest (cold outbound) customers; James subsequently became an angel investor in Setyl's pre-seed round.  He's now leading the seed round and joining Setyl's board.  Cognism sells to almost exactly the same audience profile as Setyl, at much larger scale, so James' operational advice and customer knowledge will be valuable as Setyl grows.
 
-Setyl doesn't need the money.  But the founders are pragmatic: they're open to taking an offer if it's on the table, especially at reasonable terms from value-add investors like James.
+The funds will be used for a combination of product development (adding more enterprise features) and customer acquisition (sales and marketing).
 
 <br/> 
 
@@ -111,7 +109,7 @@ I will continue my involvement beyond this round, so you can be assured of close
 
 Somewhat unusually for its stage, Setyl has received four "legit" acquisition offers in the last year -- one from a public tech company, two from PE firms, and one from a late stage tech startup, all working roughly in the "office productivity" space.   (It's a testament to how universal / horizontal the Setyl offering is, that there are so many potential buyers.)  
 
-The valuation ranges suggested were comparable and indeed possibly a little bit higher than the current round, but the founders weren't interested in selling.  Nonetheless, this suggests that there's an exit available here if things don't work out; it derisks the investment quite a bit in my view.
+The valuation ranges suggested were comparable and indeed possibly a little bit higher than the current round.  This suggests that there are exits available here even at the current scale; it derisks the investment quite a bit in my view.
 
 <br/> 
 
@@ -119,23 +117,25 @@ The valuation ranges suggested were comparable and indeed possibly a little bit 
 
 1. Large, unglamorous, underserved market (my favourite kind!).  IT departments simply aren't sexy.  But they have to modernize like everyone else, and Setyl is riding that trend. 
 
-2. Truly horizontal play: sellable to pretty much *any* organization.  This helps on multiple fronts: big TAM, easier GTM, and it opens up acquisition / exit possibilities -- Setyl fits into a large universe of acquirers.
+2. Truly horizontal play: sellable to pretty much *any* organization.  
 
-3. Differentiated offering thanks to the focus on "physical" assets (many competitors track SaaS spend instead -- easier to build, customers are other tech companies so easier to sell to in good times, but less so today).
+3. Differentiated offering thanks to the focus on both physical and digital assets.  (Many competitors only track SaaS spend -- easier to build, customers are other tech companies so easier to sell to in good times, but less so today).
 
 4. Super sticky thanks to the "system-of-record" effect: customers rarely churn.  This is perhaps the strongest single point.
 
 5. Large surface area, touching IT, finance, HR and Ops departments, with self-serve usage by all of these, not siloed in IT -- again, makes it hard for customers to churn.
 
-6. I think well of the team: they're hardworking, humble, pragmatic, and likeable.
+6. Wide universe of potential acquirers, across the office productivity, workplace and IT management space.
 
-7. Somewhat immune to AI disruption, thanks to their focus on physical assets and data collection.  
+7. I think well of the team: they're hardworking, humble, pragmatic, and likeable.
 
-8. Frugal and efficient; close to profitability; not dependent on capital markets or venture funding to survive.
+8. Somewhat immune to AI disruption, thanks to their focus on physical assets and data collection.  
 
-9. Fair price given market conditions: 12.7M is median for (non-AI) seed rounds today, but most seed startups don't have anywhere close to Setyl's traction.  The combination of 430k ARR, >2x growth, 133% NRR, low burn and large market is quite rare.
+9. Frugal and efficient; close to profitability; not wholly dependent on capital markets or venture funding to survive.
 
-10. Asymmetric bet: I think there's a floor on value thanks to the existing acquisition interest, which makes this an asymmetric bet -- lots of upside, limited downside.
+10. Fair price given market conditions: 12.7M is median for (non-AI) seed rounds today, but most seed startups don't have anywhere close to Setyl's traction.  The combination of 430k ARR, >2x growth, 133% NRR, low burn and large market is quite rare.
+
+11. Asymmetric bet: I think there's a floor on value thanks to the existing acquisition interest, which makes this an asymmetric bet -- lots of upside, limited downside.
 
 <br/> 
 
