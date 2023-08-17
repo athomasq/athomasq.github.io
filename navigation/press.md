@@ -10,8 +10,6 @@ title: Press · Abraham Thomas
 
 <br/>
 
-### Coverage
-
 Here are some articles in which I'm quoted or featured:
 
 - [A Minsky Moment for Venture Capital](https://www.ft.com/content/077de7e3-e4e3-49d5-8a76-3cbbc4f492f5) - Financial Times [<small>pdf</small>](/assets/docs/FT-minsky.pdf)
@@ -51,6 +49,13 @@ https://www.marketwatch.com/story/the-explosion-of-alternative-data-gives-regula
 - [Nasdaq Dives into Alternative Data](https://www.barrons.com/articles/nasdaq-dives-into-alternative-data-1543943703) - Barron's [<small>pdf</small>](/assets/docs/B-dives.pdf)
 - [Acquisition of the Year](https://www.waterstechnology.com/awards-rankings/4351881/acquisition-of-the-year-nasdaqs-acquisition-of-quandl) - Waters Tech [<small>pdf</small>](/assets/docs/WT-award.pdf)
 - [An Inflection Point for the Industry](https://www.greenwich.com/blog/alternative-data-going-mainstream) - Greenwich Associates [<small>pdf</small>](/assets/docs/GA-mainstream.pdf)
+
+
+Here are some op-eds I've written:
+
+- [Speed Up Your Startup](https://m.economictimes.com/opinion/et-commentary/speed-up-your-startup-in-antarctica/articleshow/102732292.cms) - The Economic Times (India) [<small>pdf</small>](/assets/docs/ET-antarctica.pdf)  
+&nbsp; *an abridged version of [this essay](https://pivotal.substack.com/p/the-perils-of-prudence)  
+- [Time To Commit To Data](https://fxalgonews.com/previous-edition/issue-10-may-2018/) - FX Algo News [<small>pdf</small>](/assets/docs/FX-commit.pdf)  
 
 
 <!--
