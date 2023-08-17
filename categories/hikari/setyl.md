@@ -109,7 +109,7 @@ I will continue my involvement beyond this round, so you can be assured of close
 
 Somewhat unusually for its stage, Setyl has received four "legit" acquisition offers in the last year -- one from a public tech company, two from PE firms, and one from a late stage tech startup, all working roughly in the "office productivity" space.   (It's a testament to how universal / horizontal the Setyl offering is, that there are so many potential buyers.)  
 
-The valuation ranges suggested were comparable and indeed possibly a little bit higher than the current round.  This suggests that there are exits available here even at the current scale; it derisks the investment quite a bit in my view.
+The valuation ranges suggested were comparable and indeed possibly a little bit higher than the current round.  This suggests that there are exits available even at their current scale; it derisks the investment quite a bit in my view.
 
 <br/> 
 
@@ -117,9 +117,9 @@ The valuation ranges suggested were comparable and indeed possibly a little bit 
 
 1. Large, unglamorous, underserved market (my favourite kind!).  IT departments simply aren't sexy.  But they have to modernize like everyone else, and Setyl is riding that trend. 
 
-2. Truly horizontal play: sellable to pretty much *any* organization.  
+2. Truly horizontal play: sellable to pretty much *any* organization -- hence large TAM and easier GTM.  
 
-3. Differentiated offering thanks to the focus on both physical and digital assets.  (Many competitors only track SaaS spend -- easier to build, customers are other tech companies so easier to sell to in good times, but less so today).
+3. Differentiated offering thanks to the focus on both physical and digital assets.  (Many competitors only track SaaS spend).
 
 4. Super sticky thanks to the "system-of-record" effect: customers rarely churn.  This is perhaps the strongest single point.
 
@@ -129,7 +129,7 @@ The valuation ranges suggested were comparable and indeed possibly a little bit 
 
 7. I think well of the team: they're hardworking, humble, pragmatic, and likeable.
 
-8. Somewhat immune to AI disruption, thanks to their focus on physical assets and data collection.  
+8. Somewhat immune to AI disruption, thanks to their focus on physical assets and the data layer.  
 
 9. Frugal and efficient; close to profitability; not wholly dependent on capital markets or venture funding to survive.
 
