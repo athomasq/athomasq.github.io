@@ -101,7 +101,7 @@ I'm not a passive investor; I've been actively helping and advising Setyl as the
 
 *We have been extremely lucky to have found Abraham as an early angel investor in our company. He’s been with us from right at the beginning and has consistently provided absolutely on-point advice at each stage, in the most hyper rational way which has been a massive assistance.*
 
-I will continue my involvement beyond this round, so you can be assured of close oversight of the company.
+I will continue my involvement beyond this round, so you can be assured of close oversight of the company.  (And of course I'm going to be investing more of my own money into this round as well.)
 
 <br/> 
 
