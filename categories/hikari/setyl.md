@@ -20,7 +20,7 @@ Setyl is a UK-based tech startup with a SaaS product that "manages company asset
 
 Setyl is currently at USD 425,000 ARR growing 2.2x yoy with 133% net retention.  They're raising USD 1M at a pre-money valuation of USD 12.7M, in a pre-emptive round led by an existing investor.  Setyl doesn't need the money; they will reach profitability without the financing.  
 
-I've managed to get some allocation in the round thanks to helping the founders over the years (I invested in their pre-seed as well). I'm sharing this with a small number of people I know personally; it will be my first syndicate investment.
+I've received some allocation in the round thanks to helping the founders over the years (I invested in their pre-seed as well). <!--I'm sharing this with a small number of people I know personally; it will be my first syndicate investment.-->
 
 <br/> 
 
