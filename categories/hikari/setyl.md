@@ -77,21 +77,39 @@ The product is truly horizontal: customers include schools, hospitals, software 
 
 Christopher and Milorad don't want to be tied to the VC treadmill.  Rather than "grow at all costs", they prefer to "grow while controlling their own destiny".  This means keeping expenses low, raising reasonable amounts of capital at reasonable valuations, and staying within a line of sight to profitability.
 
-As a result they have optionality: they can raise follow-on venture capital (Series A once they get to 1.5-2M ARR) to accelerate growth, but they can also build a solid, sustainable, cash-efficient business; they're not locked into either path.
+As a result they have optionality: they can raise follow-on venture capital to accelerate growth, but they can also build a solid, sustainable, cash-efficient business; they're not locked into either path.
 
-Setyl's growth so far has been achieved with minimal investment in marketing (a small monthly lead budget) and largely founder-driven sales.  But there are some clear expansion opportunities available with a little investment today (content and SEO, more spend on leads, hiring a couple more sales and ops reps), and the founders want to be ambitious in grasping these.
+Setyl's growth so far has been achieved with minimal investment in marketing (a small monthly lead budget) and largely founder-driven sales.  But there are some clear expansion opportunities available with a little investment today, and the founders are keen to capture these.
 
 <br/> 
 
 ### Financing and Round Details
 
-Setyl is raising USD 1M in a priced equity round, at a pre-money of USD 12.7M.  (Note that the actual deal will be priced in GBP -- I'm using 1.27 as the exchange rate).  There's a single share class, owned by founders and investors alike.
+Setyl is raising USD 1M in a priced equity round, at a pre-money of USD 12.7M.  (Note that the actual deal will be priced in GBP -- I'm using 1.27 as the exchange rate).  There's a single share class, owned by founders and investors alike.  
 
-The round is being led by James Isilay, the CEO of Cognism (a venture-backed startup that James has taken from 0 to 50M ARR in a very short time).  Cognism was one of Setyl's earliest (cold outbound) customers; James subsequently became an angel investor in Setyl's pre-seed round.  He's now leading the seed round and joining Setyl's board.  Cognism sells to almost exactly the same audience profile as Setyl, at much larger scale, so James' operational advice and customer knowledge will be valuable as Setyl grows.
+The round is being led by James Isilay, the CEO of Cognism (a venture-backed startup that James has taken from 0 to 50M ARR in a very short time).  Cognism was one of Setyl's earliest (cold outbound) customers; James subsequently became an angel investor in Setyl's pre-seed round.  He's now leading the seed round and joining Setyl's board.  
 
-The funds will be used for a combination of product development (adding more enterprise features) and customer acquisition (sales and marketing).
+Cognism sells to almost exactly the same audience profile as Setyl, at much larger scale, so James' operational advice and customer knowledge will be valuable as Setyl grows.
+
+Setyl's previous round of financing was at a valuation of USD 7.5M in mid 2022.
 
 <br/> 
+
+<!--
+
+### Use of Funds
+
+The funds will be used for product and go-to-market.
+
+On the product front: Setyl started out targeting SMEs, but have subsequently realized that mid-market is their sweet spot. Christopher and Milorad want to build more features optimized for this tier, which will help boost ACV.
+
+On the go-to-market front: content/SEO, paid lead-gen, and outbound sales are all working for Setyl; they'd like to spend more on each of those, to boost growth. Also, the USA is Setyl's second largest geography, despite close to zero sales and marketing effort in that market.  Christopher and Milorad would like to invest to acquire more US customers.
+ 
+Higher ACVs, more investment in sales and marketing, and broadening the geography should combine to take Setyl to USD 1.5 to 2M in ARR over the next 15-24 months.
+
+<br/>
+
+-->
 
 ### My Involvement
 
@@ -157,7 +175,7 @@ The valuation ranges suggested were comparable and indeed possibly a little bit 
 * Valuation: GBP 10M pre-money ~= USD 12.7M
 * Raise amount: GBP 800k ~= USD 1M
 * Syndicate allocation: GBP 200k ~= USD 250k
-* Syndication fee: 4% (one-time)
+* Syndicate setup fee: USD 8k (one-time)
 * Management fee: 1% annually for 7 years
 * Carry: 20%
 
