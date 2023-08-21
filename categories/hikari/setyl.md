@@ -91,11 +91,9 @@ The round is being led by James Isilay, the CEO of Cognism (a venture-backed sta
 
 Cognism sells to almost exactly the same audience profile as Setyl, at much larger scale, so James' operational advice and customer knowledge will be valuable as Setyl grows.
 
-Setyl's previous round of financing was at a valuation of USD 7.5M in mid 2022.
+Setyl's previous round of financing was at a valuation of USD 7.5M in mid 2022.  The cap table is clean.
 
 <br/> 
-
-<!--
 
 ### Use of Funds
 
@@ -103,13 +101,11 @@ The funds will be used for product and go-to-market.
 
 On the product front: Setyl started out targeting SMEs, but have subsequently realized that mid-market is their sweet spot. Christopher and Milorad want to build more features optimized for this tier, which will help boost ACV.
 
-On the go-to-market front: content/SEO, paid lead-gen, and outbound sales are all working for Setyl; they'd like to spend more on each of those, to boost growth. Also, the USA is Setyl's second largest geography, despite close to zero sales and marketing effort in that market.  Christopher and Milorad would like to invest to acquire more US customers.
+On the go-to-market front: content/SEO, paid lead-gen, and outbound sales are all working for Setyl, and seem to have hit inflection points in the last few months.  Christopher and Milordd would like to spend more on each of those, to boost growth. 
  
-Higher ACVs, more investment in sales and marketing, and broadening the geography should combine to take Setyl to USD 1.5 to 2M in ARR over the next 15-24 months.
+Higher ACVs plus more investment in sales and marketing should combine to take Setyl to USD 1.5 to 2M in ARR over the next 15-24 months.
 
 <br/>
-
--->
 
 ### My Involvement
 
