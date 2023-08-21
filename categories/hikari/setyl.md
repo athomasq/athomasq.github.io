@@ -101,7 +101,7 @@ The funds will be used for product and go-to-market.
 
 On the product front: Setyl started out targeting SMEs, but have subsequently realized that mid-market is their sweet spot. Christopher and Milorad want to build more features optimized for this tier, which will help boost ACV.
 
-On the go-to-market front: content/SEO, paid lead-gen, and outbound sales are all working for Setyl, and seem to have hit inflection points in the last few months.  Christopher and Milordd would like to spend more on each of those, to boost growth. 
+On the go-to-market front: content/SEO, paid lead-gen, and outbound sales are all working for Setyl, and seem to have hit inflection points in the last few months.  Christopher and Milorad would like to spend more on each of those, to boost growth. 
  
 Higher ACVs plus more investment in sales and marketing should combine to take Setyl to USD 1.5 to 2M in ARR over the next 15-24 months.
 
