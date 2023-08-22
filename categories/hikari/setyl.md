@@ -89,7 +89,7 @@ Setyl is raising USD 1M in a priced equity round, at a pre-money of USD 12.7M.  
 
 The round is being led by James Isilay, the CEO of Cognism (a venture-backed startup that James has taken from 0 to 50M ARR in a very short time).  Cognism was one of Setyl's earliest (cold outbound) customers; James subsequently became an angel investor in Setyl's pre-seed round.  He's now leading the seed round and joining Setyl's board.  
 
-Cognism sells to almost exactly the same audience profile as Setyl, at much larger scale, so James' operational advice and customer knowledge will be valuable as Setyl grows.
+Cognism has progressed through a very similar go-to-market path to what Setyl is currently pursuing, so James' operational advice and customer knowledge will be valuable as Setyl grows.
 
 Setyl's previous round of financing was at a valuation of USD 7.5M in mid 2022.  The cap table is clean.
 
