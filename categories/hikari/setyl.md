@@ -153,13 +153,19 @@ The valuation ranges suggested were comparable and indeed possibly a little bit 
 
 <br/> 
 
-### Risks and Concerns
+### Risks and Disclosures
 
 1. Investing in startups is risky; only invest what you're comfortable losing.
 
-2. There's still a lot of work to be done in Setyl's go-to-market and scaling strategy -- it's far from fully baked.  (Which is expected for a seed-stage company.)
+2. I've invested in previous financing rounds for Setyl, which could potentially lead to a conflict of interest. (I'm investing in this round as well.)  I'm also an advisor to the company. 
 
-3. For dollar-based investors, there is (hedgeable) currency risk since Setyl is a UK-based and GBP-denominated company. 
+3. The company is selling to mid-market enterprises. Sales cycles can be longer than expected, and customers may be sensitive to price.
+
+4. There's still a lot of work to be done in Setyl's go-to-market and pricing strategy -- it's far from fully baked.  (Which is expected for a seed-stage company.)
+
+5. For dollar-based investors, there is (hedgeable) currency risk since Setyl is a UK-based and GBP-denominated company. 
+
+
 
 <br/>
 
