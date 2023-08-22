@@ -89,7 +89,7 @@ Setyl is raising USD 1M in a priced equity round, at a pre-money of USD 12.7M.  
 
 The round is being led by James Isilay, the CEO of Cognism (a venture-backed startup that James has taken from 0 to 50M ARR in a very short time).  Cognism was one of Setyl's earliest (cold outbound) customers; James subsequently became an angel investor in Setyl's pre-seed round.  He's now leading the seed round and joining Setyl's board.  
 
-Cognism has progressed through a very similar go-to-market path to what Setyl is currently pursuing, so James' operational advice and customer knowledge will be valuable as Setyl grows.
+Cognism has progressed through a very similar go-to-market path to what Setyl is currently traversing, and James' operational advice and customer knowledge will be valuable as Setyl grows.
 
 Setyl's previous round of financing was at a valuation of USD 7.5M in mid 2022.  The cap table is clean.
 
@@ -157,13 +157,13 @@ The valuation ranges suggested were comparable and indeed possibly a little bit 
 
 1. Investing in startups is risky; only invest what you're comfortable losing.
 
-2. I've invested in previous financing rounds for Setyl, which could potentially lead to a conflict of interest. (I'm investing in this round as well.)  I'm also an advisor to the company. 
+2. I've invested in previous financing rounds for Setyl, which could lead to a potential conflict of interest. (I'm investing in this round as well.)  I'm also an advisor to the company. 
 
-3. The company is selling to mid-market enterprises. Sales cycles can be longer than expected, and customers may be sensitive to price.
+3. The company sells to mid-market enterprises. Sales cycles may be longer than expected, and customers may be sensitive to price.
 
-4. There's still a lot of work to be done in Setyl's go-to-market and pricing strategy -- it's far from fully baked.  (Which is expected for a seed-stage company.)
+4. There's still a lot of work to be done in Setyl's go-to-market and pricing strategy.
 
-5. For dollar-based investors, there is (hedgeable) currency risk since Setyl is a UK-based and GBP-denominated company. 
+5. For dollar-based investors, there is currency risk since Setyl is a UK-based and GBP-denominated company. 
 
 
 
@@ -179,32 +179,10 @@ The valuation ranges suggested were comparable and indeed possibly a little bit 
 * Syndicate allocation: GBP 200k ~= USD 250k
 * Syndicate setup fee: USD 11k (one-time)
 * Management fee: 0.7% annually for 10 years
-* Carry: 20%
+* Carry: 20% 
 * Syndicate administrator: AngelList
 
 <br/>
 <br/>
 
-
-
-
-<!--
-
-### Footnotes
-
-* I've invested 3x my usual angel cheque size into Setyl, which gives you a sense of my commitment).
-
-
-* True AI companies tend to be high variance -- lofty valuations, massive capital needs, lots of competition, rapid growth but also potential zeros depending on industry scenarios -- making them tricky for investors.  But non-AI companies are also in a tough spot -- they could be completely disrupted by AI.  Setyl is interesting because it can't be easily disrupted by AI per se -- because of the physical data collection and organization aspect. 
-
-* Over the last 3 years, I've tracked / evaluated close to 1000 pre-seed and seed startups.  I'd put Setyl's traction in the top 20, and probably the top 10 of deals that I've seen (noting that I don't chase after the ).  It's not about individual numbers, but rather about the combination of all of them: it's unusual to find a company with this combination of decent growth, low churn, good upsell, efficient burn and very reasonable valuation.
-
-I'm basing the fee structure on 5 AngelList syndicates that I'm a member of.  I like Ben Zises' explanation of his fees for the Super Angel Syndicate:
-
-There is a 1% annual management fee paid over 7 years to the manager of this SPV (Super Angel Syndicate). Averaged over 10 years, this is 0.7% per year and works out to $70 total for a $1k investment. This is separate from the relatively small setup/admin fee that AngelList charges to handle all legal, tax/accounting, software, compliance and regulatory expenses over the life of the investment. 
-
-After completing more than 20 SPVs, it is clear to me the amount of work that is involved. First, to secure allocations in often highly competitive rounds (which can be years in the making), then to work with the founders to collect, compile and present the information, prepare, and launch, provide IR support, and ongoing updates to investors. With 350+ investors across SuperAngel SPVs, it has proven to be a substantial time commitment and one that takes me away from other fee opportunities. As we grow, the management fee is extremely helpful in covering the costs involved in leading a top-tier angel fund and syndicate. 
-
-
--->
 
