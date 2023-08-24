@@ -9,9 +9,22 @@ title: Metrics for Seed Stage Startups
 
 <br/>
 
-- Before you measure anything, you need a framework to give context to your measurements.  I like the pirate metrics (AARRR) framework covered by Andreas Klinger in this [deck](https://www.slideshare.net/andreasklinger/startup-metrics-a-love-story); it applies to virtually any customer acquisition/conversion/retention process.
+Between 2015 and 2017, when I was running Quandl and we were becoming more metrics-driven, I collected a set of my favourite articles and memos on startup metrics:
 
-- David Skok wrote the [definitive guide](https://www.forentrepreneurs.com/saas-metrics-2/) to SaaS metrics.  Jonathan Hsu covers the next evolution of this, focusing on [growth accounting](https://medium.com/swlh/diligence-at-social-capital-part-1-accounting-for-user-growth-4a8a449fddfc).  Angela Tran does the same for [marketplace KPIs](https://versionone.vc/marketplace-kpi/).
+* [Pirate Metrics](https://www.slideshare.net/andreasklinger/startup-metrics-a-love-story) by Andreas Klinger   
+Before you measure anything, you need a framework to give context to your measurements.  The Pirate Metrics framework breaks down startup success into 5 steps: Acquisition, Activation, Revenue, Retention, Referral -- AARRR!  
+
+* [SaaS Metrics](https://www.forentrepreneurs.com/saas-metrics-2/) by David Skok
+This is the original, definitive guide to SaaS metrics, and defines many of the terms in use today.
+
+* [Growth Accounting](https://medium.com/swlh/diligence-at-social-capital-part-1-accounting-for-user-growth-4a8a449fddfc) by Jonathan Hsu
+This is the next evolution of Skok's SaaS metrics, focused on growth accounting.  I also like his idea of "turning the balance sheet sideways"
+
+* [Marketplace KPIs](https://versionone.vc/marketplace-kpi/) by Angela Tran
+What Skok does for SaaS, Tran does for marketplaces (but see footnote 1).
+
+
+
 
 - The point of measurement is of course to improve outcomes.  Andy Johns shows how to do this [systematically](https://firstround.com/review/indispensable-growth-frameworks-from-my-years-at-facebook-twitter-and-wealthfront/).
 
@@ -23,3 +36,9 @@ title: Metrics for Seed Stage Startups
 
 - Finally, metrics matter for fund-raising.  A16z defines some of the most commonly used (and asked for) [startup](https://a16z.com/2015/08/21/16-metrics/) [metrics](https://a16z.com/2015/09/23/16-more-metrics/).  Gigi Levy-Weiss explains how VCs use these metrics to construct their [investment narrative](https://www.nfx.com/post/how-vcs-see-your-kpis).  
 
+
+
+
+Footnotes 
+
+I'd add one caveat that "liquidity" is the key underlying driver for all these marketplaces, so it's worth defining and measuring it.  (My favoured definition was "fraction of vendor products that achieved ")
