@@ -112,8 +112,7 @@ Not a lot.  Unlike public companies, startups don't have to report financials or
 
 **Can I speak to the founder(s) before I invest?**
 
-Probably not.  It's not a good use of founder time to pitch individual small-cheque investors; that negates the whole attraction of the syndicate model from their point of view.  Some syndicate leads also worry that direct communication might lead to investors writing cheques directly into the company, thus bypassing fees -- which is unfair to the lead who did all the prep work and made the initial connection.
-
+Probably not.  It's not a good use of founder time to pitch individual small-cheque investors; that negates the whole attraction of the syndicate model from their point of view.  
 
 <br/>
 <br/>
