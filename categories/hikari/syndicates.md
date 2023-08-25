@@ -34,7 +34,8 @@ Investors like syndicates because:
 * they get access to investment opportunities that they would not otherwise get;  
 * they benefit from the syndicate lead's dealflow, judgement, allocation and expertise;  
 * it's more convenient than writing cheques directly into startups;  
-* they can invest smaller amounts than if they were doing direct investments, which in turn means more room for diversification.
+* they can invest smaller amounts than if they were doing direct investments;
+* syndicates help them diversify across multiple startups.
 
 Leads like syndicates because:  
 * they get to deploy more capital into each investment opportunity;  
@@ -94,13 +95,26 @@ Putting it all together, most syndicate investors end up writing cheques between
 
 <br/>
 
+**How many syndicated deals should I invest in?**
+
+Syndicate investors can choose whether or not to participate in the deals brought to them by the syndicate lead on a deal-by-deal basis.  In this regard, a syndicate is different from a fund; in a fund, all investors necessarily participate in all the investments that the fund makes.
+
+Some syndicates are very active, bringing dozens of deals to their members every year.  Others are more opportunistic, doing just 2-3 deals at irregular intervals.  Many early-stage tech / startup syndicates fall in the range of 4-12 investments a year. 
+
+As an investor, you want to  balance doing enough deals to get the benefits of diversification, while keeping your standards high and not investing in poor-quality deals.  You also want to invest over a period of time: this smoothes out your cash flows (both in and out), and it insulates against ebbs and flows in the venture market.  
+
+Putting it all together, for most investors, doing 3-4 syndicate investments a year for 3-4 years is a sensible cadence.
+
+
+<br/>
+
 **What's a reasonable expectation around returns?**
 
 Technology startups are incredibly risky.  In fact, most startups fail.  You should expect many and perhaps most of your startup investments to go to zero.  (This is normal and expected behaviour for any startup portfolio.)  Therefore, you should not invest any money into a syndicate that you are not comfortable losing.
 
 On the other hand, the startups that succeed, can sometimes be massive successes.  It's possible for the winners to return 5x, 10x or more on the money that early investors put in.  The bet you're making as a startup investor is that the gains from the small handful of winners will outweigh the losses from the large number of loses.  (And this is a big reason why it's important to diversify across multiple investments.)
 
-Also note that startups are extremely illiquid.  The median time to exit for successful startups is 7 years (and getting longer).  So you should not expect to have access to your cash for a long time after you invest.  Again, don't invest any money into a syndicate that you are not comfortable losing.
+Also note that startups are extremely illiquid, and take time to produce returns.  The median time to exit for successful startups is 7 years (and getting longer).  So you should not expect to have access to your cash for a long time after you invest.  Again, don't invest any money into a syndicate that you are not comfortable losing.
 
 <br/>
 
