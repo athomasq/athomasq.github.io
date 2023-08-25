@@ -16,7 +16,7 @@ title: Syndicates
 
 **What is a syndicate?**  
 
-A syndicate is a structure where a group of small investors pool their money into a single  entity, and that entity in turn invests in a deal (which could be a startup, private company, project, asset, property, whatever).
+A syndicate is a structure where a group of investors pool their money into a joint entity, and that entity in turn invests in a deal (which could be a startup, private company, project, asset, property, whatever).
 
 A syndicate has several pieces:
 
@@ -24,7 +24,7 @@ A syndicate has several pieces:
 
 * A syndicate administrator or platform (like AngelList) that manages all the logistics, filings, compliance, entity setup, payment processing, fee calculations, distributions etc.  
 
-* Syndicate investors who put their money into the syndicate.  
+* Syndicate investors who put their money into the syndicate and get returns.  
 
 <br/>
 
@@ -34,7 +34,7 @@ Investors like syndicates because:
 * they get access to investment opportunities that they would not otherwise get;  
 * they benefit from the syndicate lead's dealflow, judgement, allocation and expertise;  
 * it's more convenient than writing cheques directly into startups;  
-* they can invest smaller amounts than if they were doing direct investments, which in turn means more potential for diversification.
+* they can invest smaller amounts than if they were doing direct investments, which in turn means more room for diversification.
 
 Leads like syndicates because:  
 * they get to deploy more capital into each investment opportunity;  
@@ -76,41 +76,41 @@ There are three sets of fees associated with investing in a syndicate: setup fee
 
 * The syndicate lead receives a success fee or "carry" -- typically, 20% of all profits after the initial investment plus all fees have been repaid.
 
-It's important to note that the success fee is charged on proceeds after all other fees have been paid back.  In other words, investors will either pay a success fee on winners, or they will pay the setup and management fee, but they won't pay both.
+The success fee is charged on proceeds after all other fees have been paid back.  In other words, investors will either pay a success fee on winners, or they will pay the setup and management fee, but they won't pay both.
 
 <br/>
 
 **What's a reasonable amount to invest?**
 
-For most people, cheque size is the result of triangulating between the following imperatives:
+Every investor is different, and every syndicate is different.  Most people decide their cheque size by balancing three factors:
 
-* Startups are risky, so you want to diversify your startup exposure across at least 10 different companies, preferably more.  So your cheque into any one syndicate should be less than 1/10th of your total startup allocation.  And then you should be prepared to invest in 9 more companies, over a period of time of course.
+* Startups are risky, so you want to diversify your startup exposure across at least 10 different companies.  So your cheque into any one syndicate should be at most 1/10th of your total startup allocation.  And then you should be prepared to invest in 9 more companies, over a period of time.
 
-* At the same time, you don't want your cheque size to be so small that it doesn't move the needle for you -- eg if you invest $100 in a syndicate and it returns 4 times your money, is the $400 of proceeds worth the time, effort, mental bandwidth etc?  The numbers will differ for every person of course.
+* At the same time, you don't want your cheque size to be so small that it doesn't move the needle for you -- eg if you invest $100 in a syndicate and it returns 4 times your money, is the $400 of proceeds worth the time, effort, mental bandwidth etc?  Each investor will have a different view of what returns make it worthwhile for them.
 
-* You don't want to be too big a proportion (>25%) of any one syndicate. 
+* You don't want to be too large a proportion (say >25%) of the funds in any one syndicate. 
 
-Putting it all together, I find that most syndicate investors end up writing cheques between $10k and $50k for each syndicate they back.  But of course every investor is different, and every syndicate is different.
+Putting it all together, most syndicate investors end up writing cheques between $10k and $50k for each syndicate they back.  
 
 <br/>
 
 **What's a reasonable expectation around returns?**
 
-Startups are incredibly risky.  In fact, most startups fail.  You should expect many and perhaps most of your startup investments to go to zero.  This is normal and expected behaviour for any startup portfolio.  Therefore, you should not invest any money into a syndicate that you are not comfortable losing.
+Technology startups are incredibly risky.  In fact, most startups fail.  You should expect many and perhaps most of your startup investments to go to zero.  (This is normal and expected behaviour for any startup portfolio.)  Therefore, you should not invest any money into a syndicate that you are not comfortable losing.
 
-On the other hand, the startups that succeed, tend to be massive successes.  It's not uncommon to see the winners return 5x, 10x or more on the money that early investors put in.  The bet you're making as a startup investor is that the gains from the small handful of winners will outweigh the losses from the large number of loses.  (And this is a big reason why it's important to diversify across multiple investments.)
+On the other hand, the startups that succeed, can sometimes be massive successes.  It's possible for the winners to return 5x, 10x or more on the money that early investors put in.  The bet you're making as a startup investor is that the gains from the small handful of winners will outweigh the losses from the large number of loses.  (And this is a big reason why it's important to diversify across multiple investments.)
 
-Also note that startups are extremely illiquid.  The median time to exit for successful startups is 7 years (and getting longer).  So you should not expect to have access to your cash for a long time after you invest, no matter how desperately you need it.  Again, don't invest any money into a syndicate that you are not comfortable losing.
+Also note that startups are extremely illiquid.  The median time to exit for successful startups is 7 years (and getting longer).  So you should not expect to have access to your cash for a long time after you invest.  Again, don't invest any money into a syndicate that you are not comfortable losing.
 
 <br/>
 
 **What information can I expect after I invest?**
 
-Not a lot.  Unlike public companies, startups don't have to report financials or provide updates.  And candidly, keeping small investors up-to-date on the nuances of company progress isn't always the best use of founder time.  At best you can expect high-level yearly summaries; at worst, you may hear nothing at all for 5 years and then suddenly wake up to the news of a successful exit and cash in the bank (this has happened to me!).
+Not a lot.  Unlike public companies, startups don't have to report financials or provide updates.  And candidly, keeping small investors up-to-date on the nuances of company progress isn't always the best use of founder time.  At best you can expect high-level yearly summaries; equally, you may hear nothing at all for 5 years and then suddenly wake up to the news of a successful exit and cash in the bank (this has happened to me!).
 
 <br/>
 
-**Can I speak to the founder(s) before I invest?**
+**Will I be able to speak to the founder(s) before I invest?**
 
 Probably not.  It's not a good use of founder time to pitch individual small-cheque investors; that negates the whole attraction of the syndicate model from their point of view.  
 
