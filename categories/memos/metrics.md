@@ -26,7 +26,7 @@ What Skok does for SaaS, Tran does for marketplaces.
 The point of measurement is to improve outcomes; Johns shows how to do this systematically.
 
 *Startup Benchmarks: [SaaS Sales](https://www.insightpartners.com/blog/insights-periodic-table-of-saas-sales-metrics) + [B2B Marketing](https://www.insightpartners.com/blog/insights-periodic-table-of-b2b-digital-marketing-metrics/) + [Operating Metrics](https://www.insightpartners.com/blog/insights-periodic-table-of-saas-financial-operating-metrics/)*  
-I find Insight Partners' annual "periodic tables" incredibly useful -- they tell you how much you should be spending on sales, onr marketing, on ops, and what kind of returns you should be getting from each of those investments.  **Update:** see Metrics 2020 for latest values.
+I find Insight Partners' annual "periodic tables" incredibly useful -- they tell you how much you should be spending on sales, on marketing, on ops, and what kind of returns you should be getting from each of those investments.  **Update:** see Metrics 2020 for latest values.
 
 *[Using Metrics Wisely](http://abovethecrowd.com/2012/09/04/the-dangerous-seduction-of-the-lifetime-value-ltv-formula/) by Bill Gurley*  
 Real life is more complicated than simple models suggest; don't blindly optimize; be thoughtful in how you use metrics and analytics.
