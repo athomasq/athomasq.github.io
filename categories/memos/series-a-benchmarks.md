@@ -14,7 +14,7 @@ title: Series A Benchmarks
 
 There’s a tendency to think of Series A metrics as inputs to an IF statement:
 
-	IF metrics  
+	IF metrics >= benchmarks
 	THEN get funded  
 	ELSE don’t get funded  
 
@@ -77,7 +77,7 @@ Avoid Ds. If you have any Ds, you’ll find it hard to raise a Series A at this 
 
 (Founder equity going into Series A is the one that people are sometimes surprised by.  There was a time when VCs would refuse to fund startups where the founder owned too little of the company, going into the A, for fear of misaligned incentives.  But I suspect that's changing; in the current market environment, VCs understand that sometimes founders have to dilute a lot, just to stay alive.)
 
-(**Update, Q3 2023:** the benchmarks are still the same, but valuations have corrected and are now in the 30-40M range if you hit mostly Bs.  AI startups are an exception, there are no rules for them.)
+(**Update, Q3 2023:** the benchmarks are still the same, but valuations have corrected and are now in the 30-40M range if your grades are mostly Bs.  AI startups are an exception, there are no rules for them.)
 
 <br/>
 
@@ -118,14 +118,17 @@ Series A is the last round that leaves room for investor discretion and subjecti
 
 Here are some things that people look at:
 
-* Team quality, domain expertise, unique insight, skills, experience, character, intangibles  
+* Team quality, domain expertise, skills, experience, character, intangibles  
 * Market size, potential for category creation and/or ownership, winner-take-all effects  
 * Technological edge, IP, hard problems, replicability, first mover advantage  
 * User love, word of mouth, qualitative traction  
 * Structural economics, growth model, efficiency, potential for compounding  
 * Defensibility, network effects, moats  
+* Narratives, story-telling, unique insights and "secrets"  
 
 Some of these are quantifiable but it’s hard to put a number on them from a founder’s POV.  But you should be aware of these criteria nonetheless.  To the extent that you can paper over weaknesses in your quantitative metrics, by using strengths in analogous or corresponding qualitative metrics, you should do so!
+
+
 
 
 <br/>

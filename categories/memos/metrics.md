@@ -80,3 +80,15 @@ Here are some spreadsheets that I've built that can act as templates for some of
 * Iron law of sales
 
 Note: I'll add these if somebody asks; they need a bit of cleanup.
+
+
+<br/>
+
+----
+
+[Back to Memos ↩](/memos)
+
+<br/>
+<br/>
+<br/>
+
