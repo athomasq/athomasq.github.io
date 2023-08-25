@@ -17,7 +17,7 @@ title: Founder Memos
 
 <span style="color:#A9A9A9;">2022-09</span> &emsp;&emsp;&emsp; [Writing Investor Updates](/writing-investor-updates)  
 <span style="color:#A9A9A9;">2022-12</span> &emsp;&emsp;&emsp; [When To Raise Your Next Round](/when-to-raise-your-next-round)  
-<span style="color:#A9A9A9;">2023-01</span> &emsp;&emsp;&emsp; [How To Think About Series A Metrics](/how-to-think-about-series-a-metrics)  
+<span style="color:#A9A9A9;">2023-01</span> &emsp;&emsp;&emsp; [Series A Benchmarks](/series-a-benchmarks)  
 <span style="color:#A9A9A9;">2023-04</span> &emsp;&emsp;&emsp; [Venture Market Update, Q1 2023](/venture-market-update-q1-2023)  
 <span style="color:#A9A9A9;">2023-08</span> &emsp;&emsp;&emsp; [Early Stage Metrics](/metrics)   
 

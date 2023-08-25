@@ -1,10 +1,10 @@
 ---
 layout: default
 permalink: /:basename/
-title: How To Think About Series A Metrics
+title: Series A Benchmarks
 ---
 
-## How To Think About Series A Metrics
+## Series A Benchmarks
 
 ----
 
@@ -76,6 +76,8 @@ Avoid Ds. If you have any Ds, you’ll find it hard to raise a Series A at this 
 
 
 (Founder equity going into Series A is the one that people are sometimes surprised by.  There was a time when VCs would refuse to fund startups where the founder owned too little of the company, going into the A, for fear of misaligned incentives.  But I suspect that's changing; in the current market environment, VCs understand that sometimes founders have to dilute a lot, just to stay alive.)
+
+(**Update, Q3 2023:** the benchmarks are still the same, but valuations have corrected and are now in the 30-40M range if you hit mostly Bs.  AI startups are an exception, there are no rules for them.)
 
 <br/>
 
