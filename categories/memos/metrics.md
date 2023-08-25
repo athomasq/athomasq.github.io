@@ -1,15 +1,15 @@
 ---
 layout: default
 permalink: /:basename/
-title: Metrics for Seed Stage Startups
+title: Startup Metrics
 ---
-## Metrics for Seed Stage Startups
+## Startup Metrics
 
 ----
 
 <br/>
 
-### Metrics Articles, 2015-2017
+### Articles, 2015-2017
 
 Between 2015 and 2017, when I was running Quandl and we were becoming more metrics-driven, I collected a set of my favourite articles and memos on startup metrics:
 
@@ -44,7 +44,7 @@ A good checklist of what you should have on hand, if you're going to raise a Ser
 
 <br/>
 
-### Metrics Articles, 2020 onwards
+### Articles, 2020 onwards
 
 Here are some more recent articles on metrics that I think are worth saving and returning to:
 
