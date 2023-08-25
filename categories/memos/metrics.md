@@ -13,11 +13,8 @@ title: Metrics for Seed Stage Startups
 
 Between 2015 and 2017, when I was running Quandl and we were becoming more metrics-driven, I collected a set of my favourite articles and memos on startup metrics:
 
-*[Pirate Metrics](https://www.slideshare.net/andreasklinger/startup-metrics-a-love-story) by Andreas Klinger*   
-Before you measure anything, you need a framework to give context to your measurements.  The Pirate Metrics framework breaks down startup success into 5 steps: Acquisition, Activation, Revenue, Retention, Referral -- AARRR!  
-
 *[SaaS Metrics](https://www.forentrepreneurs.com/saas-metrics-2/) by David Skok*  
-This is the original, definitive guide to SaaS metrics, and defines many of the terms in use today.
+One of the oldest articles on SaaS metrics, defines many of the terms in use today.
 
 *[Growth Accounting](https://medium.com/swlh/diligence-at-social-capital-part-1-accounting-for-user-growth-4a8a449fddfc) by Jonathan Hsu*  
 This is the next evolution of Skok's SaaS metrics, focused on growth accounting.  **Update:** see Metrics 2020 for new thinking on this by Hsu.
@@ -37,7 +34,7 @@ Real life is more complicated than simple models suggest; don't blindly optimize
 *How Good Is My Growth?*  
 - [The T2D3 Rule](https://www.battery.com/powered/helping-entrepreneurs-triple-triple-double-double-double-to-a-billion-dollar-company/)
 - [The Quick 4 Rule](https://www.slideshare.net/03133938319/saastr) 
-- [Quick 4 Revisited](https://www.slideshare.net/03133938319/numbers-that-actually-matter-finding-your-north-star), 
+- [More on Quick 4](https://www.slideshare.net/03133938319/numbers-that-actually-matter-finding-your-north-star)   
 - [The Mendoza Line](https://www.scalevp.com/blog/understanding-the-mendoza-line-for-saas-growth)
 - [The Rule of 40](https://feld.com/archives/2015/02/rule-40-healthy-saas-company.html) 
 - [The 70% Heuristic](https://medium.com/@speechu/re-imagining-the-rule-of-40-for-early-stage-startups-the-70-growth-efficiency-heuristic-9cca0131b0c5)
@@ -60,12 +57,12 @@ Almost all SaaS companies gravitate towards roughly the same org structure and h
 *[SaaS Metrics That Matter](https://sacks.substack.com/p/the-saas-metrics-that-matter) by David Sacks*  
 The third in a series from David Sacks; a great set of definitions for modern SaaS metrics.
 
-*Updated Periodic Tables from Insight Partners*  
-Sales, Marketing, Operations.  (h/t Peter McNamee for the latest links)
+*Updated Benchmarks from Insight Partners*  
+[Sales Periodic Table](https://www.insightpartners.com/ideas/saas-sales-periodic-table/) and [Sales KPI Report](https://www2.insightpartners.com/l/321391/2023-05-26/9185b9/321391/1685120105e58IAcZE/2023_Sales_KPI_Report_vFF_Public.pdf) -- unfortunately it doesn't look like they've updated the marketing or ops tables since the first version. (h/t Pete Macnee for the latest links.)
 
 *[Quantitative PMF](https://tribecap.co/a-quantitative-approach-to-product-market-fit/) by Jonathan Hsu*  
 *[Unit Economics](https://tribecap.co/unit-economics-and-the-pursuit-of-scale-invariance/) by Jonathan Hsu*  
-Two successor articles to his earlier piece on growth accounting; sophisticated and subtle.
+Two successor articles to his earlier piece on growth accounting; sophisticated and subtle; perhaps of more use to VCs analyzing a business, than the founders actually running it.  In that sense the older piece is more useful.
 
 *[Three Keys to Sales](https://cd.linkedin.com/posts/sam-blond-791026b_the-3-most-important-sales-performance-metrics-activity-7041880724525735936-CSvY) by Sam Blond*  
 Simple but critical sales metrics that you should start measuring from day one of sales.
