@@ -12,21 +12,21 @@ title: Setyl Investment Memo
 
 ### Executive Summary
 
-I'm leading a syndicate to invest in the seed round of Setyl.
+I'm leading a syndicate to invest in the seed round of [Setyl](https://setyl.com).
 
-Setyl is a UK-based tech startup with a SaaS product that manages office assets for mid-sized organizations.  It's a sticky solution for a painful problem in a large and underserved market. 
+Setyl is a UK-based tech startup building a software "system-of-record" to manage office assets for mid-sized organizations.  It's a sticky solution for a painful problem in a large and underserved market. 
 
 <img src="/assets/img/setyl-1.jpg" width="420px" class="photo">
 
 Setyl is at USD 425,000 ARR as of July 2023, growing 2.2x yoy with 133% net retention.  They're raising USD 1M at a pre-money valuation of USD 12.7M, in a pre-emptive round led by an existing investor.  
 
-I've received some allocation in the round thanks to helping the founders over the years (I invested in their pre-seed as well), and I'm sharing this with a small number of people I know personally. <!--; it will be my first syndicate investment.-->
+I've received some allocation in the round thanks to helping the founders over the years (I invested in their pre-seed as well), and I'm sharing this with a small number of people I know personally. 
 
 <br/> 
 
 ### Company Overview: Problem and Solution
 
-Setyl is building a software "system of record" for office asset management -- both physical assets like laptops and printers, office chairs and desks, printers and routers, plus digital assets like software licenses, subscriptions and contracts.  
+Setyl is building a software "system-of-record" for office asset management -- both physical assets like laptops and printers, office chairs and desks, printers and routers, plus digital assets like software licenses, subscriptions and contracts.  
 
 Today, these assets are typically tracked by hand -- by IT and office managers working with Excel and Google Sheets, if not paper ledgers and files.  It's tedious, time-consuming, and inefficient.  
 
@@ -57,7 +57,7 @@ Once a company joins Setyl, it's very unlikely that they will migrate off it, be
 
 ### Team and Company
 
-Setyl is incorporated in the UK. Founder Christopher Batts is a product manager, with experience at the Economist and at tech startups Goji and TeeSpring.  Co-founder Milorad Doljanin is an experienced sales and operations leader, with executive stints at BP, EON and PetroChina.  They're both first-time founders.  I like them -- they are thoughtful, practical, keen and hardworking.
+Setyl is incorporated in the UK. Founder and CEO [Christopher Batts](https://www.linkedin.com/in/cbatts/) is a product manager, with experience at the Economist and at tech startups Goji and TeeSpring.  Co-founder [Milorad Doljanin](https://www.linkedin.com/in/milorad-doljanin-45b2764/) is an experienced sales and operations leader, with executive stints at BP, EON and PetroChina.  They're both first-time founders.  I like them -- they are thoughtful, practical, keen and hardworking.
 
 The rest of the company is split between the UK and low-cost dev centres in Europe.  It's still a small team of 10 people.
 
@@ -81,13 +81,21 @@ As a result they have optionality: they can raise follow-on venture capital to a
 
 Setyl's growth so far has been achieved with minimal investment in marketing (a small monthly lead budget) and largely founder-driven sales.  But there are some clear expansion opportunities available with a little investment today, and the founders are keen to capture these.
 
+
+<br/>
+
+### Inflection Points
+
+There's suggestive evidence of two inflection points in recent months.  First, Setyl's product has reached a level of maturity that allows them to charge significantly higher ACVs (USD 15,000 and above) than when they started out.  This allows them to spend more on go-to-market.  And second, over the past few months they've done some experiments on paid acquisition and scalable sales that have promising early results.  This offers a clear path to growth.
+
+
 <br/> 
 
 ### Financing and Round Details
 
 Setyl is raising USD 1M in a priced equity round, at a pre-money of USD 12.7M.  (Note that the actual deal will be priced in GBP -- I'm using 1.27 as the exchange rate).  There's a single share class, owned by founders and investors alike.  
 
-The round is being led by James Isilay, the CEO of Cognism (a venture-backed startup that James has taken from 0 to 50M ARR in a very short time).  Cognism was one of Setyl's earliest (cold outbound) customers; James subsequently became an angel investor in Setyl's pre-seed round.  He's now leading the seed round and joining Setyl's board.  
+The round is being led by [James Isilay](https://www.linkedin.com/in/james-isilay/), the CEO of Cognism (a venture-backed startup that James has taken from 0 to 50M ARR in a very short time).  Cognism was one of Setyl's earliest (cold outbound) customers; James subsequently became an angel investor in Setyl's pre-seed round.  He's now leading the seed round and joining Setyl's board.  
 
 Cognism has progressed through a very similar go-to-market path to what Setyl is currently traversing, and James' operational advice and customer knowledge will be valuable as Setyl grows.
 
@@ -99,7 +107,7 @@ Setyl's previous round of financing was at a valuation of USD 7.5M in mid 2022. 
 
 The funds will be used for product and go-to-market.
 
-On the product front: Setyl started out targeting SMEs, but have subsequently realized that mid-market is their sweet spot. Christopher and Milorad want to build more features optimized for this tier, which will help boost ACV.
+On the product front: Setyl started out targeting SMEs, but have subsequently realized that mid-market is their sweet spot. Christopher and Milorad want to build more features optimized for this tier, which will help boost ACV even further.
 
 On the go-to-market front: content/SEO, paid lead-gen, and outbound sales are all working for Setyl, and seem to have hit inflection points in the last few months.  Christopher and Milorad would like to spend more on each of those, to boost growth. 
  
@@ -184,5 +192,3 @@ The valuation ranges suggested were comparable and indeed possibly a little bit 
 
 <br/>
 <br/>
-
-
