@@ -31,7 +31,7 @@ Unfortunately, it’s usually not possible to provide *direct* evidence of these
 
 The most common proxy signal or pattern is something like this: 
 
-*“1M ARR, growing 3x year-over-year, with efficient customer acquisition and strong retention.”*
+*“1M+ ARR, growing 3x year-over-year, with efficient customer acquisition and strong retention.”*
 
 Why is this a useful signal?  Because it’s very unlikely that a startup can exhibit all of these attributes unless they have the underlying characteristics (PMF-TAM-GTM) in place.  And the reason for that is that *these attributes pull in opposite directions*.  
 
@@ -77,7 +77,7 @@ Avoid Ds. If you have any Ds, you’ll find it hard to raise a Series A at this 
 
 (Founder equity going into Series A is the one that people are sometimes surprised by.  There was a time when VCs would refuse to fund startups where the founder owned too little of the company, going into the A, for fear of misaligned incentives.  But I suspect that's changing; in the current market environment, VCs understand that sometimes founders have to dilute a lot, just to stay alive.)
 
-(**Update, Q3 2023:** the benchmarks are still the same, but valuations have corrected and are now in the 30-40M range if your grades are mostly Bs.  AI startups are an exception, there are no rules for them.)
+(**Update, Q3 2023:** Valuations have corrected and are now in the 30-40M range if your grades are mostly Bs.  Also, the hurdle for a Series A today feels like it's a bit north of 1M ARR -- closer to 1.5 or 2M.  AI startups are an exception, there are no rules for them.)
 
 <br/>
 
