@@ -189,6 +189,8 @@ The valuation ranges suggested were comparable and indeed possibly a little bit 
 * Management fee: 0.7% annually for 10 years
 * Carry: 20% 
 * Syndicate administrator: AngelList
+* Commitment deadline: 15 Sep or whenever the allocation gets filled, whichever comes first
+
 
 <!--
 People ask about minimum cheque size.  There's no official minimum from my end, but AngelList has a USD 1k minimum.  My own is to triangulate between writing a cheque small enough that you can diversify across multiple startup investments (even if this is your first one) (because startups are risky!), and writing a cheque large enough that the returns actually move the needle for you as an investor if the company does well.  For most people in my circle, that turns out to be USD 10k-30k.  
