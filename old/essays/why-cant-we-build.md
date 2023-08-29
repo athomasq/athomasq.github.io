@@ -1,7 +1,7 @@
 ---
 layout: essay
 permalink: /:basename/
-title: Sterner Stuff
+title: Why Can't We Build?
 date: 2020-05-04
 ---
 

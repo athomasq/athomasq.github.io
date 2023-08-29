@@ -45,7 +45,7 @@ How does the sudden explosion in AI affect data and data businesses? Featuring c
 
 ### 📡 On Startups and Technology
 
-*[Ambition Should Be Made of Sterner Stuff](/sterner-stuff)*  ⭐️  
+*[Why Can't We Build?](/why-cant-we-build)*  ⭐️  
 In a memorable rallying cry, Marc Andreessen says "it's time to build".  But why haven't we been building?  What went wrong?
 
 <!--
