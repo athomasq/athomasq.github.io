@@ -32,10 +32,10 @@ A syndicate has several pieces:
 
 Investors like syndicates because:  
 * they get access to investment opportunities that they would not otherwise get;  
-* they benefit from the syndicate lead's dealflow, judgement, allocation and expertise;  
-* it's more convenient than writing cheques directly into startups;  
+* they benefit from the syndicate lead's dealflow, evaluation, allocation and expertise;  
+* it's more convenient than doing diligence, reviewing paperwork, and writing cheques directly into lots of small deals;  
 * they can invest smaller amounts than if they were doing direct investments;
-* syndicates help them diversify across multiple startups.
+* syndicates help them diversify across multiple deals.  
 
 Leads like syndicates because:  
 * they get to deploy more capital into each investment opportunity;  
@@ -73,7 +73,7 @@ There are three sets of fees associated with investing in a syndicate: setup fee
 
 * The syndicate administrator charges a fixed one-time setup fee -- typically, $8k to $15k -- to handle all legal, tax/accounting, software, compliance and regulatory expenses over the life of the investment.  
 
-* The syndicate lead charges an annual fee -- typically, 0.5-2% of the syndicate size, over a 7 to 10 year investment lifespan -- to cover their own expenses and time invested.
+* The syndicate lead charges an annual fee -- typically, 0-2% of the syndicate size, over a 7 to 10 year investment lifespan -- to cover their own expenses, time and effort.
 
 * The syndicate lead receives a success fee or "carry" -- typically, 20% of all profits after the initial investment plus all fees have been repaid.
 
@@ -101,7 +101,7 @@ Syndicate investors can choose whether or not to participate in the deals brough
 
 Some syndicates are very active, bringing dozens of deals to their members every year.  Others are more opportunistic, doing just 2-3 deals at irregular intervals.  Many early-stage tech / startup syndicates fall in the range of 4-12 investments a year. 
 
-As an investor, you want to  balance doing enough deals to get the benefits of diversification, while keeping your standards high and not investing in poor-quality deals.  You also want to invest over a period of time: this smoothes out your cash flows (both in and out), and it insulates against ebbs and flows in the venture market.  
+As an investor, you want to balance doing enough deals to get the benefits of diversification, with keeping your standards high and not investing in poor-quality deals.  You also want to invest over a period of time: this smoothes out your cash flows (both inward and outward), and it insulates against ebbs and flows in the venture market.  
 
 Putting it all together, for most investors, doing 3-4 syndicate investments a year for 3-4 years is a sensible cadence.
 
@@ -112,7 +112,7 @@ Putting it all together, for most investors, doing 3-4 syndicate investments a y
 
 Technology startups are incredibly risky.  In fact, most startups fail.  You should expect many and perhaps most of your startup investments to go to zero.  (This is normal and expected behaviour for any startup portfolio.)  Therefore, you should not invest any money into a syndicate that you are not comfortable losing.
 
-On the other hand, the startups that succeed, can sometimes be massive successes.  It's possible for the winners to return 5x, 10x or more on the money that early investors put in.  The bet you're making as a startup investor is that the gains from the small handful of winners will outweigh the losses from the large number of loses.  (And this is a big reason why it's important to diversify across multiple investments.)
+On the other hand, the startups that succeed, can sometimes be massive successes.  It's possible for the winners to return 5x, 10x or more.  The bet you're making as a startup investor is that the gains from the small handful of winners will outweigh the losses from the large number of loses.  (And this is a big reason why it's important to diversify across multiple investments.)
 
 Also note that startups are extremely illiquid, and take time to produce returns.  The median time to exit for successful startups is 7 years (and getting longer).  So you should not expect to have access to your cash for a long time after you invest.  Again, don't invest any money into a syndicate that you are not comfortable losing.
 
@@ -120,13 +120,13 @@ Also note that startups are extremely illiquid, and take time to produce returns
 
 **What information can I expect after I invest?**
 
-Not a lot.  Unlike public companies, startups don't have to report financials or provide updates.  And candidly, keeping small investors up-to-date on the nuances of company progress isn't always the best use of founder time.  At best you can expect high-level yearly summaries; equally, you may hear nothing at all for 5 years and then suddenly wake up to the news of a successful exit and cash in the bank (this has happened to me!).
+Not a lot.  Unlike public companies, startups don't have to report financials or provide updates.  And candidly, keeping small investors up-to-date on the details of company progress isn't always the best use of founder time.  At best you can expect high-level yearly summaries; equally, you may hear nothing at all for 5 years and then suddenly wake up to the news of a successful exit and cash in the bank (this has happened to me!).
 
 <br/>
 
 **Will I be able to speak to the founder(s) before I invest?**
 
-Probably not.  It's not a good use of founder time to pitch individual small-cheque investors; that negates the whole attraction of the syndicate model from their point of view.  
+Probably not.  Founders prefer not to pitch individual small-cheque investors; that negates the whole attraction of the syndicate model from their point of view.  
 
 <br/>
 <br/>
