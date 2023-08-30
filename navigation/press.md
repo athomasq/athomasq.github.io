@@ -25,7 +25,7 @@ Here are some articles in which I'm quoted or featured:
 - [Privacy Risks in Alternative Data](https://www.risk.net/asset-management/6558871/privacy-risks-dash-funds-alternative-data-dreams) - Risk Magazine
 - [New Ways to Identify Inventive Companies](https://www.risk.net/investing/7726091/quants-find-new-ways-to-identify-inventive-companies) - Risk Magazine [<small>pdf</small>](/assets/docs/RISK-patents.pdf) 
 - [Big Data Gives Investors a Big Edge](https://www.theglobeandmail.com/investing/markets/inside-the-market/article-alternative-data-gives-some-investors-a-big-edge-in-finding-stocks-on/) - Globe and Mail (Canada) [<small>pdf</small>](/assets/docs/GM-big-edge.pdf)
-
+- [Hunting Cockroaches: Startups That Will Survive 2023](https://inc42.com/features/identifying-dynamics-of-becoming-a-cockroach-startup-in-2023-from-the-investors-lens/) - Inc. 42 (India) [<small>pdf</small>](/assets/docs/INC-cockroach.pdf)  
 
 Here are some articles about [Quandl](https://quandl.com), the company I co-founded, and [alternative data](https://en.wikipedia.org/wiki/Alternative_data_(finance)), the field we pioneered:
 
