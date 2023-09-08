@@ -9,7 +9,7 @@ title: About · Abraham Thomas
 ----
 
 
-|<img style="width:200px" src="/assets/img/Abraham-Thomas.jpg">|👋 Hi, I'm Abraham.<br/><br/>About me:<br/>* I angel invest<br/>* something else<br/></br>|
+|<img style="width:200px" src="/assets/img/Abraham-Thomas.jpg">|👋 Hi, I'm Abraham.<br/><br/>About me:<br/><ul><li>I angel inves</li><li>something else</li></ul><br/></br>|
 
 
 ----
