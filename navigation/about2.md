@@ -9,7 +9,16 @@ title: About · Abraham Thomas
 ----
 
 
-|<img style="width:200px" src="/assets/img/Abraham-Thomas.jpg">|👋 Hi, I'm Abraham.<br/><br/>About me:<br/>• I angel inves<br/>• somethin els<br/>• somethin els<br/>• somethin els<br/>• somethin els<br/><br/>Check out:<br/>• somethin els<br/>• somethin els<br/><br/>Email me<br/>|
+👋 Hi, I'm Abraham.  
 
+* I angel invest in tech startups  
+* I write Pivotal, a newsletter on data, markets, technology  
+* I co-founded Quandl, a data company acquired by Nasdaq  
+* I was a portfolio manager at a major quant hedge fund  
+* I studied engineering physics at IIT Bombay  
+
+Email me: at@abrahamthomas.info
+
+Click here for the verbose version of this page.
 
 ----
