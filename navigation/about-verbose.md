@@ -30,6 +30,7 @@ Hi, I'm Abraham.
 * I was a [portfolio manager](https://abrahamthomas.info/the-accidental-investor/) at a major quant hedge fund  
 * I studied [engineering physics](https://en.wikipedia.org/wiki/Engineering_physics) at IIT Bombay  
 * As a child, I [escaped a war zone](https://abrahamthomas.info/invasion/) as a refugee 
+* I live in Toronto, Canada  
 
 📚 And even more:
 * [My interests](https://abrahamthomas.info/interests/)
