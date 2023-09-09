@@ -39,7 +39,7 @@ My work has been covered by the Wall Street Journal, the Financial Times, the Ec
 
 I have served on and continue to serve on startup and private company boards.  Typically, these roles leverage my deep knowledge of data businesses; my expertise in capital markets; my experience as a successful generalist founder; or some combination thereof.  
 
-I'm availabe for additional board roles if the fit is right; [email me](mailto:at@abrahamthomas.info).  
+I'm availabe for additional board roles if the fit is right.
 
 
 ----
@@ -65,7 +65,7 @@ I am an expert consultant on the topic of data, especially as it pertains to cap
 
 My clients are typically institutional investors: hedge funds, pension funds, sovereign wealth funds, venture capital firms and private equity firms.  
 
-To inquire about professional services, [email me](mailto:at@abrahamthomas.info).  
+**Update:** I'm not currently taking on new advisory clients, but feel free to email me to say hi and get on the waitlist. 
 
 
 
@@ -74,13 +74,22 @@ To inquire about professional services, [email me](mailto:at@abrahamthomas.info)
 <br/>
 
 
-### 👨‍🏫 Speaking
+### 🎤 Speaking
 
 I'm an experienced public speaker; my talks range from high-level keynotes for generalist audiences, to extremely concrete, actionable seminars on specific topics in data, markets and technology.  
 
 Recent seminar venues include asset managers Winton, OTPP, CPPIB, UBS and Franklin Templeton; conferences include Strata, AI Trading, Princeton Quant, and Montgomery; and tech events include Toronto City Hall, TechTO, SaaStock, and the Toronto Stock Exchange. You can see a full list of talks [here](/talks).
 
-To inquire about my speaking at your organization or event, [email me](mailto:at@abrahamthomas.info).
+I welcome opportunities to speak at your organization or event, and have a number of (original, unique) presentations I can give, on a wide range of topics.
+
+----
+
+<br/>
+
+
+### 📧 Contact
+
+The best way to contact me, about board and advisory roles or about speaking engagements, is to email me: <u>at@abrahamthomas.info</u>.
 
 
 ----
