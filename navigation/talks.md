@@ -10,7 +10,18 @@ title: Talks · Abraham Thomas
 
 <br/>
 
-Here are some talks I've given:
+I'm an experienced public speaker; my talks range from high-level keynotes for generalist audiences, to extremely concrete, actionable seminars on specific topics in data, markets and technology.  I welcome opportunities to speak at your organization or event; email me with inquiries: at@abrahamthomas.info.
+
+Here are some talks I've given in the past:
+
+**"Data in the Age of AI"** <br/>
+CityZen Exchange, Toronto, September 2023
+
+**"Risk, Reward and Randomness: The Entrepreneurial Journey"** <br/>
+Private Seminar, Toronto, September 2023
+
+**"Raising a Round in a Recession"** <br/>
+SaaStock Local, Toronto, November 2022
 
 **"Data Deployment: The Secret Ingredient"** <br/>
 AI & Data Science in Trading, virtual, March 2021 
