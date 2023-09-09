@@ -8,7 +8,7 @@ title: Portfolio Statistics · Abraham Thomas
 
 ----
 
-*In the spirit of "building in public", I thought I'd share occasional updates on my angel portfolio.  This is not investment advice, nor is it an offer or solicitation to buy or sell securities or anything else.*
+*In the spirit of "building in public", I'll share occasional updates on my angel portfolio here.  This is not investment advice, nor is it an offer or solicitation to buy or sell securities or anything else.*
 
 ---
 
@@ -20,7 +20,15 @@ As of June 2023, I've angel invested in 31 companies, with 1 substantial exit at
 
 Of the 24 live positions, there are 5 companies that I'm confident will each return at least 10x; there are 8 others that I am pessimistic about; and it's too early to tell for the remaining 11.
 
-My funnel over 2022 looked like this:
+As of June 2023, my angel investments have a blended IRR of 33%.  
+
+---
+
+<br/>
+
+### Funnel
+
+My dealflow funnel over 2022 looked like this:
 
 * Decks reviewed: **372**
 * First call: **53**
