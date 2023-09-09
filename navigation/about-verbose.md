@@ -12,34 +12,33 @@ title: About · Abraham Thomas
 
 👋 Hi, I'm Abraham.  
 
-I write well-regarded essays on data, markets and technology:    
-* The Economics of Data Businesses  
-* Minsky Moments in Venture Capital  
-* The Perils of Prudence  
-* Data in the Age of AI
-Subscribe to my newsletter Pivotal to get the latest!
+I [write essays](https://pivotal.substack.com) on data, markets and technology:    
+* [The Economics of Data Businesses](https://pivotal.substack.com/p/economics-of-data-biz)  
+* [Minsky Moments in Venture Capital](https://pivotal.substack.com/p/minsky-moments-in-venture-capital)  
+* [The Perils of Prudence](https://pivotal.substack.com/p/the-perils-of-prudence)  
+* [Data in the Age of AI](https://pivotal.substack.com/p/data-in-the-age-of-ai)  
 
-I angel invest in tech startups:
-* Portfolio companies
-* Portfolio performance
-* What I invest in
-* Ways I help
-I welcome cold emails; here's how to pitch me.
+I [angel invest](https://abrahamthomas.info/investing/) in tech startups:
+* [Portfolio companies](https://abrahamthomas.info/portfolio-new/)
+* [Portfolio performance](https://abrahamthomas.info/portfolio-statistics/)
+* [What I invest in](https://abrahamthomas.info/angel-criteria/)
+* [How to pitch me](https://abrahamthomas.info/pitch-me/)
+* [Founder testimonials](https://abrahamthomas.info/testimonials/)
 
 More about me:
-* I co-founded Quandl, a data company acquired by Nasdaq  
-* I was a portfolio manager at a major quant hedge fund  
-* I studied engineering physics at IIT Bombay  
-* As a child, I escaped a war zone as a refugee 
+* I co-founded [Quandl](https://www.quandl.com/), a data company acquired by [Nasdaq](https://www.nasdaq.com)  
+* I was a [portfolio manager](https://abrahamthomas.info/the-accidental-investor/) at a major quant hedge fund  
+* I studied [engineering physics](https://en.wikipedia.org/wiki/Engineering_physics) at IIT Bombay  
+* As a child, I [escaped a war zone](https://abrahamthomas.info/invasion/) as a refugee 
 
 And even more:
-* My library
-* My photography
-* My interests
-* Areas of work
-* Media coverage
-* Public speaking
-* My guide to visiting Japan
+* [My interests](https://abrahamthomas.info/interests/)
+* [My photography](https://abrahamthomas.info/gallery/)
+* [My library](https://abrahamthomas.info/library/)
+* [Areas of work](https://abrahamthomas.info/work/)
+* [Media coverage](https://abrahamthomas.info/press/)
+* [Public speaking](https://abrahamthomas.info/talks/)
+* [My guide to visiting Japan](https://abrahamthomas.gumroad.com/l/wwrni)
 	
 Email me: **at@abrahamthomas.info**
 
