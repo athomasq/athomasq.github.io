@@ -38,7 +38,7 @@ Hi, I'm Abraham.
 * [My ever-expanding bookshelf](https://abrahamthomas.info/library/)
 * [Areas of work](https://abrahamthomas.info/work/)
 * [Media coverage](https://abrahamthomas.info/press/)
-* [Public speaking](https://abrahamthomas.info/talks/)
+* [Talks and seminars](https://abrahamthomas.info/talks/)
 * [My guide to visiting Japan](https://abrahamthomas.gumroad.com/l/wwrni)
 	
 Email me: <u><a href="mailto:at@abrahamthomas.info">at@abrahamthomas.info</a></u>
