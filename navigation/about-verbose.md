@@ -12,40 +12,38 @@ title: About · Abraham Thomas
 
 👋 Hi, I'm Abraham.  
 
-* I angel invest in tech startups:
-    * What I invest in
-    * How to pitch me  
-    * Ways I help
-    * Investment themes
-    * Portfolio companies
-    * Portfolio statistics
+I angel invest in tech startups:
+* What I invest in
+* How to pitch me  
+* Ways I help
+* Investment themes
+* Portfolio companies
+* Portfolio statistics
 
-* I write essays on data, markets and technology:    
-	* The Economics of Data Businesses  
-	* Minsky Moments in Venture Capital  
-	* The Perils of Prudence  
-	* Data in the Age of AI
+I write essays on data, markets and technology:    
+* The Economics of Data Businesses  
+* Minsky Moments in Venture Capital  
+* The Perils of Prudence  
+* Data in the Age of AI
 
+More about me:
 * I co-founded Quandl, a data company acquired by Nasdaq  
-	* Media
-	* Speaking
-	* Alternative data 
-
 * I was a portfolio manager at a major quant hedge fund  
-	* The Accidental Investor
-
 * I studied engineering physics at IIT Bombay  
-	* Escape from a War Zone
+* As a child, I escaped a war zone as a refugee 
 
-* And more
-	* My library
-	* My photography
-	* Professional and personal interests
-	* Areas of work
-	* My guide to visiting Japan
+And even more:
+* My library
+* My photography
+* Professional and personal interests
+* Areas of work
+* Media coverage
+* Public speaking
+* My guide to visiting Japan
 	
-
 Email me: **at@abrahamthomas.info**
+
+Sign up to receive my essays: **pivotal.substack.com**
 
 <br/>
 
