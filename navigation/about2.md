@@ -8,6 +8,7 @@ title: About · Abraham Thomas
 
 ----
 
+<br/>
 
 👋 Hi, I'm Abraham.  
 
@@ -17,8 +18,8 @@ title: About · Abraham Thomas
 * I was a portfolio manager at a major quant hedge fund  
 * I studied engineering physics at IIT Bombay  
 
-Email me: at@abrahamthomas.info
+Email me: **at@abrahamthomas.info**
 
-Click here for the verbose version of this page.
+*[Verbose](/about-verbose) version of this page.*
 
 ----
