@@ -44,8 +44,5 @@ Hi, I'm Abraham.
 Email me: <u><a href="mailto:at@abrahamthomas.info">at@abrahamthomas.info</a></u>
 
 <br/>
-
-----
-
 <br/>
 <br/>

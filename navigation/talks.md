@@ -14,6 +14,8 @@ I'm an experienced public speaker; my talks range from high-level keynotes for g
 
 I welcome opportunities to speak at your organization or event; email me with inquiries: at@abrahamthomas.info.
 
+----
+
 Here are some talks I've given in the past:
 
 **"Data in the Age of AI"** <br/>
