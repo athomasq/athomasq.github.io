@@ -12,19 +12,19 @@ title: About · Abraham Thomas
 
 👋 Hi, I'm Abraham.  
 
-I angel invest in tech startups:
-* What I invest in
-* How to pitch me  
-* Ways I help
-* Investment themes
-* Portfolio companies
-* Portfolio statistics
-
-I write essays on data, markets and technology:    
+I write well-regarded essays on data, markets and technology:    
 * The Economics of Data Businesses  
 * Minsky Moments in Venture Capital  
 * The Perils of Prudence  
 * Data in the Age of AI
+Subscribe to my newsletter Pivotal to get the latest!
+
+I angel invest in tech startups:
+* Portfolio companies
+* Portfolio performance
+* What I invest in
+* Ways I help
+I welcome cold emails; here's how to pitch me.
 
 More about me:
 * I co-founded Quandl, a data company acquired by Nasdaq  
@@ -35,7 +35,7 @@ More about me:
 And even more:
 * My library
 * My photography
-* Professional and personal interests
+* My interests
 * Areas of work
 * Media coverage
 * Public speaking
