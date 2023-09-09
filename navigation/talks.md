@@ -10,7 +10,9 @@ title: Talks · Abraham Thomas
 
 <br/>
 
-I'm an experienced public speaker; my talks range from high-level keynotes for generalist audiences, to extremely concrete, actionable seminars on specific topics in data, markets and technology.  I welcome opportunities to speak at your organization or event; email me with inquiries: at@abrahamthomas.info.
+I'm an experienced public speaker; my talks range from high-level keynotes for generalist audiences, to extremely concrete, actionable seminars on specific topics in data, markets and technology.  
+
+I welcome opportunities to speak at your organization or event; email me with inquiries: at@abrahamthomas.info.
 
 Here are some talks I've given in the past:
 
