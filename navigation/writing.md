@@ -17,9 +17,6 @@ All my new writing can be found at [Pivotal](https://pivotal.substack.com/about)
 
 I've collected some of older essays on this page. I've also linked to some of my Twitter threads.  Popular articles are marked with a ⭐️.   
 
-**Update May 2023:** I wrote an e-book -- [check it out!](https://abrahamthomas.gumroad.com/l/wwrni)  
-
-
 ----
 
 <br/>
