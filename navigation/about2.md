@@ -10,10 +10,10 @@ title: About · Abraham Thomas
 
 <br/>
 
-👋 Hi, I'm Abraham.  
+Hi, I'm Abraham.  
 
-* I [angel invest](https://abrahamthomas.info/investing/) in tech startups  
-* I write [Pivotal](https://pivotal.substack.com), a newsletter on data, markets, technology  
+* I **[angel invest](https://abrahamthomas.info/investing/)** in tech startups  
+* I **[write essays](https://pivotal.substack.com)** on data, markets and technology  
 * I co-founded Quandl, a data company acquired by Nasdaq  
 * I was a portfolio manager at a major quant hedge fund  
 * I studied engineering physics at IIT Bombay  
