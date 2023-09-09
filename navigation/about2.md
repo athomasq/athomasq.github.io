@@ -20,6 +20,8 @@ title: About · Abraham Thomas
 
 Email me: **at@abrahamthomas.info**
 
-*[Verbose](/about-verbose) version of this page.*
+<br/>
 
 ----
+
+*[Verbose](/about-verbose) version of this page.*

@@ -24,6 +24,7 @@ title: About · Abraham Thomas
 	* The Economics of Data Businesses  
 	* Minsky Moments in Venture Capital  
 	* The Perils of Prudence  
+	* Data in the Age of AI
 
 * I co-founded Quandl, a data company acquired by Nasdaq  
 	* Media
@@ -39,8 +40,9 @@ title: About · Abraham Thomas
 * And more
 	* My library
 	* My photography
-	* Professional and Personal Interests
-	* Areas of Walk
+	* Professional and personal interests
+	* Areas of work
+	* My guide to visiting Japan
 	
 
 Email me: **at@abrahamthomas.info**
