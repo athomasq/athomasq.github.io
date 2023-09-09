@@ -10,32 +10,24 @@ title: Investing · Abraham Thomas
 
 <br/> 
 
-I'm an active angel investor in early-stage tech startups. [Pitch me!](mailto:at@abrahamthomas.info)
+I'm an active angel investor in early-stage tech startups. 
 
-<br/>
-
-**For founders:**
+🌱 **For founders:**
 * [What I invest in](/angel-criteria)  
 * [How to pitch me](/pitch-me)  
 * [Why work with me](/why-me)  
-* [Founder testimonials](/testimonials)
-<!--* [Memos and resources](/memos)  -->
+* [Memos and resources](/memos)  
+* [Founder testimonials](/testimonials)  
 
-<br/>
-<br/>
-
-
-**For others:**
+🚀 **For others:**
 * [Portfolio companies](/portfolio-new)
 * [Portfolio statistics](/portfolio-statistics)
 <!--* [Co-investing with me](/coinvest)-->
 <!--* [Investment themes and ideas](/thesis)-->
 <!--* Investment memos-->
 
+I welcome cold emails: **at@abrahamthomas.info**
 
-
-<br/>
-<br/>
 <br/>
 <br/>
 
