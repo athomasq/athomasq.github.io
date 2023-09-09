@@ -10,15 +10,19 @@ title: About · Abraham Thomas
 
 <br/>
 
-I **[write essays](https://pivotal.substack.com)** on data, markets and technology:    
-* [The economics of data businesses](https://pivotal.substack.com/p/economics-of-data-biz)  
-* [Minsky moments in venture capital](https://pivotal.substack.com/p/minsky-moments-in-venture-capital)  
-* [The perils of prudence](https://pivotal.substack.com/p/the-perils-of-prudence)  
-* [Data in the age of AI](https://pivotal.substack.com/p/data-in-the-age-of-ai)  
+Hi, I'm Abraham.
 
 <br/>
 
-I **[angel invest](https://abrahamthomas.info/investing/)** in tech startups:
+✍️ I <u>[write essays](https://pivotal.substack.com)</u> on data, markets and technology:    
+* [The Economics of Data Businesses](https://pivotal.substack.com/p/economics-of-data-biz)  
+* [Minsky Moments in Venture Capital](https://pivotal.substack.com/p/minsky-moments-in-venture-capital)  
+* [The Perils of Prudence](https://pivotal.substack.com/p/the-perils-of-prudence)  
+* [Data in the Age of AI](https://pivotal.substack.com/p/data-in-the-age-of-ai)  
+
+<br/>
+
+🌱 I <u>[angel invest](https://abrahamthomas.info/investing/)</u> in tech startups:
 * [Portfolio companies](https://abrahamthomas.info/portfolio-new/)
 * [Portfolio performance](https://abrahamthomas.info/portfolio-statistics/)
 * [What I invest in](https://abrahamthomas.info/angel-criteria/)
@@ -27,7 +31,7 @@ I **[angel invest](https://abrahamthomas.info/investing/)** in tech startups:
 
 <br/>
 
-More about me:
+🚀 More about me:
 * I co-founded [Quandl](https://www.quandl.com/), a data company acquired by [Nasdaq](https://www.nasdaq.com)  
 * I was a [portfolio manager](https://abrahamthomas.info/the-accidental-investor/) at a major quant hedge fund  
 * I studied [engineering physics](https://en.wikipedia.org/wiki/Engineering_physics) at IIT Bombay  
@@ -35,7 +39,7 @@ More about me:
 
 <br/>
 
-And even more:
+📚 And even more:
 * [My interests](https://abrahamthomas.info/interests/)
 * [My photography](https://abrahamthomas.info/gallery/)
 * [My library](https://abrahamthomas.info/library/)
