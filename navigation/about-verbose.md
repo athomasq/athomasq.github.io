@@ -10,26 +10,30 @@ title: About · Abraham Thomas
 
 <br/>
 
-👋 Hi, I'm Abraham.  
+I **[write essays](https://pivotal.substack.com)** on data, markets and technology:    
+* [The economics of data businesses](https://pivotal.substack.com/p/economics-of-data-biz)  
+* [Minsky moments in venture capital](https://pivotal.substack.com/p/minsky-moments-in-venture-capital)  
+* [The perils of prudence](https://pivotal.substack.com/p/the-perils-of-prudence)  
+* [Data in the age of AI](https://pivotal.substack.com/p/data-in-the-age-of-ai)  
 
-I [write essays](https://pivotal.substack.com) on data, markets and technology:    
-* [The Economics of Data Businesses](https://pivotal.substack.com/p/economics-of-data-biz)  
-* [Minsky Moments in Venture Capital](https://pivotal.substack.com/p/minsky-moments-in-venture-capital)  
-* [The Perils of Prudence](https://pivotal.substack.com/p/the-perils-of-prudence)  
-* [Data in the Age of AI](https://pivotal.substack.com/p/data-in-the-age-of-ai)  
+<br/>
 
-I [angel invest](https://abrahamthomas.info/investing/) in tech startups:
+I **[angel invest](https://abrahamthomas.info/investing/)** in tech startups:
 * [Portfolio companies](https://abrahamthomas.info/portfolio-new/)
 * [Portfolio performance](https://abrahamthomas.info/portfolio-statistics/)
 * [What I invest in](https://abrahamthomas.info/angel-criteria/)
 * [How to pitch me](https://abrahamthomas.info/pitch-me/)
 * [Founder testimonials](https://abrahamthomas.info/testimonials/)
 
+<br/>
+
 More about me:
 * I co-founded [Quandl](https://www.quandl.com/), a data company acquired by [Nasdaq](https://www.nasdaq.com)  
 * I was a [portfolio manager](https://abrahamthomas.info/the-accidental-investor/) at a major quant hedge fund  
 * I studied [engineering physics](https://en.wikipedia.org/wiki/Engineering_physics) at IIT Bombay  
 * As a child, I [escaped a war zone](https://abrahamthomas.info/invasion/) as a refugee 
+
+<br/>
 
 And even more:
 * [My interests](https://abrahamthomas.info/interests/)
@@ -40,9 +44,11 @@ And even more:
 * [Public speaking](https://abrahamthomas.info/talks/)
 * [My guide to visiting Japan](https://abrahamthomas.gumroad.com/l/wwrni)
 	
-Email me: **at@abrahamthomas.info**
+<br/>
 
-Sign up to receive my essays: **pivotal.substack.com**
+Email me: **[at@abrahamthomas.info](mailto:at@abrahamthomas.info)**
+
+Sign up to receive my essays: **[pivotal.substack.com](https://pivotal.substack.com/)**
 
 <br/>
 
