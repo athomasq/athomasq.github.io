@@ -24,4 +24,4 @@ Email me: <u><a href="mailto:at@abrahamthomas.info">at@abrahamthomas.info</a></u
 
 ----
 
-*[Verbose](/about-verbose) version of this page.*
+*[Verbose](/about) version of this page.*

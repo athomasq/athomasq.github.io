@@ -8,11 +8,44 @@ title: About · Abraham Thomas
 
 ----
 
+<br/>
 
-|<img style="width:205px" src="/assets/img/Abraham-Thomas.jpg">|👋 Hi, I'm Abraham.<br/><br/>I'm a tech entrepreneur and investor based in Toronto, Canada. I'm interested in the intersection of data, markets, and technology.<br/><br/>I co-founded Quandl, a successful venture-backed tech startup that was acquired by Nasdaq. Before Quandl, I was a quant trader and portfolio manager at Simplex, a large hedge fund in Tokyo. I studied Engineering Physics at IIT Bombay.|
+Hi, I'm Abraham.
 
-|I'm currently recharging between adventures: [reading](/library), [writing](/writing) and [travelling](/gallery); also [investing](/investing), [advising](/work), and exploring [new ideas](/interests).|
+✍️ I <u><a href="https://pivotal.substack.com">write essays</a></u> on data, markets and technology:    
+* [The Economics of Data Businesses](https://pivotal.substack.com/p/economics-of-data-biz)  
+* [Minsky Moments in Venture Capital](https://pivotal.substack.com/p/minsky-moments-in-venture-capital)  
+* [The Perils of Prudence](https://pivotal.substack.com/p/the-perils-of-prudence)  
+* [Data in the Age of AI](https://pivotal.substack.com/p/data-in-the-age-of-ai)  
 
-|I write a well-regarded [newsletter](https://pivotal.substack.com) on data, investing and startups. I’m also an active [angel investor](/investing). For updates, follow me on [Twitter](https://twitter.com/athomasq)!|
+🌱 I <u><a href="https://abrahamthomas.info/investing">angel invest</a></u> in tech startups:
+* [Portfolio companies](https://abrahamthomas.info/portfolio-new/)
+* [Portfolio performance](https://abrahamthomas.info/portfolio-statistics/)
+* [What I invest in](https://abrahamthomas.info/angel-criteria/)
+* [How to pitch me](https://abrahamthomas.info/pitch-me/)
+* [Founder testimonials](https://abrahamthomas.info/testimonials/)
+
+🚀 More about me:
+* I co-founded [Quandl](https://www.quandl.com/), a data company acquired by [Nasdaq](https://www.nasdaq.com)  
+* I was a [portfolio manager](https://abrahamthomas.info/the-accidental-investor/) at a major quant hedge fund  
+* I studied [engineering physics](https://en.wikipedia.org/wiki/Engineering_physics) at IIT Bombay  
+* As a child, I [escaped a war zone](https://abrahamthomas.info/invasion/) in the hold of a cargo ship   
+* I live in Toronto, Canada  
+
+📚 And even more:
+* [Interests, both personal and professional](https://abrahamthomas.info/interests/)
+* [Travel photography](https://abrahamthomas.info/gallery/)
+* [My ever-expanding bookshelf](https://abrahamthomas.info/library/)
+* [Areas of work](https://abrahamthomas.info/work/)
+* [Media coverage](https://abrahamthomas.info/press/)
+* [Talks and seminars](https://abrahamthomas.info/talks/)
+* [My guide to visiting Japan](https://abrahamthomas.gumroad.com/l/wwrni)
+	
+Email me: <u><a href="mailto:at@abrahamthomas.info">at@abrahamthomas.info</a></u>
+
+<br/>
 
 ----
+
+<br/>
+<br/>
