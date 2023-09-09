@@ -29,13 +29,13 @@ Hi, I'm Abraham.
 * I co-founded [Quandl](https://www.quandl.com/), a data company acquired by [Nasdaq](https://www.nasdaq.com)  
 * I was a [portfolio manager](https://abrahamthomas.info/the-accidental-investor/) at a major quant hedge fund  
 * I studied [engineering physics](https://en.wikipedia.org/wiki/Engineering_physics) at IIT Bombay  
-* As a child, I [escaped a war zone](https://abrahamthomas.info/invasion/) as a refugee 
+* As a child, I [escaped a war zone](https://abrahamthomas.info/invasion/) in the hold of a cargo ship   
 * I live in Toronto, Canada  
 
 📚 And even more:
-* [My interests](https://abrahamthomas.info/interests/)
-* [My photography](https://abrahamthomas.info/gallery/)
-* [My library](https://abrahamthomas.info/library/)
+* [Interests, both personal and professional](https://abrahamthomas.info/interests/)
+* [Travel photography](https://abrahamthomas.info/gallery/)
+* [My ever-expanding bookshelf](https://abrahamthomas.info/library/)
 * [Areas of work](https://abrahamthomas.info/work/)
 * [Media coverage](https://abrahamthomas.info/press/)
 * [Public speaking](https://abrahamthomas.info/talks/)
