@@ -16,9 +16,11 @@ title: Portfolio Statistics · Abraham Thomas
 
 ### Overview
 
-As of June 2023, I've angel invested in 31 companies, with 1 substantial exit at ~40x, 3 exits that each returned ~1x, 3 failures, and 24 "live".
+As of June 2023, I've angel invested in 31 companies.
 
-Of the 24 live positions, there are 5 companies that I'm confident will each return at least 10x; there are 8 others that I am pessimistic about; and it's too early to tell for the remaining 11.
+7 companies have had definite outcomes: 1 substantial exit at ~40x, 3 exits that each returned ~1x, and 3 failures.
+
+24 companies are "live".  Of these, there are 5 companies that I'm confident will each return at least 10x; there are 8 others that I am pessimistic about; and it's too early to tell for the remaining 11.
 
 As of June 2023, my angel investments have a blended IRR of 33%.  
 
