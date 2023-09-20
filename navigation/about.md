@@ -66,7 +66,7 @@ Hi, I'm Abraham.
 * Do less to do more.  
 * Big dreams, sincerity and enthusiasm are all good things.  
 * Optimists change the world.  
-	
+  	
 Email me: <u><a href="mailto:at@abrahamthomas.info">at@abrahamthomas.info</a></u>
 
 <br/>
