@@ -44,24 +44,24 @@ Hi, I'm Abraham.
 🧭 Here are some aphorisms I try to live by:
 * Almost every skill is a muscle and can be exercised.
 * Changing your mind based on new data is a superpower.
-	* (Most people don't ever change their minds)
+    - (Most people don't ever change their minds)
 * Speed is under-appreciated in almost every context.
 * Tremendous outcomes require tremendous amounts of hard work.
-	* (Smarts are not enough)
+    - (Smarts are not enough)
 * Be deliberate and comfortable with risk.
-	* (Most people are impulsive and risk-averse)
+    - (Most people are impulsive and risk-averse)
 * Commit deeply but be flexible; strong opinions, weakly held.
 * If you're not curious, what's the point?  
-	* (This is a good filtering function)
+    - (This is a good filtering function)
 * Be kind, but recognize that kindness has multiple dimensions.
 * Character is grace under pressure.
-	* When the chips are down, who do you want to be?
+    - When the chips are down, who do you want to be?
 * Luck matters a lot, but you can often make your own luck.
 * Combine optimism about technology with realism about humanity.
 * Arguments about means are often actually about variances.
 * Knowing your own preferences is the key to happiness.
 * If you don't blow your own trumpet, it shall remain unblown.  
-	* (I struggle with this)
+    - (I struggle with this)
 * Life is too short to play zero-sum games.
 * ABL: Always Be Learning.
 * Do less to do more.
