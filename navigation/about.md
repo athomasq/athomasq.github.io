@@ -41,7 +41,7 @@ Hi, I'm Abraham.
 * [Talks and seminars](https://abrahamthomas.info/talks/)
 * [My guide to visiting Japan](https://abrahamthomas.gumroad.com/l/wwrni)
 
-🧭 Here are some aphorisms I try to live by:  
+🧭 Here are some things I believe:  
 * Almost every skill is a muscle and can be exercised.  
 * Changing your mind based on new data is a superpower.  
     - (Most people don't ever change their minds)  
@@ -50,14 +50,13 @@ Hi, I'm Abraham.
     - (Smarts are not enough)  
 * Be deliberate and comfortable with risk.  
     - (Most people are impulsive and risk-averse)  
-* Commit deeply but be flexible; strong opinions, weakly held.  
+* Combine optimism about technology with realism about humanity.  
 * If you're not curious, what's the point?  
     - (This is a good filtering function)  
 * Be kind, but recognize that kindness has multiple dimensions.  
 * Character is grace under pressure.  
     - When the chips are down, who do you want to be?  
 * Luck matters a lot, but you can often make your own luck.  
-* Combine optimism about technology with realism about humanity.  
 * Arguments about means are often actually about variances.  
 * Knowing your own preferences is the key to happiness.  
 * If you don't blow your own trumpet, it shall remain unblown.  
