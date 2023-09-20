@@ -6,26 +6,6 @@ title: Interests · Abraham Thomas
 
 ## What I'm Interested In
 
-----
-
-<br/>
-
-### 🧭 Exploring
-
-I'm currently exploring ideas in the AI/ML space, especially around data, data tools and data business models. Some things I'm looking at:
-
-💎 Proprietary, latent, golden and small data assets; and how to build, connect and capture value from those assets.
-
-🛠 Data infrastructure, especially tools that help generative models become first-class consumers as well as producers of data.
-
-🤝 Trust hierarchies and the confidence chain: signatures, provenance, identity, curation, quality.
-
-🤖 The compute explosion, software-in-the-loop, ubiquitous agents, matching versus ranking, productivity versus distribution.
-
-🔑 New areas of abundance and scarcity, especially energy, hardware, and "atoms not bits".
-
-If you're working on any of these, I'd love to [hear from you](/mailto:at@abrahamthomas.info).
-
 
 
 ----
@@ -60,6 +40,27 @@ While I believe in the ability of markets, data and technology to make the world
 
 The optimist (and ex trader) in me says that every inefficiency is an opportunity; the humanist in me cares for the individuals affected by these inefficiencies.  Using data-markets-technology to make the world a truly better place is not easy.  But what better way to spend one's life?
 
+----
+
+<br/>
+
+### 🧭 Exploring
+
+I'm currently exploring ideas in the AI/ML space, especially around data, data tools, and data business models. Some things I'm looking at:
+
+💎 Proprietary, latent, golden and small data assets; and how to build, connect and capture value from those assets.
+
+🛠 Data infrastructure, especially tools that help generative models become first-class consumers as well as producers of data.
+
+🤝 Trust hierarchies and the confidence chain: signatures, provenance, identity, curation, quality.
+
+🤖 The compute explosion, software-in-the-loop, ubiquitous agents, matching versus ranking, productivity versus distribution.
+
+🔑 New areas of abundance and scarcity, especially energy, hardware, and "atoms not bits".
+
+If you're working on any of these, I'd love to [hear from you](/mailto:at@abrahamthomas.info).
+
+
 
 ----
 
@@ -84,6 +85,16 @@ I have a number of hobbies and interests that keep me pleasantly busy:
 📋 I'm a prolific list-maker, curator and reviewer  
 ✒️ I like to [write](/writing), as this website makes abundantly clear 🙂   
 
+
+----
+
+<br/>
+
+### 📡 Philosophy
+
+The Greek philosopher Anaximenes asked: “Why should I study the stars, when there is suffering and misery here on Earth?”. 
+
+Today, we know the answer.  *The best way to alleviate suffering and misery is through progress.*  Scientific progress to expand the productive frontier; economic progress to balance equity and efficiency; and societal progress to enable not just surviving but thriving.  Studying the stars and investing in the future: that's, ultimately, what I'm interested in.
 
 ----
 
