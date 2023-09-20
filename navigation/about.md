@@ -19,7 +19,7 @@ Hi, I'm Abraham.
 * [Data in the Age of AI](https://pivotal.substack.com/p/data-in-the-age-of-ai)  
 
 🌱 I <a href="https://abrahamthomas.info/investing">angel invest</a> in tech startups:
-* [Portfolio companies](https://abrahamthomas.info/portfolio-new/)
+* [Portfolio companies](https://abrahamthomas.info/portfolio-companies/)
 * [Portfolio performance](https://abrahamthomas.info/portfolio-statistics/)
 * [What I invest in](https://abrahamthomas.info/angel-criteria/)
 * [How to pitch me](https://abrahamthomas.info/pitch-me/)

@@ -10,6 +10,20 @@ title: Portfolio · Abraham Thomas
 
 <br/>
 
+### Portfolio Notes
+
+🌱 All my investments are at pre-seed stage: very early product with minimal or zero revenue.
+
+🎯 I invest only where I think I have an edge.  Hence my portfolio tends to skew non-Bay Area, mostly B2B, and mostly atypical founder profiles.  
+
+<!-- 🧭 I invest my own money.  This gives me a very different objective function from many (most?) startup investors.-->
+
+😎 My portfolio companies have gone on to raise further funding from Sequoia, Tiger Global, Falcon Edge, GIC and others. 
+
+----
+
+<br/>
+
 ### Current Portfolio: 2019 onwards
 
 I'm fortunate to be part of the following companies:
@@ -59,21 +73,7 @@ Between 2014 and 2017 I invested in a few startups in India:
 🧰 **Qyk**: marketplace for local services [RIP]  
 🍽 **TableHero**: restaurant management software [RIP]  
 
-
-----
-
-<br/>
-
-### Portfolio Notes
-
-🌱 All the above investments were done at what would today (2023) be considered pre-seed stage: very early product with minimal or zero revenue.
-
-<!--🧭 I invest only where I think I have an edge, in either dealflow or evaluation.  As a consequence, my portfolio tends to skew non-Bay Area, mostly B2B, and mostly under-represented or atypical founder profiles.-->
-
-<!--🎯 I invest my own money.  This gives me a very different objective function from many (most?) startup investors.-->
-
-😎 My portfolio companies have gone on to raise further funding from Sequoia, Tiger Global, Falcon Edge, GIC and others. 
-
+My legacy portfolio is mature and returning cash; currently at 3.6 DPI and 37% IRR.
 
 ----
 
