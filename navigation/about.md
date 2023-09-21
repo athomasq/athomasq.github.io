@@ -42,6 +42,7 @@ Hi, I'm Abraham.
 * [My guide to visiting Japan](https://abrahamthomas.gumroad.com/l/wwrni)
 
 🧭 Here are some things I believe:  
+* ABL: Always Be Learning.  
 * Almost every skill is a muscle and can be exercised.  
 * Changing your mind based on new data is a superpower.  
     - (Most people don't ever change their minds)  
@@ -62,7 +63,6 @@ Hi, I'm Abraham.
 * If you don't blow your own trumpet, it shall remain unblown.  
     - (I struggle with this)  
 * Life is too short to play zero-sum games.  
-* ABL: Always Be Learning.  
 * Do less to do more.  
 * Big dreams, sincerity and enthusiasm are all good things.  
 * Optimists change the world.  
