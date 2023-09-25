@@ -328,6 +328,7 @@ What can I say about GEB that hasn't been said by a thousand geeks before me?  N
 - **The Structures of Everyday Life**, Fernand Braudel
 - **The Wheels of Commerce**, Fernand Braudel
 - **The Perspective of the World**, Fernand Braudel
+- **The Mediterranean (2 vols.)**, Fernand Braudel
 - **The Crusades Through Arab Eyes**, Amin Maaloouf
 - **The Twelve Caesars**, Suetonius
 - **Bury My Heart at Wounded Knee**, Dee Brown
@@ -393,6 +394,8 @@ What can I say about GEB that hasn't been said by a thousand geeks before me?  N
 - **Lords of the Horizons**, Jason Goodwin
 - **Osman's Dream**, Caroline Finkel
 - **The Evolution of Civilizations**, Carroll Quigley
+- **The Florentines**, Paul Strathern
+- **How to Hide an Empire**, Daniel Immerwahr
 
 [Back to Top ↩](/library#my-library)
 
@@ -684,6 +687,7 @@ I have a minor obsession with collecting travel books. I doubt I'll visit all or
 - **Words of Mercury**, Patrick Leigh Fermor
 - **Captain Scott**, Ranulph Fiennes
 - **Atlantis of the Sands**, Ranulph Fiennes
+- **Colour**, Victoria Finlay
 - **Two Towns in Provence**, M. F. K. Fisher
 - **News from Tartary**, Peter Fleming
 - **Brazilian Adventure**, Peter Fleming
@@ -1018,7 +1022,8 @@ I have a minor obsession with collecting travel books. I doubt I'll visit all or
 - **The Places in Between**, Rory Stewart
 - **The Weather Prophet**, Lucretia Stewart
 - **The Aran Islands**, J. M. Synge
-- **Facing the Congo**, Jeffrey Taylor
+- **Facing the Congo**, Jeffrey Tayler
+- **The Lost Kingdoms of Africa**, Jeffrey Tayler
 - **A Fortune-Teller Told Me**, Tiziano Terzani
 - **The Great Railway Bazaar**{: style="color: green"}, Paul Theroux
 - **The Old Patagonian Express**, Paul Theroux
