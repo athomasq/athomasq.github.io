@@ -17,6 +17,8 @@ title: Founder Memos
 <span style="color:#A9A9A9;">2023-01</span> &emsp;&emsp;&emsp; [Series A Benchmarks](/series-a-benchmarks)  
 <span style="color:#A9A9A9;">2023-04</span> &emsp;&emsp;&emsp; [Venture Market Update, Q1 2023](/venture-market-update-q1-2023)  
 <span style="color:#A9A9A9;">2023-08</span> &emsp;&emsp;&emsp; [Early Stage Metrics](/metrics)   
+<span style="color:#A9A9A9;">2023-09</span> &emsp;&emsp;&emsp; [The Worst Outcome is a Mediocre Success](/https://pivotal.substack.com/p/the-worst-outcome-is-a-mediocre-success)   
+
 
 
 <!--

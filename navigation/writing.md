@@ -23,17 +23,21 @@ I've collected some of older essays on this page. I've also linked to some of my
 
 ### ⏰ Latest Essays 
 
+
+*[The Economics of Data Businesses](https://pivotal.substack.com/p/economics-of-data-biz)*  ⭐️  
+How data businesses start, grow, and dominate. I don't think I've ever received as many comments saying "finally! somebody nailed it!" as I did for this essay.
+
 *[The Perils of Prudence](https://pivotal.substack.com/p/the-perils-of-prudence)*  ⭐️  
 For startups, being prudent is the riskiest strategy of all.  A counter-intuitive explanation featuring polar expeditions, migratory birds, board games, mountain-climbing and war.
 
 *[Minsky Moments in Venture Capital](https://pivotal.substack.com/p/minsky-moments-in-venture-capital)*  ⭐️  
 What drives boom-bust cycles in private markets?  This essay from early 2022 offers some hypotheses that  turned out to be quite prescient.  As seen in the [Financial Times](https://www.ft.com/content/077de7e3-e4e3-49d5-8a76-3cbbc4f492f5)!
 
-*[The Economics of Data Businesses](https://pivotal.substack.com/p/economics-of-data-biz)*  ⭐️  
-How data businesses start, grow, and dominate. I don't think I've ever received as many comments saying "finally! somebody nailed it!" as I did for this essay.
-
 *[Data in the Age of AI](https://pivotal.substack.com/p/data-in-the-age-of-ai)*    
 How does the sudden explosion in AI affect data and data businesses? Featuring complementary assets, trust hierarchies, peace dividends, software-in-the-loop, latent and golden data, first-class tools and more.
+
+*[The Worst Outcome is a Mediocre Success](https://pivotal.substack.com/p/data-in-the-age-of-ai)*  ⭐️  
+The object of startup experimentation isn't the return on the experiment itself; it’s the learning that comes with clear-cut success or failure.  Mediocre success hampers this learning.
 
 
 ----
