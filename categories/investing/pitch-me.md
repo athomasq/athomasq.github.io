@@ -69,7 +69,7 @@ My philosophy on passing:
 
 * I don't believe in "retaining optionality".  If I don't plan to invest, I will let you know, explicitly.
 
-* I invest in fewer than 2% of the companies I see, so please don't take it personally if I don't invest in yours.
+* I invest in fewer than 1% of the companies I see, so please don't take it personally if I don't invest in yours.
 
 * I try to provide thoughtful and actionable feedback on why I passed to all founders who I have at least a phone call with.
 
