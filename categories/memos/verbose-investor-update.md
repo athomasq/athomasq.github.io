@@ -98,20 +98,6 @@ Our team is now 7 strong: 2 founders, 2 engineers (down from 3), 1 designer, 1 s
 *Finances: runway, fund-raising, unit economics, deeper dive on metrics*  
 *Market: competition, ecosystem, macro trends, moats and strategy*  
 
-*Here's an example of a pipeline update, which is useful to share if you sell to enterprise.*
-
-
-#### Pipeline Update
-
-Stage|Count #|Amount $|Win Prob %|Weighted $
-TOFU Leads:|120|$120,000|5%|$6,000
-Sales-Qualified:||||
-Demos:||||
-Proposal Sent:||||
-Negotiation:||||
-Total:||||
-
-
 
 #### Asks
 
