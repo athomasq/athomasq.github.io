@@ -18,7 +18,7 @@ Setyl is a UK-based tech startup building a software "system-of-record" to manag
 
 <img src="/assets/img/setyl-1.jpg" width="420px" class="photo">
 
-Setyl is at USD 425,000 ARR as of July 2023, growing 2.2x yoy with 133% net retention.  They're raising USD 1M at a pre-money valuation of USD 12.7M, in a pre-emptive round led by an existing investor.  
+Setyl is at USD 460k ARR as of September 2023, growing 2.3x yoy with >130% net retention.  They're raising USD 1M at a pre-money valuation of USD 12.2M, in a pre-emptive round led by an existing investor.  
 
 I've received some allocation in the round thanks to helping the founders over the years (I invested in their pre-seed as well), and I'm sharing this with a small number of people I know personally. 
 
@@ -45,10 +45,10 @@ Customers love Setyl.  Here are some quotes:
 
 *"a phenomenal tool for internal due diligence" ... "a godsend for helping me organize our office -- I would highly recommend it to anyone" ... "our whole asset management has improved" ... "streamlines our processes completely" ...*
 
-Setyl's metrics are strong.  As of July 2023:
+Setyl's metrics are strong.  As of September 2023:
 
 * Over 150 customers in over 20 countries.  
-* ARR is USD 425,000, up from USD 190,000 in July 2022.  
+* ARR is USD 468,000, up from USD 208,000 in September 2022.  
 * NRR of +133% reflects strong upsell and minimal churn.
 
 Once a company joins Setyl, it's very unlikely that they will migrate off it, because all their asset data is on the Setyl platform.   This is a classic "system-of-record" effect and a big reason I like the company; it manifests in the low churn and high NRR.
@@ -93,7 +93,7 @@ There's suggestive evidence of two inflection points in recent months.  First, S
 
 ### Financing and Round Details
 
-Setyl is raising USD 1M in a priced equity round, at a pre-money of USD 12.7M.  (Note that the actual deal will be priced in GBP -- I'm using 1.27 as the exchange rate).  There's a single share class, owned by founders and investors alike.  
+Setyl is raising USD 1M in a priced equity round, at a pre-money of USD 12.2M.  (Note that the actual deal will be priced in GBP -- I'm using 1.22 as the exchange rate).  There's a single share class, owned by founders and investors alike.  
 
 The round is being led by [James Isilay](https://www.linkedin.com/in/james-isilay/), the CEO of Cognism (a venture-backed startup that James has taken from 0 to 50M ARR in a very short time).  Cognism was one of Setyl's earliest (cold outbound) customers; James subsequently became an angel investor in Setyl's pre-seed round.  He's now leading the seed round and joining Setyl's board.  
 
@@ -155,7 +155,7 @@ The valuation ranges suggested were comparable and indeed possibly a little bit 
 
 9. Frugal and efficient; close to profitability; not wholly dependent on capital markets or venture funding to survive.
 
-10. Fair price given market conditions: 12.7M is median for (non-AI) seed rounds today, but most seed startups don't have anywhere close to Setyl's traction.  The combination of 430k ARR, >2x growth, 133% NRR, low burn and large market is quite rare.
+10. Fair price given market conditions: 12M is around median for (non-AI) seed rounds today, but most seed startups don't have anywhere close to Setyl's traction.  The combination of 460k ARR, >2x growth, 130% NRR, low burn and large market is quite rare.
 
 11. Asymmetric bet: I think there's a floor on value thanks to the existing acquisition interest, which makes this an asymmetric bet -- lots of upside, limited downside.
 
@@ -182,14 +182,14 @@ The valuation ranges suggested were comparable and indeed possibly a little bit 
 
 * Round: Seed
 * Raising: Equity (ordinary shares)
-* Valuation: GBP 10M pre-money ~= USD 12.7M
+* Valuation: GBP 10M pre-money ~= USD 12.2M
 * Raise amount: GBP 800k ~= USD 1M
 * Syndicate allocation: GBP 200k ~= USD 250k
 * Syndicate setup fee: USD 11k (one-time)
 * Management fee: 0.7% annually for 10 years
 * Carry: 20% of profits after fees
 * Syndicate administrator: AngelList
-* Commitment deadline: 15 Sep or whenever the allocation gets filled, whichever comes first
+* Commitment deadline: 12 Oct or whenever the allocation gets filled, whichever comes first
 
 
 <!--
