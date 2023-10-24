@@ -186,7 +186,7 @@ The valuation ranges suggested were comparable and indeed possibly a little bit 
 * Raise amount: GBP 800k ~= USD 1M
 * Syndicate allocation: GBP 200k ~= USD 250k
 * Syndicate setup fee: USD 11k (one-time)
-* Management fee: 0.7% annually for 10 years
+* Management fee: 1% annually for 7 years
 * Carry: 20% of profits after fees
 * Syndicate administrator: AngelList
 * Commitment deadline: 12 Oct or whenever the allocation gets filled, whichever comes first
