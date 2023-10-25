@@ -12,11 +12,12 @@ title: About · Abraham Thomas
 
 Hi, I'm Abraham.
 
-✍️ I <a href="https://pivotal.substack.com">write essays</a> on data, markets and technology:    
+✍️ I <a href="https://pivotal.substack.com">write essays</a> on data, markets and technology. Here are a few:    
 * [The Economics of Data Businesses](https://pivotal.substack.com/p/economics-of-data-biz)  
 * [Minsky Moments in Venture Capital](https://pivotal.substack.com/p/minsky-moments-in-venture-capital)  
 * [The Perils of Prudence](https://pivotal.substack.com/p/the-perils-of-prudence)  
 * [Data in the Age of AI](https://pivotal.substack.com/p/data-in-the-age-of-ai)  
+  *  [More writing](https://abrahamthomas.info/writing/)  
 
 🌱 I <a href="https://abrahamthomas.info/investing">angel invest</a> in tech startups:
 * [Portfolio companies](https://abrahamthomas.info/portfolio-companies/)
@@ -24,15 +25,16 @@ Hi, I'm Abraham.
 * [What I invest in](https://abrahamthomas.info/angel-criteria/)
 * [How to pitch me](https://abrahamthomas.info/pitch-me/)
 * [Founder testimonials](https://abrahamthomas.info/testimonials/)
+  * [More investing](https://abrahamthomas.info/investing/)  
 
-🚀 More about me:
+🚀 About me:
 * I co-founded [Quandl](https://www.quandl.com/), a data company acquired by [Nasdaq](https://www.nasdaq.com)  
 * I was a [portfolio manager](https://abrahamthomas.info/the-accidental-investor/) at a major quant hedge fund  
 * I studied [engineering physics](https://en.wikipedia.org/wiki/Engineering_physics) at IIT Bombay  
 * As a child, I [escaped a war zone](https://abrahamthomas.info/invasion/) in the hold of a cargo ship   
 * I live in Toronto, Canada  
 
-📚 And even more:
+📚 More about me:
 * [Interests, both personal and professional](https://abrahamthomas.info/interests/)
 * [Travel photography](https://abrahamthomas.info/gallery/)
 * [My ever-expanding bookshelf](https://abrahamthomas.info/library/)
