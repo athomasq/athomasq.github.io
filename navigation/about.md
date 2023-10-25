@@ -10,14 +10,19 @@ title: About · Abraham Thomas
 
 <br/>
 
-Hi, I'm Abraham.
+👋🏼 Hi, I'm Abraham.
 
-✍️ I <a href="https://pivotal.substack.com">write essays</a> on data, markets and technology. Latest:    
+&nbsp;  
+
+✍️ I <a href="https://pivotal.substack.com">write essays</a> on data, markets and technology. Samples:    
 * [The Economics of Data Businesses](https://pivotal.substack.com/p/economics-of-data-biz)  
 * [Minsky Moments in Venture Capital](https://pivotal.substack.com/p/minsky-moments-in-venture-capital)  
 * [The Perils of Prudence](https://pivotal.substack.com/p/the-perils-of-prudence)  
 * [Data in the Age of AI](https://pivotal.substack.com/p/data-in-the-age-of-ai)  
-  *  More about [my writing](https://abrahamthomas.info/writing/)  
+
+More about [my writing](https://abrahamthomas.info/writing/).  
+
+&nbsp;  
 
 🌱 I <a href="https://abrahamthomas.info/investing">angel invest</a> in tech startups:
 * [Portfolio companies](https://abrahamthomas.info/portfolio-companies/)
