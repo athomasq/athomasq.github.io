@@ -12,12 +12,12 @@ title: About · Abraham Thomas
 
 Hi, I'm Abraham.
 
-✍️ I <a href="https://pivotal.substack.com">write essays</a> on data, markets and technology. Here are a few:    
+✍️ I <a href="https://pivotal.substack.com">write essays</a> on data, markets and technology. Latest:    
 * [The Economics of Data Businesses](https://pivotal.substack.com/p/economics-of-data-biz)  
 * [Minsky Moments in Venture Capital](https://pivotal.substack.com/p/minsky-moments-in-venture-capital)  
 * [The Perils of Prudence](https://pivotal.substack.com/p/the-perils-of-prudence)  
 * [Data in the Age of AI](https://pivotal.substack.com/p/data-in-the-age-of-ai)  
-  *  [More writing](https://abrahamthomas.info/writing/)  
+  *  More about [my writing](https://abrahamthomas.info/writing/)  
 
 🌱 I <a href="https://abrahamthomas.info/investing">angel invest</a> in tech startups:
 * [Portfolio companies](https://abrahamthomas.info/portfolio-companies/)
@@ -25,7 +25,7 @@ Hi, I'm Abraham.
 * [What I invest in](https://abrahamthomas.info/angel-criteria/)
 * [How to pitch me](https://abrahamthomas.info/pitch-me/)
 * [Founder testimonials](https://abrahamthomas.info/testimonials/)
-  * [More investing](https://abrahamthomas.info/investing/)  
+  * More about [my investing](https://abrahamthomas.info/investing/)  
 
 🚀 About me:
 * I co-founded [Quandl](https://www.quandl.com/), a data company acquired by [Nasdaq](https://www.nasdaq.com)  
