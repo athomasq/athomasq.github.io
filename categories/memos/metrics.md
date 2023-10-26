@@ -84,6 +84,12 @@ Note: I'll add these if somebody asks; they need a bit of cleanup.
 
 <br/>
 
+### Metric Platforms
+
+There are a numbner of metrics platforms designed specially for SaaS startups: Baremetrics, Chartmogul, SaaSGrid.  I haven't used them so can't advise; but note that SaaSGrid is the newest and is sponsored / incubated by Craft Ventures, who wrote several of the metrics posts linked above. 
+
+<br/>
+
 ----
 
 [Back to Memos ↩](/memos)
