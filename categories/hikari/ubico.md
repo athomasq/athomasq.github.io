@@ -28,16 +28,14 @@ Customers specify their target audience in natural language -- for example, "own
 * correlates the list against other buying and intent signals;
 * generates custom email campaigns for each prospect using AI for personalization; 
 * manages the sendout including complex campaign logic; 
-* evaluates and classifies email responses (hot, warm, cool etc); 
-* helps with follow-up, calendaring, and closing deals.  
+* classifies responses into hot, warm and cool leads; 
+* helps with follow-up, calendaring, and logistics.  
 
 <br/> 
 
 ### Founder and Team
 
 Ubico's founder and CEO is Philippe Kwiatkowski.  Phil built v1 of Ubico while still at university in Montreal; encouraged by customer traction, he dropped out to build the company full-time.  He is a true "dual threat" founder: technically adept and also strong at sales.  He's supported by a small and motivated team of 2 engineers, 1 sales person and 1 customer support person (no team churn in the last 2 years!).
-
-(Note: I invested in Ubico's angel round in 2022, and have been advising Phil since then.)
 
 <br/> 
 
@@ -59,7 +57,7 @@ Ubico also has differentiated positioning: they're not selling to large sales te
 
 ### Financing and Growth Path
 
-Ubico is recently profitable, and can grow at a decent rate by reinvesting its profits.  But the success (and efficiency) of their new customer acquisition motion offers a compelling opportunity to invest in accelerating growth.  With just USD 100-200k in fresh capital, they can double their sales and product teams, hit USD 1.4M in ARR at close to 3x YoY, and be back at break-even by the end of 2024 -- in good shape for a Series A. 
+Ubico recently hit break-even, and can grow at a decent rate by reinvesting future profits.  But the efficiency of their customer acquisition motion suggests investing more aggressively in growth.  With just USD 100-200k in fresh capital, they can double their sales and product teams, hit USD 1.4M in ARR at close to 3x YoY, and be back at break-even by the end of 2024, which puts them in good shape for a Series A. 
 
 
 <br/> 
@@ -72,16 +70,6 @@ Ubico is recently profitable, and can grow at a decent rate by reinvesting its p
 4. Funds used for efficient growth, not merely covering burn.
 5. Investor-friendly valuation (4x NTM multiple).
 	
-
-<br/> 
-
-### Risks and Disclosures
-
-1. AI is evolving fast; the landscape keeps changing.
-2. Competitors exist and new ones could emerge.
-3. Small and mid-sized businesses can be tough to sell to.
-4. I invested in a previous financing round for Ubico
-
 
 <br/>
 
@@ -99,7 +87,22 @@ Ubico is recently profitable, and can grow at a decent rate by reinvesting its p
 
 The deal will be priced in CAD; I've used a constant FX rate of 1.38 for all USD calculations.
 
+<br/>
+<br/>
+<br/>
 
-<br/>
-<br/>
-<br/>
+
+<!--
+
+
+<br/> 
+
+### Risks and Disclosures
+
+1. AI is evolving fast; the landscape keeps changing.
+2. Competitors exist and new ones could emerge.
+3. Small and mid-sized businesses can be tough to sell to.
+4. I invested in a previous financing round for Ubico
+
+-->
+
