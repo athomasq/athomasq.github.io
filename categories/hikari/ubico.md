@@ -12,15 +12,15 @@ title: Ubico Investment Memo
 
 ### Executive Summary
 
-I'm leading a pre-seed syndicate into Ubico, a Montreal-based SaaS company that builds AI-driven sales automation software for small business.  
+I'm leading a pre-seed syndicate into Ubico, a Montreal-based B2B SaaS company that builds AI-powered sales automation software for small-to-medium sized businesses.  
 
-Ubico has USD 450k in ARR and some of the best capital efficiency I've ever seen at pre-seed stage.  They're raising USD 150k at an investor-friendly valuation of USD 6M post. The funds will be used to triple their ARR to USD 1.4M by the end of 2024.
+Ubico has USD 450k in ARR, 60 customers, and some of the best capital efficiency I've ever seen at pre-seed stage.  They're raising USD 150k at an investor-friendly valuation of USD 6M post. The funds will be used to triple their ARR to USD 1.4M by the end of 2024.
 
 <br/> 
 
 ### Company and Product Overview
 
-Ubico makes end-to-end sales automation software for small businesses.  
+Ubico provides all-in-one sales automation that includes email marketing, sales engagement and data enrichment capabilities.
 
 Customers specify their target audience in natural language -- for example, "owners of advertising agencies in the Pacific northwest".  Ubico then automatically:
 
@@ -41,7 +41,7 @@ Ubico's founder and CEO is Philippe Kwiatkowski.  Phil built v1 of Ubico while s
 
 ### Traction and Inflection
 
-Ubico is at USD 450k ARR, growing at 5% MoM, and profitable.  They've achieved this on a total of just USD 250k in financing raised over the life of the company, which is exceptional capital efficiency.  
+Ubico is at USD 450k ARR, growing at 5% MoM, and profitable.  They've achieved this on a total of just USD 75k in financing raised over the life of the company, which is exceptional capital efficiency.  
 
 This efficiency is driven by their customer acquisition engine.  They've recently transitioned from founder-led sales to a repeatable process based on paid demand-gen and inside sales.  Their CAC:LTV ratio is over 5 and payback period is less than 6 months.  (For reference, CAC:LTV > 3 and payback < 12 months are considered the benchmarks for "excellent" SaaS startups).  
 
