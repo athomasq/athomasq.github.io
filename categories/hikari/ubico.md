@@ -64,11 +64,11 @@ Ubico recently hit break-even, and can grow at a decent rate by reinvesting futu
 
 ### Things I like
 
-1. Solid product, differentiated positioning, macro tailwinds.
-2. Good traction and incredible capital efficiency.
-3. Inflection point around non-founder sales.
-4. Funds used for efficient growth, not merely covering burn.
-5. Investor-friendly valuation (4x NTM multiple).
+* Solid product, differentiated positioning, macro tailwinds.
+* Good traction and incredible capital efficiency.
+* Inflection point around non-founder sales.
+* Funds used for efficient growth, not merely covering burn.
+* Investor-friendly valuation (4x NTM multiple).
 	
 
 <br/>
