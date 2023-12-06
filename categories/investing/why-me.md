@@ -21,7 +21,9 @@ I aim to be an investor who founders trust and can rely on.  This means:
 * **High trust:** I act with integrity and professionalism.  
 * **Respect for your time:** Quick responses and minimal friction.
 * **Alignment:** No zero-sum games; I win when you win.  
-* **Empathy:** I've been there, done that -- and I'm on your side.
+* **Empathy:** I've been there, done that -- and I'm on your side.  
+
+Read my [testimonials](https://abrahamthomas.info/testimonials/) to see what my portfolio founders have to say about me.  
 
 
 ----
