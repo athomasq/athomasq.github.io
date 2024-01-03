@@ -650,6 +650,21 @@
       smol: /assets/smol/After_.jpg
       width: 270px
 
+- album: newline
+  pictures:
+    - name: Pizza
+      link: /gallery/pizza
+      smol: /assets/smol/Pizza_.jpg
+      width: 270px
+    - name: Sandwich
+      link: /gallery/sandwich
+      smol: /assets/smol/Sandwich_.jpg
+      width: 120px
+    - name: Rickshaw
+      link: /gallery/rickshaw
+      smol: /assets/smol/Rickshaw_.jpg
+      width: 270px
+
 - album: Parks
   pictures:
     - name: Branch
