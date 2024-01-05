@@ -33,6 +33,10 @@ Books in **green**{: style="color: green"} are very good and recommended.  Books
 - **In Search of Schrodinger's Cat**, John Gribbin
 - **The Quark and the Jaguar**, Murray Gell-Mann
 - **QED**, Richard Feynman
+- **Surely You're Joking, Mr Feynman!**, Richard Feynman
+- **Six Easy Pieces**, Richard Feynman
+- **Six Not-So-Easy Pieces**, Richard Feynman
+- **The Feynman Lectures on Physics (3 vols)**, Richard Feynman
 - **Flatland and Sphereland**, Edwin Abbott
 - **Chasing Science**, Frederik Pohl
 - **Hexaflexagons, Probability and Hanoi**, Martin Gardner
@@ -396,6 +400,10 @@ What can I say about GEB that hasn't been said by a thousand geeks before me?  N
 - **The Evolution of Civilizations**, Carroll Quigley
 - **The Florentines**, Paul Strathern
 - **How to Hide an Empire**, Daniel Immerwahr
+- **Freedom's Forge**, Arthur Herman
+- **Empire of Pain**, Patrick Radden Keefe
+- **Devil in the Grove**, Gilbert King
+
 
 [Back to Top ↩](/library#my-library)
 
@@ -503,8 +511,7 @@ What can I say about GEB that hasn't been said by a thousand geeks before me?  N
 - **One From Many**, Dee Hock
 - **Empires of Light**, Jill Jonnes
 - **Straphanger**, Taras Grescoe
-- **Empire of Pain**, Patrick Radden Keefe
-- **Devil in the Grove**, Gilbert King
+- **Voices from the Sky**, Arthur C. Clarke
 
 [Back to Top ↩](/library#my-library)
 
