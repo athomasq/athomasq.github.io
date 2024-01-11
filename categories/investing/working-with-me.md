@@ -6,22 +6,15 @@ title: Working With Me · Abraham Thomas
 
 ## Working With Me
 
-
 ----
 
 <br/>
-
-
-*If you're reading this page, it probably means I've invested in your company.  Thank you for the privilege!  I'm excited to be part of your journey.*
 
 *This page is a "user manual" for getting the most out of me as an investor.*  
 
-
-----
-
 <br/>
 
-### Overall philosophy
+**Overall Philosophy**  
 
 1. I try to be an active and engaged investor, adding value beyond just my investment dollars.  I genuinely want to help, and am willing to devote time and effort on your behalf.
 
@@ -33,11 +26,7 @@ title: Working With Me · Abraham Thomas
 
 5. You don't have to flatter me or worry about hurting my feelings.
 
-----
-
-<br/>
-
-### Communication channels
+**Communication Channels**  
 
 6. Email is my preferred channel.  I'm trying to move all my "work" email to at@abrahamthomas.info -- if you previously corresponded with athos1@gmail.com, please switch.
 
@@ -49,11 +38,9 @@ title: Working With Me · Abraham Thomas
 
 10. Sometimes I like to record Loom videos when I don't have the time to write a detailed email.  
 
-----
-
 <br/>
 
-### Cadence and scheduling
+**Cadence and Scheduling**
 
 11. Some founders like to have regular scheduled calls me; others like to invoke my help "on-demand".  I am fine with either of these options -- whatever works best for you.  (And some founders don't want or need my help -- that's cool too.)
 
@@ -62,8 +49,6 @@ title: Working With Me · Abraham Thomas
 13. Please send calendar invites with meeting links for all conversations.  
 
 14. I travel a fair bit, and I don't always set out-of-office replies.  If it's urgent, put URGENT or ACTION NEEDED in the subject line.  Don't abuse this option :)
-
-----
 
 <br/>
 
@@ -81,8 +66,6 @@ title: Working With Me · Abraham Thomas
 
 20. Here's what my portfolio founders have to say about my help and advice (90% of which is via these calls).
 
-----
-
 <br/>
 
 ### Founder therapy
@@ -93,15 +76,11 @@ title: Working With Me · Abraham Thomas
 
 23. Fundamentally, I believe you are the best person(s) to run the company; that's why I invested.  My job is to support you and be steady: keep you grounded when you're euphoric, and lift you up when you're feeling down.
 
-----
-
 <br/>
 
 ### Investor updates
 
-24. I strongly recommend that you send out monthly investor updates -- it's the one thing I ask for as an investor.  It's hard for me to help you if I don't know what's going on.  Quite apart from my help and input, writing investor updates helps you zoom out on the business, and it builds confidence across your investor network for future fund-raising conversations.
-
-----
+24. I strongly recommend that you send out monthly investor updates -- it's the one thing I ask for as an investor.  It's hard for me to help you if I don't know what's going on.  Quite apart from my help and input, writing investor updates helps you zoom out on the business, and it builds confidence across your investor network for future fund-raising conversations.  
 
 <br/>
 
@@ -112,8 +91,6 @@ title: Working With Me · Abraham Thomas
 26. I have a network of fellow angel investors and I manage a small syndicate.  If you're raising capital and if I think the company will be a good fit for the syndicate, I can mobilize some extra money for you.  Let me know if this option ever makes sense.
 
 27. I think I'm exceptionally good at helping companies "tell their story", so if you're getting ready to raise a round, let me know and we can craft a pitch together.
-
-----
 
 <br/>
 
@@ -129,9 +106,12 @@ title: Working With Me · Abraham Thomas
 
 32. I'm always keen to meet talented founders building exciting companies.  If you meet or know of other founders who are raising money, please send them my way!
 
+<br/>
+
 ----
 
 <br/>
-<br/>
-<br/>
+
+[Back to Investing Page ↩](/investing)
+
 <br/>
