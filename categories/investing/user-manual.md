@@ -1,16 +1,16 @@
 ---
 layout: default
 permalink: /:basename/
-title: Working With Me · Abraham Thomas
+title: User Manual · Abraham Thomas
 ---
 
-## Working With Me
+## User Manual
 
 ----
 
 <br/>
 
-*This page is a "user manual" for getting the most out of me as an investor.*  
+*This page is a user manual for getting the most out of me as an investor.*  
 
 <br/>
 
