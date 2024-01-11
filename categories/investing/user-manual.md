@@ -14,7 +14,7 @@ This page is a "user manual" for getting the most out of me as an investor.  It'
 
 <br/>
 
-  **Overall Philosophy**  
+    **Overall Philosophy**  
 
 1. I try to be an active and engaged investor, adding value beyond just my investment dollars.  I genuinely want to help, and am willing to devote time and effort on your behalf.
 
@@ -26,7 +26,7 @@ This page is a "user manual" for getting the most out of me as an investor.  It'
 
 5. You don't have to flatter me or worry about hurting my feelings.
 
-  **Communication Channels**  
+    **Communication Channels**  
 
 6. Email is my preferred channel.  I'm trying to move all my "work" email to at@abrahamthomas.info -- if you previously corresponded with athos1@gmail.com, please switch.
 
@@ -38,9 +38,7 @@ This page is a "user manual" for getting the most out of me as an investor.  It'
 
 10. Sometimes I like to record Loom videos when I don't have the time to write a detailed email.  
 
-<br/>
-
-  **Cadence and Scheduling**
+    **Cadence and Scheduling**
 
 11. Some founders like to have regular scheduled calls me; others like to invoke my help "on-demand".  I am fine with either of these options -- whatever works best for you.  (And some founders don't want or need my help -- that's cool too.)
 
@@ -52,7 +50,7 @@ This page is a "user manual" for getting the most out of me as an investor.  It'
 
 <br/>
 
-### Types of advice
+    **Types of advice**  
 
 15. I am always willing to offer feedback or advice, share my experiences, or act as a sounding board or sanity check.  
 
@@ -66,9 +64,7 @@ This page is a "user manual" for getting the most out of me as an investor.  It'
 
 20. Here's what my portfolio founders have to say about my help and advice (90% of which is via these calls).
 
-<br/>
-
-### Founder therapy
+    Founder therapy
 
 21. Being a founder is incredibly hard.  One of the best ways I add value is by offering an empathetic view from somebody who has been there and done that.
 
@@ -78,7 +74,7 @@ This page is a "user manual" for getting the most out of me as an investor.  It'
 
 <br/>
 
-### Investor updates
+    Investor updates
 
 24. I strongly recommend that you send out monthly investor updates -- it's the one thing I ask for as an investor.  It's hard for me to help you if I don't know what's going on.  Quite apart from my help and input, writing investor updates helps you zoom out on the business, and it builds confidence across your investor network for future fund-raising conversations.  
 
