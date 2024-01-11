@@ -8,13 +8,13 @@ title: User Manual · Abraham Thomas
 
 ----
 
+If you're reading this page, it probably means I've invested in your company.  Thank you for the privilege!  I'm excited to be part of your journey.
+
+This page is a "user manual" for getting the most out of me as an investor.  It's a collection of patterns and practices that have worked well for me (and my portfolio companies) in the past.  Feel free to suggest improvements!
+
 <br/>
 
-*This page is a user manual for getting the most out of me as an investor.*  
-
-<br/>
-
-**Overall Philosophy**  
+  **Overall Philosophy**  
 
 1. I try to be an active and engaged investor, adding value beyond just my investment dollars.  I genuinely want to help, and am willing to devote time and effort on your behalf.
 
@@ -26,7 +26,7 @@ title: User Manual · Abraham Thomas
 
 5. You don't have to flatter me or worry about hurting my feelings.
 
-**Communication Channels**  
+  **Communication Channels**  
 
 6. Email is my preferred channel.  I'm trying to move all my "work" email to at@abrahamthomas.info -- if you previously corresponded with athos1@gmail.com, please switch.
 
@@ -40,7 +40,7 @@ title: User Manual · Abraham Thomas
 
 <br/>
 
-**Cadence and Scheduling**
+  **Cadence and Scheduling**
 
 11. Some founders like to have regular scheduled calls me; others like to invoke my help "on-demand".  I am fine with either of these options -- whatever works best for you.  (And some founders don't want or need my help -- that's cool too.)
 
