@@ -12,9 +12,7 @@ If you're reading this page, it probably means I've invested in your company.  T
 
 This page is a "user manual" for getting the most out of me as an investor.  It's a collection of patterns and practices that have worked well for me (and my portfolio companies) in the past.  Feel free to suggest improvements!
 
-<br/>
-
-    **Overall Philosophy**  
+   **Overall Philosophy**
 
 1. I try to be an active and engaged investor, adding value beyond just my investment dollars.  I genuinely want to help, and am willing to devote time and effort on your behalf.
 
@@ -24,7 +22,7 @@ This page is a "user manual" for getting the most out of me as an investor.  It'
 
 4. I don't ever want to add negative value.  If I ever waste your time or give you bad advice -- please tell me bluntly, and I will course correct.  I have a thick skin, I can take it.
 
-5. You don't have to flatter me or worry about hurting my feelings.
+5. You don't have to flatter me or worry about hurting my feelings. That said, I'm only human; consideration is always appreciated.
 
     **Communication Channels**  
 
@@ -48,9 +46,7 @@ This page is a "user manual" for getting the most out of me as an investor.  It'
 
 14. I travel a fair bit, and I don't always set out-of-office replies.  If it's urgent, put URGENT or ACTION NEEDED in the subject line.  Don't abuse this option :)
 
-<br/>
-
-    **Types of advice**  
+    **Types of Advice**  
 
 15. I am always willing to offer feedback or advice, share my experiences, or act as a sounding board or sanity check.  
 
@@ -64,7 +60,7 @@ This page is a "user manual" for getting the most out of me as an investor.  It'
 
 20. Here's what my portfolio founders have to say about my help and advice (90% of which is via these calls).
 
-    Founder therapy
+    **Emotional Support**
 
 21. Being a founder is incredibly hard.  One of the best ways I add value is by offering an empathetic view from somebody who has been there and done that.
 
@@ -72,35 +68,31 @@ This page is a "user manual" for getting the most out of me as an investor.  It'
 
 23. Fundamentally, I believe you are the best person(s) to run the company; that's why I invested.  My job is to support you and be steady: keep you grounded when you're euphoric, and lift you up when you're feeling down.
 
-<br/>
+    **Investor Updates**
 
-    Investor updates
+24. I strongly recommend that you send out monthly investor updates -- it's the one thing I ask for as an investor.  It's hard for me to help you if I don't know what's going on.
 
-24. I strongly recommend that you send out monthly investor updates -- it's the one thing I ask for as an investor.  It's hard for me to help you if I don't know what's going on.  Quite apart from my help and input, writing investor updates helps you zoom out on the business, and it builds confidence across your investor network for future fund-raising conversations.  
+25. Quite apart from my help and input, writing investor updates helps you zoom out on the business, and it builds confidence across your investor network for future fund-raising conversations.  
 
-<br/>
+    **Fund-Raising and Syndicates**
 
-### Fund-raising and syndicates
+26. Although I write small cheques, I do like to participate across multiple rounds of financing, and appreciate being given the opportunity to do so.
 
-25. Although I write small cheques, I do like to participate across multiple rounds of financing, and appreciate being given the opportunity to do so.
+27. I have a network of fellow angel investors and I manage a small syndicate.  If you're raising capital and if I think the company will be a good fit for the syndicate, I can mobilize some extra money for you.  Let me know if this option ever makes sense.
 
-26. I have a network of fellow angel investors and I manage a small syndicate.  If you're raising capital and if I think the company will be a good fit for the syndicate, I can mobilize some extra money for you.  Let me know if this option ever makes sense.
+28. I think I'm exceptionally good at helping companies "tell their story", so if you're getting ready to raise a round, let me know and we can craft a pitch together.
 
-27. I think I'm exceptionally good at helping companies "tell their story", so if you're getting ready to raise a round, let me know and we can craft a pitch together.
+    **References and Introductions**
 
-<br/>
+29. I have a decent (not spectacular) network of VC connections, and can make introductions when appropriate.  
 
-### References and introductions
+30. I don't want to spam you with unwanted intros, but am happy to connect you with my other portfolio founders if you'd like; let me know.
 
-28. I have a decent (not spectacular) network of VC connections, and can make introductions when appropriate.  
+31. I'd like to expand my network of angels and VCs, and I may ask you for intros to your other investors, if you're okay with that.
 
-29. I don't want to spam you with unwanted intros, but am happy to connect you with my other portfolio founders if you'd like; let me know.
+32. My reputation is my best (and only) currency as a small angel investor.  I deeply appreciate any positive references or introductions you provide.  A testimonial, like, tweet or Linked-In post goes a long way!
 
-30. I'd like to expand my network of angels and VCs, and I may ask you for intros to your other investors, if you're okay with that.
-
-31. My reputation is my best (and only) currency as a small angel investor.  I deeply appreciate any positive references or introductions you provide.  A testimonial, like, tweet or Linked-In post goes a long way!
-
-32. I'm always keen to meet talented founders building exciting companies.  If you meet or know of other founders who are raising money, please send them my way!
+33. I'm always keen to meet talented founders building exciting companies.  If you meet or know of other founders who are raising money, please send them my way!
 
 <br/>
 
