@@ -26,13 +26,13 @@ This page is a "user manual" for getting the most out of me as an investor. It's
 
     **Communication Channels**  
 
-6. Email is my preferred channel. I'm trying to move all my "work" email to **at@abrahamthomas.info** -- if you previously corresponded with athos1@gmail.com, please switch.
+6. Email is my preferred async channel. I'm trying to move all my "work" email to **at@abrahamthomas.info** -- if you previously corresponded with athos1@gmail.com, please switch.
 
 7. I read emails daily and indeed hourly, but may take 2-3 days to respond. If it's time-sensitive, don't hesitate to send me a nudge -- I don't mind.  
 
 8. If you want a quick, short turnaround, text me or whatsapp me. Those channels are noisier and stuff slips through the cracks all the time, so again, don't hesitate to send me a nudge. 
 
-9. For general discussions, Zoom (or equivalent) is good, but it can be fatiguing. Phone calls work just as well.
+9. Zoom (or equivalent) is good for open-ended conversation, but it can be fatiguing. Phone calls work just as well.
 
 10. Sometimes I like to record Loom videos when I don't have the time to write a detailed email. 
 
@@ -40,63 +40,65 @@ This page is a "user manual" for getting the most out of me as an investor. It's
 
     **Types of Help**  
 
-12. The vast majority of help I provide is in the form of advice. Here's what my portfolio founders have to say [about my advice](https://abrahamthomas.info/testimonials/).
+12. The vast majority of help I provide is in the form of advice. Here's what my portfolio founders have to say [about this](https://abrahamthomas.info/testimonials/).
 
 13. I am always willing to offer suggestions, share experiences or observations, collaborate on problems or strategy, and act as a sounding board or sanity check. 
 
 14. I cannot make decisions for you, and I don't want to. Instead, I try to share frameworks for thinking through any given problem or situation. 
 
-15. If my input is relevant, great; if it's not, please feel free to ignore it, and I don't mind. 
+15. If my input is relevant, great; if it's not, please feel free to ignore it -- I don't mind. 
 
 16. As a founder, I was a true generalist, and there is almost no category of problem that's out of scope for me. If in doubt, ask!
 
-17. I think I'm especially strong on financial strategy (budget, burn, growth), on marketing (all aspects -- demand-gen, brand, positioning, seo, pr), on company-building (culture, recruiting, handling tricky situations), and on fund-raising (pitch design, VC outreach, planning a campaign). 
+17. I think I'm especially strong on financial strategy (budget, burn, growth, board service), on marketing (all aspects -- demand-gen, brand, positioning, seo, pr), on company-building (culture, recruiting, handling tricky situations), and on fund-raising (pitch design, VC outreach, planning a campaign). 
 
 18. I've angel-invested in 30+ companies and I'm an LP in multiple VC funds, so I have a pretty good view of early stage tech. I'm happy to share benchmarks and anecdata across my portfolio.
 
-19. See ["Why Work With Me"](https://abrahamthomas.info/why-me/) for more ways I can help.
+19. I write occasional [memos for portfolio founders](https://abrahamthomas.info/memos/).  I also have a number of spreadsheet templates for financial planning, sales modelling, growth analytics etc, which I'm happy to share.
+
+20. Here are some other [ways I can help](https://abrahamthomas.info/why-me/).
 
     **Cadence and Scheduling**
 
-20. Some founders like to have regular scheduled calls me; others like to invoke my help "on-demand". I am fine with either of these options -- whatever works best for you. (And some founders don't want or need my help -- that's cool too.)
+21. Some founders like to have regular scheduled calls me; others like to invoke my help "on-demand". I am fine with either of these options -- whatever works best for you. (And some founders don't want or need my help -- that's cool too.)
 
-21. I find that for pre-scheduled calls, 1 hour every 6 (+/-2) weeks works well. For on-demand calls, the typical pattern is that a founder goes 3-6 months without needing any input, and then something comes up and we have multiple calls and interactions over a short period of time. Again, whatever works best for you.
+22. I find that for pre-scheduled calls, 1 hour every 6 (+/-2) weeks works well. For on-demand calls, the typical pattern is that a founder goes 3-6 months without needing any input, and then something comes up and we have multiple calls and interactions over a short period of time. Again, whatever works best for you.
 
-22. Please send calendar invites with meeting links for all conversations. 
+23. Please send calendar invites with meeting links for all conversations. 
 
     **Investor Updates**
 
-23. I strongly recommend that you send out monthly investor updates -- it's the one thing I ask for as an investor. It's hard for me to help you if I don't know what's going on.
+24. I strongly recommend that you send out monthly investor updates -- it's the one thing I ask for as an investor. It's hard for me to help you if I don't know what's going on.
 
-24. Quite apart from my help and input, writing investor updates helps you zoom out on the business, and it builds confidence across your investor network for future fund-raising conversations. 
+25. Quite apart from my help and input, writing investor updates helps you zoom out on the business, and it builds confidence across your investor network for future fund-raising conversations. 
 
      **Fund-Raising and Syndicates**
 
-25. Although I write small cheques, I do like to participate across multiple rounds of financing, and appreciate being given the opportunity to do so.
+26. Although I write small cheques, I do like to participate across multiple rounds of financing, and appreciate being given the opportunity to do so.
 
-26. I have a network of fellow angel investors and I manage a small syndicate. If you're raising capital and if I think your company will be a good fit for my syndicate, I may be able to mobilize some extra money for you. Let me know if this option ever makes sense.
+27. I have a network of fellow angel investors and I manage a small syndicate. If you're raising capital and if I think your company will be a good fit for my syndicate, I may be able to mobilize some extra money for you. Let me know if this option ever makes sense.
 
-27. I think I'm exceptionally good at helping companies "tell their story", so if you're getting ready to raise a round, let me know and we can craft a pitch together.
+28. I think I'm exceptionally good at helping companies "tell their story", so if you're getting ready to raise a round, let me know and we can craft a pitch together.
 
-   **Emotional Support**
+    **Emotional Support**
 
-28. Being a founder is incredibly hard. One of the best ways I add value is by offering an empathetic view from somebody who has been there and done that.
+29. Being a founder is incredibly hard. One of the best ways I add value is by offering an empathetic view from somebody who has been there and done that.
 
-29. You can be vulnerable with me, ask for help, share your worries -- I won't judge you, blame you, criticize you, discourage you, or write you off. I will try to help. I'm on your side.
+30. You can be vulnerable with me, ask for help, share your worries -- I won't judge you, blame you, criticize you, discourage you, or write you off. I will try to help. I'm on your side.
 
-30. Fundamentally, I believe you are the best person(s) to run the company; that's why I invested. My job is to support you and be steady: keep you grounded when you're euphoric, and lift you up when you're feeling down.
- 
+31. Fundamentally, I believe you are the best person(s) to run the company; that's why I invested. My job is to support you and be steady: keep you grounded when you're euphoric, and lift you up when you're feeling down.
+
     **References and Introductions**
 
-31. I have a number of VC connections in Canada and the USA, and can make introductions when appropriate. 
+32. I have a number of VC connections in Canada and the USA, and can make introductions when appropriate. 
 
-32. I don't want to spam you with unwanted intros, but am happy to connect you with my other [portfolio founders](https://abrahamthomas.info/portfolio-companies/) if you'd like; let me know.
+33. I don't want to spam you with unwanted intros, but am happy to connect you with my other [portfolio founders](https://abrahamthomas.info/portfolio-companies/) if you'd like; let me know.
 
-33. I'd like to expand my network of angels and VCs, and I may ask you for intros to your other investors, if you're okay with that.
+34. I'd like to expand my network of angels and VCs, and I may ask you for intros to your other investors, if you're okay with that.
 
-34. My reputation is my best (and only) currency as a small angel investor. I deeply appreciate any positive references or introductions you provide. A testimonial, like, tweet or Linked-In post goes a long way!
+35. My reputation is my best (and only) currency as a small angel investor. I deeply appreciate any positive references or introductions you provide. A testimonial, like, tweet or Linked-In post goes a long way!
 
-35. I'm always keen to meet talented founders building exciting companies. If you meet or know of other pre-seed or seed stage founders who are raising money, please send them my way!
+36. I'm always keen to meet talented founders building exciting companies. If you meet or know of other pre-seed or seed stage founders who are raising money, please send them my way!
 
 <br/>
 
