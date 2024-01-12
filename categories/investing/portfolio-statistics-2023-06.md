@@ -16,15 +16,13 @@ title: Portfolio Statistics · Abraham Thomas
 
 ### Overview
 
-This is the update for December 2023.  You can read the update for June 2023 [here](/portfolio-statistics-2023-06).
+As of June 2023, I've angel invested in 31 companies.
 
-As of December 2023, I've angel invested in 33 companies.
+7 companies have had definite outcomes: 1 substantial exit at ~40x, 3 exits that each returned ~1x, and 3 failures.
 
-9 companies have had definite outcomes: 1 substantial exit at ~40x, 1 okay exit at ~6x, 3 exits that each returned ~1x, and 4 failures.
+24 companies are "live".  Of these, there are 5 companies that I'm confident will each return at least 10x; there are 8 others that I am pessimistic about; and it's too early to tell for the remaining 11.
 
-24 companies are "live".  Of these, there are 5 companies that I'm confident will each return at least 10x; there are 6 others that I am pessimistic about; and it's too early to tell for the remaining 13.
-
-As of December 2023, my angel investments have a blended IRR of 31%.  Company marks are based on the latest priced round; I've marked down companies where I don't think the prices reflect true valuations.
+As of June 2023, my angel investments have a blended IRR of 33%.  
 
 ---
 
@@ -32,17 +30,16 @@ As of December 2023, my angel investments have a blended IRR of 31%.  Company ma
 
 ### Funnel
 
-My dealflow funnel over 2023 looked like this:
+My dealflow funnel over 2022 looked like this:
 
-* Decks reviewed: **548**
-* Shallow dive: **72**
-* First call: **33**
-* Deep dive: **27**
-* Second call: **9**
-* Investments: **4** 
+* Decks reviewed: **372**
+* First call: **53**
+* Deep dives: **31**
+* Second call: **15**
+* Final diligence: **10**
+* Investments: **6** 
 
-My goal for 2024 is to see the same number of companies -- 500 or so -- but move up the quality ladder so that at least 50-75 are worthy of a deep dive. I'd like to make 6-8 investments over the year.
-
+My goal for 2023 is to see at least 500 companies, and hopefully make 6-8 investments.
 
 ---
 
@@ -53,12 +50,12 @@ My goal for 2024 is to see the same number of companies -- 500 or so -- but move
 
 Here are some ways to break down my portfolio:
 
-* Geography: 12 Canada, 12 global -- but most teams are distributed 
-* Stage: 13 pre-seed, 11 seed 
-* Sector: 7 MAD stack, 3 infrastructure, 4 fintech, 3 SaaS, 7 other
-* Demographics: 31 of 44 founders are from under-represented groups, including 16 of 24 CEOs
+* Geography: 11 Canada, 11 global -- but most teams are distributed 
+* Stage: 12 pre-seed, 10 seed 
+* Sector: 6 MAD stack, 3 infrastructure, 3 fintech, 3 SaaS, 7 other
+* Demographics: 28 of 41 founders are from under-represented groups
 
-(Note that this includes the 24 companies in cohorts II and III, but not the 9 companies in cohort I; see below.)
+(Note that this includes the 22 companies in cohorts II and III, but not the 9 companies in cohort I; see below.)
 
 ---
 
@@ -67,7 +64,7 @@ Here are some ways to break down my portfolio:
 
 ### Performance
 
-As of December 2023, my angel investments have a blended IRR of 31%.  
+As of June 2023, my angel investments have a blended IRR of 33%.  
 
 My angel investing career has had several distinct phases.  Combining them into a single portfolio isn't as informative as breaking them into cohorts, which I do below.  These cohorts analogize nicely to "traditional" venture fund cycles.
 
@@ -82,11 +79,11 @@ I made my first arms-length angel investment in 2014, while running my own start
 
 * Companies: **9**  
 * Cheques: **14**  
-* TVPI: **5.9**  
-* DPI: **4.1**  
-* IRR: **36%**  
+* TVPI: **5.7**  
+* DPI: **3.6**  
+* IRR: **37%**  
 
-**Key learnings:** power law outcomes; pay attention to deal mechanics; DPI is more important than MOIC or IRR; avoid uncompensated risk (eg FX).
+**Key learnings:** power law outcomes; pay attention to deal mechanics; DPI is more important than MOIC or IRR.
 
 
 ----
@@ -100,9 +97,9 @@ Between 2019 and 2021 I wrote 22 cheques into 14 companies, while running Quandl
 
 * Companies: **14**  
 * Cheques: **22**  
-* TVPI: **1.8**  
+* TVPI: **1.7**  
 * DPI: **0.1**  
-* IRR: **28%**  
+* IRR: **32%**  
 
 **Key learnings:** entry price matters; avoid both fomo and value investing; consensus decisions lead to mediocre outcomes.  
 
@@ -114,13 +111,13 @@ Between 2019 and 2021 I wrote 22 cheques into 14 companies, while running Quandl
 
 Starting in 2022, I became more intentional about angel investing; this coincided with my moving on from Quandl and Nasdaq.  I now have a tighter thesis, portfolio model, and dealflow channels.  
 
-* Companies: **10**  
-* Cheques: **12**  
-* TVPI: **1.2**  
+* Companies: **8**  
+* Cheques: **9**  
+* TVPI: **1.3**  
 * DPI: **0.0**  
-* IRR: **21%**  
+* IRR: **33%**  
 
-**Key learnings:** differentiation matters; tech beats hype; reason from first principles; trust your judgement; don't sweat the J-curve.
+**Key learnings:** differentiation matters; tech beats hype; reason from first principles; trust your judgement.
 
 ----
 
