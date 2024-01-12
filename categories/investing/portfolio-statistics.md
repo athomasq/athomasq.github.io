@@ -18,13 +18,12 @@ title: Portfolio Statistics · Abraham Thomas
 
 This is the update for December 2023.  You can read the update for June 2023 [here](/portfolio-statistics-2023-06).
 
-As of December 2023, I've angel invested in 33 companies.
+As of December 2023, I've angel invested in 33 companies, and my investments have a blended IRR of 31%. (Company marks are based on the latest priced round; I've marked down companies where I don't think prices reflect true valuations.)
 
 9 companies have had definite outcomes: 1 substantial exit at ~40x, 1 okay exit at ~6x, 3 exits that each returned ~1x, and 4 failures.
 
 24 companies are "live".  Of these, there are 5 companies that I'm confident will each return at least 10x; there are 6 others that I am pessimistic about; and it's too early to tell for the remaining 13.
 
-As of December 2023, my angel investments have a blended IRR of 31%.  Company marks are based on the latest priced round; I've marked down companies where I don't think the prices reflect true valuations.
 
 ---
 
@@ -41,7 +40,7 @@ My dealflow funnel over 2023 looked like this:
 * Second call: **9**
 * Investments: **4** 
 
-My goal for 2024 is to see the same number of companies -- 500 or so -- but move up the quality ladder so that at least 50-75 are worthy of a deep dive. I'd like to make 6-8 investments over the year.
+My goal for 2024 is to see the same number of companies -- 500 or so -- but cultivate higher-quality sources of deal flow, such that at least 50-75 companies are worthy of a deep dive. I'd like to make 6-8 investments over the year.
 
 
 ---
@@ -78,7 +77,7 @@ My angel investing career has had several distinct phases.  Combining them into 
 
 ### Cohort I: 2014 to 2017 (India)
 
-I made my first arms-length angel investment in 2014, while running my own startup Quandl.  Over the next 3 years I invested in 8 more companies.  These were all small cheques into India-based startups, about half direct and half via syndicate.  I didn't follow any systematic strategy for selection or portfolio construction; this was a very *ad hoc* portfolio.
+I made my first arms-length angel investment in 2014, while running my own startup Quandl.  Over the next 3 years I invested in 8 more companies.  These were all small cheques into India-based startups, about half direct and half via syndicate.  I didn't follow any systematic strategy for selection or portfolio construction; this was a very *ad hoc* portfolio.  
 
 * Companies: **9**  
 * Cheques: **14**  
@@ -96,7 +95,7 @@ I made my first arms-length angel investment in 2014, while running my own start
 
 ### Cohort II: 2019 to 2021 (global)
 
-Between 2019 and 2021 I wrote 22 cheques into 14 companies, while running Quandl post its acquistion by Nasdaq.  These were slightly larger cheques, but with a different geographical focus than cohort I: Canada, the US and Europe.  These investments were somewhat *ad hoc* initially, but got more intentional towards the end.
+Between 2019 and 2021 I wrote 22 cheques into 14 companies, while running Quandl post its acquisition by Nasdaq.  These were slightly larger cheques, but with a different geographical focus than cohort I: Canada, the US and Europe.  These investments were somewhat *ad hoc* initially, but got more intentional towards the end.
 
 * Companies: **14**  
 * Cheques: **22**  
