@@ -37,7 +37,7 @@ I'm fortunate to be part of the following companies:
 🏡 **[BuyProperly](https://buyproperly.ca)**: marketplace for fractional assets  
 🏗️ **[Citylitics](https://citylitics.com)**: infrastructure data as a service  
 🤝 **[AcuSpire](https://acuspire.ai)**: employment matching platform  
-💡 **[Getware](https://www.getware.ai)**: surfacing implicit product insights  
+💡 **Getware**: surfacing implicit product insights  [EXIT]
 🚚 **Erly**: distributed fulfillment network [EXIT]  
 💳 **[Klanto](https://www.klanto.com)**: spend management platform  
 💵 **[Requity](https://www.requityhomes.com)**: rent-to-own for real estate  
@@ -51,6 +51,8 @@ I'm fortunate to be part of the following companies:
 🍅 **[FarmTheory](https://www.farmtheory.in/home)**: marketplace for ugly produce  
 🏩 **[Kordie](https://www.kordie.com)**: upskilling the hospitality industry  
 📞 **[Productive](https://productive.ai/)**: an API to the content of your call  
+🍽️ **[REMS](https://www.remshospitality.com)**: data insights for restaurants   
+🖇️ **[Paperstack](https://www.paperstack.ai)**: financial OS for retail brands  
 🤐 **Stealth**: stealthy mcstealthstartup  
 
 <!-- For a more detailed description of these companies and why I invested, [click here](/portfolio-detailed).-->
