@@ -37,7 +37,7 @@ I'm fortunate to be part of the following companies:
 🏡 **[BuyProperly](https://buyproperly.ca)**: marketplace for fractional assets  
 🏗️ **[Citylitics](https://citylitics.com)**: infrastructure data as a service  
 🤝 **[AcuSpire](https://acuspire.ai)**: employment matching platform  
-💡 **Getware**: surfacing implicit product insights  [EXIT]
+💡 **Getware**: surfacing implicit product insights  [EXIT]  
 🚚 **Erly**: distributed fulfillment network [EXIT]  
 💳 **[Klanto](https://www.klanto.com)**: spend management platform  
 💵 **[Requity](https://www.requityhomes.com)**: rent-to-own for real estate  
