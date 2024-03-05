@@ -36,7 +36,7 @@ More about [my investing](https://abrahamthomas.info/investing/).
 &nbsp;  
 
 🚀 About me:
-* I co-founded [Quandl](https://www.quandl.com/), a data company acquired by [Nasdaq](https://www.nasdaq.com)  
+* I co-founded [Quandl](https://www.quandl.com/), a data company [acquired by Nasdaq](https://www.ft.com/content/e6de9e30-f743-11e8-af46-2022a0b02a6c)  
 * I was a [portfolio manager](https://abrahamthomas.info/the-accidental-investor/) at a major quant hedge fund  
 * I studied [engineering physics](https://en.wikipedia.org/wiki/Engineering_physics) at IIT Bombay  
 * As a child, I [escaped a war zone](https://abrahamthomas.info/invasion/) in the hold of a cargo ship   
