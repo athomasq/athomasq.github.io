@@ -30,15 +30,20 @@ I grew up in India, but live in Toronto, Canada.  I have a degree in Engineering
 <br/>
 
 
-Hi, I'm Abraham.  
+Hi, I'm Abraham. Today:  
 
 * I angel invest in tech startups  
-* I advise startups on execution and growth
-* I consult for institituonal investors on data strategy
-* I write Pivotal, a newsletter on data, investing and startups
-* I co-founded Quandl, a data company acquired by Nasdaq  
-* I was a portfolio manager at a major quant hedge fund  
-* I studied engineering physics at IIT Bombay  
+* I advise startups on execution and growth  
+* I consult for institutional investors on their data strategy  
+* I write Pivotal, a newsletter on data, investing and startups  
+
+In the past:
+
+* I co-founded Quandl, a venture-backed tech startup that was acquired by Nasdaq  
+* I was a portfolio manager at Simplex, one of Asia's oldest quant hedge funds  
+* I grew up in India, but have lived in Toronto for the last few years   
+* I have a degree in Engineering Physics from IIT Bombay  
+* As a child, I [escaped a war zone](https://abrahamthomas.info/invasion/) in the hold of a cargo ship   
 
 Email me: <u><a href="mailto:at@abrahamthomas.info">at@abrahamthomas.info</a></u>
 
@@ -65,6 +70,15 @@ You can learn more on my [investing page](https://abrahamthomas.info/investing/)
 
 
 💡 I advise  
+
+You can learn more on my [advisory page]
+
+
+💪
+
+🦉
+
+
 
 
 ✍️ I <a href="https://pivotal.substack.com">write essays</a> on data, markets and technology. Samples:    
