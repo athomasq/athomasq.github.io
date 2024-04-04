@@ -30,7 +30,7 @@ I grew up in India, but live in Toronto, Canada.  I have a degree in Engineering
 <br/>
 
 
-Hi, I'm Abraham. Today:  
+Hi, I'm Abraham.  
 
 * I angel invest in tech startups  
 * I advise startups on execution and growth  
@@ -39,8 +39,8 @@ Hi, I'm Abraham. Today:
 
 In the past:
 
-* I co-founded Quandl, a venture-backed tech startup that was acquired by Nasdaq  
-* I was a portfolio manager at Simplex, one of Asia's oldest quant hedge funds  
+* I co-founded Quandl, a VC-backed tech startup acquired by Nasdaq  
+* I was a quant and portfolio manager at Simplex, a large hedge fund 
 * I grew up in India, but have lived in Toronto for the last few years   
 * I have a degree in Engineering Physics from IIT Bombay  
 * As a child, I [escaped a war zone](https://abrahamthomas.info/invasion/) in the hold of a cargo ship   
@@ -72,6 +72,8 @@ You can learn more on my [investing page](https://abrahamthomas.info/investing/)
 💡 I advise  
 
 You can learn more on my [advisory page]
+
+🚀 
 
 
 💪
