@@ -13,18 +13,17 @@ title: Startup Advisory · Abraham Thomas
 Startups are all about execution.  I help founders **level up their execution** through relevant, concrete, actionable advice, delivered with alignment and empathy.
 
 
-## Why Me?
+### Why Me?
 
 Because unlike most advisors, I've walked the walk, not just talked the talk.  
 
 I'm the co-founder of a successful venture-backed tech startup, and can advise on every aspect of the startup journey: from inception, through multiple phases of growth and financing, all the way to exit and beyond.  
 
-I draw on years of experience in the trenches actually building and selling products, hiring and empowering teams, raising capital and negotiating deals, designing and executing growth strategies, and more -- *as a founder*, not just an operator.  
+I draw on years of experience in the trenches actually building and selling products, hiring and empowering teams, raising capital and negotiating deals, designing and executing growth strategies, and more -- **as a founder**, not just an operator.  
 
 I remain engaged with the ecosystem and with current best practices through my subsequent work with dozens of founders as a very active and involved angel investor, startup advisor, and venture partner.  
 
-
-## How I Help
+### How I Help
 
 I'm deeply familiar with both the low-level tactical problems and daily grind of running a startup with all its attendant uncertainty and scarcity; and the high-level challenges and imperatives of building a business that matters over the long term.  
 
@@ -44,8 +43,7 @@ Here are a few categories where I have especial expertise:
 
 **Personal Development:** Being a founder is a long and hard journey, and the best founders level up constantly and consistently.  I can help you with that.
 
-
-## My Advisory Philosophy
+### My Advisory Philosophy
 
 Most advisors are terrible.  They take advantage of inexperienced (and some experienced) founders; they give advice that is not just bad, but actively counter-productive; they waste founder time with irrelevancies; they add friction, confusion, and negative energy. 
 
@@ -55,7 +53,7 @@ I'm selective about my advisory clients.  I want to spend my bandwidth on compan
 
 I typically work with startups between 100k and 10M in revenue: roughly, Seed to Series C, though some of my advisees don't want or need to raise venture capital.  I mostly work with saas, data and marketplace startups; mostly B2B, some consumer; and mostly North America, some Europe / UK.
 
-# Contact Me
+### Contact Me
 
 If this all sounds interesting, I encourage you to reach out: my email is [at@abrahamthomas.info](mailto:at@abrahamthomas.info)
 
