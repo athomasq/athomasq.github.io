@@ -11,7 +11,10 @@ title: Startup Advisory · Abraham Thomas
 <br/>
 
 
-Most advisoers are terribel.  I'm not most advisers. 
+Most advisors are terrible.  They give advice that is not just bad, but actively counter-productive; they take advantage of inexperienced (and experienced) founders; they waste founder time and  add negative value -- sometimes all of the above.
+
+
+I'm not most advisers. 
 
 Been there done that
 
