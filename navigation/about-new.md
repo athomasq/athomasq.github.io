@@ -13,8 +13,8 @@ title: About · Abraham Thomas
 👋🏼 **Hi, I'm Abraham.**  
 
 * I [angel invest](https://abrahamthomas.info/investing/) in tech startups  
-* I advise startups on execution and growth  
-* I consult for institutional investors on their data strategy  
+* I [advise](/advisory) startups on execution and growth  
+* I [consult](/consulting) for institutional investors on their data strategy  
 * I [write](https://abrahamthomas.info/writing/) Pivotal, a newsletter on data, investing and startups  
 
 Previously:
@@ -56,7 +56,7 @@ You can learn more on my [investing page](https://abrahamthomas.info/investing/)
 
 * I can help you with almost any tactical or strategic challenge you're facing.  I'm especially strong on growth strategy; building a world-class team and culture; fund-raising; narrative creation and positioning; and personal development. 
 
-I'm currently open to advisory opportunities, but am selective about who I work with.  Learn more on my advising page.
+I'm currently open to advisory opportunities, but am selective about who I work with.  Learn more on my [advising page](/advisory).  
 
 <br/>
 
@@ -68,11 +68,11 @@ I'm currently open to advisory opportunities, but am selective about who I work 
 
 * I specialize in helping firms that have historically been more fundamentals-driven in their approach, use data -- especially new sources of data and new use cases for data -- more effectively across every aspect of their investing operations.  
 
-* As a former buy-side portfolio manager at a quant hedge fund, who then co-founded Quandl, the firm that pioneered "alternative data in finance", I have expert-level knowledge of the people, processes and technology required to build competence in modern data-driven investing.
+* As a former buy-side portfolio manager at a large quant hedge fund, who then co-founded Quandl, the firm that pioneered "alternative data in finance", I have expert-level knowledge of what it takes to excel as a modern data-driven investor.  
 
-* I work primarily with large public markets investors -- hedge funds, asset managers, pension plans -- but have also consulted across PE, VC, RE and other asset classes.
+* I work primarily with large public markets investors -- hedge funds, asset managers, pension plans -- but have also consulted across PE, VC, and other asset classes.  
 
-To learn more, please visit my consulting page. 
+To learn more, please visit my [consulting page](/consulting).  
 
 
 <br/>

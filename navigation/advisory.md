@@ -13,6 +13,19 @@ title: Startup Advisory · Abraham Thomas
 
 Most advisoers are terribel.  I'm not most advisers. 
 
+Been there done that
+
+Execute
+
+Level up as 
+
+Especial expertise
+
+connections
+
+
+
+
 typically between seed and series B
 
 testimonisal
