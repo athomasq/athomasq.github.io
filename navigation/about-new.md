@@ -50,7 +50,7 @@ You can learn more on my [investing page](https://abrahamthomas.info/investing/)
 <br/>
 
 
-🚀 I advise a small number of high-growth SaaS and data startups.
+🚀 I **advise high-growth SaaS and data startups** on execution.
 
 * I help founders execute more effectively, drawing on my years of experience as co-founder of a successful venture-backed startup, plus my subsequent work with dozens of founders as an active and involved angel investor.
 
@@ -64,7 +64,7 @@ I'm currently open to advisory opportunities, but am selective about who I work 
 
 <br/>
 
-💡 I advise institutional investors on their data strategy.
+💡 I **advise institutional investors** on data strategy.
 
 * I specialize in helping firms that have historically been more fundamentals-driven in their approach, use data -- especially new sources of data and new use cases for data -- more effectively across every aspect of their investing operations.  
 
@@ -83,7 +83,7 @@ To learn more, please visit my consulting page.
 
 
 
-✍️ I write <a href="https://pivotal.substack.com">Pivotal</a>, a well-regarded newsletter on data, investing and startups.  Here are some recent essays:
+✍️ I write <a href="https://pivotal.substack.com">Pivotal</a>, a well-regarded **newsletter on data, investing and startups**.  Here are some recent essays:
 
 * [The Economics of Data Businesses](https://pivotal.substack.com/p/economics-of-data-biz)  
 * [Minsky Moments in Venture Capital](https://pivotal.substack.com/p/minsky-moments-in-venture-capital)  
@@ -99,7 +99,7 @@ You can find more articles on my [writing page](https://abrahamthomas.info/writi
 <br/> 
 
 
-📚  Here's a bit more about me:
+📚  Here's a bit **more about me**:
 
 * [Interests, both personal and professional](https://abrahamthomas.info/interests/)
 * [Travel photography](https://abrahamthomas.info/gallery/)
@@ -118,7 +118,7 @@ You can find more articles on my [writing page](https://abrahamthomas.info/writi
 
 
 
-🧭 Here are some things I believe:  
+🧭 Here are some **things I believe**:  
 
 * ABL: Always Be Learning.  
 * Every skill is a muscle to be exercised.  
