@@ -10,40 +10,20 @@ title: About · Abraham Thomas
 
 <br/>
 
-👋🏼 Hi, I'm Abraham.
+👋🏼 Hi, I'm Abraham.  
 
-&nbsp;  
-
-I'm an angel investor in tech startups.  I also advise startups on execution and growth.  I consult with select institutional investors on their data strategy.  And I write Pivotal, a well-regarded newsletter on data, investing and startups.
-
-I was previously the co-founder and chief data officer of Quandl, a venture-backed tech startup that was acquired by Nasdaq in a successful and substantial exit.  Quandl built a b2b data marketplace and pioneered the category of alternative data in finance.
-
-Before Quandl, I was a quant portfolio manager at Simplex, one of Asia's oldest and largest systematic hedge funds.  
-
-I grew up in India, but live in Toronto, Canada.  I have a degree in Engineering Physics from IIT Bombay.
-
-
-&nbsp;  
-
-----
-
-<br/>
-
-
-Hi, I'm Abraham.  
-
-* I angel invest in tech startups  
+* I [angel invest](https://abrahamthomas.info/investing/) in tech startups  
 * I advise startups on execution and growth  
 * I consult for institutional investors on their data strategy  
-* I write Pivotal, a newsletter on data, investing and startups  
+* I [write](https://abrahamthomas.info/writing/) Pivotal, a newsletter on data, investing and startups  
 
 In the past:
 
-* I co-founded Quandl, a VC-backed tech startup acquired by Nasdaq  
-* I was a quant and portfolio manager at Simplex, a large hedge fund 
+* I co-founded [Quandl](https://data.nasdaq.com), a VC-backed tech startup [acquired by Nasdaq](https://www.ft.com/content/e6de9e30-f743-11e8-af46-2022a0b02a6c)    
+* I was a quant trader and portfolio manager at [Simplex](https://www.simplexasset.com), a large hedge fund 
+* I have a B.Tech. in [Engineering Physics](https://en.wikipedia.org/wiki/Engineering_physics) from [IIT Bombay](https://www.iitb.ac.in)  
 * I grew up in India, but have lived in Toronto for the last few years   
-* I have a degree in Engineering Physics from IIT Bombay  
-* As a child, I [escaped a war zone](https://abrahamthomas.info/invasion/) in the hold of a cargo ship   
+
 
 Email me: <u><a href="mailto:at@abrahamthomas.info">at@abrahamthomas.info</a></u>
 
@@ -69,9 +49,50 @@ You can learn more on my [investing page](https://abrahamthomas.info/investing/)
 &nbsp;  
 
 
-💡 I advise  
+🚀
+
+
+
+I'm an expert in 
+
+I spent 
+
+I work with a small number of startups where I help the founders execute effectively. 
+
+I'm an enge
+
+data
+
+I'm currently open to advisory opportunities
+
+typically between seed and series B
+
+testimonisal
+
+
+
+I'm 
+
+buliding a rowld class team and culture 
+excellence in e
+finance strategi, fundraising
+
+marketing and growth
 
 You can learn more on my [advisory page]
+
+💡 I advise institutional investors on how to use data more effectively across every aspect of their inveseting operations.  
+
+These are typically in the form of short to medium term consulting engagements.
+
+data pipelines
+team nbuild and tech
+data sources'
+
+learn more on my consutling page
+
+
+
 
 🚀 
 
@@ -114,6 +135,9 @@ More about [my writing](https://abrahamthomas.info/writing/).
 * [Media coverage](https://abrahamthomas.info/press/)
 * [Talks and seminars](https://abrahamthomas.info/talks/)
 * [My guide to visiting Japan](https://abrahamthomas.gumroad.com/l/wwrni)
+
+* As a child, I [escaped a war zone](https://abrahamthomas.info/invasion/) in the hold of a cargo ship   
+
 
 &nbsp;  
 
