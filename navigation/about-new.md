@@ -13,14 +13,14 @@ title: About · Abraham Thomas
 👋🏼 **Hi, I'm Abraham.**  
 
 * I [angel invest](https://abrahamthomas.info/investing/) in tech startups  
-* I [advise](/advisory) startups on execution and growth  
-* I [consult](/consulting) for institutional investors on their data strategy  
+* I [advise](https://abrahamthomas.info/advisory) startups on execution and growth  
+* I [consult](https://abrahamthomas.info/consulting) for institutional investors on their data strategy  
 * I [write](https://abrahamthomas.info/writing/) Pivotal, a newsletter on data, investing and startups  
 
 Previously:
 
 * I co-founded [Quandl](https://data.nasdaq.com), a VC-backed tech startup [acquired by Nasdaq](https://www.ft.com/content/e6de9e30-f743-11e8-af46-2022a0b02a6c)    
-* I was a quant trader and portfolio manager at a large hedge fund 
+* I was a trader and portfolio manager at a large quant hedge fund 
 * I have a B.Tech. in [Engineering Physics](https://en.wikipedia.org/wiki/Engineering_physics) from [IIT Bombay](https://www.iitb.ac.in)  
 * I grew up in India, but have lived in Toronto for the last few years   
 
@@ -35,11 +35,12 @@ Email me: <u><a href="mailto:at@abrahamthomas.info">at@abrahamthomas.info</a></u
 
 🌱 I'm an active and successful **angel investor** in tech startups:
 
-* [Portfolio companies](https://abrahamthomas.info/portfolio-companies/)
-* [Portfolio performance](https://abrahamthomas.info/portfolio-statistics/)
 * [What I invest in](https://abrahamthomas.info/angel-criteria/)
 * [How to pitch me](https://abrahamthomas.info/pitch-me/)
 * [Founder testimonials](https://abrahamthomas.info/testimonials/)  
+* [Portfolio companies](https://abrahamthomas.info/portfolio-companies/)
+* [Portfolio performance](https://abrahamthomas.info/portfolio-statistics/)
+* [Investment syndicate](https://venture.angellist.com/abraham-thomas/syndicate)
 
 You can learn more on my [investing page](https://abrahamthomas.info/investing/).  I welcome cold pitches! 
 
@@ -56,7 +57,7 @@ You can learn more on my [investing page](https://abrahamthomas.info/investing/)
 
 * I can help you with almost any tactical or strategic challenge you're facing.  I'm especially strong on growth strategy; building a world-class team and culture; fund-raising; narrative creation and positioning; and personal development. 
 
-I'm currently open to advisory opportunities, but am selective about who I work with.  Learn more on my [advising page](/advisory).  
+I'm currently open to advisory opportunities, but am selective about who I work with.  Learn more on my [advising page](https://abrahamthomas.info/advisory).  
 
 <br/>
 
@@ -72,7 +73,7 @@ I'm currently open to advisory opportunities, but am selective about who I work 
 
 * I work primarily with large public markets investors -- hedge funds, asset managers, pension plans -- but have also consulted across PE, VC, and other asset classes.  
 
-To learn more, please visit my [consulting page](/consulting).  
+To learn more, please visit my [consulting page](https://abrahamthomas.info/consulting).  
 
 
 <br/>
