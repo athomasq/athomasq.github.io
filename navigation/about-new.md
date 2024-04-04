@@ -91,7 +91,9 @@ data sources'
 
 learn more on my consutling page
 
-
+my clients
+practice areas
+my engagement model
 
 
 🚀 
