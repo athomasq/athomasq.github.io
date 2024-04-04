@@ -16,7 +16,7 @@ title: Consulting · Abraham Thomas
 
 * I specialize in helping firms that have historically been more fundamentals-driven in their approach, use data -- especially new sources of data and new use cases for data -- more effectively across every aspect of their investing operations.  
 
-* I work primarily with large public markets investors -- hedge funds, asset managers, investment banks, pension plans -- but have also consulted across PE, VC, and other asset classes.  I occasionally work with sell-side research and consulting firms.
+* I work primarily with large public markets investors -- hedge funds, asset managers, investment banks, pension plans, sovereign wealth funds -- but have also consulted across PE, VC, and other asset classes.  I occasionally work with sell-side research and consulting firms.
 
 ## Practice Areas
 
@@ -33,6 +33,8 @@ title: Consulting · Abraham Thomas
 * Many data projects fail.  I will not hesitate to advise you to pull the plug on initiatives that, in my expert judgement, are unlikely to drive long-term performance for your firm.  
 
 * Most of my engagements are in the form of short to medium term advisory agreements.  I'm not in the market for full-time employment at this time.  
+
+<!-- * My services are not cheap.  I am one of the world's leading experts on alternative data and data-driven investing, and my compensation reflects that.-->   
 
 ## Contact Me
 
