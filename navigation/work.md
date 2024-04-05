@@ -54,7 +54,7 @@ I am an expert consultant on the topic of data, especially as it pertains to cap
 💱 Data advantages and using data to generate alpha  
 👩‍💻 Designing, building and scaling effective data organizations  
 🏗️ Modern data infrastructure and technical approaches  
-🤖 The interplay of data and LLMs in the ML-AI-Data stack
+🤖 LLMs and the ML-AI-Data stack. 
 🏭 Managing data teams, processes, platforms and operations  
 🚚 Specific datasets, commercials, usage and opportunities  
 ☑️ Expert evaluations and diligence on data-related ventures   
