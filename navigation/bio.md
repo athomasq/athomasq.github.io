@@ -29,7 +29,7 @@ title: Bio · Abraham Thomas
 
 **I was 41** when Quandl was acquired by [Nasdaq](https://www.nasdaq.com/), in a successful and substantial exit.  
 
-**At 44** I moved on from my time at Quandl (now known as Nasdaq Data), and embarked on a new adventure as an angel investor, advisor and writer. I'm excited for what the future holds!
+**At 44**, I moved on from my time at Quandl (now known as Nasdaq Data), and embarked on a new adventure as an angel investor, advisor and writer. I'm excited for what the future holds!
 
 ----
 
