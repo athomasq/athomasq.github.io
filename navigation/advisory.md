@@ -58,6 +58,8 @@ I'm selective about my advisory clients.  I want to spend my bandwidth on compan
 
 I typically work with startups between 100k and 10M in revenue: roughly, Seed to Series C (though some of my advisees don't want or need to raise venture capital).  I mostly work with saas, data and marketplace startups; mostly B2B, some consumer; and mostly North America, some Europe.
 
+<br/>
+
 ### Contact Me
 
 If this all sounds interesting, I encourage you to reach out: my email is [at@abrahamthomas.info](mailto:at@abrahamthomas.info)
