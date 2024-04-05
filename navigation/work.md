@@ -47,14 +47,14 @@ I'm availabe for additional board roles if the fit is right.
 <br/>
 
 
-### 🧭 Consulting and Advisory
+### 🧭 Consulting
 
 I am an expert consultant on the topic of data, especially as it pertains to capital markets and financial services.  Topics I regularly advise on include:
 
-🔢 Data and API business models and the data ecosystem  
 💱 Data advantages and using data to generate alpha  
 👩‍💻 Designing, building and scaling effective data organizations  
 🏗️ Modern data infrastructure and technical approaches  
+🤖 The interplay of data and LLMs in the ML-AI-Data stack
 🏭 Managing data teams, processes, platforms and operations  
 🚚 Specific datasets, commercials, usage and opportunities  
 ☑️ Expert evaluations and diligence on data-related ventures   
@@ -62,10 +62,10 @@ I am an expert consultant on the topic of data, especially as it pertains to cap
 🛰️ Alternative data and untapped sources of edge  
 🛠 Transitioning from qualitative to quantitative methods  
 ⛷ Staying agile at scale via people, processes and technology  
+🔢 Data and API business models and the data ecosystem  
 
-My clients are typically institutional investors: hedge funds, pension funds, sovereign wealth funds, venture capital firms and private equity firms.  
+My clients are typically institutional investors: hedge funds, pension funds, sovereign wealth funds, venture capital firms and private equity firms.  Read more on my [consulting page](/consulting).
 
-**Update:** I'm not currently taking on new advisory clients, but feel free to email me to say hi and get on the waitlist. 
 
 
 
