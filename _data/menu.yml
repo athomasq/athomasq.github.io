@@ -6,6 +6,8 @@
   link: /investing
 - name: Writing
   link: /writing
+- name: newline
+
 - name: Consulting
   link: /consulting
 - name: Advisory
@@ -30,5 +32,7 @@
   link: /press
 - name: newline
 
+- name: Bio
+  link: /bio
 - name: Contact
   link: /contact

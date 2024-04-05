@@ -10,41 +10,98 @@ title: About · Abraham Thomas
 
 <br/>
 
-👋🏼 Hi, I'm Abraham.
+👋🏼 **Hi, I'm Abraham.**  
 
-&nbsp;  
+* I [angel invest](https://abrahamthomas.info/investing/) in tech startups  
+* I [advise](https://abrahamthomas.info/advisory) startups on execution and growth  
+* I [consult](https://abrahamthomas.info/consulting) for institutional investors on their data strategy  
+* I [write](https://abrahamthomas.info/writing/) Pivotal, a newsletter on data, investing and startups  
 
-✍️ I <a href="https://pivotal.substack.com">write essays</a> on data, markets and technology. Samples:    
+Previously:
+
+* I co-founded [Quandl](https://data.nasdaq.com), a tech startup [acquired by Nasdaq](https://www.ft.com/content/e6de9e30-f743-11e8-af46-2022a0b02a6c)    
+* I was a trader and portfolio manager at a large quant hedge fund 
+* I have a B.Tech. in [Engineering Physics](https://en.wikipedia.org/wiki/Engineering_physics) from [IIT Bombay](https://www.iitb.ac.in)  
+* I grew up in India, but have lived in Toronto for the last few years   
+
+Email me: <u><a href="mailto:at@abrahamthomas.info">at@abrahamthomas.info</a></u>
+
+<br/>
+
+----
+
+<br/>
+
+
+🌱 I'm an active and successful **angel investor** in tech startups:
+
+* [What I invest in](https://abrahamthomas.info/angel-criteria/)
+* [How to pitch me](https://abrahamthomas.info/pitch-me/)
+* [Founder testimonials](https://abrahamthomas.info/testimonials/)  
+* [Portfolio companies](https://abrahamthomas.info/portfolio-companies/)
+* [Portfolio performance](https://abrahamthomas.info/portfolio-statistics/)
+* [Investment syndicate](https://venture.angellist.com/abraham-thomas/syndicate)
+
+You can learn more on my [investing page](https://abrahamthomas.info/investing/).  I welcome cold pitches! 
+
+<br/>
+
+----
+
+<br/>
+
+
+🚀 I **advise high-growth SaaS and data startups** on execution.
+
+* I help founders execute more effectively, drawing on my years of experience as co-founder of a successful venture-backed startup, plus my subsequent work with dozens of founders as an active and involved angel investor.
+
+* I can help you with almost any tactical or strategic challenge you're facing.  I'm especially strong on growth strategy; building a world-class team and culture; fund-raising; narrative creation and positioning; and personal development. 
+
+I'm currently open to advisory opportunities, but am selective about who I work with.  Learn more on my [advising page](https://abrahamthomas.info/advisory).  
+
+<br/>
+
+----
+
+<br/>
+
+💡 I **advise institutional investors** on data strategy.
+
+* I specialize in helping firms that have historically been more fundamentals-driven in their approach, use data -- especially new sources of data and new use cases for data -- more effectively across every aspect of their investing operations.  
+
+* As a former buy-side portfolio manager at a large quant hedge fund, who then co-founded Quandl, the firm that pioneered "alternative data in finance", I have expert-level knowledge of what it takes to excel as a modern data-driven investor.  
+
+* I work primarily with large public markets investors -- hedge funds, asset managers, pension plans -- but have also consulted across PE, VC, and other asset classes.  
+
+To learn more, please visit my [consulting page](https://abrahamthomas.info/consulting).  
+
+
+<br/>
+
+----
+
+<br/>
+
+
+
+✍️ I write <a href="https://pivotal.substack.com">Pivotal</a>, a well-regarded **newsletter on data, investing and startups**.  Here are some recent essays:
+
 * [The Economics of Data Businesses](https://pivotal.substack.com/p/economics-of-data-biz)  
 * [Minsky Moments in Venture Capital](https://pivotal.substack.com/p/minsky-moments-in-venture-capital)  
 * [The Perils of Prudence](https://pivotal.substack.com/p/the-perils-of-prudence)  
 * [Data in the Age of AI](https://pivotal.substack.com/p/data-in-the-age-of-ai)  
 
-More about [my writing](https://abrahamthomas.info/writing/).  
+You can find more articles on my [writing page](https://abrahamthomas.info/writing/).  
 
-&nbsp;  
+<br/>
 
-🌱 I <a href="https://abrahamthomas.info/investing">angel invest</a> in tech startups:
-* [Portfolio companies](https://abrahamthomas.info/portfolio-companies/)
-* [Portfolio performance](https://abrahamthomas.info/portfolio-statistics/)
-* [What I invest in](https://abrahamthomas.info/angel-criteria/)
-* [How to pitch me](https://abrahamthomas.info/pitch-me/)
-* [Founder testimonials](https://abrahamthomas.info/testimonials/)  
+----
 
-More about [my investing](https://abrahamthomas.info/investing/).  
+<br/> 
 
-&nbsp;  
 
-🚀 About me:
-* I co-founded [Quandl](https://www.quandl.com/), a data company [acquired by Nasdaq](https://www.ft.com/content/e6de9e30-f743-11e8-af46-2022a0b02a6c)  
-* I was a [portfolio manager](https://abrahamthomas.info/the-accidental-investor/) at a major quant hedge fund  
-* I studied [engineering physics](https://en.wikipedia.org/wiki/Engineering_physics) at IIT Bombay  
-* As a child, I [escaped a war zone](https://abrahamthomas.info/invasion/) in the hold of a cargo ship   
-* I live in Toronto, Canada  
+📚  Here's a bit **more about me**:
 
-&nbsp;  
-
-📚 And more:
 * [Interests, both personal and professional](https://abrahamthomas.info/interests/)
 * [Travel photography](https://abrahamthomas.info/gallery/)
 * [My ever-expanding bookshelf](https://abrahamthomas.info/library/)
@@ -52,10 +109,18 @@ More about [my investing](https://abrahamthomas.info/investing/).
 * [Media coverage](https://abrahamthomas.info/press/)
 * [Talks and seminars](https://abrahamthomas.info/talks/)
 * [My guide to visiting Japan](https://abrahamthomas.gumroad.com/l/wwrni)
+* [My childhood experience as a wartime refugee](https://abrahamthomas.info/invasion/)    
 
-&nbsp;  
+<br/>
 
-🧭 Here are some things I believe:  
+----
+
+<br/> 
+
+
+
+🧭 Here are some **things I believe**:  
+
 * ABL: Always Be Learning.  
 * Every skill is a muscle to be exercised.  
 * Changing your mind based on new data is a superpower.  
@@ -81,7 +146,12 @@ More about [my investing](https://abrahamthomas.info/investing/).
 * Big dreams, sincerity and enthusiasm are all good things.  
 * Optimists change the world.  
   	
-&nbsp;  
+<br/>
+
+----
+
+<br/> 
+
 
 Email me: <u><a href="mailto:at@abrahamthomas.info">at@abrahamthomas.info</a></u>
 
