@@ -10,7 +10,7 @@ title: Startup Advisory · Abraham Thomas
 
 <br/>
 
-Startups are all about execution.  I help founders **level up their execution** through relevant, concrete, actionable advice, delivered with alignment and empathy.
+Startups are all about execution.  I help founders **execute better** through relevant, concrete, actionable advice, delivered with alignment and empathy.
 
 <br/>
 
@@ -30,7 +30,7 @@ Because unlike most advisors, I've walked the walk, not just talked the talk.
 
 I'm deeply familiar with both the low-level tactical problems and daily grind of running a startup with all its attendant uncertainty and scarcity; and the high-level challenges and imperatives of building a business that matters over the long term.  
 
-Here are a few categories where I have especial expertise:
+Here are a few categories where I have particular expertise:
 
 * **Financing:** I'm exceptional at helping startups tell their stories to investors, and orchestrating successful financing rounds.  
 
@@ -42,19 +42,19 @@ Here are a few categories where I have especial expertise:
 
 * **Operations:** I help problem-solve at an extremely granular, day-to-day level, whether those are problems of people, technology, process, or something else.  
 
-* **Culture:** I believe culture is every successful startup's secret weapon; I help founders create outstanding organizational cultures with thoughtfulness and intentionality.  
+* **Culture:** Culture is every successful startup's secret weapon. I help founders create outstanding organizational cultures with thoughtfulness and intentionality.  
 
-* **Personal Development:** Being a founder is a long and hard journey, and the best founders level up constantly and consistently.  I can help you with that.  
+* **Personal Development:** The best founders level up constantly and consistently. I can show you how. 
 
 <br/>
 
 ### My Advisory Philosophy
 
-* Most advisors are terrible.  They take advantage of inexperienced (and experienced) founders; they give advice that is not just bad, but actively counterproductive; they waste founder time with irrelevancies; they add friction, confusion, and negative energy. 
+Most advisors are terrible.  They take advantage of inexperienced (and experienced) founders; they give advice that is not just bad, but actively counterproductive; they waste founder time with irrelevancies; they add friction, confusion, and negative energy. 
 
-* I'm not most advisors.  I pride myself on being off-the-charts valuable to the companies I serve; and if I'm not, I encourage founders to fire me.
+I'm not most advisors.  I pride myself on being off-the-charts valuable to the companies I serve; and if I'm not, I encourage founders to fire me.
 
-* I'm selective about my advisory clients.  I want to spend my bandwidth on companies where I can make a meaningful impact; if I don't think I can help you, I won't waste your time or mine.
+I'm selective about my advisory clients.  I want to spend my bandwidth on companies where I can make a meaningful impact; if I don't think I can help you, I won't waste your time or mine.
 
 I typically work with startups between 100k and 10M in revenue: roughly, Seed to Series C (though some of my advisees don't want or need to raise venture capital).  I mostly work with saas, data and marketplace startups; mostly B2B, some consumer; and mostly North America, some Europe.
 
