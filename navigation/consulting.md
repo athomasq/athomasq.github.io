@@ -10,7 +10,7 @@ title: Consulting · Abraham Thomas
 
 <br/>
 
-💡 I **advise institutional investors** on data strategy.
+I **advise institutional investors** on data strategy.
 
 <br/>
 
@@ -20,6 +20,8 @@ title: Consulting · Abraham Thomas
 
 * I work primarily with **large public markets investors** -- hedge funds, asset managers, investment banks, pension plans, sovereign wealth funds -- but have also consulted across PE, VC, and other asset classes.  
 
+<br/>
+
 ### Practice Areas
 
 * I am an expert on all aspects of **alternative data in finance** -- datasets that have not traditionally been used by investors, that nonetheless yield tangible, actionable, repeatable investment advantages if properly applied.  I **co-founded Quandl**, the tech startup that pioneered this category, and led all its data operations through and beyond its acquisition by Nasdaq.
@@ -27,6 +29,8 @@ title: Consulting · Abraham Thomas
 * I am extremely adept at setting up **scalable, robust, operationally excellent processes for capturing value from data**: from initial data evaluation, selection and acquisition; through data transformation and analysis; to analytics and insight generation; to deployment and ongoing maintenance.  
 
 * I move seamlessly between **high-level data strategy** --  building highly-competent teams, defining processes and deliverables, designing technology infrastructure, fostering a data-driven culture -- and **low-level data tactics** -- evaluating specific datasets, use cases, technical tools, people or skills.
+
+<br/>
 
 ### Engagement Model
 
@@ -38,6 +42,12 @@ title: Consulting · Abraham Thomas
 
 <!-- * My services are not cheap.  I am one of the world's leading experts on alternative data and data-driven investing, and my compensation reflects that.-->   
 
+<br/>
+
 ### Contact Me
 
-I prefer warm introductions for my consulting engagements.  You're welcome to email me, but in my experience, both you and I have greater credibility if we connect via trusted intermediaries.
+I prefer warm introductions for my consulting engagements.  You're welcome to [email me](mailto:at@abrahamthomas.info), but in my experience, both you and I have greater credibility if we connect via trusted intermediaries.
+
+<br/>
+<br/>
+<br/>
