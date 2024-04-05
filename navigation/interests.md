@@ -58,7 +58,7 @@ I'm currently exploring ideas in the AI/ML space, especially around data, data t
 
 🔑 New areas of abundance and scarcity, especially energy, hardware, and "atoms not bits".
 
-If you're working on any of these, I'd love to [hear from you](/mailto:at@abrahamthomas.info).
+If you're working on any of these, I'd love to [hear from you](mailto:at@abrahamthomas.info).
 
 
 
