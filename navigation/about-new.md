@@ -19,7 +19,7 @@ title: About · Abraham Thomas
 
 Previously:
 
-* I co-founded [Quandl](https://data.nasdaq.com), a VC-backed tech startup [acquired by Nasdaq](https://www.ft.com/content/e6de9e30-f743-11e8-af46-2022a0b02a6c)    
+* I co-founded [Quandl](https://data.nasdaq.com), a tech startup [acquired by Nasdaq](https://www.ft.com/content/e6de9e30-f743-11e8-af46-2022a0b02a6c)    
 * I was a trader and portfolio manager at a large quant hedge fund 
 * I have a B.Tech. in [Engineering Physics](https://en.wikipedia.org/wiki/Engineering_physics) from [IIT Bombay](https://www.iitb.ac.in)  
 * I grew up in India, but have lived in Toronto for the last few years   
