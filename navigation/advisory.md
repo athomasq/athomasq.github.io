@@ -50,9 +50,9 @@ Here are a few categories where I have especial expertise:
 
 ### My Advisory Philosophy
 
-* Most advisors are terrible.  They take advantage of inexperienced (and some experienced) founders; they give advice that is not just bad, but actively counter-productive; they waste founder time with irrelevancies; they add friction, confusion, and negative energy. 
+* Most advisors are terrible.  They take advantage of inexperienced (and experienced) founders; they give advice that is not just bad, but actively counterproductive; they waste founder time with irrelevancies; they add friction, confusion, and negative energy. 
 
-* I'm not most advisors.  I pride myself on being off-the-charts valuable; and if I'm not, I encourage founders to fire me.
+* I'm not most advisors.  I pride myself on being off-the-charts valuable to the companies I serve; and if I'm not, I encourage founders to fire me.
 
 * I'm selective about my advisory clients.  I want to spend my bandwidth on companies where I can make a meaningful impact; if I don't think I can help you, I won't waste your time or mine.
 
