@@ -37,8 +37,8 @@ I'm fortunate to be part of the following companies:
 🏡 **[BuyProperly](https://buyproperly.ca)**: marketplace for fractional assets  
 🏗️ **[Citylitics](https://citylitics.com)**: infrastructure data as a service  
 🤝 **[AcuSpire](https://acuspire.ai)**: employment matching platform  
-💡 **Getware**: surfacing implicit product insights  [EXIT]  
-🚚 **Erly**: distributed fulfillment network [EXIT]  
+💡 **Getware**: surfacing implicit product insights  [RIP]  
+🚚 **Erly**: distributed fulfillment network [RIP]  
 💳 **[Klanto](https://www.klanto.com)**: spend management platform  
 💵 **[Requity](https://www.requityhomes.com)**: rent-to-own for real estate  
 🙊 **[Syro](https://www.syro.com)**: seamless secret management  
@@ -48,12 +48,14 @@ I'm fortunate to be part of the following companies:
 📧 **[Ubico](https://www.ubico.io)**: smart sales assistant  
 🎥 **[Alchemic](https://www.alchemic.ca)**: cross-platform tools for creators  
 🤖 **[Quandri](https://quandri.io)**: automation for insurance  
+🤐 **Stealth**: stealthy mcstealthstartup  
 🍅 **[FarmTheory](https://www.farmtheory.in/home)**: marketplace for ugly produce  
 🏩 **[Kordie](https://www.kordie.com)**: upskilling the hospitality industry  
 📞 **[Productive](https://productive.ai/)**: an API to the content of your call  
 🍽️ **[REMS](https://www.remshospitality.com)**: data insights for restaurants   
 🖇️ **[Paperstack](https://www.paperstack.ai)**: financial OS for retail brands  
-🤐 **Stealth**: stealthy mcstealthstartup  
+🏘️ **[ResVR](https://resvr.com)**: VR design/sales tools for homebuilders  
+💧 **[Cascade](https://www.cascadedebt.com)**: modern saas for private credit markets   
 
 <!-- For a more detailed description of these companies and why I invested, [click here](/portfolio-detailed).-->
 
@@ -75,7 +77,7 @@ Between 2014 and 2017 I invested in a few startups in India:
 🧰 **Qyk**: marketplace for local services [RIP]  
 🍽 **TableHero**: restaurant management software [RIP]  
 
-My legacy portfolio is mature and returning cash; currently at 3.6 DPI and 37% IRR.
+My legacy portfolio is mature and returning cash; currently at 4.1 DPI and 36% IRR.
 
 ----
 
