@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /:basename/
-title: Macro Landscape - Oct 2022
+title: Market Update - Oct 2022
 ---
 
 ## The Macro Landscape in Tech and Venture - Oct 2022
@@ -12,9 +12,7 @@ title: Macro Landscape - Oct 2022
 
 ### TLDR
 
-The US, Canada, Europe and the UK are all either already in a recession, or have a high probability of entering a recession soon.
-
-This is negative for customers, investors, lenders and acquirers – i.e. all the main sources of cashflow for your business. You should plan your strategy accordingly: 
+After the boom of 2021, the tech / venture industry is in a definite slowdown, which could easily become a full-fledged bust.  This is negative for customers, investors, lenders and acquirers – i.e. all the main sources of cashflow for your business. You should plan your strategy accordingly: 
 
 **Sales:** be prepared for longer sales cycles, lower conversion rates, higher churn, and in general a harder market to sell into.  
 

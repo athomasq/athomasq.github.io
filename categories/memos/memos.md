@@ -10,15 +10,19 @@ title: Founder Memos
 
 <br/>
 
+### Operating Memos
 
 <span style="color:#A9A9A9;">2022-09</span> &emsp;&emsp;&emsp; [Writing Investor Updates](/writing-investor-updates)   
-<span style="color:#A9A9A9;">2022-11</span> &emsp;&emsp;&emsp; [Macro Landscape, Q4 2022](/macro-landscape-q4-2022)  
-<span style="color:#A9A9A9;">2022-12</span> &emsp;&emsp;&emsp; [When To Raise Your Next Round](/when-to-raise-your-next-round)  
-<span style="color:#A9A9A9;">2023-01</span> &emsp;&emsp;&emsp; [Series A Benchmarks](/series-a-benchmarks)  
-<span style="color:#A9A9A9;">2023-04</span> &emsp;&emsp;&emsp; [Venture Market Update, Q1 2023](/venture-market-update-q1-2023)  
-<span style="color:#A9A9A9;">2023-08</span> &emsp;&emsp;&emsp; [Early Stage Metrics](/metrics)   
-<span style="color:#A9A9A9;">2023-09</span> &emsp;&emsp;&emsp; [The Worst Outcome is a Mediocre Success](https://pivotal.substack.com/p/the-worst-outcome-is-a-mediocre-success)   
+<span style="color:#A9A9A9;">2022-12</span> &emsp;&emsp;&emsp; [Timing Your Next Round](/timing-your-next-round)  
+<span style="color:#A9A9A9;">2023-01</span> &emsp;&emsp;&emsp; [Benchmarks for Raising a Series A](/series-a-benchmarks)  
+<span style="color:#A9A9A9;">2023-08</span> &emsp;&emsp;&emsp; [Resources on Early Stage Metrics](/metrics)   
+<span style="color:#A9A9A9;">2023-09</span> &emsp;&emsp;&emsp; [Designing Experiments That Work](https://pivotal.substack.com/p/the-worst-outcome-is-a-mediocre-success)   
+<span style="color:#A9A9A9;">2024-02</span> &emsp;&emsp;&emsp; [Getting the Most Out of Me](/user-manual)   
 
+### Venture Market Updates
+
+<span style="color:#A9A9A9;">2022-11</span> &emsp;&emsp;&emsp; [Market Update, Q4 2022](/market-update-2022-q4)  
+<span style="color:#A9A9A9;">2023-04</span> &emsp;&emsp;&emsp; [Market Update, Q1 2023](/market-update-2023-q1)  
 
 
 <!--

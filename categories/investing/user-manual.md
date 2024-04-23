@@ -68,7 +68,7 @@ This page is a "user manual" for getting the most out of me as an investor. It's
 
     **Investor Updates**
 
-24. I strongly recommend that you send out monthly investor updates -- it's the one thing I ask for as an investor. It's hard for me to help you if I don't know what's going on.
+24. I strongly recommend that you send out monthly investor updates -- it's the one thing I ask for as an investor. It's hard for me to help you if I don't know what's going on.  More [here](/writing-investor-updates). 
 
 25. Quite apart from my help and input, writing investor updates helps you zoom out on the business, and it builds confidence across your investor network for future fund-raising conversations. 
 
@@ -78,19 +78,19 @@ This page is a "user manual" for getting the most out of me as an investor. It's
 
 27. I have a network of fellow angel investors and I manage a small syndicate. If you're raising capital and if I think your company will be a good fit for my syndicate, I may be able to mobilize some extra money for you. Let me know if this option ever makes sense.
 
-28. I think I'm exceptionally good at helping companies "tell their story", so if you're getting ready to raise a round, let me know and we can craft a pitch together.
+28. I think I'm exceptionally good at helping companies "tell their story", so if you're getting ready to raise a round, let me know, and we can craft your pitch together.
+
+29. I have a number of VC connections in Canada and the USA, and can make introductions when appropriate.  I'm also very experienced at navigating the fund-raising process, both for Quandl (raised 20M) and for a number of my portfolio companies, and can be your consigliere through it all.
 
     **Emotional Support**
 
-29. Being a founder is incredibly hard. One of the best ways I add value is by offering an empathetic view from somebody who has been there and done that.
+30. Being a founder is incredibly hard. One of the best ways I add value is by offering an empathetic view from somebody who has been there and done that.
 
-30. You can be vulnerable with me, ask for help, share your worries -- I won't judge you, blame you, criticize you, discourage you, or write you off. I will try to help. I'm on your side.
+31. You can be vulnerable with me, ask for help, share your worries -- I won't judge you, blame you, criticize you, discourage you, or write you off. I will try to help. I'm on your side.
 
-31. Fundamentally, I believe you are the best person(s) to run the company; that's why I invested. My job is to support you and be steady: keep you grounded when you're euphoric, and lift you up when you're feeling down.
+32. Fundamentally, I believe you are the best person(s) to run the company; that's why I invested. My job is to support you and be steady: keep you grounded when you're euphoric, and lift you up when you're feeling down.
 
     **References and Introductions**
-
-32. I have a number of VC connections in Canada and the USA, and can make introductions when appropriate. 
 
 33. I don't want to spam you with unwanted intros, but am happy to connect you with my other [portfolio founders](https://abrahamthomas.info/portfolio-companies/) if you'd like; let me know.
 

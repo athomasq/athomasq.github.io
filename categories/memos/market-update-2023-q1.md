@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /:basename/
-title: Venture Market Update - Q1 2023
+title: Market Update - Q1 2023
 ---
 
 ## Venture Market Update - Q1 2023
