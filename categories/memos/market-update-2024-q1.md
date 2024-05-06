@@ -1,9 +1,20 @@
-Venture Market Update – May 2024
+---
+layout: default
+permalink: /:basename/
+title: Venture Market Update - Q1 2024
+---
 
+## Venture Market Update - Q1 2024
+
+----
+
+<br/>
 
 It's easiest to make sense of the market if you work backwards from late stage to early.  All numbers in this memo are USD.
 
-# Series B/C
+<br/>
+
+### Series B/C
 
 * There are a lot of companies out there with 5-10M of revenue, but high burn rates and growing slowly (<2x yoy). Some of them are getting funded, but at low multiples: 8-12x revenue == 50-80M valuation. 
 
@@ -13,7 +24,9 @@ It's easiest to make sense of the market if you work backwards from late stage t
 
 * According to Carta, 23% of the rounds they tracked in Q1 2024 were down rounds -- I'd expect almost all of that to be later-stage rounds.
 
-# Series A
+<br/>
+
+### Series A
 
 * This has a spillover effect on Series A deals.  Investors think: why should I pay 40M pre for a Series A company with 2M revenue, when I can pay 60M pre for a Series B company with 6M revenue? 
 
@@ -26,8 +39,9 @@ It's easiest to make sense of the market if you work backwards from late stage t
 	* you're growing >5x, and can set up a FOMO auction
 	* you're growing >2x and close to breakeven, and can potentially skip the A round completely
 
+<br/>
 
-# Seed
+### Seed
 
 * Seed valuations and activity remain high.  There are a number of factors at play here:
 
@@ -37,3 +51,21 @@ It's easiest to make sense of the market if you work backwards from late stage t
 
 3. Institutional seed funds are happy to underwrite vision cheques for the former, and traction cheques for the latter.  Some later stage investors are also playing here in a barbell strategy -- seed and Series B/C, but no A in between.
 
+<!--
+
+### Other Dynamics
+
+A lot of the funding environment for startups is ultimately a function of the funding environment for VCs ie from their LPs.  
+
+* With the IPO window still closed and no M&A happening, LPs aren't getting liquidity from earlier vintages ie their past investments in venture funds.  A major part of the VC/LP funding market is the recycling of these prior returns.  Without that, VCs can't close new funds, or make new investments.  So there's a temptation among VCs to make their current funds last longer.
+
+* There's an increasing school of thought that the big winners in AI will be public companies -- Microsoft, Meta, nVidia etc.  (with maybe a couple of private companies in there like OpenAI).  So LPs may reconsider their allocation to early-stage venture even if they do have liquidity.
+
+* For this reason I'm skeptical about the invocation of "dry powder" in VC.  
+
+-->
+
+
+<br/>
+<br/>
+<br/>
