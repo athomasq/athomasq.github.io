@@ -68,18 +68,13 @@ It's easiest to make sense of the market if you work backwards from late stage t
 
 ### Implications for Pre-A Founders
 
-* There's no "middle class" in venture any more.  You're either a rocket ship, or a slow burner.  
 * If you have cash in the bank; you're super-confident about PMF and GTM; and you're not in an unfashionable sector -- then you can follow the rocketship trajectory.  Get to 1.5 or preferably 2M in arr, growing at least 4x and preferably 5-10x yoy, and then set up a FOMO auction.  High risk, high reward.  (and the hurdle for the round after that becomes that much more stringent).
 
-* Otherwise, try to get to profitability (or close to it) with your current financing.  If the Series A market reopens, great.  If it doesn't, skip it and wait; in another 2-3 years you should be at 5-10M arr and can target a direct Series B.  Lower risk, possibly higher reward (because of less dilution), but more time.
+* Otherwise, try to get to profitability (or close to it) with your current financing.  If the Series A market reopens, great.  If it doesn't, skip it and wait; in another 2-3 years you should be at 5M arr and can target a direct Series B.  Lower risk, possibly higher reward (because of less dilution), but more time / opportunity cost.
 
 * If you're stuck in the middle -- ie on track for about 1M arr, but running low on cash, and growing at just 2-3x -- hmm.  That's a tough spot in today's market.  Either accelerate to hypergrowth (difficult!) or decelerate to profitability (painful!).
 
 * Prepare yourself for a long and brutal fund-raising process with lots of weird behaviour from investors.  Understand that the weirdness is driven by portfolio overhang from 2021 and LP dynamics.  Ideally, control your burn so that you're not at the mercy of a difficult market.
-
-* Consider a 
-
-
 
 
 
