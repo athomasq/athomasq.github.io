@@ -34,24 +34,24 @@ It's easiest to make sense of the market if you work backwards from late stage t
 
 * Lots of Series A investors are still taking meetings, going through diligence, etc.  But actual deals remain rare. FOMO is the only real motivator to issue a term sheet.  
 
-* There are three "good places to be" in this market:
-	* you're in a hot sector like AI or defense
-	* you're growing >5x, and can set up a FOMO auction
-	* you're growing >2x and close to breakeven, and can potentially skip the A round completely
+* There are three "good places to be" in this market:  
+	* you're in a hot sector like AI or defense  
+	* you're growing >5x, and can set up a FOMO auction   
+	* you're growing >2x and close to breakeven, and can potentially skip the A round completely  
 
 <br/>
 
 ### Seed
 
-* Seed valuations and activity remain high.  There are a number of factors at play here:
+Seed valuations and activity remain high.  There are a number of factors at play here:
 
-1. Founders don't want to dilute more than 25% at seed stage (and doing so would mess up the cap table for future rounds).  And you need 2-3M (at least!) to clear today's elevated Series A hurdles (esp in SF, NY etc).  So there's an effective floor at 10-12M pre.
+* Founders don't want to dilute more than 25% at seed stage (and doing so would mess up the cap table for future rounds).  And you need 2-3M (at least!) to clear today's elevated Series A hurdles (esp in SF, NY etc).  So there's an effective floor at 10-12M pre.
 
-2. A lot of companies that raised seed capital a couple of years ago have "hit their target" of 1M arr, only to find that the goalposts have shifted.  So there are more "post-seed" or "seed-plus" rounds happening: companies with 500k-1.2M arr, raising at 20M +/- a bit, but still labelled "seed".  
+* A lot of companies that raised seed capital a couple of years ago have "hit their target" of 1M arr, only to find that the goalposts have shifted.  So there are more "post-seed" or "seed-plus" rounds happening: companies with 500k-1.2M arr, raising at 20M +/- a bit, but still labelled "seed".  
 
-3. Institutional seed funds are happy to underwrite vision cheques for the former, and traction cheques for the latter.  Some later stage investors are also playing here in a barbell strategy -- seed and Series B/C, but no A in between.
+* Institutional seed funds are happy to underwrite vision cheques for the former, and traction cheques for the latter.  Some later stage investors are also playing here in a barbell strategy -- seed and Series B/C, but no A in between.
 
-<!--
+
 
 ### Other Dynamics
 
@@ -63,7 +63,7 @@ A lot of the funding environment for startups is ultimately a function of the fu
 
 * For this reason I'm skeptical about the invocation of "dry powder" in VC.  
 
--->
+
 
 
 <br/>
