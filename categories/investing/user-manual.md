@@ -100,12 +100,14 @@ This page is a "user manual" for getting the most out of me as an investor. It's
 
 36. I'm always keen to meet talented founders building exciting companies. If you meet or know of other pre-seed or seed stage founders who are raising money, please send them my way!
 
+
 <br/>
 
 ----
 
-<br/>
-
-[Back to Investing Page ↩](/investing)
+[Back to Memos ↩](/memos)
 
 <br/>
+<br/>
+<br/>
+

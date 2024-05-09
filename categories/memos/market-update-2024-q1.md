@@ -76,8 +76,13 @@ It's easiest to make sense of the market if you work backwards from late stage t
 
 * Prepare yourself for a long and brutal fund-raising process with lots of weird behaviour from investors.  Understand that the weirdness is driven by portfolio overhang from 2021 and LP dynamics.  Ideally, control your burn so that you're not at the mercy of a difficult market.
 
+<br/>
 
+----
+
+[Back to Memos ↩](/memos)
 
 <br/>
 <br/>
 <br/>
+
