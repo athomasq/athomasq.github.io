@@ -12,7 +12,9 @@ title: Writing · Abraham Thomas
 
 ### 🧭 Pivotal
 
-I write [Pivotal](https://pivotal.substack.com/about), a newsletter of long-form essays on data, markets, investing, technology, startups and more, with close to 5000 subscribers. It's good -- [subscribe!](https://pivotal.substack.com/about)
+I write [Pivotal](https://pivotal.substack.com/about), a newsletter of long-form essays on data, markets, investing, technology, startups and more. It's good -- **[subscribe!](https://pivotal.substack.com/about)**
+
+Here are some recent essays:  
 
 * [The Economics of Data Businesses](https://pivotal.substack.com/p/economics-of-data-biz)  
 * [Minsky Moments in Venture Capital](https://pivotal.substack.com/p/minsky-moments-in-venture-capital)  
@@ -23,61 +25,65 @@ I write [Pivotal](https://pivotal.substack.com/about), a newsletter of long-form
 * [How to Price a Data Asset](https://pivotal.substack.com/p/how-to-price-a-data-asset)  
 
 <br/>
-
 ----
+<br/>
 
-### Older Essays and Threads
+### Older Essays
 
-
-📡 On Startups and Technology
-
-* [Why Can't We Build?](/why-cant-we-build)    
-* [Aliens Among Us](/aliens)  
-* [APIs Are Eating the World](/APIs-are-eating-the-world)  
-* [Software Eats Marxism](/software-eats-marxism)  
-
-📈 On Markets and Investing
-
-* [Alfred Winslow Jones: the Hidden Architect of Modern Markets](/alfred-winslow-jones)    
-* [Explaining Rentec's Returns](/rentecs-returns)  
-* [The Goldilocks Theory of Trading Regimes](/two-extremes-of-market-efficiency)  
-* [Data-Driven versus Data-Informed: Two Philosophies of Investing](/data-driven-data-informed)  
-* [Silk Ties and Suckers: A Trading Story](/silk-ties)  
-
-📚 Anecdotes and Memoirs
-
-* [Invasion!](/invasion)  ⭐️  
-* [The Accidental Investor](/the-accidental-investor)  
-* [Three Decades of Bond Arbitrage](/bond-arbitrage)  
-
-📀 All Things Data
-
-* [So, You Want To Monetize Your Data](/so-you-want-to-monetize-your-data)  
-* [High Frequency Macroeconomics](/covid-19-and-high-frequency-macro)  
-* [Tracking the COVID-19 Economy in Real Time](/covid-19-and-the-economy)  
-* [Pricing Curves for Data](/data-pricing-curves)  
-
-🧠 On Thinking Well
-
+* [Why Can't We Build?](/why-cant-we-build)   
+* [The Accidental Investor](/the-accidental-investor)   
+* [When Excellence Fails](https://abrahamthomas.info/when-excellence-fails)   
 * [A Fine Line Between Stupid and Clever](/a-fine-line-between-stupid-and-clever)  
-* [How To Be An Excellent Failure](/failure-modes)  ⭐️  
+* [The Goldilocks Theory of Trading Regimes](/two-extremes-of-market-efficiency)  
+* [The Two Cultures of Data in Investing](/data-driven-data-informed)  
+* [APIs Are Eating the World](/APIs-are-eating-the-world)  
+* [So, You Want To Monetize Your Data](/so-you-want-to-monetize-your-data)  
 
-⛩️ Japan Guide
+<br/>
+----
+<br/>
+
+### Threads
+
+* [Invasion!](/invasion)    
+* [Alfred Winslow Jones](/alfred-winslow-jones)    
+* [Silk Ties and Suckers](/silk-ties)  
+* [Aliens Among Us](/aliens)  
+* [Software Eats Marxism](/software-eats-marxism)  
+* [Explaining Rentec's Returns](/rentecs-returns)  
+* [Three Decades of Bond Arbitrage](/bond-arbitrage)  
+* [High Frequency Macroeconomics](/covid-19-and-high-frequency-macro)  
+* [Pricing Curves for Data](/data-pricing-curves)  
+* [How To Be An Excellent Failure](/failure-modes)     
+* [COVID as a Quant Factor](/amazon-disney-covid)  
+
+<br/>
+----
+<br/>
+
+### Projects
 
 * [Abraham's Curated Guide to Japan](https://abrahamthomas.gumroad.com/l/wwrni)  
-
+* [Tracking the COVID-19 Economy in Real Time](/covid-19-and-the-economy)  
 
 <br/>
-
 ----
 
-### Twitter Threads
-
-
-
 <br/>
 <br/>
 <br/>
+
+
+
+<!--
+📈 On Markets and Investing 
+📡 On Startups and Technology
+📚 Anecdotes and Memoirs
+📀 All Things Data
+🧠 On Thinking Well
+⛩️ Japan Guide
+-->
+
 
 
 
@@ -85,8 +91,6 @@ I write [Pivotal](https://pivotal.substack.com/about), a newsletter of long-form
 
 <!--
 
-*[Disney, Amazon, and COVID as a Quant Factor](/amazon-disney-covid)  
-Companies, sectors and regions are disparately impacted by COVID, suggesting the emergence of what quants call a new "factor" in market dynamics, akin to value, growth and momentum.
 
 
 *[Viral Dominos and Data Visions](/a-data-framework-for-covid-19)  
