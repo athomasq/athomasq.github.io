@@ -10,11 +10,11 @@ title: Writing · Abraham Thomas
 
 <br/>
 
-### 🧭 Pivotal
+### Newsletter
 
 I write [Pivotal](https://pivotal.substack.com/about), a newsletter of long-form essays on data, markets, investing, technology, startups and more. It's good -- **[subscribe!](https://pivotal.substack.com/about)**
 
-Here are some recent essays:  
+Here are some recent essays from my newsletter:  
 
 * [The Economics of Data Businesses](https://pivotal.substack.com/p/economics-of-data-biz)  
 * [Minsky Moments in Venture Capital](https://pivotal.substack.com/p/minsky-moments-in-venture-capital)  
@@ -25,7 +25,9 @@ Here are some recent essays:
 * [How to Price a Data Asset](https://pivotal.substack.com/p/how-to-price-a-data-asset)  
 
 <br/>
+
 ----
+
 <br/>
 
 ### Older Essays
@@ -40,7 +42,9 @@ Here are some recent essays:
 * [So, You Want To Monetize Your Data](/so-you-want-to-monetize-your-data)  
 
 <br/>
+
 ----
+
 <br/>
 
 ### Threads
@@ -58,7 +62,9 @@ Here are some recent essays:
 * [COVID as a Quant Factor](/amazon-disney-covid)  
 
 <br/>
+
 ----
+
 <br/>
 
 ### Projects
