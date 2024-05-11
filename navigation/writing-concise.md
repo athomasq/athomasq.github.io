@@ -66,9 +66,21 @@ I write [Pivotal](https://pivotal.substack.com/about), a newsletter of long-form
 
 * [Abraham's Curated Guide to Japan](https://abrahamthomas.gumroad.com/l/wwrni)  
 
+
+<br/>
+
+----
+
+### Twitter Threads
+
+
+
 <br/>
 <br/>
 <br/>
+
+
+
 
 
 <!--
