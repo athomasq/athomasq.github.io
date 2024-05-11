@@ -15,7 +15,7 @@ title: Writing · Abraham Thomas
 
 All my new writing can be found at [Pivotal](https://pivotal.substack.com/about), a newsletter of long-form essays on data, markets, investing, technology, startups and more.  It's good -- [subscribe!](https://pivotal.substack.com/about)
 
-I've collected some of my older essays on this page. I've also linked to some of my Twitter threads.  Popular articles are marked with a ⭐️.   
+I've collected some of older essays on this page. I've also linked to some of my Twitter threads.  Popular articles are marked with a ⭐️.   
 
 ----
 
