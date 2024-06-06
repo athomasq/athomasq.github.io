@@ -54,7 +54,9 @@ https://www.marketwatch.com/story/the-explosion-of-alternative-data-gives-regula
 Here are some op-eds I've written:
 
 - [Speed Up Your Startup](https://m.economictimes.com/opinion/et-commentary/speed-up-your-startup-in-antarctica/articleshow/102732292.cms) - The Economic Times (India) [<small>pdf</small>](/assets/docs/ET-antarctica.pdf)  
-&nbsp; *an abridged version of [this essay](https://pivotal.substack.com/p/the-perils-of-prudence)  
+&nbsp; *an abridged version of [this essay](https://pivotal.substack.com/p/the-perils-of-prudence)   
+- [Data in the Age of AI](https://www.livemint.com/opinion/online-views/data-in-the-age-of-ai-from-abundance-to-sudden-scarcity-11707396368968.html) - MINT (India) [<small>pdf</small>](/assets/docs/MINT-data-ai.pdf)  
+&nbsp; *an abridged version of [this essay](https://pivotal.substack.com/p/data-in-the-age-of-ai)   
 - [Time To Commit To Data](https://fxalgonews.com/previous-edition/issue-10-may-2018/) - FX Algo News [<small>pdf</small>](/assets/docs/FX-commit.pdf)  
 
 
