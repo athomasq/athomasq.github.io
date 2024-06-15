@@ -121,6 +121,7 @@ You can find more articles on my [writing page](https://abrahamthomas.info/writi
 
 🧭 Here are some **things I believe**:  
 
+GROWTH
 * ABL: Always Be Learning.  
 * Every skill is a muscle to be exercised.  
 * Changing your mind based on new data is a superpower.  
@@ -128,24 +129,29 @@ You can find more articles on my [writing page](https://abrahamthomas.info/writi
 * Speed is under-appreciated in almost every context.  
 * Tremendous outcomes require tremendous amounts of hard work.  
     - (Smarts are not enough)  
+* Luck matters a lot, but you can help luck find you.  
 * Be deliberate, and comfortable with risk.  
     - (Most people are impulsive, and risk-averse)  
 * Combine optimism about technology with realism about humanity.  
+* Life is too short to play zero-sum games.  
 * If you're not curious, what's the point?  
     - (This is a good filtering function)  
-* Be kind, but recognize that kindness has multiple dimensions.  
+* Discipline doesn't restrict your choices, it expands them.  
+* Do less to do more.  
+* Be unfailingly kind, even when -- especially when! -- it's hard.  
+    - But recognize that kindness has multiple dimensions.  
 * Character is grace under pressure.  
     - When the chips are down, who do you want to be?  
-* Luck matters a lot, but you can help luck find you.  
 * Arguments about means are often actually about variances.  
+* Compassion, empathy and courtesy signal strength, not weakness.  
 * Knowing your own preferences is the key to happiness.  
+* No task is too small to do well.  
 * If you don't blow your own trumpet, it shall remain unblown.  
     - (I struggle with this)  
-* Life is too short to play zero-sum games.  
-* Do less to do more.  
 * Big dreams, sincerity and enthusiasm are all good things.  
-* Optimists change the world.  
-  	
+* Cynics appear smart, but optimists change the world.  
+
+
 <br/>
 
 ----
