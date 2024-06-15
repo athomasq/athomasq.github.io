@@ -121,7 +121,6 @@ You can find more articles on my [writing page](https://abrahamthomas.info/writi
 
 🧭 Here are some **things I believe**:  
 
-GROWTH
 * ABL: Always Be Learning.  
 * Every skill is a muscle to be exercised.  
 * Changing your mind based on new data is a superpower.  
@@ -130,6 +129,7 @@ GROWTH
 * Tremendous outcomes require tremendous amounts of hard work.  
     - (Smarts are not enough)  
 * Luck matters a lot, but you can help luck find you.  
+* Do less to do more.  
 * Be deliberate, and comfortable with risk.  
     - (Most people are impulsive, and risk-averse)  
 * Combine optimism about technology with realism about humanity.  
@@ -137,7 +137,6 @@ GROWTH
 * If you're not curious, what's the point?  
     - (This is a good filtering function)  
 * Discipline doesn't restrict your choices, it expands them.  
-* Do less to do more.  
 * Be unfailingly kind, even when -- especially when! -- it's hard.  
     - But recognize that kindness has multiple dimensions.  
 * Character is grace under pressure.  
