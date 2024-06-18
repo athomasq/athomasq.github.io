@@ -26,6 +26,8 @@ A syndicate has several pieces:
 
 * Syndicate investors who put their money into the syndicate and get returns.  
 
+* The investee company, who receives money from the syndicate to grow their business.  
+
 <br/>
 
 **Why use syndicates?**
@@ -34,16 +36,16 @@ Investors like syndicates because:
 * they get access to investment opportunities that they would not otherwise get;  
 * they benefit from the syndicate lead's dealflow, evaluation, allocation and expertise;  
 * it's more convenient than doing diligence, reviewing paperwork, and writing cheques directly into lots of small deals;  
-* they can invest smaller amounts than if they were doing direct investments;
+* they can invest smaller amounts than if they were doing direct investments;  
 * syndicates help them diversify across multiple deals.  
 
 Leads like syndicates because:  
-* they get to deploy more capital into each investment opportunity;  
+* they get to deploy more capital into each investment opportunity;    
 * they receive success fees if the investment does well.  
 
 Startups like syndicates because:
 * they don't have to raise money from lots of small investors;  
-* they don't have to manage dozens of entries on their cap table.
+* they don't have to manage dozens of entries on their cap table.  
 
 And of course the syndication platform is compensated via setup and admin fees.
 
@@ -69,15 +71,16 @@ A typical syndicate investment process looks like this:
 
 **What are the fees?**
 
-There are three sets of fees associated with investing in a syndicate: setup fee, management fee, and success fee aka carry.  
+There are three sets of fees that investors pay when investing in a syndicate: setup fee, success fee aka carry, and (sometimes) management fee.  
 
-* The syndicate administrator charges a fixed one-time setup fee -- typically, $8k to $15k -- to handle all legal, tax/accounting, software, compliance and regulatory expenses over the life of the investment.  
-
-* The syndicate lead charges an annual fee -- typically, 0-2% of the syndicate size, over a 7 to 10 year investment lifespan -- to cover their own expenses, time and effort.
+* The syndicate administrator charges a fixed one-time setup fee -- typically, $8k to $15k -- to handle all legal, tax/accounting, software, compliance and regulatory expenses over the life of the investment.  This is deducted from the investment amount that the company receives: for example, if the syndicate raises $100k and has $10k in setup fees, the company only receives $90k (and issues the corresponding quantity of securities).
 
 * The syndicate lead receives a success fee or "carry" -- typically, 20% of all profits after the initial investment plus all fees have been repaid.
 
-The success fee is charged on proceeds after all other fees have been paid back.  In other words, investors will either pay a success fee on winners, or they will pay the setup and management fee, but they won't pay both.
+* The syndicate lead sometimes charges an annual fee -- typically, 1-2% of the amount raised, over a 5 to 10 year investment lifespan -- to cover their own expenses, time and effort.  However this is pretty rare; most syndicate leads don't charge management fees, and prefer to make their money via carry.
+
+Note that the success fee is charged on proceeds after all other fees have been paid back.  In other words, investors will either pay a success fee on winners, or they will pay the setup plus management fee, but they won't pay both.
+
 
 <br/>
 
