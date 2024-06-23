@@ -8,23 +8,27 @@ title: Stream
 
 ----
 
-<br/>
+*Inspired by [@thesephist](https://x.com/thesephist), this is my page of ideas and anecdotes that I want to keep a non-ephemeral record of, but don't want to write a full essay on, or reshape for algorithmic or social-media optimization.*
 
-<h3> <span style="color:#A9A9A9;">2024-06-01</span> &emsp;&emsp; Sample Post </h3>
+----
 
-Lorem ipsum text goes here.
-
-And maybe hereing progress is good!  -- if you send regular updates about a business that is struggling, then you just make it harder) (conversely, there's nothing as powerful as saying you're going to do something, and then doing it).  
-
-On the other hand, it probably hurts your valuation a bit, since it makes the round less competitive -- the best 
+<!--
 
 <br/>
 
-<h3> <span style="color:#A9A9A9;">2024-05-15</span> &emsp; Older Post </h3>
+<h3> <span style="color:#A9A9A9;">2024-01-01</span> &emsp; Title </h3>
 
-ly familiar with both the low-level tactical problems and daily grind of running a startup with all its attendant uncertainty and scarcity; and the high-level challenges and imperatives of building a business that matters .
+Text goes here.
 
-ly familiar with both the low-level tactical problems and daily grind of running a startup with all its attendant uncertainty and scarcity; and the high-level challenges and imperatives of building a business that matters  
+-->
+
+
+<br/>
+
+<h3> <span style="color:#A9A9A9;">2024-06-23</span> &emsp; Hello World! </h3>
+
+"Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure." -- Cicero, *de Finibus Bonorum et Malorum*.  Pat yourself on the back if you know why I've used this quote.
+
 
 <br/>
 
