@@ -21,9 +21,9 @@ Investor help usually comes in three forms: **follow-on investment; introduction
 
 If your cap table is mostly friends and family, or angels without startup or tech experience, then -- candidly -- they are unlikely to be able to help you much.  In this case, I would not spend time writing detailed regular updates for them.  A status email once a year is all you need.
 
-If your cap table includes institutional investors, experienced angels, well-connected operators etc, then they may be able to help you in the ways I describe above.  But note that helping you has a cost: dollars, reputational capital, and time, respectively.  
+If your cap table includes institutional investors, experienced angels, well-connected operators etc, then they may be able to help you in the ways I describe above.  But note that helping you has a cost: follow-on investment costs **dollars**, introductions cost **reputational capital**, and advice costs **time**.  
 
-Writing regular, informative investor updates makes it **substantially more likely** that your investors will be willing to pay that cost when you ask.  It also makes their help more effective and relevant.
+Writing regular, informative investor updates makes it **substantially more likely** that your investors will be willing to pay these costs when you ask.  It also makes their help more effective and relevant.
 
 <br/>
 
