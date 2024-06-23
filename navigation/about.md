@@ -136,11 +136,12 @@ To learn more, please visit my [consulting page](https://abrahamthomas.info/cons
 * If you're not curious, what's the point?  
     - (This is a good filtering function)  
 * Discipline doesn't restrict your choices, it expands them.  
+* Excellence is a habit, and should be cultivated as such.  
 * Be unfailingly kind, even when -- especially when! -- it's hard.  
     - But recognize that kindness has multiple dimensions.  
 * Character is grace under pressure.  
     - When the chips are down, who do you want to be?  
-* Arguments about means are often actually about variances.  
+* Arguments about means are often arguments about variances.  
 * Compassion, empathy and courtesy signal strength, not weakness.  
 * Knowing your own preferences is the key to happiness.  
 * No task is too small to do well.  
