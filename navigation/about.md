@@ -19,10 +19,10 @@ title: About · Abraham Thomas
 
 Previously:
 
-* I co-founded [Quandl](https://data.nasdaq.com), a tech startup [acquired by Nasdaq](https://www.ft.com/content/e6de9e30-f743-11e8-af46-2022a0b02a6c)    
+* I co-founded [Quandl](https://data.nasdaq.com), a technology startup [acquired by Nasdaq](https://www.ft.com/content/e6de9e30-f743-11e8-af46-2022a0b02a6c)    
 * I was a trader and portfolio manager at a large quant hedge fund 
 * I have a B.Tech. in [Engineering Physics](https://en.wikipedia.org/wiki/Engineering_physics) from [IIT Bombay](https://www.iitb.ac.in)  
-* I grew up in India, but have lived in Toronto for the last few years   
+* I grew up in India, but now live in Toronto, Canada   
 
 Email me: <u><a href="mailto:at@abrahamthomas.info">at@abrahamthomas.info</a></u>
 
@@ -43,6 +43,23 @@ Email me: <u><a href="mailto:at@abrahamthomas.info">at@abrahamthomas.info</a></u
 * [Investment syndicate](https://venture.angellist.com/abraham-thomas/syndicate)
 
 You can learn more on my [investing page](https://abrahamthomas.info/investing/).  I welcome cold pitches! 
+
+<br/>
+
+----
+
+<br/>
+
+
+✍️ I write <a href="https://pivotal.substack.com">Pivotal</a>, a well-regarded **newsletter on data, investing and startups**.  Here are some recent essays:
+
+* [The Economics of Data Businesses](https://pivotal.substack.com/p/economics-of-data-biz)  
+* [Minsky Moments in Venture Capital](https://pivotal.substack.com/p/minsky-moments-in-venture-capital)  
+* [The Perils of Prudence](https://pivotal.substack.com/p/the-perils-of-prudence)  
+* [Data in the Age of AI](https://pivotal.substack.com/p/data-in-the-age-of-ai)  
+* [How to Price a Data Asset](https://pivotal.substack.com/p/how-to-price-a-data-asset)  
+
+You can find more articles on my [writing page](https://abrahamthomas.info/writing/).  
 
 <br/>
 
@@ -80,23 +97,6 @@ To learn more, please visit my [consulting page](https://abrahamthomas.info/cons
 
 ----
 
-<br/>
-
-
-
-✍️ I write <a href="https://pivotal.substack.com">Pivotal</a>, a well-regarded **newsletter on data, investing and startups**.  Here are some recent essays:
-
-* [The Economics of Data Businesses](https://pivotal.substack.com/p/economics-of-data-biz)  
-* [Minsky Moments in Venture Capital](https://pivotal.substack.com/p/minsky-moments-in-venture-capital)  
-* [The Perils of Prudence](https://pivotal.substack.com/p/the-perils-of-prudence)  
-* [Data in the Age of AI](https://pivotal.substack.com/p/data-in-the-age-of-ai)  
-
-You can find more articles on my [writing page](https://abrahamthomas.info/writing/).  
-
-<br/>
-
-----
-
 <br/> 
 
 
@@ -116,7 +116,6 @@ You can find more articles on my [writing page](https://abrahamthomas.info/writi
 ----
 
 <br/> 
-
 
 
 🧭 Here are some **things I believe**:  
