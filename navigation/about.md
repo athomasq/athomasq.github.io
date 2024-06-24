@@ -21,7 +21,7 @@ Previously:
 
 * I co-founded [Quandl](https://data.nasdaq.com), a technology startup [acquired by Nasdaq](https://www.ft.com/content/e6de9e30-f743-11e8-af46-2022a0b02a6c)    
 * I was a trader and portfolio manager at a large quant hedge fund 
-* I have a B.Tech. in [Engineering Physics](https://en.wikipedia.org/wiki/Engineering_physics) from [IIT Bombay](https://www.iitb.ac.in)  
+* I received a B.Tech. in [Engineering Physics](https://en.wikipedia.org/wiki/Engineering_physics) from [IIT Bombay](https://www.iitb.ac.in)  
 * I grew up in India, but now live in Toronto, Canada   
 
 Email me: <u><a href="mailto:at@abrahamthomas.info">at@abrahamthomas.info</a></u>
@@ -68,7 +68,7 @@ You can find more articles on my [writing page](https://abrahamthomas.info/writi
 <br/>
 
 
-🚀 I **advise high-growth SaaS and data startups** on execution.
+🚀 I **advise high-growth software and data startups** on execution.
 
 * I help founders execute more effectively, drawing on my years of experience as co-founder of a successful venture-backed startup, plus my subsequent work with dozens of founders as an active and involved angel investor.
 
