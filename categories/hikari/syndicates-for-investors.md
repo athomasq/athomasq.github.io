@@ -4,7 +4,7 @@ permalink: /:basename/
 title: Syndicates for Investors
 ---
 
-## Introduction to Syndicates for Investors
+## Syndicates for Investors
 
 ----
 
