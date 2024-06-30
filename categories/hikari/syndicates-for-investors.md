@@ -10,12 +10,11 @@ title: Syndicates for Investors
 
 *This is not investment advice; it's not an offer to buy or sell securities or anything else; it's just a simplified description of how syndicates work and what I've been doing in my own syndicate.*
 
-<br/>
-
-
 ----
 
-## A: About Syndicates
+<br/>
+
+## Part A: About Syndicates
 
 <br/>
 
@@ -85,7 +84,9 @@ Two things to note here:
 
 ----
 
-## B: My Syndicate
+<br/>
+
+## Part B: My Syndicate
 
 <br/>
 
@@ -140,16 +141,30 @@ I consciously cultivate a few different sources of dealflow:
 * I've built a network of co-investors -- angels, pre-seed funds etc -- who share dealflow with me  
 * I have a strong personal brand as an expert on all things data  
 
+<br/>
+
+**11. Where can I learn more?**
+
+My [investing page](https://abrahamthomas.info/investing/) has a lot more info about my angel investing, track record, portfolio companies, performance, founder testimonials and more.
 
 <br/>
+
+**12. How do I join your syndicate?**
+
+Here's a link to my [syndicate page on AngelList](https://angellist.com/s/abraham-thomas/60E6E).  Click on "Back Syndicate" to join.  You'll have to create a (free) AngelList account to join, and do some KYC stuff if / when you actually make an investment.
+
+<br/>
+
 
 ----
 
-## C: Investing in Syndicates
+<br/>
+
+## Part C: Investing in Syndicates
 
 <br/>
 
-**11. What's the single most important thing I should know?**  
+**13. What's the single most important thing I should know?**  
 
 Startups are risky!  Most startups fail!  Only invest what you can afford to lose!  
 
@@ -157,7 +172,7 @@ Also, diversify!  If you're going to angel invest, try to build a portfolio of a
 
 <br/>
 
-**12. What's a reasonable amount to invest?**
+**14. What's a reasonable amount to invest?**
 
 Most people decide their cheque size by balancing three factors:
 
@@ -171,7 +186,7 @@ Putting it all together, most syndicate investors end up writing cheques between
 
 <br/>
 
-**13. How many syndicated deals should I invest in?**
+**15. How many syndicated deals should I invest in?**
 
 For most investors, doing 3-4 syndicate investments a year for 3-4 years is a sensible cadence. 
 
@@ -180,7 +195,7 @@ You want to balance doing enough deals to get the benefits of diversification, w
 
 <br/>
 
-**14. How much discretion should I use when making syndicate investments?**
+**16. How much discretion should I use when making syndicate investments?**
 
 Syndicate investors can decide whether or not to participate in the deals brought to them by the syndicate lead, on a deal-by-deal basis.  
 
@@ -190,7 +205,7 @@ There's no right or wrong answer here.  My personal opinion is that if you trust
 
 <br/>
 
-**15. What's a reasonable expectation around returns?**
+**17. What's a reasonable expectation around returns?**
 
 Historically, top-performing venture portfolios return 3-5x the capital invested, over a 7-10 investment horizon; that works out to between 12% and 25% IRR.  That's roughly what I'm targeting in my syndicate as well.
 
@@ -198,19 +213,19 @@ Note that startup outcomes famously follow a "power law".  Startups are incredib
 
 <br/>
 
-**16. What's a reasonable expectation around timing?**
+**18. What's a reasonable expectation around timing?**
 
 Startups are illiquid, and take time to produce returns.  The median time to exit for successful startups is 7-10 years (and getting longer).  So you should not expect to have access to your cash for a long time after you invest.  Again, don't invest any money into a syndicate that you are not comfortable losing.
 
 <br/>
 
-**17. What information can I expect after I invest?**
+**19. What information can I expect after I invest?**
 
 Not a lot.  Unlike public companies, startups don't have to report quarterly financials or provide regular updates.  And candidly, keeping small investors up-to-date on the details of company progress isn't always the best use of founder time.  As syndicate lead, I will share updates perhaps once a year, with as much information as possible, but it won't be a lot.
 
 <br/>
 
-**18. Will I be able to speak to the founder(s) before I invest?**
+**20. Will I be able to speak to the founder(s) before I invest?**
 
 Probably not.  Founders prefer not to pitch individual small-cheque investors; that negates the whole attraction of the syndicate model from their point of view.  
 
