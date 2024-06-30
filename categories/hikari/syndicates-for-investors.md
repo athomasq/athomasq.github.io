@@ -10,21 +10,22 @@ title: Syndicates for Investors
 
 *This is not investment advice; it's not an offer to buy or sell securities or anything else; it's just a simplified description of how syndicates work and what I've been doing in my own syndicate.*
 
+<br/>
+
+
 ----
 
-<br/>
-
-## About Syndicates
+## A: About Syndicates
 
 <br/>
 
-**What is a startup syndicate?**  
+**1. What is a startup syndicate?**  
 
 A startup syndicate is a structure where a group of investors pool their money in order to invest in a tech startup.
 
 <br/>
 
-**What are the component of a syndicate?**
+**2. What are the component of a syndicate?**
 
 A syndicate has several pieces:
 
@@ -38,7 +39,7 @@ A syndicate has several pieces:
 
 <br/>
 
-**How does the process work?**
+**3. How does the process work?**
 
 A typical syndicate investment process has the following steps:
 
@@ -58,13 +59,15 @@ A typical syndicate investment process has the following steps:
 
 <br/>
 
-**What are the advantages of syndicates?**
+**4. What are the advantages of syndicates?**
 
-Investors like syndicates because they get access to opportunities they wouldn't otherwise get; they benefit from the syndicate lead's network, evaluation and expertise; they can invest small cheques; and they can build a diversified startup portfolio relatively easily and conveniently.  Startups like syndicates because it's more convenient than raising money  money from lots of individual investors.
+Investors like syndicates because they get access to opportunities they wouldn't otherwise get; they benefit from the syndicate lead's network, evaluation and expertise; they can invest small cheques; and they can build a diversified startup portfolio relatively easily and conveniently.  
+
+Startups like syndicates because it's more convenient than raising money  money from lots of individual investors.
 
 <br/>
 
-**What are the costs associated with syndicate investing?**
+**5. What are the costs associated with syndicate investing?**
 
 Syndicates typically have a setup fee and a success fee:
 
@@ -82,25 +85,29 @@ Two things to note here:
 
 ----
 
-## My Syndicate
+## B: My Syndicate
 
 <br/>
 
-**So, you lead a syndicate?**
+**6. So, you lead a syndicate?**
 
 Yes.  I've been angel investing for many years, quite successfully.  I was often asked whether there was any way for friends and associates to invest alongside me.  So, in late 2023, I decided to launch my own syndicate.  I've led 2 syndicate investments so far, and plan to do 4-6 a year for the next few years.
 
 <br/>
 
-**Can you tell me more about your angel investing?**
+**7. Can you tell me more about your angel investing?**
 
-I've been angel investing for over a decade, and have invested into over 35 companies.  These days I spend 60-75% of my time solely on angel investing: cultivating dealflow and networks, meeting founders, evaluating new companies (I look at about 500 startups a year), making investments, and actively helping my existing portfolio companies (with advice, problem-solving, introductions, you name it).  It's a lot of work, but very rewarding both intellectually and financially!
+I've been angel investing for over a decade, and have invested into over 35 companies.  
+
+These days I spend 60-75% of my time solely on angel investing: cultivating dealflow and networks, meeting founders, evaluating new companies (I look at about 500 startups a year), making investments, and actively helping my existing portfolio companies (with advice, problem-solving, introductions, you name it).  
+
+It's a lot of work, but very rewarding both intellectually and financially!
 
 <br/>
 
-**What's your track record as an angel?**
+**8. What's your track record as an angel?**
 
-Pretty good! Across all 35 companies, my portfolio has an IRR (rate of return) of 29% as of 30 June 2024.  7 of the 35 are likely to be "big wins" (3 already realized), with a further 4-6 that I'm optimistic will join the club.  12 of the 35 are likely to be zeroes.  It's too early to tell for the rest.
+Pretty good! Across all 35 companies, my portfolio has an IRR (internal rate of return) of 29%, as of 30 June 2024.  7 of the 35 are likely to be "big wins" (3 already realized), with a further 4-6 that I'm optimistic will join the club.  12 of the 35 are likely to be zeroes.  For the rest, it's too early to tell.
 
 The first cohort, companies invested in between 2014 and 2017, is at a 5x multiple, 4x cash return (ie not just paper markups), and 32% IRR.  The second cohort, 2019 to 2021, is at 2x and 29%.  The third cohort, 2022 to present, is at 1.2x and 15% (just getting started). 
 
@@ -108,23 +115,27 @@ You can read detailed portfolio statistics [here](https://abrahamthomas.info/por
 
 <br/>
 
-**What do you invest in?**
+**9. What do you invest in?**
 
 I invest in very early stage (pre-seed and seed) tech companies, primarily in North America, with some in Europe.  I have a preference for B2B companies, mostly software and data, platforms and infrastructure, vertical saas, marketplaces, AI/ML etc -- these are sectors where I have good dealflow as well as genuine expertise.  I have developed (and continue to develop) detailed investment theses in each of these areas.
 
 I avoid most consumer startups.  I also avoid sectors where I don't have sufficient expertise or experience: this includes healthcare, pharma, biotech, gaming, hardware, cybersecurity and crypto.
 
-My investment philosophy can be summed up in a single sentence: I invest in founders of impeccable character and exceptional ability, solving meaningful problems, often with genuine technical innovation, in markets with strong macro tailwinds, building businesses with compounding structural advantages, that are nonetheless underappreciated by other investors.  (Happy to unpack this in detail over a beer, coffee or zoom).
+My investment philosophy can be summed up in a single (lengthy) sentence: 
+
+*I invest in founders of impeccable character and exceptional ability, solving meaningful problems, often with genuine technical innovation, in markets with strong macro tailwinds, building businesses with compounding structural advantages, that are nonetheless underappreciated by other investors.*  
+
+(Happy to unpack this in detail over a beer, coffee or zoom).
 
 <br/>
 
-**Where do you find companies to invest in?**
+**10. Where do you find companies to invest in?**
 
-I consciously cultivate multiple, differentiated sources of dealflow:
+I consciously cultivate a few different sources of dealflow:
 
 * I write a newsletter on data, investing and startups, with nearly 5000 high-quality subscribers  
 * I get a lot of referrals from my portfolio founders and their second-order connections  
-* I also get a lot of referrals from VC firms who send companies my way  
+* I also get a lot of referrals from VC firms and later-stage investors
 * I have a growing reputation as an former founder turned angel, especially outside the Bay Area ecosystem  
 * I've built a network of co-investors -- angels, pre-seed funds etc -- who share dealflow with me  
 * I have a strong personal brand as an expert on all things data  
@@ -134,11 +145,11 @@ I consciously cultivate multiple, differentiated sources of dealflow:
 
 ----
 
-## Investing in a Syndicate
+## C: Investing in Syndicates
 
 <br/>
 
-**What's the single most important thing I should know?**  
+**11. What's the single most important thing I should know?**  
 
 Startups are risky!  Most startups fail!  Only invest what you can afford to lose!  
 
@@ -146,7 +157,7 @@ Also, diversify!  If you're going to angel invest, try to build a portfolio of a
 
 <br/>
 
-**What's a reasonable amount to invest?**
+**12. What's a reasonable amount to invest?**
 
 Most people decide their cheque size by balancing three factors:
 
@@ -160,16 +171,16 @@ Putting it all together, most syndicate investors end up writing cheques between
 
 <br/>
 
-**How many syndicated deals should I invest in?**
+**13. How many syndicated deals should I invest in?**
 
 For most investors, doing 3-4 syndicate investments a year for 3-4 years is a sensible cadence. 
 
-You want to balance doing enough deals to get the benefits of diversification, with keeping your standards high and not investing in poor-quality deals.  You also want to invest over a period of time: this smoothes out your cash flows (both inward and outward), and it insulates against ebbs and flows in the venture market.  
+You want to balance doing enough deals to get the benefits of diversification, with keeping your standards high and not investing in mediocre deals.  You also want to invest over a period of time: this smoothes out your cash flows (both inward and outward), and it insulates against ebbs and flows in the venture market.  
 
 
 <br/>
 
-**How much discretion should I use when making syndicate investments?**
+**14. How much discretion should I use when making syndicate investments?**
 
 Syndicate investors can decide whether or not to participate in the deals brought to them by the syndicate lead, on a deal-by-deal basis.  
 
@@ -179,7 +190,7 @@ There's no right or wrong answer here.  My personal opinion is that if you trust
 
 <br/>
 
-**What's a reasonable expectation around returns?**
+**15. What's a reasonable expectation around returns?**
 
 Historically, top-performing venture portfolios return 3-5x the capital invested, over a 7-10 investment horizon; that works out to between 12% and 25% IRR.  That's roughly what I'm targeting in my syndicate as well.
 
@@ -187,19 +198,19 @@ Note that startup outcomes famously follow a "power law".  Startups are incredib
 
 <br/>
 
-**What's a reasonable expectation around timing?**
+**16. What's a reasonable expectation around timing?**
 
 Startups are illiquid, and take time to produce returns.  The median time to exit for successful startups is 7-10 years (and getting longer).  So you should not expect to have access to your cash for a long time after you invest.  Again, don't invest any money into a syndicate that you are not comfortable losing.
 
 <br/>
 
-**What information can I expect after I invest?**
+**17. What information can I expect after I invest?**
 
 Not a lot.  Unlike public companies, startups don't have to report quarterly financials or provide regular updates.  And candidly, keeping small investors up-to-date on the details of company progress isn't always the best use of founder time.  As syndicate lead, I will share updates perhaps once a year, with as much information as possible, but it won't be a lot.
 
 <br/>
 
-**Will I be able to speak to the founder(s) before I invest?**
+**18. Will I be able to speak to the founder(s) before I invest?**
 
 Probably not.  Founders prefer not to pitch individual small-cheque investors; that negates the whole attraction of the syndicate model from their point of view.  
 
