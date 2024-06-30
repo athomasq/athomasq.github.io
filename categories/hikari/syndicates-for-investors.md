@@ -8,13 +8,15 @@ title: Syndicates for Investors
 
 ----
 
-<br/> 
-
 *This is not investment advice; it's not an offer to buy or sell securities or anything else; it's just a simplified description of how syndicates work and what I've been doing in my own syndicate.*
+
+----
 
 <br/>
 
-### About Syndicates
+## About Syndicates
+
+<br/>
 
 **What is a startup syndicate?**  
 
@@ -40,7 +42,7 @@ A syndicate has several pieces:
 
 A typical syndicate investment process has the following steps:
 
-1. The syndicate lead shares a **deal memo** laying out the case for investment, including a decision deadline and minimum cheque size.  
+1. The syndicate lead shares a **deal memo** laying out the case for investment, including a decision **deadline** and minimum **cheque size**.  
 
 2. Syndicate members **choose whether or not to participate** in the deal, and if they participate, how much they will invest.
 
@@ -54,13 +56,13 @@ A typical syndicate investment process has the following steps:
 
 7. The administrator winds down the SPV and **distributes the proceeds** to all the syndicate members, pro rata based on their ownership.
 
-</br>
+<br/>
 
 **What are the advantages of syndicates?**
 
-Investors like syndicates because they get access to opportunities they wouldn't otherwise get; they benefit from the syndicate lead's network, evaluation and expertise; and they can build a diversified startup portfolio relatively easily and conveniently.  Startups like syndicates because it's more convenient than raising money  money from lots of individual investors.
+Investors like syndicates because they get access to opportunities they wouldn't otherwise get; they benefit from the syndicate lead's network, evaluation and expertise; they can invest small cheques; and they can build a diversified startup portfolio relatively easily and conveniently.  Startups like syndicates because it's more convenient than raising money  money from lots of individual investors.
 
-</br>
+<br/>
 
 **What are the costs associated with syndicate investing?**
 
@@ -72,23 +74,29 @@ Syndicates typically have a setup fee and a success fee:
 
 Two things to note here:
 
-* The setup fee is deducted from the investment amount that the company receives.  For example, if the syndicate raises $100k and has $10k in setup fees, the company only receives $90k (and issues the corresponding quantity of securities).
+* The setup fee is deducted from the investment amount that the company receives.  For example, if the syndicate raises $100k and has $10k in setup fees, the company only receives $90k (and issues $90k worth of securities).
 
-* The success fee is charged on proceeds *after the initial investment and all other fees have been paid back*.  In other words, investors either pay a success fee on winners, or they pay the setup fee, but they don't pay both.
+* The success fee is charged on proceeds *after the initial investment and all other fees have been paid back*.  In other words, investors pay either a success fee on winners, or the setup fee, but they don't pay both.
 
 <br/>
 
 ----
 
-### My Syndicate
+## My Syndicate
+
+<br/>
 
 **So, you lead a syndicate?**
 
 Yes.  I've been angel investing for many years, quite successfully.  I was often asked whether there was any way for friends and associates to invest alongside me.  So, in late 2023, I decided to launch my own syndicate.  I've led 2 syndicate investments so far, and plan to do 4-6 a year for the next few years.
 
+<br/>
+
 **Can you tell me more about your angel investing?**
 
 I've been angel investing for over a decade, and have invested into over 35 companies.  These days I spend 60-75% of my time solely on angel investing: cultivating dealflow and networks, meeting founders, evaluating new companies (I look at about 500 startups a year), making investments, and actively helping my existing portfolio companies (with advice, problem-solving, introductions, you name it).  It's a lot of work, but very rewarding both intellectually and financially!
+
+<br/>
 
 **What's your track record as an angel?**
 
@@ -98,13 +106,17 @@ The first cohort, companies invested in between 2014 and 2017, is at a 5x multip
 
 You can read detailed portfolio statistics [here](https://abrahamthomas.info/portfolio-statistics/).  Note that performance for the first cohort is "realized" (ie, cash returned) but for the other two cohorts it's still largely on paper.  This is typical for early-stage investments: it takes time for the returns to materialize. 
 
+<br/>
+
 **What do you invest in?**
 
-I invest in very early stage (pre-seed and seed) companies, primarily in North America, with some in Europe.  I have a preference for B2B companies, mostly software and data, platforms and infrastructure, vertical saas, marketplaces, AI/ML etc -- these are sectors where I have good dealflow as well as genuine expertise.  I have developed (and continue to develop) detailed investment theses in each of these areas.
+I invest in very early stage (pre-seed and seed) tech companies, primarily in North America, with some in Europe.  I have a preference for B2B companies, mostly software and data, platforms and infrastructure, vertical saas, marketplaces, AI/ML etc -- these are sectors where I have good dealflow as well as genuine expertise.  I have developed (and continue to develop) detailed investment theses in each of these areas.
 
-I avoid most consumer startups.  I also avoid sectors where I don't have sufficient expertise or experience: this includes healthcare and pharma, gaming, hardware, security and crypto.
+I avoid most consumer startups.  I also avoid sectors where I don't have sufficient expertise or experience: this includes healthcare, pharma, biotech, gaming, hardware, cybersecurity and crypto.
 
-My investment philosophy can be summed up in a single sentence: I aim to invest in founders of impeccable character and exceptional ability, solving meaningful problems, often with genuine technical innovation, in markets with strong macro tailwinds, building businesses with compounding structural advantages, that are nonetheless underappreciated by other investors.  (Happy to unpack this in detail over a beer, coffee or zoom).
+My investment philosophy can be summed up in a single sentence: I invest in founders of impeccable character and exceptional ability, solving meaningful problems, often with genuine technical innovation, in markets with strong macro tailwinds, building businesses with compounding structural advantages, that are nonetheless underappreciated by other investors.  (Happy to unpack this in detail over a beer, coffee or zoom).
+
+<br/>
 
 **Where do you find companies to invest in?**
 
@@ -113,30 +125,26 @@ I consciously cultivate multiple, differentiated sources of dealflow:
 * I write a newsletter on data, investing and startups, with nearly 5000 high-quality subscribers  
 * I get a lot of referrals from my portfolio founders and their second-order connections  
 * I also get a lot of referrals from VC firms who send companies my way  
-* I have a strong reputation as an former founder turned angel, especially outside the Bay Area ecosystem  
+* I have a growing reputation as an former founder turned angel, especially outside the Bay Area ecosystem  
 * I've built a network of co-investors -- angels, pre-seed funds etc -- who share dealflow with me  
 * I have a strong personal brand as an expert on all things data  
 
-**Where do you think you have an edge?**
-
-
-
-Tell me more about your syndicate
 
 <br/>
 
 ----
 
-### Investing in a Syndicate
+## Investing in a Syndicate
 
 <br/>
 
-**What's the single most important thing I should know'?**  
+**What's the single most important thing I should know?**  
 
 Startups are risky!  Most startups fail!  Only invest what you can afford to lose!  
 
-Also, diversify!  If you're going to angel invest, try to build a portfolio of at least 10 investments, ideally over a period of 2-3 years (time diversification).  Any individual company can fail, often through no fault of their own; you want to have enough companies in your portfolio to ride the inevitable ups and downs.
+Also, diversify!  If you're going to angel invest, try to build a portfolio of at least 10 investments, ideally over a period of 2-3 years (time diversification).  Any individual company can fail, often through no fault of their own; you want to have enough companies in your portfolio to smoothe out this volatility.
 
+<br/>
 
 **What's a reasonable amount to invest?**
 
@@ -144,7 +152,7 @@ Most people decide their cheque size by balancing three factors:
 
 * Startups are risky, so you want to diversify your startup exposure across at least 10 different companies.  So your cheque into any one syndicate should be at most 1/10th of your total startup allocation.
 
-* At the same time, you don't want your cheque size to be so small that it doesn't move the needle for you.  Each investor will have a different view of what returns make it worthwhile for them.
+* At the same time, you don't want your cheque size to be so small that it doesn't move the needle for you even if it succeeds.  Each investor will have a different view of what returns make it worthwhile for them.
 
 * You don't want to be too large a proportion (say >25%) of the funds in any one syndicate. 
 
@@ -163,19 +171,21 @@ You want to balance doing enough deals to get the benefits of diversification, w
 
 **How much discretion should I use when making syndicate investments?**
 
-Syndicate investors have the right to choose whether or not to participate in the deals brought to them by the syndicate lead on a deal-by-deal basis.  Some investors like to exercise their own judgement, investing where they feel they have a special interest, edge or knowledge. Others prefer to trust the syndicate lead's expertise.  
+Syndicate investors can decide whether or not to participate in the deals brought to them by the syndicate lead, on a deal-by-deal basis.  
 
-There's no right or wrong answer here.  (My personal opinion is that if you trust the lead, you should leave the decision to them and not overrule it)
+Some investors like to pick and choose, investing only where they feel they have a special interest, edge or knowledge.  Others prefer to trust the syndicate lead's expertise and follow them into every deal.  
 
-
+There's no right or wrong answer here.  My personal opinion is that if you trust the lead, you should not overrule their judgement, especially if you're not an experienced angel yourself.  But I totally understand and respect the choice of people who would like to exercise their own discretion :)
 
 <br/>
 
 **What's a reasonable expectation around returns?**
 
-Historically, top-performing venture portfolios return 3-4x the capital invested, over a 7-10 investment horizon; that works out to between 12% and 20% IRR.  That's roughly what I'm targeting in my syndicate as well.
+Historically, top-performing venture portfolios return 3-5x the capital invested, over a 7-10 investment horizon; that works out to between 12% and 25% IRR.  That's roughly what I'm targeting in my syndicate as well.
 
-Note that startup outcomes famously follow a "power law".  Startups are incredibly risky; most startups fail; hence most investments go to zero.  But a small handful succeed, and the successes can return 10x, 100x or more.  The goal of any venture portfolio is for the successes to outweigh the failures, many times over.  
+Note that startup outcomes famously follow a "power law".  Startups are incredibly risky; most startups fail; hence most investments go to zero.  But a small handful succeed, and the successes can return 10x, 100x or more.  The goal of any venture portfolio is for the successes to outweigh the failures, many times over.  This is why you need to diversify: get enough shots at goal so that at least some of them will go in. 
+
+<br/>
 
 **What's a reasonable expectation around timing?**
 
@@ -196,12 +206,7 @@ Probably not.  Founders prefer not to pitch individual small-cheque investors; t
 <br/>
 <br/>
 <br/>
-
 <br/>
-
-
-
-
 <br/>
 
 
