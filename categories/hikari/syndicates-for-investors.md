@@ -164,9 +164,9 @@ My [investing page](https://abrahamthomas.info/investing/) has a lot more info a
 
 Here's a link to my [syndicate page on AngelList](https://angellist.com/s/abraham-thomas/60E6E).  Click on "Back Syndicate" to join.  
 
-**Joining doesn't oblige you to make any investments**; it merely means that when I share my next deal, you'll receive an email with all the details.  You can decide at that time whether or not to participate in that deal.  
+**Joining is free, and doesn't oblige you to make any investments**; it merely means that when I share my next deal, you'll receive an email with all the details.  You can decide at that time whether or not to participate in that deal.  
 
-You'll have to create a (free) AngelList account to join, and do some KYC stuff if / when you actually make an investment.
+You'll have to create a (free) AngelList account to join, and do some KYC stuff if and when you actually make an investment.
 
 <br/>
 
