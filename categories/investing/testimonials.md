@@ -30,7 +30,9 @@ But don't just take my word for it.  Here are some testimonials from my portfoli
 
 * *"We have been extremely lucky to have found Abraham as an early angel investor in our company. He's been with us from right at the beginning and has consistently provided **absolutely on-point advice** at each stage, in the most hyper rational way which has been a massive assistance against the extreme highs and lows of running an early stage business. I've not only recommended, but actively encouraged other founders to work with Abraham as he brings **so much more than just an investment**."*  <!--Christopher Batts, Setyl-->  
 
-<!--Terra, BP, Requity, Syro, Ubico, Kordie, REMS, Paperstack, Cascade, Cactivate -->
+* *"[Abraham is] my go-to person for guidance on analytical and technical questions, as well as the best way to express my vision and mission. He's a rare combination of pure intellectual horsepower, and the ability to succinctly yet eloquently communicate ideas and data."*  <!--Khushboo Jha, BuyProperly-->  
+
+<!--Terra, BP, Requity, Syro, Ubico, Kordie, REMS, Paperstack, Cascade, Cactivate -->  
 
 ----
 
