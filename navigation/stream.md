@@ -23,6 +23,16 @@ Text goes here.
 -->
 
 
+
+<br/>
+
+<h3> <span style="color:#A9A9A9;">2024-07-19</span> &emsp; Angelling is a Solo Sport </h3>
+
+Discussing investments with other angels invariably biases towards a pass.  Because there's always flaws you can find in early stage deals -- and the more eyeballs, the more flaws.  Given that I care a great deal more about false negatives than false positives, I want to avoid processes that tilt that way -- in an ideal world I'd want a Panglossian interlocutor who constantly asks me "yes, but what could go right?".  Most angels don't think that way!
+
+
+
+
 <br/>
 
 <h3> <span style="color:#A9A9A9;">2024-06-23</span> &emsp; Hello World! </h3>
