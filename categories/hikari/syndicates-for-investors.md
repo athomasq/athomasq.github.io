@@ -196,8 +196,7 @@ Cheque size is a function of two opposing incentives:
 
 * At the same time, you don't want your cheque size to be so small that it doesn't move the needle for you even if it succeeds.  
 
-If in doubt, it's better to start small and increase your cheque size, than the other way around.  
-
+Here's a back-of-the-envelope calculation: if you have $1M of investable assets, and you want 10% exposure to early stage tech, that's $100k -- divide that across 10 companies, gives $10k per company.  (Scale up or down as appropriate to your circumstances).
 
 <br/>
 
