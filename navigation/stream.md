@@ -22,6 +22,29 @@ Text goes here.
 
 -->
 
+<br/>
+
+<h3> <span style="color:#A9A9A9;">2024-08-27</span> &emsp; Raise less at a lower valuation </h3>
+
+
+The following things are all simultaneously true:
+
+* It's always good to raise just a little bit more than you think you need, things always take longer than you expect  
+* Don't underestimate the mental stress of limited runway / cash running out, having a margin of safety is helpful  
+* bBt too much cash isn't helpful, it leads to bad decisions (loss of focus / urgency, chasing lower priorities, spreading too thin, loss of frugal / hustle culture)  
+* you'd be surprised at how much you can accomplish with very little  
+* hiring (ie throwing more people at the problem) is almost never the answer to business challenges  
+* at the same time, a really good senior hire can definitely move the needle if you find the right one  
+* PMF rarely depends on building "one more feature"  
+* Raising at a lower valuation makes it *significantly* easier to raise the next round  
+* And this continues inductively all the way till your exit  
+* Intermediate round valuations don't make a meaningful difference to your final financial outcome as a founder -- the only thing that matters is your exit valuation, times your probability of exit -- everything else is a second-order term  
+* (The exception is if you are able to "skip" a round entirely eg go from seed to series B -- but that's hard/rare and risky to build a strategy around  
+
+Net-net, my bias is always to make a frugal (not lavish) plan, where the frugality comes from staying focused and disciplined and "doing less" (ie not from skimping on costs); keep the valuation under control, but then add just a little bit of extra cash to give you a margin of safety.
+
+(Note that I give this advise to founders *after* I invest, so I'm not talking my book or conflicted on valuation.)
+
 
 
 <br/>
