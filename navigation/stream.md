@@ -22,9 +22,25 @@ Text goes here.
 
 -->
 
+
 <br/>
 
-<h3> <span style="color:#A9A9A9;">2024-08-27</span> &emsp; Raise less at a lower valuation </h3>
+<h3> <span style="color:#A9A9A9;">2024-08-28</span> &emsp; A Mental Model for VC Rounds </h3>
+
+Here's how to think about VC rounds:
+
+* Series B is the scaling round.  To get a Series B, you need to prove a repeatable, scalable, growth process into a large market with solid unit economics.  
+
+* Series A is the established-PMF round.  To get a Series A, you need to prove that you've built something that people want, that they'll pay for, and you know how to reach these people.  
+
+* Seed is the emerging-PMF round.  You don't have indisputable evidence of PMF yet, but you have the first indications -- sometimes quantitative, sometimes qualitative -- that PMF is on the way.  
+
+* Pre-Seed is the hypothesis round.  You don't have any evidence yet, but you have a hypothesis / reasons to believe (macro, team, tech) that the evidence will eventually emerge.  
+
+
+<br/>
+
+<h3> <span style="color:#A9A9A9;">2024-08-27</span> &emsp; Raise Less at a Lower Valuation </h3>
 
 
 The following things are all simultaneously true:
