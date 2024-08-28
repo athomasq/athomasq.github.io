@@ -22,6 +22,31 @@ Text goes here.
 
 -->
 
+<br/>
+
+<h3> <span style="color:#A9A9A9;">2024-08-28</span> &emsp; Avoid Assholes </h3>
+
+
+Some of the best founders are assholes.  They are unfiltered, impatient and arrogant; they play zero-sum and dominance games; push hard for the answers they want; manipulate and coerce and persuade; are ruthlessly self-centred and focused on winning at all costs.  This can be a winning template when building a business, and also when raising money from investors.
+
+I typically don't invest founders who present this way.  My reasons:
+
+* Strong founders being assholes doesn't mean that assholes necessarily make strong founders.  Most As are Bs does not imply that most Bs are As.  
+
+* (also the word "most" is doing a lot of heavy lifting in the above sentence -- maybe the assholes are just more visible -- classic selection bias.)
+
+* Even if assholes *do*, in fact, make better founders, the problem is that it's an easy signal to fake.  Acting like an asshole is a lot easier than actually building an amazing company.  Solve for the equilibrium. 
+
+* As a solo angel, I don't need to invest in *every* strong founder; empirically, there are plenty of strong founders who are not, in fact, assholes.  (The dynamics are different for mega funds).
+
+* Given their personal characteristics, I can't help asshole founders much.  Which is fine, but takes away one of the arbitrages available to me.
+
+* Asshole founders typically get more investor demand and raise at higher valuations than non-assholes, thanks to their negotiating skill and investor FOMO / negging.  Investing in non-assholes is another arbitrage for me.
+
+* As a solo angel who doesn't need the money, I have motivations beyond DPI.  Life is too short to work with assholes.
+
+(btw all of the above applies equally well to asshole investors).
+
 
 <br/>
 
@@ -46,15 +71,25 @@ Here's how to think about VC rounds:
 The following things are all simultaneously true:
 
 * It's always good to raise just a little bit more than you think you need, things always take longer than you expect  
+
 * Don't underestimate the mental stress of limited runway / cash running out, having a margin of safety is helpful  
-* bBt too much cash isn't helpful, it leads to bad decisions (loss of focus / urgency, chasing lower priorities, spreading too thin, loss of frugal / hustle culture)  
-* you'd be surprised at how much you can accomplish with very little  
-* hiring (ie throwing more people at the problem) is almost never the answer to business challenges  
-* at the same time, a really good senior hire can definitely move the needle if you find the right one  
+
+* But too much cash isn't helpful, it leads to bad decisions (loss of focus / urgency, chasing lower priorities, spreading too thin, loss of frugal / hustle culture)  
+
+* You'd be surprised at how much you can accomplish with very little  
+
+* Hiring (ie throwing more people at the problem) is almost never the answer to business challenges  
+
+* At the same time, a really good senior hire can definitely move the needle if you find the right one  
+
 * PMF rarely depends on building "one more feature"  
+
 * Raising at a lower valuation makes it *significantly* easier to raise the next round  
+
 * And this continues inductively all the way till your exit  
+
 * Intermediate round valuations don't make a meaningful difference to your final financial outcome as a founder -- the only thing that matters is your exit valuation, times your probability of exit -- everything else is a second-order term  
+
 * (The exception is if you are able to "skip" a round entirely eg go from seed to series B -- but that's hard/rare and risky to build a strategy around  
 
 Net-net, my bias is always to make a frugal (not lavish) plan, where the frugality comes from staying focused and disciplined and "doing less" (ie not from skimping on costs); keep the valuation under control, but then add just a little bit of extra cash to give you a margin of safety.
