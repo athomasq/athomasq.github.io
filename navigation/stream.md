@@ -27,8 +27,7 @@ Text goes here.
 
 <h3> <span style="color:#A9A9A9;">2024-08-30</span> &emsp; Is Free Growth a Bug or a Feature? </h3>
 
-Founders will sometimes say, "the best part is, we've achieved this growth without spending a penny on sales and marketing".  This is a mistake.  When a founder says something like this, the VC hears some combination of the following:
-
+Founders will sometimes say, "the best part is, we've achieved this growth without spending a penny on sales and marketing".  *This is a mistake.*  When a founder says this, the VC hears some combination of the following:
 
 * The founder does not know where their growth is coming from
 
@@ -40,7 +39,7 @@ Founders will sometimes say, "the best part is, we've achieved this growth witho
 
 * Growth is probably linear and will plateau soon
 
-(To be fair, VCs are also talking their book on this: from their point of view, it's much better to meet a startup that's reliant on paid acquisition, because it means the startup is reliant on external funding, which means the VC has a job.  But that doesn't mean the above critiques are invalid.)
+(To be fair, VCs are also talking their book on this: from their point of view, it's much better to meet a startup that's reliant on paid acquisition, because it means the startup is reliant on external funding, which in turn means the VC has a job.  But that doesn't mean the above critiques are invalid.)
 
 Of course, the opposite problem is worse: you're spending a lot on sales & marketing, but growth is an uphill struggle.  
 
