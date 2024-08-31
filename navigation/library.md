@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /:basename
+permalink: /:basename/
 title: Library · Abraham Thomas
 ---
 ## My Library
