@@ -25,7 +25,7 @@ Text goes here.
 
 <br/>
 
-<h3> <span style="color:#A9A9A9;">2024-08-30</span> &emsp; Is Free Growth a Bug or a Feature? </h3>
+<h3 id="post-0005"> <span style="color:#A9A9A9;">2024-08-30</span> &emsp; Is Free Growth a Bug or a Feature? </h3>
 
 Founders will sometimes say, "the best part is, we've achieved this growth without spending a penny on sales and marketing".  *This is a mistake.*  When a founder says this, the VC hears some combination of the following:
 
@@ -33,9 +33,9 @@ Founders will sometimes say, "the best part is, we've achieved this growth witho
 
 * The founder has no control over their growth levers
 
-* The founder cannot scale up or accelerate growth, even with investment
+* The founder cannot grow faster, even with investment
 
-* The founder is in fact spending on growth, but they're not accounting for it properly
+* The founder is spending on growth in various implicit ways, but not accounting for it properly
 
 * Growth is probably linear and will plateau soon
 
@@ -48,8 +48,7 @@ The best of all worlds is when you're not spending a lot, but there's a clear li
 
 <br/>
 
-<h3> <span style="color:#A9A9A9;">2024-08-28</span> &emsp; On Asshole Founders </h3>
-
+<h3 id="post-0004"> <span style="color:#A9A9A9;">2024-08-28</span> &emsp; On Difficult Founders </h3>
 
 Some of the best founders are assholes.  They are unfiltered, impatient and arrogant; they play zero-sum and dominance games; push hard for the answers they want; manipulate and coerce and persuade; are ruthlessly self-centred and focused on winning at all costs.  This can be a winning template when building a business, and also when raising money from investors.
 
@@ -74,7 +73,7 @@ I typically don't invest founders who present this way.  My reasons:
 
 <br/>
 
-<h3> <span style="color:#A9A9A9;">2024-08-28</span> &emsp; A Mental Model for VC Rounds </h3>
+<h3 id="post-0004"> <span style="color:#A9A9A9;">2024-08-28</span> &emsp; A Mental Model for VC Rounds </h3>
 
 Here's how to think about VC rounds:
 
@@ -89,7 +88,7 @@ Here's how to think about VC rounds:
 
 <br/>
 
-<h3 id="post-0003"> <span style="color:#A9A9A9;">2024-08-27</span> &emsp; Raise Less at a Lower Valuation </h3>
+<h3 id="post-0003"> <span style="color:#A9A9A9;">2024-08-27</span> &emsp; Raise Less, Focus More</h3>
 
 The following things are all simultaneously true:
 
@@ -123,9 +122,7 @@ Net-net, my bias is always to make a frugal (not lavish) plan, where the frugali
 
 <br/>
 
-<h2> <span style="color:#FFFFFF;">Post 0002</span> </h2>
-
-<h3> <span style="color:#A9A9A9;">2024-07-19</span> &emsp; Angelling is a Solo Sport </h3>
+<h3 id="post-0002"> <span style="color:#A9A9A9;">2024-07-19</span> &emsp; Keep Your Own Counsel </h3>
 
 Discussing investments with other angels invariably biases towards a pass.  Because there's always flaws you can find in early stage deals -- and the more eyeballs, the more flaws.  Given that I care a great deal more about false negatives than false positives, I want to avoid processes that tilt that way -- in an ideal world I'd want a Panglossian interlocutor who constantly asks me "yes, but what could go right?".  Most angels don't think that way!
 
@@ -134,9 +131,7 @@ Discussing investments with other angels invariably biases towards a pass.  Beca
 
 <br/>
 
-<h2> <span style="color:#FFFFFF;">Post 0001</span> </h2>
-
-<h3> <span style="color:#A9A9A9;">2024-06-23</span> &emsp; Hello World! </h3>
+<h3 id="post-0001"> <span style="color:#A9A9A9;">2024-06-23</span> &emsp; Hello World! </h3>
 
 "Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure." -- Cicero, *de Finibus Bonorum et Malorum*.  Pat yourself on the back if you know why I've used this quote.
 
