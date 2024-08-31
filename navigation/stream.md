@@ -89,7 +89,7 @@ Here's how to think about VC rounds:
 
 <br/>
 
-<h2> <span style="color:#FFFFFF;">Post-0003</h2>
+<h2> <span style="color:#FFFFFF;">Post 0003</span> </h2>
 
 <h3> <span style="color:#A9A9A9;">2024-08-27</span> &emsp; Raise Less at a Lower Valuation </h3>
 
@@ -125,7 +125,7 @@ Net-net, my bias is always to make a frugal (not lavish) plan, where the frugali
 
 <br/>
 
-<h2> <span style="color:#FFFFFF;">Post-0002</h2>
+<h2> <span style="color:#FFFFFF;">Post 0002</span> </h2>
 
 <h3> <span style="color:#A9A9A9;">2024-07-19</span> &emsp; Angelling is a Solo Sport </h3>
 
@@ -136,7 +136,7 @@ Discussing investments with other angels invariably biases towards a pass.  Beca
 
 <br/>
 
-<h2> <span style="color:#FFFFFF;">Post-0001</h2>
+<h2> <span style="color:#FFFFFF;">Post 0001</span> </h2>
 
 <h3> <span style="color:#A9A9A9;">2024-06-23</span> &emsp; Hello World! </h3>
 
