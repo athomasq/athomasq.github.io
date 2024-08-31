@@ -89,9 +89,7 @@ Here's how to think about VC rounds:
 
 <br/>
 
-<h2> <span style="color:#FFFFFF;">Post 0003</span> </h2>
-
-<h3> <span style="color:#A9A9A9;">2024-08-27</span> &emsp; Raise Less at a Lower Valuation </h3>
+<h3 id="post-0003"> <span style="color:#A9A9A9;">2024-08-27</span> &emsp; Raise Less at a Lower Valuation </h3>
 
 The following things are all simultaneously true:
 
