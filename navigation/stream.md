@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /:basename/
+permalink: /:basename
 title: Stream
 ---
 
@@ -89,8 +89,9 @@ Here's how to think about VC rounds:
 
 <br/>
 
-<h3> <span style="color:#A9A9A9;">2024-08-27</span> &emsp; Raise Less at a Lower Valuation </h3>
+<h2> <span style="color:#FFFFFF;">Post-0003</h2>
 
+<h3> <span style="color:#A9A9A9;">2024-08-27</span> &emsp; Raise Less at a Lower Valuation </h3>
 
 The following things are all simultaneously true:
 
@@ -123,6 +124,8 @@ Net-net, my bias is always to make a frugal (not lavish) plan, where the frugali
 
 
 <br/>
+
+<h2> <span style="color:#FFFFFF;">Post-0002</h2>
 
 <h3> <span style="color:#A9A9A9;">2024-07-19</span> &emsp; Angelling is a Solo Sport </h3>
 
