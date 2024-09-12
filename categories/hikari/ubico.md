@@ -83,7 +83,7 @@ Ubico recently hit break-even, and can grow at a decent rate by reinvesting futu
 * Syndicate setup fee: USD 10k (one-time)
 * Carry: 20% of profits after fees
 * Syndicate administrator: AngelList
-* Commitment deadline: 30 Nov
+* Commitment deadline: 30 Nov 2023
 
 The deal will be priced in CAD; I've used a constant FX rate of 1.38 for all USD calculations.
 

@@ -189,7 +189,7 @@ The valuation ranges suggested were comparable and indeed possibly a little bit 
 * Management fee: 1% annually for 7 years
 * Carry: 20% of profits after fees
 * Syndicate administrator: AngelList
-* Commitment deadline: 12 Oct or whenever the allocation gets filled, whichever comes first
+* Commitment deadline: 12 Oct 2023
 
 
 <!--

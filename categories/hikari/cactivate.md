@@ -146,13 +146,6 @@ Cactivate has three founders. [Wentao Xiao](https://www.linkedin.com/in/wentao-x
 I think this is a great founding team for the company: solid background, prior startup experience, complementary skill sets, hustle, pragmatism and resilience. I think they'll win.
 
 <br/> 
-<br/> 
-<br/> 
-
-
-
-<!-- 
-<br/> 
 
 ### Things I like
 
@@ -163,7 +156,6 @@ I think this is a great founding team for the company: solid background, prior s
 * Excellent acquisition and retention metrics
 * Reasonable valuation (10x NTM multiple).
 	
-
 <br/>
 
 ### Deal Terms
@@ -176,11 +168,18 @@ I think this is a great founding team for the company: solid background, prior s
 * Syndicate setup fee: $8k (one-time)
 * Carry: 20% of profits after fees
 * Syndicate administrator: AngelList
-* Commitment deadline: 15 July
+* Commitment deadline: 15 Jul 2024
 
 All amounts in this memo are in USD.
 
 <br/>
+<br/> 
+<br/> 
+<br/> 
+
+
+
+<!-- 
 
 ### Risks and Disclosures
 
