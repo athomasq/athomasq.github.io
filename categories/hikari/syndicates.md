@@ -10,9 +10,16 @@ title: Syndicates
 
 <br/> 
 
-* [Syndicates FAQ for Founders](/syndicates-for-founders)  
-* [Syndicates FAQ for Investors](/syndicates-for-investors)  
+### FAQs
 
+* [Syndicates FAQ for Founders](/syndicates-for-founders)  
+* [Syndicates FAQ for Investors](/syndicates-for-investors)    
+
+### Deal Memos
+
+* [Setyl](/setyl)  
+* [Ubico](/ubico)  
+* [Cactivate](/cactivate)
 
 <br/> 
 <br/>
