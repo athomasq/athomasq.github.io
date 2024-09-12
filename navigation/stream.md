@@ -25,21 +25,29 @@ Text goes here.
 
 <br/>
 
+<h3 id="post-0005"> <span style="color:#A9A9A9;">2024-09-12</span> &emsp;Oh McKinsey!</h3>
+
+Haha, I just learned about a McKinsey angel investing group that has a strong preference for investing in ex McKinsey founders.  I wish I could short that portfolio.
+
+It doesn't matter how smart, hard-working and articulate you are; 
+being a McKinsey consultant is strongly anti-correlated with the traits that are required for startup success.  (Partly nature, partly nurture within the Firm.)
+
+There's also some irony in having all these genius business brains outsourcing their deal evaluation to the McK undergrad hiring committee... 
+
+
+<br/>
+
 <h3 id="post-0005"> <span style="color:#A9A9A9;">2024-08-30</span> &emsp; Is Free Growth a Bug or a Feature? </h3>
 
 Founders will sometimes say, "the best part is, we've achieved this growth without spending a penny on sales and marketing".  *This is a mistake.*  When a founder says this, the VC hears some combination of the following:
 
-* The founder does not know where their growth is coming from
+* The founder does not know where their growth is coming from  
+* The founder has no control over their growth levers  
+* The founder cannot grow faster, even with investment  
+* The founder is spending on growth in various implicit ways, but not accounting for it properly  
+* Growth is probably linear and will plateau soon  
 
-* The founder has no control over their growth levers
-
-* The founder cannot grow faster, even with investment
-
-* The founder is spending on growth in various implicit ways, but not accounting for it properly
-
-* Growth is probably linear and will plateau soon
-
-(To be fair, VCs are also talking their book on this: from their point of view, it's much better to meet a startup that's reliant on paid acquisition, because it means the startup is reliant on external funding, which in turn means the VC has a job.  But that doesn't mean the above critiques are invalid.)
+To be fair, VCs are also talking their book on this.  From their point of view, it's much better to meet a startup that's reliant on paid acquisition, because it means the startup is reliant on external funding, which in turn means the VC has a job.  But that doesn't mean the above critiques are invalid.
 
 Of course, the opposite problem is worse: you're spending a lot on sales & marketing, but growth is an uphill struggle.  
 
@@ -48,7 +56,7 @@ The best of all worlds is when you're not spending a lot, but there's a clear li
 
 <br/>
 
-<h3 id="post-0004"> <span style="color:#A9A9A9;">2024-08-28</span> &emsp; On Difficult Founders </h3>
+<h3 id="post-0004"> <span style="color:#A9A9A9;">2024-08-28</span> &emsp; On Asshole Founders </h3>
 
 Some of the best founders are assholes.  They are unfiltered, impatient and arrogant; they play zero-sum and dominance games; push hard for the answers they want; manipulate and coerce and persuade; are ruthlessly self-centred and focused on winning at all costs.  This can be a winning template when building a business, and also when raising money from investors.
 
@@ -85,6 +93,7 @@ Here's how to think about VC rounds:
 
 * Pre-Seed is the hypothesis round.  You don't have any evidence yet, but you have a hypothesis / reasons to believe (macro, team, tech) that the evidence will eventually emerge.  
 
+If you're planning to follow the VC trajectory, you should know these expectations, and also play the game in lookahead mode: at each round, raise money that will help you meet the next round's criteria.
 
 <br/>
 
