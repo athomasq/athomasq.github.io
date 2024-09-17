@@ -32,7 +32,7 @@ But don't just take my word for it.  Here are some testimonials from my portfoli
 
 * *"[Abraham is] my go-to person for guidance on analytical and technical questions, as well as the best way to express my vision and mission. He's a rare combination of pure intellectual horsepower, and the ability to succinctly yet eloquently communicate ideas and data."*  <!--Khushboo Jha, BuyProperly-->  
 
-<!--Terra, BP, Requity, Syro, Ubico, Kordie, REMS, Paperstack, Cascade, Cactivate -->  
+<!--Terra, BP, Requity, Syro, Ubico, Kordie, REMS, Paperstack, Cascade, Cactivate, Dagment -->  
 
 ----
 
