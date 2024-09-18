@@ -22,6 +22,13 @@ Text goes here.
 
 -->
 
+<!--
+	motivations
+	iron law of sales
+	tradeoffs with vc
+	4 types of fit
+	series a metrics
+-->
 
 <br/>
 
@@ -29,8 +36,7 @@ Text goes here.
 
 Haha, I just learned about a McKinsey angel investing group that has a strong preference for investing in ex McKinsey founders.  I wish I could short that portfolio.
 
-It doesn't matter how smart, hard-working and articulate you are; 
-being a McKinsey consultant is strongly anti-correlated with the traits that are required for startup success.  (Partly nature, partly nurture within the Firm.)
+It doesn't matter how smart, hard-working and articulate you are; being a McKinsey consultant is strongly anti-correlated with the traits that are required for startup success.  (Partly nature, partly nurture within the Firm.)
 
 There's also some irony in having all these genius business brains outsourcing their deal evaluation to the McK undergrad hiring committee... 
 
