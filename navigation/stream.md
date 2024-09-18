@@ -28,6 +28,9 @@ Text goes here.
 	tradeoffs with vc
 	4 types of fit
 	series a metrics
+	iceberg startups
+	wrappers are fine
+
 -->
 
 <br/>
