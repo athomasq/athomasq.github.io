@@ -13,26 +13,23 @@ title: Stream
 ----
 
 
-### Index of Posts
+### Index 2024
 
-#### 2024
-
-<span style="color:#A9A9A9;">2024-09-24</span> &emsp; [Don't Mention the Raj!](/stream#post-0009)
-<span style="color:#A9A9A9;">2024-09-20</span> &emsp; [Bad Analysis](/stream#post-0008)
-<span style="color:#A9A9A9;">2024-09-12</span> &emsp; [Oh McKinsey!](/stream#post-0007)
-<span style="color:#A9A9A9;">2024-09-08</span> &emsp; [Free Growth: Bug or Feature?](/stream#post-0006)
-<span style="color:#A9A9A9;">2024-09-05</span> &emsp; [On Asshole Founders](/stream#post-0005)
-<span style="color:#A9A9A9;">2024-08-28</span> &emsp; [A Mental Model for VC Rounds](/stream#post-0004)
-<span style="color:#A9A9A9;">2024-08-27</span> &emsp; [Raise Less, Focus More](/stream#post-0003)
-<span style="color:#A9A9A9;">2024-08-24</span> &emsp; [Keep Your Own Counsel](/stream#post-0002)
-<span style="color:#A9A9A9;">2024-07-22</span> &emsp; [Hello World!](/stream#post-0001)
+<span style="color:#A9A9A9;">2024-09-24</span> &emsp; [Don't Mention the Raj!](/stream#post-0009)  
+<span style="color:#A9A9A9;">2024-09-20</span> &emsp; [Bad Analysis](/stream#post-0008)  
+<span style="color:#A9A9A9;">2024-09-12</span> &emsp; [Oh McKinsey!](/stream#post-0007)  
+<span style="color:#A9A9A9;">2024-09-08</span> &emsp; [Free Growth: Bug or Feature?](/stream#post-0006)  
+<span style="color:#A9A9A9;">2024-09-05</span> &emsp; [On Asshole Founders](/stream#post-0005)  
+<span style="color:#A9A9A9;">2024-08-28</span> &emsp; [A Mental Model for VC Rounds](/stream#post-0004)  
+<span style="color:#A9A9A9;">2024-08-27</span> &emsp; [Raise Less, Focus More](/stream#post-0003)  
+<span style="color:#A9A9A9;">2024-08-24</span> &emsp; [Keep Your Own Counsel](/stream#post-0002)  
+<span style="color:#A9A9A9;">2024-07-22</span> &emsp; [Hello World!](/stream#post-0001)  
 
 
 <br/>
 
 ----
 
-<br/>
 
 <!--
 
