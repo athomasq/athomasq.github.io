@@ -81,7 +81,7 @@ If this is what passes for [rigorous analysis](https://x.com/daveclark85/status/
 
 Okay, let's use this as a learning experience: less snark, more constructivity.  Here's the full thread:
 
-<img src="/assets/img/vencap.png" class="image">
+<img src="/assets/img/vencap2.png" class="image">
 
 And here are my objections:
 
