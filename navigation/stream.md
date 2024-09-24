@@ -43,9 +43,11 @@ I enjoyed this thoughtful and data-filled essay on [economic stagnation in the U
 
 > *There is probably nowhere else on earth that matches \[Britain's\] achievements since the mid-18th century, relative to its size and resource endowments ... It led the world in the 19th century, and then Europe during the first half of the 20th, but it lost its leadership after the Second World War.*   
 
-Hmm, I wonder what else happened between those dates?  Here's a hint: India produced 25% of the whole world's GDP in 1750, and only 4% in 1950.  Real GDP per capita was stagnant *over a 200-year period*; it only started to rise again after 1950.  
+Hmm, I wonder what else happened between those dates?  
 
-Here's another hint: British hegemony over India is usually considered to have begun with the Battle of Plassey in 1757; India gained independence in 1947.
+Here's a hint: India produced 25% of the whole world's GDP in 1750, and only 4% in 1950.  
+
+Here's another hint: British hegemony over India is usually considered to have begun with the Battle of Plassey in 1757; India gained independence in 1947.  
 
 I'm sorry, but any analysis of British prosperity from 1750 to 1950 and its subsequent decline that doesn't mention the Raj, India or colonial wealth transfer even once, is not an essay I can take seriously.  
 
