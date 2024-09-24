@@ -33,6 +33,60 @@ Text goes here.
 
 -->
 
+
+<br/>
+
+<h3> <span style="color:#A9A9A9;">2024-09-24</span> &emsp; Bad Analysis </h3>
+
+If [this is what passes for rigorous analysis](https://x.com/daveclark85/status/1836818546115965353) among capital allocators, the venture industry is in worse shape than I thought.  God help us all.
+
+<br>
+
+Okay, let's use this as a learning experience: less snark, more constructivity.  Here's the full thread:
+
+<img src="/assets/img/vencap.png" class="image">
+
+And here are my objections:
+
+* There are at least two separate pieces of survivorship bias at play here.  First, of course, he highlights "established managers" ... "some of the best firms in the industry".  Well, of course such individual firms outperform the crowd; if they didn't, they wouldn't still be around.
+
+* Second and subtler is survivorship bias applied to VenCap, the institutional allocator Mr Clark is the CIO of.  Of course VenCap's sample of firms outperforms the industry; again, if it didn't, VenCap wouldn't be a 37-year-history, 2-billion-AUM manager.
+
+* 2 of the top 5 funds in his portfolio are very large.  Apparently this is the big narrative violation his thread builds up to.  Colour me unimpressed.  
+
+* "The perception that only small funds can outperform is 100% wrong."  Straw man alert!  I don't think anybody has ever claimed any such thing.  
+
+* "LPs need to optimise on the best managers, not focus on fund size."  Oh look, another straw man.  I don't think there's an LP in the world who makes allocation decisions purely (or even primarily) based on fund size.  
+
+* (If anything, institutional incentives mean that LPs tend to bias towards larger funds.) 
+
+* (Also, this is the first time I've seen the [midwit meme](https://x.com/daveclark85/status/1837070736365670577) with the same statement at all levels of IQ.)
+
+* This is subtle but important: the combination of power-law outcomes and weighted-average TVPI calculations means that a single high-performing large fund can skew the aggregate return profile of VenCap's portoflio, in a way that's unavailable to the size-capped segments in PitchBook's sample.
+
+* The whole thread is an exercise in small-sample extrapolation: 83 funds in VenCap's core program, versus 1053 funds in the PitchBook dataset.
+
+* About the only thing he gets right is the core investor skillset of self-promoting how good his firm is at selection...
+
+This is what happens when you're insulated from criticism.  At least VCs have LPs to hold them accountable; LPs have nobody. 
+
+I wouldn't mind so much, except that he claims that he is proving his case with data. I have a professional objection to anyone who misuses data like this.  
+
+
+
+<br/>
+
+<h3> <span style="color:#A9A9A9;">2024-09-24</span> &emsp; Don't Mention the Raj! </h3>
+
+I enjoyed this thoughtful and data-filled essay on economic stagnation in the UK](https://ukfoundations.co), and agree with pretty much all its policy prescriptions.  But one section jumped out at me.  Quoting the article:
+
+> There is probably nowhere else on earth that matches \[Britain's\] achievements since the mid-eighteenth century, relative to its size and resource endowments ... It led the world in the nineteenth century, and then Europe during the first half of the twentieth, but it lost its leadership after the Second World War. 
+
+Hmm, I wonder what else happened between those dates?  Here's a hint: India produced 25% of the whole world's GDP in 1750, and only 4% in 1950.  Real GDP per capita was stagnant *over a 200-year period*; it only started to rise again after 1950.  (India gained independence in 1947.)
+
+Any analysis of British prosperity from 1750 to 1950 and its subsequent decline that doesn't mention the Raj, India or colonial wealth transfer even once, is not an essay I can take seriously.  The most charitable interpretation I can put on it is that the authors don't want to alienate their (presumably British) target audience, and hence glossed over what to me is the obvious Occam's Razor explanation.  Other interpretations exist.
+
+
 <br/>
 
 <h3 id="post-0005"> <span style="color:#A9A9A9;">2024-09-12</span> &emsp;Oh McKinsey!</h3>
