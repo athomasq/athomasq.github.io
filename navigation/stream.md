@@ -4,16 +4,15 @@ permalink: /:basename
 title: Stream
 ---
 
-## Thinking in Public
+## Blog
 
 ----
-
+<!--
 *This is my page of ideas and anecdotes that I want to keep a non-ephemeral record of, but don't want to write a full essay on, or reshape for algorithmic or social-media optimization.  Some might call it a blog.*
+-->
 
-----
 
-
-### Index 2024
+<br/>
 
 <span style="color:#A9A9A9;">2024-09-24</span> &emsp; [Don't Mention the Raj!](/stream#post-0009)  
 <span style="color:#A9A9A9;">2024-09-20</span> &emsp; [Bad Analysis](/stream#post-0008)  
