@@ -34,6 +34,22 @@ Text goes here.
 -->
 
 
+
+<br/>
+
+<h3> <span style="color:#A9A9A9;">2024-09-24</span> &emsp; Don't Mention the Raj! </h3>
+
+I enjoyed this thoughtful and data-filled essay on economic stagnation in the UK](https://ukfoundations.co), and agree with pretty much all its policy prescriptions.  But one section jumped out at me.  Quoting the article:
+
+> There is probably nowhere else on earth that matches \[Britain's\] achievements since the mid-eighteenth century, relative to its size and resource endowments ... It led the world in the nineteenth century, and then Europe during the first half of the twentieth, but it lost its leadership after the Second World War. 
+
+Hmm, I wonder what else happened between those dates?  Here's a hint: India produced 25% of the whole world's GDP in 1750, and only 4% in 1950.  Real GDP per capita was stagnant *over a 200-year period*; it only started to rise again after 1950.  
+
+Here's another hint: British hegemony over India is usually considered to have begun with the Battle of Plassey in 1757; India gained independence in 1947.
+
+I'm sorry, but any analysis of British prosperity from 1750 to 1950 and its subsequent decline that doesn't mention the Raj, India or colonial wealth transfer even once, is not an essay I can take seriously.  The most charitable interpretation I can put on it is that the authors don't want to alienate their (presumably British) target audience, and hence glossed over what to me is the obvious Occam's Razor explanation.  Other interpretations exist.
+
+
 <br/>
 
 <h3> <span style="color:#A9A9A9;">2024-09-24</span> &emsp; Bad Analysis </h3>
@@ -72,19 +88,6 @@ This is what happens when you're insulated from criticism.  At least VCs have LP
 
 I wouldn't mind so much, except that he claims that he is proving his case with data. I have a professional objection to anyone who misuses data like this.  
 
-
-
-<br/>
-
-<h3> <span style="color:#A9A9A9;">2024-09-24</span> &emsp; Don't Mention the Raj! </h3>
-
-I enjoyed this thoughtful and data-filled essay on economic stagnation in the UK](https://ukfoundations.co), and agree with pretty much all its policy prescriptions.  But one section jumped out at me.  Quoting the article:
-
-> There is probably nowhere else on earth that matches \[Britain's\] achievements since the mid-eighteenth century, relative to its size and resource endowments ... It led the world in the nineteenth century, and then Europe during the first half of the twentieth, but it lost its leadership after the Second World War. 
-
-Hmm, I wonder what else happened between those dates?  Here's a hint: India produced 25% of the whole world's GDP in 1750, and only 4% in 1950.  Real GDP per capita was stagnant *over a 200-year period*; it only started to rise again after 1950.  (India gained independence in 1947.)
-
-Any analysis of British prosperity from 1750 to 1950 and its subsequent decline that doesn't mention the Raj, India or colonial wealth transfer even once, is not an essay I can take seriously.  The most charitable interpretation I can put on it is that the authors don't want to alienate their (presumably British) target audience, and hence glossed over what to me is the obvious Occam's Razor explanation.  Other interpretations exist.
 
 
 <br/>
