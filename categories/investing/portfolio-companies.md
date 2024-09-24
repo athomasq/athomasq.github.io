@@ -14,11 +14,11 @@ title: Portfolio · Abraham Thomas
 
 🌱 All my investments are at pre-seed stage: very early product with minimal or zero revenue.
 
-🎯 I invest only where I think I have an edge.  Hence my portfolio tends to skew non-Bay Area, mostly B2B, and mostly atypical founder profiles.  
+🏆 I invest only where I think I have an edge.  Hence my portfolio tends to skew non-Bay Area, mostly B2B with a data angle, and mostly atypical founder profiles.  
 
-<!-- 🧭 I invest my own money.  This gives me a very different objective function from many (most?) startup investors.-->
+💴 I invest my own money.  This gives me a very different objective function from many startup investors.  
 
-😎 My portfolio companies have gone on to raise further funding from Sequoia, Tiger Global, Falcon Edge, GIC and others. 
+<!-- My portfolio companies have gone on to raise further funding from Sequoia, Tiger Global, Falcon Edge, GIC and others. -->
 
 ----
 
@@ -29,10 +29,10 @@ title: Portfolio · Abraham Thomas
 I'm fortunate to be part of the following companies:
 
 🧠 **[Daloopa](https://www.daloopa.com)**: next-gen financial modelling data  
-🏢 **[Mero](https://mero.co)**: sensors for smart buildings  
+🏢 **[Mero](https://mero.co)**: vertical SaaS for janitorial services  
 <!--🛰 **[Pixxel](https://www.pixxel.space)**: hyper-spectral imaging satellites  -->
 🌏 **[Terra.do](https://terra.do)**: climate school and community  
-🖥️ **[Setyl](https://www.setyl.com)**: inventory management for offices  
+🖥️ **[Setyl](https://www.setyl.com)**: asset and license management platform    
 🏫 **[Canopy](https://www.canopyanalytics.com)**: data insights for property managers  
 🏡 **[BuyProperly](https://buyproperly.ca)**: marketplace for fractional assets  
 🏗️ **[Citylitics](https://citylitics.com)**: infrastructure data as a service  
@@ -41,12 +41,12 @@ I'm fortunate to be part of the following companies:
 🚚 **Erly**: distributed fulfillment network [RIP]  
 💳 **[Klanto](https://www.klanto.com)**: spend management platform  
 💵 **[Requity](https://www.requityhomes.com)**: rent-to-own for real estate  
-🙊 **[Syro](https://www.syro.com)**: seamless secret management  
+🙊 **Syro**: seamless secret management [RIP]  
 🎲 **TriplePlay**: remote culture through games [EXIT]  
 🎼 **[Composer](https://www.composer.trade)**: AI-powered investing for retail  
 🛒 **[Arima](https://www.arimadata.com)**: privacy-first marketing with synthetic data   
-📧 **[Ubico](https://www.ubico.io)**: smart sales assistant  
-🎥 **[Alchemic](https://www.alchemic.ca)**: cross-platform tools for creators  
+📧 **[Ubico](https://www.ubico.io)**: automation for outreach    
+🎥 **[Alchemic](https://www.alchemic.ca)**: B2B video generation via LLMs  
 🤖 **[Quandri](https://quandri.io)**: automation for insurance  
 🤐 **Stealth**: stealthy mcstealthstartup  
 🍅 **[FarmTheory](https://www.farmtheory.in/home)**: marketplace for ugly produce  
@@ -55,7 +55,10 @@ I'm fortunate to be part of the following companies:
 🍽️ **[REMS](https://www.remshospitality.com)**: data insights for restaurants   
 🖇️ **[Paperstack](https://www.paperstack.ai)**: financial OS for retail brands  
 🏘️ **[ResVR](https://resvr.com)**: VR design/sales tools for homebuilders  
-💧 **[Cascade](https://www.cascadedebt.com)**: modern saas for private credit markets   
+💧 **[Cascade](https://www.cascadedebt.com)**: modern saas for private credit markets  
+⛈️ **[SUST Global](https://www.sustglobal.com)**: climate risk data and models  
+🎯 **[Cactivate](https://www.cactivate.com)**: self-learning AI marketing agent  
+🗂️ **[Dagment](https://www.dagment.com)**: business data done right     
 
 <!-- For a more detailed description of these companies and why I invested, [click here](/portfolio-detailed).-->
 

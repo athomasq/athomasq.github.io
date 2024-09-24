@@ -8,7 +8,7 @@ title: Stream
 
 ----
 
-*Inspired by [@thesephist](https://x.com/thesephist), this is my page of ideas and anecdotes that I want to keep a non-ephemeral record of, but don't want to write a full essay on, or reshape for algorithmic or social-media optimization.*
+*This is my page of ideas and anecdotes that I want to keep a non-ephemeral record of, but don't want to write a full essay on, or reshape for algorithmic or social-media optimization.  Some might call it a blog.*
 
 ----
 
@@ -49,7 +49,7 @@ Here's a hint: India produced 25% of the whole world's GDP in 1750, and only 4% 
 
 Here's another hint: British hegemony over India is usually considered to have begun with the Battle of Plassey in 1757; India gained independence in 1947.  
 
-I'm sorry, but any analysis of British prosperity from 1750 to 1950 and its subsequent decline that doesn't mention the Raj, India or colonial wealth transfer even once, is not an essay I can take seriously.  
+I'm sorry, but any analysis of British prosperity from 1750 to 1950 and its subsequent decline that doesn't mention the Raj, India or colonial wealth transfer even once, is not an analysis I can take seriously.  
 
 The most charitable interpretation I can put on it is that the authors don't want to alienate their (presumably British) target audience, and hence glossed over what to me is the obvious Occam's Razor explanation.  Other interpretations exist.
 
