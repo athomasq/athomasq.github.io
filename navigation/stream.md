@@ -12,6 +12,28 @@ title: Stream
 
 ----
 
+
+### Index of Posts
+
+#### 2024
+
+<span style="color:#A9A9A9;">2024-09-24</span> &emsp; [Don't Mention the Raj!](/stream#post-0009)
+<span style="color:#A9A9A9;">2024-09-20</span> &emsp; [Bad Analysis](/stream#post-0008)
+<span style="color:#A9A9A9;">2024-09-12</span> &emsp; [Oh McKinsey!](/stream#post-0007)
+<span style="color:#A9A9A9;">2024-09-08</span> &emsp; [Free Growth: Bug or Feature?](/stream#post-0006)
+<span style="color:#A9A9A9;">2024-09-05</span> &emsp; [On Asshole Founders](/stream#post-0005)
+<span style="color:#A9A9A9;">2024-08-28</span> &emsp; [A Mental Model for VC Rounds](/stream#post-0004)
+<span style="color:#A9A9A9;">2024-08-27</span> &emsp; [Raise Less, Focus More](/stream#post-0003)
+<span style="color:#A9A9A9;">2024-08-24</span> &emsp; [Keep Your Own Counsel](/stream#post-0002)
+<span style="color:#A9A9A9;">2024-07-22</span> &emsp; [Hello World!](/stream#post-0001)
+
+
+<br/>
+
+----
+
+<br/>
+
 <!--
 
 <br/>
@@ -37,7 +59,7 @@ Text goes here.
 
 <br/>
 
-<h3> <span style="color:#A9A9A9;">2024-09-24</span> &emsp; Don't Mention the Raj! </h3>
+<h3 id="post-0009"> <span style="color:#A9A9A9;">2024-09-24</span> &emsp; Don't Mention the Raj! </h3>
 
 I enjoyed this thoughtful and data-filled essay on [economic stagnation in the UK](https://ukfoundations.co), and agree with pretty much all its policy prescriptions.  But one section jumped out at me.  Quoting the article:
 
@@ -56,7 +78,7 @@ The most charitable interpretation I can put on it is that the authors don't wan
 
 <br/>
 
-<h3> <span style="color:#A9A9A9;">2024-09-24</span> &emsp; Bad Analysis </h3>
+<h3 id="post-0008"> <span style="color:#A9A9A9;">2024-09-20</span> &emsp; Bad Analysis </h3>
 
 If this is what passes for [rigorous analysis](https://x.com/daveclark85/status/1836818546115965353) among capital allocators, the venture industry is in worse shape than I thought.  God help us all.
 
@@ -94,7 +116,7 @@ I wouldn't mind so much, except that he claims that he is proving his case with 
 
 <br/>
 
-<h3 id="post-0005"> <span style="color:#A9A9A9;">2024-09-12</span> &emsp;Oh McKinsey!</h3>
+<h3 id="post-0007"> <span style="color:#A9A9A9;">2024-09-12</span> &emsp; Oh McKinsey!</h3>
 
 Haha, I just learned about a McKinsey angel investing group that has a strong preference for investing in ex McKinsey founders.  I wish I could short that portfolio.
 
@@ -105,7 +127,7 @@ There's also some irony in having all these genius business brains outsourcing t
 
 <br/>
 
-<h3 id="post-0005"> <span style="color:#A9A9A9;">2024-08-30</span> &emsp; Is Free Growth a Bug or a Feature? </h3>
+<h3 id="post-0006"> <span style="color:#A9A9A9;">2024-09-08</span> &emsp; Free Growth: Bug or Feature? </h3>
 
 Founders will sometimes say, "the best part is, we've achieved this growth without spending a penny on sales and marketing".  *This is a mistake.*  When a founder says this, the VC hears some combination of the following:
 
@@ -124,7 +146,7 @@ The best of all worlds is when you're not spending a lot, but there's a clear li
 
 <br/>
 
-<h3 id="post-0004"> <span style="color:#A9A9A9;">2024-08-28</span> &emsp; On Asshole Founders </h3>
+<h3 id="post-0005"> <span style="color:#A9A9A9;">2024-09-05</span> &emsp; On Asshole Founders </h3>
 
 Some of the best founders are assholes.  They are unfiltered, impatient and arrogant; they play zero-sum and dominance games; push hard for the answers they want; manipulate and coerce and persuade; are ruthlessly self-centred and focused on winning at all costs.  This can be a winning template when building a business, and also when raising money from investors.
 
