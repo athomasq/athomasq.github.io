@@ -19,7 +19,8 @@ title: Syndicates
 
 * [Setyl](/setyl)  
 * [Ubico](/ubico)  
-* [Cactivate](/cactivate)
+* [Cactivate](/cactivate)  
+* [Dagment](/dagment)  
 
 <br/> 
 <br/>
