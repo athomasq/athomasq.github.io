@@ -11,18 +11,21 @@ title: Blog
 *This is my page of ideas and anecdotes that I want to keep a non-ephemeral record of, but don't want to write a full essay on, or reshape for algorithmic or social-media optimization.  Some might call it a blog.*
 -->
 
+<center><b>2024</b></center>
 
 <br/>
 
-<span style="color:#A9A9A9;">2024-09-24</span> &emsp; [Don't Mention the Raj!](/blog#post-0009)  
-<span style="color:#A9A9A9;">2024-09-20</span> &emsp; [Bad Analysis](/blog#post-0008)  
-<span style="color:#A9A9A9;">2024-09-12</span> &emsp; [Oh McKinsey!](/blog#post-0007)  
-<span style="color:#A9A9A9;">2024-09-08</span> &emsp; [Free Growth: Bug or Feature?](/blog#post-0006)  
-<span style="color:#A9A9A9;">2024-09-05</span> &emsp; [On Asshole Founders](/blog#post-0005)  
+<span style="color:#A9A9A9;">2024-09-28</span> &emsp; [More on Exits](/blog#post-0011)  
+<span style="color:#A9A9A9;">2024-09-24</span> &emsp; [Don't Mention the Raj!](/blog#post-0010)  
+<span style="color:#A9A9A9;">2024-09-20</span> &emsp; [Bad Analysis](/blog#post-0009)  
+<span style="color:#A9A9A9;">2024-09-12</span> &emsp; [Oh McKinsey](/blog#post-0008)  
+<span style="color:#A9A9A9;">2024-09-08</span> &emsp; [Free Growth: Bug or Feature?](/blog#post-0007)  
+<span style="color:#A9A9A9;">2024-09-05</span> &emsp; [What Will Open the Floodgates?](/blog#post-0006)  
+<span style="color:#A9A9A9;">2024-08-31</span> &emsp; [On Asshole Founders](/blog#post-0005)  
 <span style="color:#A9A9A9;">2024-08-28</span> &emsp; [A Mental Model for VC Rounds](/blog#post-0004)  
-<span style="color:#A9A9A9;">2024-08-27</span> &emsp; [Raise Less, Focus More](/blog#post-0003)  
+<span style="color:#A9A9A9;">2024-08-27</span> &emsp; [How Much Should I Raise?](/blog#post-0003)  
 <span style="color:#A9A9A9;">2024-08-24</span> &emsp; [Keep Your Own Counsel](/blog#post-0002)  
-<span style="color:#A9A9A9;">2024-07-22</span> &emsp; [Hello World!](/blog#post-0001)  
+<span style="color:#A9A9A9;">2024-08-22</span> &emsp; [Hello World!](/blog#post-0001)  
 
 
 <br/>
@@ -34,7 +37,7 @@ title: Blog
 
 <br/>
 
-<h3> <span style="color:#A9A9A9;">2024-01-01</span> &emsp; Title </h3>
+<h3 id="post-xxxx"> <span style="color:#A9A9A9;">2024-01-01</span> &emsp; Title </h3>
 
 Text goes here.
 
@@ -49,13 +52,39 @@ Text goes here.
 	iceberg startups
 	wrappers are fine
 
--->
+	dillian
+	speed-quality 
+	marketing payoff times
+	
+	markups are the enemy
+	
+	I'm currently reading Robert Caro's biography of Lyndon Johnson, and, not gonna lie, it is every bit as good as everyone says it is.  
 
+-->
 
 
 <br/>
 
-<h3 id="post-0009"> <span style="color:#A9A9A9;">2024-09-24</span> &emsp; Don't Mention the Raj! </h3>
+<h3 id="post-0011"> <span style="color:#A9A9A9;">2024-09-28</span> &emsp; More on Exits </h3>
+
+A quick followup to my [previous note](/blog#post-0006) on exits.  I saw [this tweet](https://x.com/yuris/status/1839748023330714085) recently:  
+
+I just want to point out:
+
+* this person is a professional venture capitalist  
+* he is entrusted with investing other people's money  
+* his investing model depends, utterly, on large exits  
+* and yet he apparently does not track exit counts  
+* so that when somebody posts them, he says, "wow, that's crazy"  
+
+Now, I don't know Yuri personally, and a brief scan of his timeline suggests I'd probably agree with him on many topics.  But come on.  For a professional investor, this is deeply unserious. 
+
+(It's the natural outcome of a 15-year rising tide where the winning strategy for VCs is marketing for deal flow, access investing, "co-opetition" networks, consensus evaluations, and targeting markups over end outcomes.  Note that this strategy is evolutionarily dominant: investors who don't do this, exit the industry.)
+
+
+<br/>
+
+<h3 id="post-0010"> <span style="color:#A9A9A9;">2024-09-24</span> &emsp; Don't Mention the Raj! </h3>
 
 I enjoyed this thoughtful and data-filled essay on [economic stagnation in the UK](https://ukfoundations.co), and agree with pretty much all its policy prescriptions.  But one section jumped out at me.  Quoting the article:
 
@@ -67,14 +96,14 @@ Here's a hint: India produced 25% of the whole world's GDP in 1750, and only 4% 
 
 Here's another hint: British hegemony over India is usually considered to have begun with the Battle of Plassey in 1757; India gained independence in 1947.  
 
-I'm sorry, but any analysis of British prosperity from 1750 to 1950 and its subsequent decline that doesn't mention the Raj, India or colonial wealth transfer even once, is not an analysis I can take seriously.  
+I'm sorry, but any analysis of British prosperity from 1750 to 1950 and its subsequent decline that doesn't mention the Raj, India or colonial wealth transfer even once, is not an analysis I can take entirely seriously.  
 
 The most charitable interpretation I can put on it is that the authors don't want to alienate their (presumably British) target audience, and hence glossed over what to me is the obvious Occam's Razor explanation.  Other interpretations exist.
 
 
 <br/>
 
-<h3 id="post-0008"> <span style="color:#A9A9A9;">2024-09-20</span> &emsp; Bad Analysis </h3>
+<h3 id="post-0009"> <span style="color:#A9A9A9;">2024-09-20</span> &emsp; Bad Analysis </h3>
 
 If this is what passes for [rigorous analysis](https://x.com/daveclark85/status/1836818546115965353) among capital allocators, the venture industry is in worse shape than I thought.  God help us all.
 
@@ -90,13 +119,11 @@ And here are my objections:
 
 * 2 of the top 5 funds in his portfolio are very large.  Apparently this is the big narrative violation his thread builds up to.  Colour me unimpressed.  
 
-* "The perception that only small funds can outperform is 100% wrong."  Straw man alert!  I don't think anybody has ever claimed any such thing.  
+* "The perception that only small funds can outperform is 100% wrong."  Straw man alert!  I don't think anybody has ever claimed any such thing.  Stating that small funds outperform large funds is not the same as stating that *only* small funds can outperform, or that no large funds can outperform.  This is such an elementary error, I'm ashamed I have to point it out. 
 
 * "LPs need to optimise on the best managers, not focus on fund size."  Oh look, another straw man.  I don't think there's an LP in the world who makes allocation decisions purely (or even primarily) based on fund size.  
 
 * (If anything, institutional incentives mean that LPs tend to bias towards larger funds.) 
-
-* (Also, this is the first time I've seen the [midwit meme](https://x.com/daveclark85/status/1837070736365670577) with the same statement at all levels of IQ.)
 
 * This is subtle but important: the combination of power-law outcomes and weighted-average TVPI calculations means that a single high-performing large fund can skew the aggregate return profile of VenCap's portoflio, in a way that's unavailable to the size-capped segments in PitchBook's sample.
 
@@ -112,7 +139,7 @@ I wouldn't mind so much, except that he claims that he is proving his case with 
 
 <br/>
 
-<h3 id="post-0007"> <span style="color:#A9A9A9;">2024-09-12</span> &emsp; Oh McKinsey!</h3>
+<h3 id="post-0008"> <span style="color:#A9A9A9;">2024-09-12</span> &emsp; Oh McKinsey</h3>
 
 Haha, I just learned about a McKinsey angel investing group that has a strong preference for investing in ex McKinsey founders.  I wish I could short that portfolio.
 
@@ -123,7 +150,7 @@ There's also some irony in having all these genius business brains outsourcing t
 
 <br/>
 
-<h3 id="post-0006"> <span style="color:#A9A9A9;">2024-09-08</span> &emsp; Free Growth: Bug or Feature? </h3>
+<h3 id="post-0007"> <span style="color:#A9A9A9;">2024-09-08</span> &emsp; Free Growth: Bug or Feature? </h3>
 
 Founders will sometimes say, "the best part is, we've achieved this growth without spending a penny on sales and marketing".  *This is a mistake.*  When a founder says this, the VC hears some combination of the following:
 
@@ -139,10 +166,32 @@ Of course, the opposite problem is worse: you're spending a lot on sales & marke
 
 The best of all worlds is when you're not spending a lot, but there's a clear line connecting what you spend and the results you achieve; and where organic and paid are complements not substitutes.
 
+<br/>
+
+<h3 id="post-0006"> <span style="color:#A9A9A9;">2024-09-05</span> &emsp; What Will Open the Floodgates? </h3>
+
+If you're not a hot startup in a sexy area (cough cough AI), fund-raising is tough right now.  Seed remains active, but later stages are moribund.  I'm often asked by founders, what will it take to re-open the venture market?
+
+My one word answer is: **exits**.  VCs need to return actual cash to LPs, to prove that the last few years of paper markups weren't just a mirage.  This will help LPs rebalance portfolios which are currently (still) over-exposed to venture, and allow them to make fresh commitments to new GP vintages, which in turn should trickle down to startups.
+
+Unfortunately, exits aren't happening.  The IPO window remains closed, and M&A is also pretty dead.  Why so?
+
+* There's a valuation overhang from 2021: neither founders nor investors want to exit below those (insanely inflated) prices.  Some firms have taken markdowns on paper, but crystallizing them would call into doubt the entire 15-year narrative of venture as a performant, predictable, scalable asset class.  
+
+* There's a very real fear that AI has a barbell effect on outcomes: it helps the very big (Mag 7, with all their capex resources and distribution), and it helps the very small (low-cost, long-tail solutions).  Late stage tech firms who would ordinarily IPO around now are caught in the middle.   
+
+* This kills the growth assumptions on which SaaS multiples are based.  Why would anyone invest in firms built on 5-10 year old tech, seeing their market share getting eaten from both above and below?  SaaS feels kinda dead as a business model.  
+
+* The FTC's recent vigorous anti-trust enforcement has blocked off large-scale (>$5B) M&A, the other material exit pathway that venture firms rely on.  
+
+* While not a root cause, Fed Funds at 5% make all the above worse.  (But note that there were plenty of IPOs in the 1990s, when rates were higher.)  
+
+Bad startups never get funded, and great startups always get funded.  What about the middle class: good-to-very-good startups?  In a healthy market, they get funded too, but we're not in a healthy market today.  We're still recovering from the excesses of 2021, and until those are cleared out, financing will remain a challenge.
+
 
 <br/>
 
-<h3 id="post-0005"> <span style="color:#A9A9A9;">2024-09-05</span> &emsp; On Asshole Founders </h3>
+<h3 id="post-0005"> <span style="color:#A9A9A9;">2024-08-31</span> &emsp; On Asshole Founders </h3>
 
 Some of the best founders are assholes.  They are unfiltered, impatient and arrogant; they play zero-sum and dominance games; push hard for the answers they want; manipulate and coerce and persuade; are ruthlessly self-centred and focused on winning at all costs.  This can be a winning template when building a business, and also when raising money from investors.
 
@@ -164,7 +213,6 @@ I typically don't invest founders who present this way.  My reasons:
 
 (btw all of the above applies equally well to asshole investors).
 
-
 <br/>
 
 <h3 id="post-0004"> <span style="color:#A9A9A9;">2024-08-28</span> &emsp; A Mental Model for VC Rounds </h3>
@@ -183,7 +231,7 @@ If you're planning to follow the VC trajectory, you should know these expectatio
 
 <br/>
 
-<h3 id="post-0003"> <span style="color:#A9A9A9;">2024-08-27</span> &emsp; Raise Less, Focus More</h3>
+<h3 id="post-0003"> <span style="color:#A9A9A9;">2024-08-27</span> &emsp; How Much Should I Raise?</h3>
 
 The following things are all simultaneously true:
 
@@ -217,7 +265,7 @@ Net-net, my bias is always to make a frugal (not lavish) plan, where the frugali
 
 <br/>
 
-<h3 id="post-0002"> <span style="color:#A9A9A9;">2024-07-19</span> &emsp; Keep Your Own Counsel </h3>
+<h3 id="post-0002"> <span style="color:#A9A9A9;">2024-08-24</span> &emsp; Keep Your Own Counsel </h3>
 
 Discussing investments with other angels invariably biases towards a pass.  Because there's always flaws you can find in early stage deals -- and the more eyeballs, the more flaws.  Given that I care a great deal more about false negatives than false positives, I want to avoid processes that tilt that way -- in an ideal world I'd want a Panglossian interlocutor who constantly asks me "yes, but what could go right?".  Most angels don't think that way!
 
@@ -226,7 +274,7 @@ Discussing investments with other angels invariably biases towards a pass.  Beca
 
 <br/>
 
-<h3 id="post-0001"> <span style="color:#A9A9A9;">2024-06-23</span> &emsp; Hello World! </h3>
+<h3 id="post-0001"> <span style="color:#A9A9A9;">2024-08-22</span> &emsp; Hello World! </h3>
 
 "Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure." -- Cicero, *de Finibus Bonorum et Malorum*.  Pat yourself on the back if you know why I've used this quote.
 
