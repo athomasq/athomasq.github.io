@@ -11,10 +11,10 @@ title: Blog
 *This is my page of ideas and anecdotes that I want to keep a non-ephemeral record of, but don't want to write a full essay on, or reshape for algorithmic or social-media optimization.  Some might call it a blog.*
 -->
 
-<center><b>2024</b></center>
-
 <br/>
 
+<center><b>2024</b></center>  
+  
 <span style="color:#A9A9A9;">2024-09-28</span> &emsp; [More on Exits](/blog#post-0011)  
 <span style="color:#A9A9A9;">2024-09-24</span> &emsp; [Don't Mention the Raj!](/blog#post-0010)  
 <span style="color:#A9A9A9;">2024-09-20</span> &emsp; [Bad Analysis](/blog#post-0009)  
