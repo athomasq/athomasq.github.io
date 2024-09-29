@@ -69,6 +69,8 @@ Text goes here.
 
 A quick followup to my [previous note](/blog#post-0006) on exits.  I saw [this tweet](https://x.com/yuris/status/1839748023330714085) recently:  
 
+<img src="/assets/img/sagalov.png" class="image">
+
 I just want to point out:
 
 * this person is a professional venture capitalist  
