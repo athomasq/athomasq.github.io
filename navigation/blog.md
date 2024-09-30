@@ -14,18 +14,22 @@ title: Blog
 <br/>
 
 <center><b>2024</b></center>  
-  
-<span style="color:#A9A9A9;">2024-09-28</span> &emsp; [More on Exits](/blog#post-0011)  
-<span style="color:#A9A9A9;">2024-09-24</span> &emsp; [Don't Mention the Raj!](/blog#post-0010)  
-<span style="color:#A9A9A9;">2024-09-20</span> &emsp; [Bad Analysis](/blog#post-0009)  
-<span style="color:#A9A9A9;">2024-09-12</span> &emsp; [Oh McKinsey](/blog#post-0008)  
-<span style="color:#A9A9A9;">2024-09-08</span> &emsp; [Free Growth: Bug or Feature?](/blog#post-0007)  
-<span style="color:#A9A9A9;">2024-09-05</span> &emsp; [What Will Open the Floodgates?](/blog#post-0006)  
-<span style="color:#A9A9A9;">2024-08-31</span> &emsp; [On Asshole Founders](/blog#post-0005)  
-<span style="color:#A9A9A9;">2024-08-28</span> &emsp; [A Mental Model for VC Rounds](/blog#post-0004)  
-<span style="color:#A9A9A9;">2024-08-27</span> &emsp; [How Much Should I Raise?](/blog#post-0003)  
-<span style="color:#A9A9A9;">2024-08-24</span> &emsp; [Keep Your Own Counsel](/blog#post-0002)  
-<span style="color:#A9A9A9;">2024-08-22</span> &emsp; [Hello World!](/blog#post-0001)  
+
+
+
+<span style="color:#A9A9A9;">2024-09-30</span> &emsp; [Quick Takes #1](/blog#cbqa)    
+<span style="color:#A9A9A9;">2024-09-29</span> &emsp; [Blogosophy](/blog#akid)   
+<span style="color:#A9A9A9;">2024-09-28</span> &emsp; [More on Exits](/blog#lllv)  
+<span style="color:#A9A9A9;">2024-09-24</span> &emsp; [Don't Mention the Raj!](/blog#nzku)  
+<span style="color:#A9A9A9;">2024-09-20</span> &emsp; [Bad Analysis](/blog#lzaa)  
+<span style="color:#A9A9A9;">2024-09-12</span> &emsp; [Oh McKinsey](/blog#spsy)  
+<span style="color:#A9A9A9;">2024-09-08</span> &emsp; [Free Growth: Bug or Feature?](/blog#cxpa)  
+<span style="color:#A9A9A9;">2024-09-05</span> &emsp; [What Will Open the Floodgates?](/blog#zhpi)  
+<span style="color:#A9A9A9;">2024-08-31</span> &emsp; [On Asshole Founders](/blog#etui)  
+<span style="color:#A9A9A9;">2024-08-28</span> &emsp; [A Mental Model for VC Rounds](/blog#alzh)  
+<span style="color:#A9A9A9;">2024-08-27</span> &emsp; [How Much Should I Raise?](/blog#ksqo)  
+<span style="color:#A9A9A9;">2024-08-24</span> &emsp; [Keep Your Own Counsel](/blog#ixof)  
+<span style="color:#A9A9A9;">2024-08-22</span> &emsp; [Hello World!](/blog#ydhr)  
 
 
 <br/>
@@ -37,7 +41,7 @@ title: Blog
 
 <br/>
 
-<h3 id="post-xxxx"> <span style="color:#A9A9A9;">2024-01-01</span> &emsp; Title </h3>
+<h3 id="post-akid"> <span style="color:#A9A9A9;">2024-01-01</span> &emsp; Title </h3>
 
 Text goes here.
 
@@ -57,19 +61,41 @@ Text goes here.
 	marketing payoff times
 	
 	markups are the enemy
-	
-	I'm currently reading Robert Caro's biography of Lyndon Johnson, and, not gonna lie, it is every bit as good as everyone says it is.  
+	blog design philosophy
 
 -->
 
+<br/>
+
+<h3 id="cbqa"> <span style="color:#A9A9A9;">2024-09-30</span> &emsp; Quick Takes #1 </h3>
+
+* I'm currently reading Robert Caro's biography of Lyndon Johnson, and, not gonna lie, it is every bit as good as everyone says it is.  
+
+* Love how Silicon Valley uses "operator" as a cool-sounding synonym for "employee".  
+
+* Quote from the best data engineer I know — "My output is not code, my output is data".
 
 <br/>
 
-<h3 id="post-0011"> <span style="color:#A9A9A9;">2024-09-28</span> &emsp; More on Exits </h3>
+<h3 id="post-akid"> <span style="color:#A9A9A9;">2024-09-29</span> &emsp; Blogosophy </h3>
 
-A quick followup to my [previous note](/blog#post-0006) on exits.  I saw [this tweet](https://x.com/yuris/status/1839748023330714085) recently:  
+I write a newsletter with quite a few subscribers; why do I also have a blog? 
 
-<img src="/assets/img/sagalov.png" class="image">
+* I've realized that my preferred envelope for the newsletter is long-form essays: in-depth explorations of topics where I have expertise, or experience, or something original to stay.  These are naturally infrequent.
+
+* But I also wanted a space for more frequent, often topical, lower-stakes posts, where I don't have to think too much, or worry about drafting and crafting.
+
+* In the past, this would have been Twitter, but I don't find that platform useful anymore, either as a consumer or producer.  The delight is long gone.
+
+* I'm very aware of the phenomenon whereby social networks train content creators to produce quantity over quality, to consciously maximize engagement, to always have a take, and ultimately to become addicted.  I want to avoid this; this blog is self-hosted, un-publicized, and comment-free.  
+
+<br/>
+
+<h3 id="lllv"> <span style="color:#A9A9A9;">2024-09-28</span> &emsp; More on Exits </h3>
+
+A quick followup to my [previous note](/blog#zhpi) on exits.  I saw [this tweet](https://x.com/yuris/status/1839748023330714085) recently:  
+
+<img src="/assets/img/sagalov.png" class="image_blog">
 
 I just want to point out:
 
@@ -84,9 +110,10 @@ Now, I don't know Yuri personally, and a brief scan of his timeline suggests I'd
 (It's the natural outcome of a 15-year rising tide where the winning strategy for VCs is marketing for deal flow, access investing, "co-opetition" networks, consensus evaluations, and targeting markups over end outcomes.  Note that this strategy is evolutionarily dominant: investors who don't do this, exit the industry.)
 
 
+
 <br/>
 
-<h3 id="post-0010"> <span style="color:#A9A9A9;">2024-09-24</span> &emsp; Don't Mention the Raj! </h3>
+<h3 id="nzku"> <span style="color:#A9A9A9;">2024-09-24</span> &emsp; Don't Mention the Raj! </h3>
 
 I enjoyed this thoughtful and data-filled essay on [economic stagnation in the UK](https://ukfoundations.co), and agree with pretty much all its policy prescriptions.  But one section jumped out at me.  Quoting the article:
 
@@ -105,13 +132,13 @@ The most charitable interpretation I can put on it is that the authors don't wan
 
 <br/>
 
-<h3 id="post-0009"> <span style="color:#A9A9A9;">2024-09-20</span> &emsp; Bad Analysis </h3>
+<h3 id="lzaa"> <span style="color:#A9A9A9;">2024-09-20</span> &emsp; Bad Analysis </h3>
 
 If this is what passes for [rigorous analysis](https://x.com/daveclark85/status/1836818546115965353) among capital allocators, the venture industry is in worse shape than I thought.  God help us all.
 
 Okay, let's use this as a learning experience: less snark, more constructivity.  Here's the full thread:
 
-<img src="/assets/img/vencap2.png" class="image">
+<img src="/assets/img/vencap.png" class="image_blog">
 
 And here are my objections:
 
@@ -141,7 +168,7 @@ I wouldn't mind so much, except that he claims that he is proving his case with 
 
 <br/>
 
-<h3 id="post-0008"> <span style="color:#A9A9A9;">2024-09-12</span> &emsp; Oh McKinsey</h3>
+<h3 id="spsy"> <span style="color:#A9A9A9;">2024-09-12</span> &emsp; Oh McKinsey</h3>
 
 Haha, I just learned about a McKinsey angel investing group that has a strong preference for investing in ex McKinsey founders.  I wish I could short that portfolio.
 
@@ -152,7 +179,7 @@ There's also some irony in having all these genius business brains outsourcing t
 
 <br/>
 
-<h3 id="post-0007"> <span style="color:#A9A9A9;">2024-09-08</span> &emsp; Free Growth: Bug or Feature? </h3>
+<h3 id="cxpa"> <span style="color:#A9A9A9;">2024-09-08</span> &emsp; Free Growth: Bug or Feature? </h3>
 
 Founders will sometimes say, "the best part is, we've achieved this growth without spending a penny on sales and marketing".  *This is a mistake.*  When a founder says this, the VC hears some combination of the following:
 
@@ -170,7 +197,7 @@ The best of all worlds is when you're not spending a lot, but there's a clear li
 
 <br/>
 
-<h3 id="post-0006"> <span style="color:#A9A9A9;">2024-09-05</span> &emsp; What Will Open the Floodgates? </h3>
+<h3 id="zhpi"> <span style="color:#A9A9A9;">2024-09-05</span> &emsp; What Will Open the Floodgates? </h3>
 
 If you're not a hot startup in a sexy area (cough cough AI), fund-raising is tough right now.  Seed remains active, but later stages are moribund.  I'm often asked by founders, what will it take to re-open the venture market?
 
@@ -193,7 +220,7 @@ Bad startups never get funded, and great startups always get funded.  What about
 
 <br/>
 
-<h3 id="post-0005"> <span style="color:#A9A9A9;">2024-08-31</span> &emsp; On Asshole Founders </h3>
+<h3 id="etui"> <span style="color:#A9A9A9;">2024-08-31</span> &emsp; On Asshole Founders </h3>
 
 Some of the best founders are assholes.  They are unfiltered, impatient and arrogant; they play zero-sum and dominance games; push hard for the answers they want; manipulate and coerce and persuade; are ruthlessly self-centred and focused on winning at all costs.  This can be a winning template when building a business, and also when raising money from investors.
 
@@ -217,7 +244,7 @@ I typically don't invest founders who present this way.  My reasons:
 
 <br/>
 
-<h3 id="post-0004"> <span style="color:#A9A9A9;">2024-08-28</span> &emsp; A Mental Model for VC Rounds </h3>
+<h3 id="alzh"> <span style="color:#A9A9A9;">2024-08-28</span> &emsp; A Mental Model for VC Rounds </h3>
 
 Here's how to think about VC rounds:
 
@@ -233,7 +260,7 @@ If you're planning to follow the VC trajectory, you should know these expectatio
 
 <br/>
 
-<h3 id="post-0003"> <span style="color:#A9A9A9;">2024-08-27</span> &emsp; How Much Should I Raise?</h3>
+<h3 id="ksqo"> <span style="color:#A9A9A9;">2024-08-27</span> &emsp; How Much Should I Raise?</h3>
 
 The following things are all simultaneously true:
 
@@ -267,7 +294,7 @@ Net-net, my bias is always to make a frugal (not lavish) plan, where the frugali
 
 <br/>
 
-<h3 id="post-0002"> <span style="color:#A9A9A9;">2024-08-24</span> &emsp; Keep Your Own Counsel </h3>
+<h3 id="ixof"> <span style="color:#A9A9A9;">2024-08-24</span> &emsp; Keep Your Own Counsel </h3>
 
 Discussing investments with other angels invariably biases towards a pass.  Because there's always flaws you can find in early stage deals -- and the more eyeballs, the more flaws.  Given that I care a great deal more about false negatives than false positives, I want to avoid processes that tilt that way -- in an ideal world I'd want a Panglossian interlocutor who constantly asks me "yes, but what could go right?".  Most angels don't think that way!
 
@@ -276,7 +303,7 @@ Discussing investments with other angels invariably biases towards a pass.  Beca
 
 <br/>
 
-<h3 id="post-0001"> <span style="color:#A9A9A9;">2024-08-22</span> &emsp; Hello World! </h3>
+<h3 id="ydhr"> <span style="color:#A9A9A9;">2024-08-22</span> &emsp; Hello World! </h3>
 
 "Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure." -- Cicero, *de Finibus Bonorum et Malorum*.  Pat yourself on the back if you know why I've used this quote.
 
@@ -288,3 +315,34 @@ Discussing investments with other angels invariably biases towards a pass.  Beca
 <br/>
 <br/>
 <br/>
+
+
+<!--
+
+
+hfcz
+lrby
+uftu
+vdih
+mbxm
+sgjv
+geuq
+wndo
+wzmc
+zxed
+znnt
+jcqs
+necg
+fbju
+hheo
+zbuj
+jjlz
+gaoz
+lmjj
+bzlz
+xvww
+bhml
+qwlz
+abnk
+bsip
+-->
