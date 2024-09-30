@@ -74,7 +74,7 @@ Text goes here.
 
 I write a newsletter with quite a few subscribers; why do I also have a blog? 
 
-* I've realized that my preferred envelope for the newsletter is long-form essays: in-depth explorations of topics where I have expertise, or experience, or something original to stay.  These are naturally irregular.  
+* I've realized that my preferred envelope for the newsletter is long-form essays: in-depth explorations of topics where I have expertise, or experience, or something original to stay.  
 
 * But I also wanted a space for more frequent, often topical, sometimes self-indulgent, lower-stakes posts, where I don't have to think too much, or worry about drafting and crafting.  
 
