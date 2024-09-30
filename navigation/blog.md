@@ -7,9 +7,6 @@ title: Blog
 ## Blog
 
 ----
-<!--
-*This is my page of ideas and anecdotes that I want to keep a non-ephemeral record of, but don't want to write a full essay on, or reshape for algorithmic or social-media optimization.  Some might call it a blog.*
--->
 
 <br/>
 
@@ -48,20 +45,16 @@ Text goes here.
 -->
 
 <!--
-	motivations
 	iron law of sales
 	tradeoffs with vc
 	4 types of fit
 	series a metrics
 	iceberg startups
 	wrappers are fine
-
 	dillian
 	speed-quality 
-	marketing payoff times
-	
+	marketing payoff times	
 	markups are the enemy
-	blog design philosophy
 
 -->
 
@@ -71,9 +64,9 @@ Text goes here.
 
 * I'm currently reading Robert Caro's biography of Lyndon Johnson, and, not gonna lie, it is every bit as good as everyone says it is.  
 
-* Love how Silicon Valley uses "operator" as a cool-sounding synonym for "employee".  
+* I love the way the tech community uses "operator" when what they mean is "employee".  
 
-* Quote from the best data engineer I know — "My output is not code, my output is data".
+* Quote from the best data engineer I know — "My output is not code, my output is data".  
 
 <br/>
 
@@ -81,13 +74,21 @@ Text goes here.
 
 I write a newsletter with quite a few subscribers; why do I also have a blog? 
 
-* I've realized that my preferred envelope for the newsletter is long-form essays: in-depth explorations of topics where I have expertise, or experience, or something original to stay.  These are naturally infrequent.
+* I've realized that my preferred envelope for the newsletter is long-form essays: in-depth explorations of topics where I have expertise, or experience, or something original to stay.  These are naturally irregular.  
 
-* But I also wanted a space for more frequent, often topical, lower-stakes posts, where I don't have to think too much, or worry about drafting and crafting.
+* But I also wanted a space for more frequent, often topical, sometimes self-indulgent, lower-stakes posts, where I don't have to think too much, or worry about drafting and crafting.  
 
-* In the past, this would have been Twitter, but I don't find that platform useful anymore, either as a consumer or producer.  The delight is long gone.
+* In the past, this would have been Twitter, but I don't find that platform useful anymore, either as a consumer or producer.  The thrill is long gone.  
 
-* I'm very aware of the phenomenon whereby social networks train content creators to produce quantity over quality, to consciously maximize engagement, to always have a take, and ultimately to become addicted.  I want to avoid this; this blog is self-hosted, un-publicized, and comment-free.  
+* I'm very aware of the phenomenon whereby social networks train content creators to produce quantity over quality, to consciously maximize engagement, to always have a take, and ultimately to become addicted.  I want to avoid this; this blog is self-hosted, un-publicized, algorithmically un-optimized, and comment-free.  
+
+* I just want to write more.  Perfect is the enemy of good; I want to lower my activation energy for putting words into the world.
+
+
+<!--
+*This is my page of ideas and anecdotes that I want to keep a non-ephemeral record of, but don't want to write a full essay on, or reshape for algorithmic or social-media optimization.  Some might call it a blog.*
+-->
+
 
 <br/>
 
@@ -320,7 +321,7 @@ Discussing investments with other angels invariably biases towards a pass.  Beca
 <!--
 
 
-hfcz
+
 lrby
 uftu
 vdih
