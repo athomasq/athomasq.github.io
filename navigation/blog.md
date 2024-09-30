@@ -17,8 +17,8 @@ title: Blog
 <span style="color:#A9A9A9;">2024-09-28</span> &emsp; [More on Exits](/blog#lllv)  
 <span style="color:#A9A9A9;">2024-09-24</span> &emsp; [Don't Mention the Raj!](/blog#nzku)  
 <span style="color:#A9A9A9;">2024-09-20</span> &emsp; [Bad Analysis](/blog#lzaa)  
-<span style="color:#A9A9A9;">2024-09-12</span> &emsp; [Oh McKinsey](/blog#spsy)  
-<span style="color:#A9A9A9;">2024-09-08</span> &emsp; [Free Growth: Bug or Feature?](/blog#cxpa)  
+<span style="color:#A9A9A9;">2024-09-12</span> &emsp; [Free Growth: Bug or Feature?](/blog#cxpa)  
+<span style="color:#A9A9A9;">2024-09-08</span> &emsp; [Oh McKinsey](/blog#spsy)  
 <span style="color:#A9A9A9;">2024-09-05</span> &emsp; [What Will Open the Floodgates?](/blog#zhpi)  
 <span style="color:#A9A9A9;">2024-08-31</span> &emsp; [On Asshole Founders](/blog#etui)  
 <span style="color:#A9A9A9;">2024-08-28</span> &emsp; [A Mental Model for VC Rounds](/blog#alzh)  
@@ -93,7 +93,7 @@ I just want to point out:
 
 Now, I don't know Yuri personally, and a brief scan of his timeline suggests I'd probably agree with him on many topics.  But come on.  For a professional investor, this is deeply unserious. 
 
-(It's the natural outcome of a 15-year rising tide where the winning strategy for VCs is marketing for deal flow, access investing, "co-opetition" networks, consensus evaluations, and targeting markups over end outcomes.  Note that this strategy is evolutionarily dominant: investors who don't do this, exit the industry.)
+And he's not alone; there are *lots* of venture investors who are similarly lax.  It's the natural outcome of a 15-year rising tide where the winning strategy for VCs is marketing for deal flow, access investing, "co-opetition" networks, consensus evaluations, and targeting markups over end outcomes.  Note that this strategy is evolutionarily dominant: investors who don't do this, exit the industry.
 
 
 
@@ -111,7 +111,7 @@ Here's a hint: India produced 25% of the whole world's GDP in 1750, and only 4% 
 
 Here's another hint: British hegemony over India is usually considered to have begun with the Battle of Plassey in 1757; India gained independence in 1947.  
 
-I'm sorry, but any analysis of British prosperity from 1750 to 1950 and its subsequent decline that doesn't mention the Raj, India or colonial wealth transfer even once, is not an analysis I can take entirely seriously.  
+I'm sorry, but any analysis of British prosperity from 1750 to 1950 and its subsequent decline that doesn't mention the Raj, India or colonial wealth transfer even once, is not an analysis I can take seriously.  
 
 The most charitable interpretation I can put on it is that the authors don't want to alienate their (presumably British) target audience, and hence glossed over what to me is the obvious Occam's Razor explanation.  Other interpretations exist.
 
@@ -151,21 +151,9 @@ This is what happens when you're insulated from criticism.  At least VCs have LP
 I wouldn't mind so much, except that he claims that he is proving his case with data. I have a professional objection to anyone who makes unfounded claims of that nature.  
 
 
-
 <br/>
 
-<h3 id="spsy"> <span style="color:#A9A9A9;">2024-09-12</span> &emsp; Oh McKinsey</h3>
-
-Haha, I just learned about a McKinsey angel investing group that has a strong preference for investing in ex McKinsey founders.  I wish I could short that portfolio.
-
-It doesn't matter how smart, hard-working and articulate you are; being a McKinsey consultant is strongly anti-correlated with the traits that are required for startup success.  (Partly nature, partly nurture within the Firm.)
-
-There's also some irony in having all these genius business brains outsourcing their deal evaluation to the McK undergrad hiring committee... 
-
-
-<br/>
-
-<h3 id="cxpa"> <span style="color:#A9A9A9;">2024-09-08</span> &emsp; Free Growth: Bug or Feature? </h3>
+<h3 id="cxpa"> <span style="color:#A9A9A9;">2024-09-12</span> &emsp; Free Growth: Bug or Feature? </h3>
 
 Founders will sometimes say, "the best part is, we've achieved this growth without spending a penny on sales and marketing".  *This is a mistake.*  When a founder says this, the VC hears some combination of the following:
 
@@ -180,6 +168,17 @@ To be fair, VCs are also talking their book on this.  From their point of view, 
 Of course, the opposite problem is worse: you're spending a lot on sales & marketing, but growth is an uphill struggle.  
 
 The best of all worlds is when you're not spending a lot, but there's a clear line connecting what you spend and the results you achieve; and where organic and paid are complements not substitutes.
+
+<br/>
+
+<h3 id="spsy"> <span style="color:#A9A9A9;">2024-09-08</span> &emsp; Oh McKinsey</h3>
+
+Haha, I just learned about a McKinsey angel investing group that has a strong preference for investing in ex McKinsey founders.  I wish I could short that portfolio.
+
+It doesn't matter how smart, hard-working and articulate you are; being a McKinsey consultant is strongly anti-correlated with the traits that are required for startup success.  (Partly nature, partly nurture within the Firm.)
+
+There's also some irony in having all these genius business brains outsourcing their deal evaluation to the McK undergrad hiring committee... 
+
 
 <br/>
 
@@ -199,7 +198,7 @@ Unfortunately, exits aren't happening.  The IPO window remains closed, and M&A i
 
 * The FTC's recent vigorous anti-trust enforcement has blocked off large-scale (>$5B) M&A, the other material exit pathway that venture firms rely on.  
 
-* While not a root cause, Fed Funds at 5% make all the above worse.  (But note that there were plenty of IPOs in the 1990s, when rates were higher.)  
+* While not a root cause, fed funds at 5% make all the above worse.  (But note that there were plenty of IPOs in the 1990s, when rates were higher.)  
 
 Bad startups never get funded, and great startups always get funded.  What about the middle class: good-to-very-good startups?  In a healthy market, they get funded too, but we're not in a healthy market today.  We're still recovering from the excesses of 2021, and until those are cleared out, financing will remain a challenge.
 
@@ -282,7 +281,9 @@ Net-net, my bias is always to make a frugal (not lavish) plan, where the frugali
 
 <h3 id="ixof"> <span style="color:#A9A9A9;">2024-08-24</span> &emsp; Keep Your Own Counsel </h3>
 
-Discussing investments with other angels invariably biases towards a pass.  Because there's always flaws you can find in early stage deals -- and the more eyeballs, the more flaws.  Given that I care a great deal more about false negatives than false positives, I want to avoid processes that tilt that way -- in an ideal world I'd want a Panglossian interlocutor who constantly asks me "yes, but what could go right?".  Most angels don't think that way!
+Discussing investments with other angels invariably biases towards a pass.  Because there's always flaws you can find in early stage deals -- and the more eyeballs, the more flaws.  
+
+Given that I care a great deal more about false negatives than false positives, I want to avoid processes that tilt that way.  In an ideal world I'd want a Panglossian interlocutor who constantly asks me "yes, but what could go right?".  Most angels don't think that way!
 
 
 
