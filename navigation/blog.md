@@ -11,9 +11,7 @@ title: Blog
 <br/>
 
 <center><b>2024</b></center>  
-
-
-
+  
 <span style="color:#A9A9A9;">2024-09-30</span> &emsp; [Quick Takes #1](/blog#cbqa)    
 <span style="color:#A9A9A9;">2024-09-29</span> &emsp; [Blogosophy](/blog#akid)   
 <span style="color:#A9A9A9;">2024-09-28</span> &emsp; [More on Exits](/blog#lllv)  
@@ -28,21 +26,9 @@ title: Blog
 <span style="color:#A9A9A9;">2024-08-24</span> &emsp; [Keep Your Own Counsel](/blog#ixof)  
 <span style="color:#A9A9A9;">2024-08-22</span> &emsp; [Hello World!](/blog#ydhr)  
 
-
 <br/>
 
 ----
-
-
-<!--
-
-<br/>
-
-<h3 id="post-akid"> <span style="color:#A9A9A9;">2024-01-01</span> &emsp; Title </h3>
-
-Text goes here.
-
--->
 
 <!--
 	iron law of sales
@@ -55,7 +41,6 @@ Text goes here.
 	speed-quality 
 	marketing payoff times	
 	markups are the enemy
-
 -->
 
 <br/>
