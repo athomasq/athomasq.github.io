@@ -12,9 +12,10 @@ title: Blog
 
 <center><b>2024</b></center>  
   
-<span style="color:#A9A9A9;">2024-09-30</span> &emsp; [Quick Takes #1](/blog#cbqa)    
-<span style="color:#A9A9A9;">2024-09-29</span> &emsp; [Blogosophy](/blog#akid)   
-<span style="color:#A9A9A9;">2024-09-28</span> &emsp; [More on Exits](/blog#lllv)  
+<span style="color:#A9A9A9;">2024-10-02</span> &emsp; [Quick Takes #1](/blog#cbqa)    
+<span style="color:#A9A9A9;">2024-10-01</span> &emsp; [Blogosophy](/blog#akid)   
+<span style="color:#A9A9A9;">2024-09-30</span> &emsp; [More on Exits](/blog#lllv)  
+<span style="color:#A9A9A9;">2024-09-28</span> &emsp; [Unicorns in Capital Markets](/blog#lrby)  
 <span style="color:#A9A9A9;">2024-09-24</span> &emsp; [Don't Mention the Raj!](/blog#nzku)  
 <span style="color:#A9A9A9;">2024-09-20</span> &emsp; [Bad Analysis](/blog#lzaa)  
 <span style="color:#A9A9A9;">2024-09-12</span> &emsp; [Free Growth: Bug or Feature?](/blog#cxpa)  
@@ -43,9 +44,11 @@ title: Blog
 	markups are the enemy
 -->
 
+
+
 <br/>
 
-<h3 id="cbqa"> <span style="color:#A9A9A9;">2024-09-30</span> &emsp; Quick Takes #1 </h3>
+<h3 id="cbqa"> <span style="color:#A9A9A9;">2024-10-02</span> &emsp; Quick Takes #1 </h3>
 
 * I'm currently reading Robert Caro's biography of Lyndon Johnson, and, not gonna lie, it is every bit as good as everyone says it is.  
 
@@ -55,7 +58,7 @@ title: Blog
 
 <br/>
 
-<h3 id="post-akid"> <span style="color:#A9A9A9;">2024-09-29</span> &emsp; Blogosophy </h3>
+<h3 id="post-akid"> <span style="color:#A9A9A9;">2024-10-01</span> &emsp; Blogosophy </h3>
 
 I write a newsletter with quite a few subscribers; why do I also have a blog? 
 
@@ -77,7 +80,7 @@ I write a newsletter with quite a few subscribers; why do I also have a blog?
 
 <br/>
 
-<h3 id="lllv"> <span style="color:#A9A9A9;">2024-09-28</span> &emsp; More on Exits </h3>
+<h3 id="lllv"> <span style="color:#A9A9A9;">2024-09-30</span> &emsp; More on Exits </h3>
 
 A quick followup to my [previous note](/blog#zhpi) on exits.  I saw [this tweet](https://x.com/yuris/status/1839748023330714085) recently:  
 
@@ -93,9 +96,21 @@ I just want to point out:
 
 Now, I don't know Yuri personally, and a brief scan of his timeline suggests I'd probably agree with him on many topics.  But come on.  For a professional investor, this is deeply unserious. 
 
-And he's not alone; there are *lots* of venture investors who are similarly lax.  It's the natural outcome of a 15-year rising tide where the winning strategy for VCs is marketing for deal flow, access investing, "co-opetition" networks, consensus evaluations, and targeting markups over end outcomes.  Note that this strategy is evolutionarily dominant: investors who don't do this, exit the industry.
+And he's not alone; there are *lots* of venture investors who are similarly lax.  It's the natural outcome of a 15-year rising tide where the winning strategy for VCs is marketing for deal flow, access investing, "co-opetition" networks, consensus evaluations, and targeting markups over end outcomes. Note that this strategy is evolutionarily dominant: investors who don't do this, exit the industry.
 
 
+<br/>
+
+<h3 id="lrby"> <span style="color:#A9A9A9;">2024-09-28</span> &emsp; Unicorns in Capital Markets </h3>
+
+Empirically, it seems there are only a few pathways to mega outcomes (>5B enterprise value) in capital markets technology:
+
+* Build an exchange - NYSE, Nasdaq, ICE, LSEG  
+* Build a data business - Bloomberg, S&P, Refinitiv, Factset, Markit  
+* Become a principal - every asset manager  
+* Offer a very high-end service - every investment bank  
+
+Everything else tops out at a few 100 bucks, maybe a couple of yards at best.  Makes me wonder about the risk-reward of investing in tech startups in this space ...  
 
 <br/>
 
@@ -308,7 +323,7 @@ Given that I care a great deal more about false negatives than false positives, 
 
 
 
-lrby
+
 uftu
 vdih
 mbxm
