@@ -42,6 +42,8 @@ title: Blog
 	speed-quality 
 	marketing payoff times	
 	markups are the enemy
+	wischoff deck review
+	b2b and b2c fashion cycle
 -->
 
 
