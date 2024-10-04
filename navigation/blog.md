@@ -32,6 +32,9 @@ title: Blog
 ----
 
 <!--
+	
+	speed-quality 
+	
 	iron law of sales
 	tradeoffs with vc
 	4 types of fit
@@ -39,7 +42,7 @@ title: Blog
 	iceberg startups
 	wrappers are fine
 	dillian
-	speed-quality 
+	
 	marketing payoff times	
 	markups are the enemy
 	wischoff deck review
