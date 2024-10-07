@@ -47,6 +47,9 @@ title: Blog
 	markups are the enemy
 	wischoff deck review
 	b2b and b2c fashion cycle
+
+	founders, raise your prices
+	
 -->
 
 
