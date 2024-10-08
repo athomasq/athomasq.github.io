@@ -79,7 +79,7 @@ Email me: <u><a href="mailto:at@abrahamthomas.info">at@abrahamthomas.info</a></u
 📚  Here's a bit **more about me**:
 
 * [My writing](https://abrahamthomas.info/writing/)
-* [Interests, personal and professional](https://abrahamthomas.info/interests/)
+* [What I'm interested in](https://abrahamthomas.info/interests/)
 * [Travel photography](https://abrahamthomas.info/gallery/)
 * [Book collection](https://abrahamthomas.info/library/)
 * [Areas of work](https://abrahamthomas.info/work/)

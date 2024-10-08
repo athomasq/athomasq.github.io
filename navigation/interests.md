@@ -78,7 +78,7 @@ I have a number of hobbies and interests that keep me pleasantly busy:
 🍱 I like to cook, and also to eat well  
 🎶 I like to discover new music of almost every genre  
 🏅 I over-analyze sports, using data of course  
-🎾 I play semi-competitive tennis (NTRP 4-5)  
+🎾 I play semi-competitive tennis (NTRP 4.5) (trending lower)  
 🔠 I used to play tournament Scrabble, but haven't for a while   
 🌸 I used to curate a rather popular poetry newsletter  
 🏋🏾 I work out, sleep well, and practise happiness  
