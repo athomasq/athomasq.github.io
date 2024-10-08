@@ -108,18 +108,20 @@ I would say that the most common mistakes that founders make are: losing focus, 
 - Brand, reputation, trust are precious, hard to build, and easy to lose
 
 **5. Finances**
-- Revenue growth solves all problems, and should be your highest priority
-- Spending is a one-way street -- easy to increase, very hard to decrease
-- Having a low burn rate is the single most powerful way to increase your odds of success
-- Low burn means you have optionality and you control your own destiny
-- Be frugal but not too frugal; use your common sense on where to spend
+- Revenue solves all problems, and should be your highest priority
+- Spending is a one-way street -- easy to increase, hard to cut
+- Low burn is the single best way to boost your odds of success
+- Low burn gives you optionality and control of your own destiny
+- Be frugal but not too frugal; use common sense
 - Raising venture capital is a means, not an end
 - Choose partners who align with you on outcomes and risk-reward
+- Be on top of your finances from day one
 
 **6. Burnout**
 - Startups often fail because the founders burn out
-- Burnout can be mental, physical, boredom, discouragement, exhaustion, stress
-- Take care of yourself first -- rest, sleep, take a vacation, manage your physical health, stay fit, spend time with loved ones
+- Burnout can be mental, physical or emotional
+- Boredom, discouragement, exhaustion, stress are all real
+- Take care of yourself first -- rest, sleep, exercise, recharge, take vacations, spend time with loved ones
 - Find joy in the journey, not the destination
 - Enjoy your day-to-day work 
 - Take one step at a time
@@ -127,7 +129,7 @@ I would say that the most common mistakes that founders make are: losing focus, 
 - Work with people who energize you, not drain you 
 - Positive energy is contagious; so is negative energy
 - Beware of "all-or-nothing" thinking and "should" thinking
-- Fall in love with the problem you're attacking, and not any particular solution
+- Fall in love with the problem, not the solution
 
 They probably sound very simplistic and cliched, but simple doesn't mean easy!  I find it's helpful to keep reminding myself of these principles.  
 
