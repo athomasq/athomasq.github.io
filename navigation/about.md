@@ -68,7 +68,8 @@ Email me: <u><a href="mailto:at@abrahamthomas.info">at@abrahamthomas.info</a></u
 * If you don't blow your own trumpet, it shall remain unblown.  
     - (I struggle with this)  
 * Big dreams, sincerity and enthusiasm are all good things.  
-* Cynics appear smart, but optimists change the world.  
+* Be ambitious in the service of abundance, not insecurity.   
+* Cynics appear smart, but optimists change the world.   
 
 <br/>
 
