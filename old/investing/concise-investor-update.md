@@ -13,34 +13,30 @@ title: Concise Investor Update
 *Here's an example of a concise investor update email:*
 
 
-
 ### Summary
 
-This is Acme Corp's update for Feb 2022.  As a reminder, Acme Corp provides widgets-as-a-service to the gizmo industry.
-
-It was a good month for the business, with all indicators moving in the right direction.  We sold our first multi-coloured widget.
+This is Buzz Corp's update for Feb 2022.  As a reminder, Buzz Corp builds software marketing tools for professional beekeepers.
 
 
 ### KPIs
 
-**North star:** widgets-per-month: 314,159 (+10%)  
-**MRR:** $24,300 (+12%)  
-**Gross burn:** $28,000 (+6%)  
+**North star:** beehives serviced: 314,159 (+10%)  
+**MRR:** $24,300 (+8%)  
+**Gross burn:** $29,000 (+6%)  
 **Cash in bank:** $82,000  
-**Baseline runway:** 20 months (constant burn and MRR)  
-**Projected runway:** 33 months (burn and MRR grow as forecast)  
+**Baseline runway:** 17 months (constant burn and MRR)  
+**Projected runway:** 23 months (burn and MRR grow as forecast)  
 
 
 ### Specific Updates
 
-**Good:** The core widget business is doing well.  Pipeline from our end-of-year campaign continues to convert.
+**Good:** Revenue growing steadily thanks to referrals and SEO.  Runway keeps extending.
 
-**Bad:** It took a lot longer than expected to build multi-coloured widgets.  We are trying to learn how we can do better with the next launch.  
-
+**Bad:** Haven't figured out outbound sales -- our experiment with BDRs didn't succeed. Churn is still on the high side.
 
 ### Asks
 
-Some customers are asking about widget insurance contracts, bundled with the service delivery.  I'd love to talk to anyone who has experience or input on that.
+Need some advice on the best way to reduce churn. Intros to any customer success experts would be appreciated.
 
 
 <br/>
