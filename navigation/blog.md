@@ -65,17 +65,17 @@ I would say that the most common mistakes that founders make are: losing focus, 
 
 
 **1. Focus**
-Stay focused on the most important tasks
-Say no to good ideas, so that you can work on great ideas
-Prioritize ruthlessly
-Avoid distractions and "shiny new toys"
-Double down on what you do well
-Don't diversify or parallelize too soon - find one thing that works and just keep doing it
-Don't optimize or automate too soon - do things that don't scale
-Learn to tune out all the noise, hype and nonsense
-Consistency of effort has a huge compounding effect over time
-Pay attention to little details
-Regularly ask yourself if you are working on the right things
+Stay focused on the most important tasks  
+Say no to good ideas, so that you can work on great ideas  
+Prioritize ruthlessly  
+Avoid distractions and "shiny new toys"  
+Double down on what you do well  
+Don't diversify or parallelize too soon - find one thing that works and just keep doing it  
+Don't optimize or automate too soon - do things that don't scale  
+Learn to tune out all the noise, hype and nonsense  
+Consistency of effort has a huge compounding effect over time  
+Pay attention to little details  
+Regularly ask yourself if you are working on the right things  
 
 **2. Speed**
 - Speed is your biggest advantage over the established competition  
