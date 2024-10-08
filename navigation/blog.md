@@ -12,7 +12,7 @@ title: Blog
 
 <center><b>2024</b></center>  
   
-<span style="color:#A9A9A9;">2024-10-02</span> &emsp; [Non-Obvious Mistakes](/blog#uftu)    
+<span style="color:#A9A9A9;">2024-10-08</span> &emsp; [Non-Obvious Mistakes](/blog#uftu)    
 <span style="color:#A9A9A9;">2024-10-02</span> &emsp; [Quick Takes #1](/blog#cbqa)    
 <span style="color:#A9A9A9;">2024-10-01</span> &emsp; [Blogosophy](/blog#akid)   
 <span style="color:#A9A9A9;">2024-09-30</span> &emsp; [More on Exits](/blog#lllv)  
