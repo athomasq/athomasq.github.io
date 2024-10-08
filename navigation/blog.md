@@ -12,6 +12,7 @@ title: Blog
 
 <center><b>2024</b></center>  
   
+<span style="color:#A9A9A9;">2024-10-02</span> &emsp; [Non-Obvious Mistakes](/blog#uftu)    
 <span style="color:#A9A9A9;">2024-10-02</span> &emsp; [Quick Takes #1](/blog#cbqa)    
 <span style="color:#A9A9A9;">2024-10-01</span> &emsp; [Blogosophy](/blog#akid)   
 <span style="color:#A9A9A9;">2024-09-30</span> &emsp; [More on Exits](/blog#lllv)  
@@ -52,6 +53,81 @@ title: Blog
 	
 -->
 
+<br/>
+
+<h3 id="uftu"> <span style="color:#A9A9A9;">2024-10-08</span> &emsp; Non-Obvious Mistakes </h3>
+
+A portfolio founder asked me the other day: "What are some non-obvious mistakes to avoid, when building a startup?" 
+
+This is a really good question.  My belief is that building a successful startup is actually pretty simple to describe, but really hard to do well.  There are no "secrets" or "traps" or "magic" -- it's just the relentless application of common sense and good judgement.
+
+I would say that the most common mistakes that founders make are: losing focus, slowing down, hiring too many people, not listening to the market, mismanaging their finances, and not taking care of themselves.  These are all "obvious" but people still make these mistakes all the time.  Here are my own principles on all of these: 
+
+
+**1. Focus**
+Stay focused on the most important tasks
+Say no to good ideas, so that you can work on great ideas
+Prioritize ruthlessly
+Avoid distractions and "shiny new toys"
+Double down on what you do well
+Don't diversify or parallelize too soon - find one thing that works and just keep doing it
+Don't optimize or automate too soon - do things that don't scale
+Learn to tune out all the noise, hype and nonsense
+Consistency of effort has a huge compounding effect over time
+Pay attention to little details
+Regularly ask yourself if you are working on the right things
+
+**2. Speed**
+- Speed is your biggest advantage over the established competition  
+- Speed of iteration gives you more "shots at goal" ie more opportunities to learn  
+- A company that learns fast has better products and happier customers  
+- Speed boosts morale, attracts talent, avoids burnout  
+- Create a culture of speed across the company  
+- Exhibit and expect a bias to action, ownership, urgency across your time  
+- Don't overthink or delay -- just get stuff done  
+- Don't overcomplicate things; beware analysis paralysis  
+
+**3. Team**
+- Hiring rarely solves fundamental business problems
+- Adding more people usually slows you down
+- Hire slowly and carefully
+- People who believe in the mission are better than people who are motivated by money
+- Company culture will emerge whether you like it or not
+- So it's better to plan and design it from the start
+
+**4. Market**
+- "Get out of the room!" -- don't just build in a vacuum, get market feedback
+- Spend as much time as possible listening to customers
+- Solve genuine customer needs -- don't build a "solution looking for a problem"
+- Don't fool yourself about your product, company, growth, or market
+- Don't avoid, deny or ignore problems
+- Assume that your competition is smart; understand where and how you are different
+- Every decision has tradeoffs; bias towards speed and learning
+- Brand, reputation and trust are precious, hard to build, and easy to lose
+
+**5. Finances**
+- Revenue growth solves all problems, so it should be your highest priority
+- Spending is a one-way street -- easy to increase, very hard to decrease
+- Having a low burn rate is the single most powerful way to increase your odds of success
+- Low burn means you have optionality and you control your own destiny
+- Be frugal but not too frugal; use your common sense on where to spend
+- Raising venture capital is a means, not an end
+- Choose partners who align with you on outcomes and risk-reward
+
+**6. Burnout**
+- Startups often fail because the founders burn out
+- Burnout can be mental, physical, boredom, discouragement, exhaustion, stress
+- Take care of yourself first -- take time off, rest, manage your physical health
+- Find joy in the journey, not the destination
+- Enjoy your day-to-day work 
+- Take one step at a time
+- Understand your own motivations and preferences
+- Work with people who energize you, not drain you 
+- Positive energy is contagious; so is negative energy
+- Beware of "all-or-nothing" thinking and "should" thinking
+- Fall in love with the problem you're attacking, and not any particular solution
+
+They probably sound very simplistic and cliched, but simple doesn't mean easy!  I find it's helpful to keep reminding myself of these principles.  
 
 
 <br/>
@@ -332,7 +408,7 @@ Given that I care a great deal more about false negatives than false positives, 
 
 
 
-uftu
+
 vdih
 mbxm
 sgjv
