@@ -50,6 +50,9 @@ title: Blog
 	b2b and b2c fashion cycle
 
 	founders, raise your prices
+	on brand and pr
+	on conferences: mtgs, speak, segment, biz vs fun
+	
 	
 -->
 
