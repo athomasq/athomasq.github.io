@@ -13,6 +13,7 @@ title: About · Abraham Thomas
 👋🏼 **Hi, I'm Abraham.**  
 
 * I [angel invest](https://abrahamthomas.info/investing/) in tech startups  
+* I lead a small [investment syndicate](https://venture.angellist.com/abraham-thomas/syndicate) that co-invests with me   
 * I write [Pivotal](https://pivotal.substack.com/about), a newsletter on data, investing and startups  
 
 <!--
