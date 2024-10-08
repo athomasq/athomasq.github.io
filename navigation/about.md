@@ -13,11 +13,12 @@ title: About · Abraham Thomas
 👋🏼 **Hi, I'm Abraham.**  
 
 * I [angel invest](https://abrahamthomas.info/investing/) in tech startups  
+* I write [Pivotal](https://pivotal.substack.com/about), a newsletter on data, investing and startups  
+
 <!--
 * I [advise](https://abrahamthomas.info/advisory) startups on execution and growth  
 * I [consult](https://abrahamthomas.info/consulting) for institutional investors on their data strategy  
 -->
-* I write [Pivotal](https://pivotal.substack.com/about), a newsletter on data, investing and startups  
 
 Previously:
 
