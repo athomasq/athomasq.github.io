@@ -3,7 +3,7 @@ layout: default
 permalink: /:basename/
 title: Library · Abraham Thomas
 ---
-## My Library
+<h2 id="my-library"> My Library </h2>
 
 ----
 
@@ -13,12 +13,12 @@ This page is an incomplete catalogue of my (physical) books.  My rate of book-bu
 
 To make it easier to browse, I've split this page by category:
 
-- [Science & Mathematics](/library#science--mathematics)
-- [History & Biography](/library#history--biography)
-- [Essays, Memoirs & Journalism](/library#essays-memoirs--journalism)
-- [Language & Music](/library#language--music)
-- [Travel, Adventure & Exploration](/library#travel-adventure--exploration)
-- [Fiction](/library#Fiction)
+- [Science & Mathematics](/library#science-math)
+- [History & Biography](/library#hist-biog)
+- [Essays, Memoirs & Journalism](/library#essay-mem)
+- [Language & Music](/library#lang-music)
+- [Travel, Adventure & Exploration](/library#travel)
+- [Fiction](/library#fiction)
 
 Books in **green**{: style="color: green"} are very good and recommended.  Books in **red**{: style="color: red"} are life-changing: I saw the world differently after reading them.  
 
@@ -28,7 +28,8 @@ Books in **green**{: style="color: green"} are very good and recommended.  Books
 
 <br/>
 
-### 🔬 Science & Mathematics
+<h3 id="science-math"> 🔬 Science & Mathematics </h3>
+
 - **One Two Three … Infinity**, George Gamow
 - **In Search of Schrodinger's Cat**, John Gribbin
 - **The Quark and the Jaguar**, Murray Gell-Mann
@@ -176,7 +177,8 @@ What can I say about GEB that hasn't been said by a thousand geeks before me?  N
 
 <br/>
 
-### 🗿 History & Biography
+<h3 id="hist-biog"> 🗿 History & Biography </h3>
+
 - **The Epic of Latin America**, John Crow
 - **The Scramble for Africa**, Thomas Pakenham
 - **The Blue Nile**, Alan Moorehead
@@ -413,7 +415,8 @@ What can I say about GEB that hasn't been said by a thousand geeks before me?  N
 
 <br/>
 
-### 📔 Essays, Memoirs & Journalism
+<h3 id="essay-mem"> 📔 Essays, Memoirs & Journalism </h3>
+
 - **Rising from the Plains**, John McPhee
 - **In Suspect Terrain**, John McPhee
 - **Assembling California**, John McPhee
@@ -521,7 +524,8 @@ What can I say about GEB that hasn't been said by a thousand geeks before me?  N
 
 <br/>
 
-### 🎼 Language & Music
+<h3 id="lang-music"> 🎼 Language & Music </h3>
+
 - **The Joy of Lex**, Giles Brandreth
 - **More Joy of Lex**, Giles Brandreth
 - **The Joy of Cliches**, Nigel Rees
@@ -589,7 +593,7 @@ This is a terrific book and one of the top 5 non-fiction books I've ever read. (
 
 <br/>
 
-### 🧳 Travel, Adventure & Exploration
+<h3 id="travel"> 🧳 Travel, Adventure & Exploration </h3>
 
 I have a minor obsession with collecting travel books. I doubt I'll visit all or even a tenth of all the places I want to visit, but I can read about them... 
 
@@ -1125,7 +1129,8 @@ I have a minor obsession with collecting travel books. I doubt I'll visit all or
 
 <br/>
 
-### 🎭 Fiction
+<h3 id="fiction"> 🎭 Fiction </h3>
+
 - **Things Fall Apart**, Chinua Achebe
 - **No Longer At Ease**, Chinua Achebe
 - **Arrow of God**, Chinua Achebe
