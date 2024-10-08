@@ -9,7 +9,7 @@ title: Library · Abraham Thomas
 
 <br/>
 
-Inspired by [Patrick Collison](https://patrickcollison.com/bookshelf), this page is an incomplete catalogue of my (physical) books.  My rate of book-buying dramatically exceeds my rate of book-reading, but it shouldn't exceed my rate of book-indexing, so hopefully this catalogue will be complete <strike>soon</strike> eventually. 
+This page is an incomplete catalogue of my (physical) books.  My rate of book-buying dramatically exceeds my rate of book-reading, but it shouldn't exceed my rate of book-indexing, so hopefully this catalogue will be complete <strike>soon</strike> eventually.  (Update, Sep 2024: currently at 8 out of 32 shelves catalogued.)  
 
 To make it easier to browse, I've split this page by category:
 
@@ -1429,5 +1429,6 @@ I have a minor obsession with collecting travel books. I doubt I'll visit all or
 -----
 
 <br/>
-
-As of February 2020, I've catalogued 8 of 30 bookshelves in my house.
+<br/>
+<br/>
+<br/>

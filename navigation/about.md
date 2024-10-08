@@ -13,9 +13,11 @@ title: About · Abraham Thomas
 👋🏼 **Hi, I'm Abraham.**  
 
 * I [angel invest](https://abrahamthomas.info/investing/) in tech startups  
+<!--
 * I [advise](https://abrahamthomas.info/advisory) startups on execution and growth  
 * I [consult](https://abrahamthomas.info/consulting) for institutional investors on their data strategy  
-* I [write](https://abrahamthomas.info/writing/) Pivotal, a newsletter on data, investing and startups  
+-->
+* I write [Pivotal](https://pivotal.substack.com/about), a newsletter on data, investing and startups  
 
 Previously:
 
@@ -25,6 +27,71 @@ Previously:
 * I grew up in India, but now live in Toronto, Canada   
 
 Email me: <u><a href="mailto:at@abrahamthomas.info">at@abrahamthomas.info</a></u>
+
+
+<br/>
+
+----
+
+<br/> 
+
+
+🧭 Here are some **things I believe**:  
+
+* ABL: Always Be Learning.  
+* Every skill is a muscle to be exercised.  
+* Changing your mind based on new data is a superpower.  
+    - (Most people don't ever change their minds)  
+* Speed is under-appreciated in almost every context.  
+* Tremendous outcomes require tremendous amounts of hard work.  
+    - (Smarts alone are not enough)  
+* Luck matters a lot, but you can help luck find you.  
+* Do less to do more.  
+* Be deliberate, and comfortable with risk.  
+    - (Most people are impulsive, and risk-averse)  
+* Combine optimism about technology with realism about humanity.  
+* Life is too short to play zero-sum games.  
+* If you're not curious, what's the point?  
+    - (This is a good filtering function)  
+* Discipline doesn't restrict your choices, it expands them.  
+* Excellence is a habit, and should be cultivated as such.  
+* Be unfailingly kind, even when -- especially when! -- it's hard.  
+    - But recognize that kindness isn't the same as niceness.  
+* Character is grace under pressure.  
+    - When the chips are down, who do you want to be?  
+* Arguments about means are often arguments about variances.  
+* Compassion, empathy and courtesy signal strength, not weakness.  
+* Knowing your own preferences is the key to happiness.  
+* No task is too small to do well.  
+* If you don't blow your own trumpet, it shall remain unblown.  
+    - (I struggle with this)  
+* Big dreams, sincerity and enthusiasm are all good things.  
+* Cynics appear smart, but optimists change the world.  
+
+<br/>
+
+----
+
+<br/> 
+
+
+📚  Here's a bit **more about me**:
+
+* [My writing](https://abrahamthomas.info/writing/)
+* [Interests, personal and professional](https://abrahamthomas.info/interests/)
+* [Travel photography](https://abrahamthomas.info/gallery/)
+* [Book collection](https://abrahamthomas.info/library/)
+* [Areas of work](https://abrahamthomas.info/work/)
+* [Startup advisory](https://abrahamthomas.info/advisory/)
+* [Data consulting](https://abrahamthomas.info/consulting/)
+* [Media coverage](https://abrahamthomas.info/press/)
+* [Talks and seminars](https://abrahamthomas.info/talks/)
+* [Guide to visiting Japan](https://abrahamthomas.gumroad.com/l/wwrni)
+* [War-zone experience](https://abrahamthomas.info/invasion/)    
+* [Biographical note](https://abrahamthomas.info/bio/)  
+
+
+<!--
 
 <br/>
 
@@ -92,64 +159,7 @@ I'm currently open to advisory opportunities, but am selective about who I work 
 
 To learn more, please visit my [consulting page](https://abrahamthomas.info/consulting).  
 
-
-<br/>
-
-----
-
-<br/> 
-
-
-📚  Here's a bit **more about me**:
-
-* [Interests, both personal and professional](https://abrahamthomas.info/interests/)
-* [Travel photography](https://abrahamthomas.info/gallery/)
-* [My ever-expanding bookshelf](https://abrahamthomas.info/library/)
-* [Areas of work](https://abrahamthomas.info/work/)
-* [Media coverage](https://abrahamthomas.info/press/)
-* [Talks and seminars](https://abrahamthomas.info/talks/)
-* [My guide to visiting Japan](https://abrahamthomas.gumroad.com/l/wwrni)
-* [My childhood experience as a wartime refugee](https://abrahamthomas.info/invasion/)    
-
-<br/>
-
-----
-
-<br/> 
-
-
-🧭 Here are some **things I believe**:  
-
-* ABL: Always Be Learning.  
-* Every skill is a muscle to be exercised.  
-* Changing your mind based on new data is a superpower.  
-    - (Most people don't ever change their minds)  
-* Speed is under-appreciated in almost every context.  
-* Tremendous outcomes require tremendous amounts of hard work.  
-    - (Smarts are not enough)  
-* Luck matters a lot, but you can help luck find you.  
-* Do less to do more.  
-* Be deliberate, and comfortable with risk.  
-    - (Most people are impulsive, and risk-averse)  
-* Combine optimism about technology with realism about humanity.  
-* Life is too short to play zero-sum games.  
-* If you're not curious, what's the point?  
-    - (This is a good filtering function)  
-* Discipline doesn't restrict your choices, it expands them.  
-* Excellence is a habit, and should be cultivated as such.  
-* Be unfailingly kind, even when -- especially when! -- it's hard.  
-    - But recognize that kindness has multiple dimensions.  
-* Character is grace under pressure.  
-    - When the chips are down, who do you want to be?  
-* Arguments about means are often arguments about variances.  
-* Compassion, empathy and courtesy signal strength, not weakness.  
-* Knowing your own preferences is the key to happiness.  
-* No task is too small to do well.  
-* If you don't blow your own trumpet, it shall remain unblown.  
-    - (I struggle with this)  
-* Big dreams, sincerity and enthusiasm are all good things.  
-* Cynics appear smart, but optimists change the world.  
-
+-->
 
 <br/>
 
