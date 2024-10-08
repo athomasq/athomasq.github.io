@@ -65,25 +65,25 @@ I would say that the most common mistakes that founders make are: losing focus, 
 
 
 **1. Focus**
-Stay focused on the most important tasks  
-Say no to good ideas, so that you can work on great ideas  
-Prioritize ruthlessly  
-Avoid distractions and "shiny new toys"  
-Double down on what you do well  
-Don't diversify or parallelize too soon - find one thing that works and just keep doing it  
-Don't optimize or automate too soon - do things that don't scale  
-Learn to tune out all the noise, hype and nonsense  
-Consistency of effort has a huge compounding effect over time  
-Pay attention to little details  
-Regularly ask yourself if you are working on the right things  
+- Stay focused on the most important tasks  
+- Say no to good ideas, so that you can work on great ideas  
+- Prioritize ruthlessly  
+- Avoid distractions and "shiny new toys"  
+- Double down on what you do well  
+- Don't diversify or parallelize too soon - find one thing that works and just keep doing it  
+- Don't optimize or automate too soon - do things that don't scale  
+- Learn to tune out all the noise, hype and nonsense  
+- Consistency of effort has a huge compounding effect over time  
+- Pay attention to little details  
+- Regularly ask yourself if you are working on the right things  
 
 **2. Speed**
 - Speed is your biggest advantage over the established competition  
-- Speed of iteration gives you more "shots at goal" ie more opportunities to learn  
-- A company that learns fast has better products and happier customers  
+- Speed of iteration gives you more opportunities to learn  
+- Learning leads to better products and happier customers  
 - Speed boosts morale, attracts talent, avoids burnout  
-- Create a culture of speed across the company  
-- Exhibit and expect a bias to action, ownership, urgency across your time  
+- Create and demonstrate a culture of speed across the company  
+- Inculcate a bias to action, ownership, urgency across your team  
 - Don't overthink or delay -- just get stuff done  
 - Don't overcomplicate things; beware analysis paralysis  
 
@@ -91,22 +91,24 @@ Regularly ask yourself if you are working on the right things
 - Hiring rarely solves fundamental business problems
 - Adding more people usually slows you down
 - Hire slowly and carefully
-- People who believe in the mission are better than people who are motivated by money
+- Missionaries are better than mercenaries
+- Attitude (enthusiasm, hard work, rate of growth) matters
+- Hire people who are okay with rapid change and incomplete info
 - Company culture will emerge whether you like it or not
 - So it's better to plan and design it from the start
 
 **4. Market**
-- "Get out of the room!" -- don't just build in a vacuum, get market feedback
+- Build what the market wants, not what you think they should want
+- "Get out of the room!" -- don't build in a vacuum, get market feedback
 - Spend as much time as possible listening to customers
-- Solve genuine customer needs -- don't build a "solution looking for a problem"
+- Don't build a "solution looking for a problem"
 - Don't fool yourself about your product, company, growth, or market
 - Don't avoid, deny or ignore problems
-- Assume that your competition is smart; understand where and how you are different
 - Every decision has tradeoffs; bias towards speed and learning
-- Brand, reputation and trust are precious, hard to build, and easy to lose
+- Brand, reputation, trust are precious, hard to build, and easy to lose
 
 **5. Finances**
-- Revenue growth solves all problems, so it should be your highest priority
+- Revenue growth solves all problems, and should be your highest priority
 - Spending is a one-way street -- easy to increase, very hard to decrease
 - Having a low burn rate is the single most powerful way to increase your odds of success
 - Low burn means you have optionality and you control your own destiny
@@ -117,7 +119,7 @@ Regularly ask yourself if you are working on the right things
 **6. Burnout**
 - Startups often fail because the founders burn out
 - Burnout can be mental, physical, boredom, discouragement, exhaustion, stress
-- Take care of yourself first -- take time off, rest, manage your physical health
+- Take care of yourself first -- rest, sleep, take a vacation, manage your physical health, stay fit, spend time with loved ones
 - Find joy in the journey, not the destination
 - Enjoy your day-to-day work 
 - Take one step at a time
