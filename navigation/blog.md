@@ -72,14 +72,15 @@ I would say that the most common mistakes that founders make are: losing focus, 
 - Say no to good ideas, so that you can work on great ideas  
 - Prioritize ruthlessly  
 - Avoid distractions and "shiny new toys"  
-- Lean into what you do well  
+- Lean into what you do best  
+- If you find something that works, just keep doing it  
+- Diversification doesn't make sense for early-stage startups  
 - It's very hard to do multiple things well in parallel  
-- Don't diversify too soon - if you find something that works, just keep doing it  
-- Don't optimize or automate too soon - do things that don't scale  
+- Don't optimize or automate too soon, do things that don't scale  
 - Learn to tune out all the noise, hype and nonsense  
 - Consistency of effort has a huge compounding effect over time  
 - Pay attention to little details  
-- Regularly ask yourself if you are working on the right things  
+- Constantly ask yourself if you are working on the right things  
 
 **2. Speed**
 - Speed is your biggest advantage over the established competition  
@@ -89,7 +90,9 @@ I would say that the most common mistakes that founders make are: losing focus, 
 - Create and demonstrate a culture of speed across the company  
 - Inculcate a bias to action, ownership, urgency across your team  
 - Don't overthink or delay -- just get stuff done  
-- Don't overcomplicate things; beware analysis paralysis  
+- Don't overcomplicate things; beware of analysis paralysis  
+- It's better to act too soon rather than too late  
+- Be careful and thoughtful about imposing structure and process
 
 **3. Team**
 - Hiring rarely solves fundamental business problems
@@ -100,6 +103,9 @@ I would say that the most common mistakes that founders make are: losing focus, 
 - Hire people who are okay with rapid change and incomplete info
 - Company culture will emerge whether you like it or not
 - So it's better to plan and design it from the start
+- If someone isn't working out, best to accept it and move on fast
+- Look for under-appreciated talent, it's everywhere
+- Protect, nurture, empower and reward your best employees
 
 **4. Market**
 - Build what the market wants, not what you think they should want
@@ -108,8 +114,9 @@ I would say that the most common mistakes that founders make are: losing focus, 
 - Don't build a "solution looking for a problem"
 - Don't fool yourself about your product, company, growth, or market
 - Don't avoid, deny or ignore problems
-- Every decision has tradeoffs; bias towards speed and learning
+- Every decision has tradeoffs; always bias towards speed and learning
 - Brand, reputation, trust are precious, hard to build, and easy to lose
+- Don't worry too much about the competition
 
 **5. Finances**
 - Revenue solves all problems, and should be your highest priority
@@ -125,7 +132,7 @@ I would say that the most common mistakes that founders make are: losing focus, 
 - Startups often fail because the founders burn out
 - Burnout can be mental, physical or emotional
 - Boredom, discouragement, exhaustion, stress are all real
-- Take care of yourself first -- rest, sleep, exercise, recharge, take vacations, spend time with loved ones
+- Take care of yourself first -- sleep well, exercise regularly, eat healthy, rest & recharge, take vacations, spend time with loved ones
 - Find joy in the journey, not the destination
 - Enjoy your day-to-day work 
 - Take one step at a time
