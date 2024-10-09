@@ -114,7 +114,7 @@ I would say that the most common mistakes that founders make are: losing focus, 
 - Don't build a "solution looking for a problem"
 - Don't fool yourself about your product, company, growth, or market
 - Don't avoid, deny or ignore problems
-- Every decision has tradeoffs; always bias towards speed and learning
+- Every decision has tradeoffs, and that's okay
 - Brand, reputation, trust are precious, hard to build, and easy to lose
 - Don't worry too much about the competition
 
