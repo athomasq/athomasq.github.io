@@ -53,6 +53,9 @@ title: Blog
 	on brand and pr
 	on conferences: mtgs, speak, segment, biz vs fun
 	
+	1 in a million, stat errors
+	x.ai and VC biases
+	AI map / country metaphor
 	
 -->
 
