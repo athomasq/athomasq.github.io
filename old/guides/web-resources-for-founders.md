@@ -164,6 +164,10 @@ In the later stages of a startup, it's exactly the opposite.  There is a well-es
 
 ### Comments
 
+<!--
+https://blog.eladgil.com/p/defensibility-and-competition
+-->
+
 Most of these articles are relevant for early stage founders, ie, from zero till about Series B.  After that, founders typically have access to far better and more focused sources of expertise than articles on the internet, no matter how insightful.  
 
 This material is a few years old.  The best current wisdom is to be found in operational docs (decks & memos) or on Twitter; it hasn't yet been collected into books or blog posts.  
