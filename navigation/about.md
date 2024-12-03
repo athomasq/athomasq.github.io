@@ -49,6 +49,7 @@ Email me: <u><a href="mailto:at@abrahamthomas.info">at@abrahamthomas.info</a></u
     - (Smarts alone are not enough)  
 * Luck matters a lot, but you can help luck find you.  
 * Do less to do more.  
+* Take care of yourself in order to take care of others.  
 * Be deliberate, and comfortable with risk.  
     - (Most people are impulsive, and risk-averse)  
 * Combine optimism about technology with realism about humanity.  
@@ -57,6 +58,7 @@ Email me: <u><a href="mailto:at@abrahamthomas.info">at@abrahamthomas.info</a></u
     - (This is a good filtering function)  
 * Discipline doesn't restrict your choices, it expands them.  
 * Excellence is a habit, and should be cultivated as such.  
+* Action produces information.  
 * Be unfailingly kind, even when -- especially when! -- it's hard.  
     - But recognize that kindness isn't the same as niceness.  
 * Character is grace under pressure.  
@@ -64,12 +66,17 @@ Email me: <u><a href="mailto:at@abrahamthomas.info">at@abrahamthomas.info</a></u
 * Arguments about means are often arguments about variances.  
 * Compassion, empathy and courtesy signal strength, not weakness.  
 * Knowing your own preferences is the key to happiness.  
-* No task is too small to do well.  
+* No task is too small to do well.  Attend to details.  
 * If you don't blow your own trumpet, it shall remain unblown.  
     - (I struggle with this)  
+* Individuals matter more than institutions.  
+* Technology is a force for good.  Use it well.    
+* Markets are the best way we know to allocate resources.  
 * Big dreams, sincerity and enthusiasm are all good things.  
 * Be ambitious in the service of abundance, not insecurity.   
 * Cynics appear smart, but optimists change the world.   
+
+Have fun, be good, work hard, stay happy, make a difference! 
 
 <br/>
 
