@@ -16,7 +16,7 @@ title: Portfolio Statistics · Abraham Thomas
 
 ### Overview
 
-This is the update for December 2023.  You can read the update for June 2023 [here](/portfolio-statistics-2023-06).
+This is the update for December 2023.  You can read the update for December 2022 [here](/portfolio-statistics-2022).
 
 As of December 2023, I've angel invested in 33 companies, and my investments have a blended IRR of 31%. (Company marks are based on the latest priced round; I've marked down companies where I don't think prices reflect true valuations.)
 

@@ -21,7 +21,7 @@ I'm an active angel investor in early-stage tech startups.
 
 🚀 **For others:**
 * [Portfolio companies](/portfolio-companies)
-* [Portfolio statistics](/portfolio-statistics)
+* [Portfolio statistics](/portfolio-statistics-2023)
 * [My investment syndicate](https://venture.angellist.com/abraham-thomas/syndicate)
 <!--* [Co-investing with me](/coinvest)-->
 <!--* [Investment themes and ideas](/thesis)-->
