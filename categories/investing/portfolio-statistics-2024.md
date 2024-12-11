@@ -18,7 +18,7 @@ title: Portfolio Statistics · Abraham Thomas
 
 This is the update for December 2024.  You can read the update for December 2023 [here](/portfolio-statistics-2023).
 
-As of December 2024, I've angel invested in 37 companies, and my investments have a blended IRR of 25%. (Company marks are based on the latest priced round. I've proactively marked down companies where I don't think prices reflect true valuations.)
+As of December 2024, I've angel invested in 37 companies, and my investments have a blended IRR of 24%. (Company marks are based on the latest priced round. I've proactively marked down companies where I don't think prices reflect true valuations.)
 
 9 companies have had definite outcomes: 1 substantial exit at ~40x, 1 okay exit at ~6x, 3 exits that each returned ~1x, and 4 failures.
 
