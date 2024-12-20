@@ -22,7 +22,9 @@ He played with everyone, and he played everything: classical and jazz and fusion
 
 **When I think of Zakir Hussain**, I think of generosity.  The tabla is an accompanist's instrument, and Zakir Hussain accompanied all of the greats -- Ali Akbar Khan, Ravi Shankar, Shiv Kumar Sharma, Vilayat Khan, Hariprasad Chaurasia -- with the perfect mix of deference and daring.  
 
-But he also accompanied youngsters and unknowns, strangers and newbies, with equal respect and commitment: always happy to sit at the side of the stage, always using his tabla to accentuate and highlight and strengthen.  What does it mean, for an accompanist to be the maestro?  Generosity, not just of gift or word or deed, but of spirit.  A generosity born of abundance, confidence, and belief. 
+But he also accompanied youngsters and unknowns, strangers and newbies, with equal respect and commitment: always happy to sit at the side of the stage, always using his tabla to accentuate and highlight and strengthen.  
+
+What does it mean, for an accompanist to be the maestro?  Generosity, not just of gift or word or deed, but of spirit.  A generosity born of abundance, confidence, and belief. 
 
 **When I think of Zakir Hussain**, I think of craft.  Such mastery is not easily bought; it must be earned.  We see the virtuosity, but we don't see all that lies behind it.  The long hours of practice, starting in childhood.  The apprenticeship with his father and with other teachers, legends all.  The patience and discipline underlying his incredible precison.  The stillness behind the blur of fingers; the effort it takes to make a thing look effortless.  
 
