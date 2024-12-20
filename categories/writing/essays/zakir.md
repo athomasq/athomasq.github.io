@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /:basename/
-title: Zakir Hussain
+title: Zakir
 ---
 
 # When I Think of Zakir Hussain
