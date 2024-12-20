@@ -16,7 +16,7 @@ title: Zakir
 
 With two drums and ten fingers, he produced sounds that nobody else ever had, or ever could.  When he played, it wasn't just rhythm, wasn't just melody, wasn't just tone or timbre.  It was all of them; it was music, the very heart of music.
 
-**When I think of Zakir Hussain**, I think of curiosity.  It would have been easy, in the rigid, traditionalist, hierarchical, often ego-driven world of Hindustani classical music, to become rigid and traditionalist oneself: to say, "this is the way to do it, and no other".  But Zakir Hussain was restless, and curious, and always willing to explore.  
+**When I think of Zakir Hussain**, I think of curiosity.  It would have been easy, in the rigid, traditionalist, hierarchical, often ego-driven world of Indian classical music, to become rigid and traditionalist oneself: to say, "this is the way to do it, and no other".  But Zakir Hussain was restless, and curious, and always willing to explore.  
 
 He played with everyone, and he played everything: classical and jazz and fusion and "world" music, bluegrass and acid rock, electronica and trance, soundtracks and pop songs and even ad jingles.  His curiosity expanded the frontiers of his playing, while making the core ever richer and deeper.
 
