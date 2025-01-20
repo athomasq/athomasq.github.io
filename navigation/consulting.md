@@ -10,7 +10,16 @@ title: Consulting · Abraham Thomas
 
 <br/>
 
-**I advise institutional investors on their data strategy.**
+**Update: I am not currently accepting new institutional consulting engagements.**
+
+<br/>
+
+-----
+
+<br/>
+
+
+I advise institutional investors on their data strategy.
 
 <br/>
 
