@@ -24,6 +24,9 @@ title: Writing · Abraham Thomas
 * [How to Price a Data Asset](https://pivotal.substack.com/p/how-to-price-a-data-asset)  
 * [Ahead of the (Yield) Curve](https://pivotal.substack.com/p/ahead-of-the-yield-curve)  
 
+**2025:**  
+* [Making Markets in Time](https://pivotal.substack.com/p/making-markets-in-time)  
+
 
 <br/>
 <br/>
