@@ -25,7 +25,7 @@ title: Writing · Abraham Thomas
 * [Ahead of the (Yield) Curve](https://pivotal.substack.com/p/ahead-of-the-yield-curve)  
 
 **2025:**  
-* [Making Markets in Time](https://pivotal.substack.com/p/making-markets-in-time)  
+* [Silicon Valley and the Invention of Temporal Arbitrage](https://pivotal.substack.com/p/making-markets-in-time)  
 
 
 <br/>
