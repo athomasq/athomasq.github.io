@@ -51,7 +51,7 @@ Here are some ways to break down my portfolio:
 * Geography: 11 Canada, 9 global -- but most teams are distributed 
 * Stage: 11 pre-seed, 9 seed 
 * Sector: 5 MAD stack, 3 infrastructure, 3 fintech, 3 SaaS, 6 other
-* Demographics: 26 of 39 founders are from under-represented groups
+* Demographics: 26 of 39 founders are "outsiders"
 
 (Note that this includes the 20 companies in cohorts II and III, but not the 9 companies in cohort I; see below.)
 
