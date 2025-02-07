@@ -16,15 +16,15 @@ title: Portfolio Statistics · Abraham Thomas
 
 ### Overview
 
-This is the update for December 2024.  You can read the update for December 2023 [here](/portfolio-statistics-2023).
-
-As of December 2024, I've angel invested in **37 companies**, and my investments have a **blended IRR of 24%**. 
+As of December 2024, I've angel invested in **37 companies**, and my investments have a **blended IRR of 24%**.  
 
 11 companies have had definite outcomes: 1 substantial exit at 40x, 1 okay exit at 6x, 3 exits that each returned ~1x, and 6 failures.  
 
 26 companies are "live".  Of these, there are 5 companies that I'm confident will each return at least 10x; there are 6 others that I am pessimistic about; and the jury is out on the remaining 15.
 
-(Company marks are based on the latest priced round. I proactively mark down companies where I don't think prices reflect true valuations.)
+(Company marks are based on the latest priced round.  I proactively mark down companies where I don't think prices reflect true valuations; often, all the way to zero.)
+
+(This is the update for Dec 2024.  You can also read the updates for [Dec 2023(/portfolio-statistics-2023) and [Dec 2022(/portfolio-statistics-2022).)
 
 ---
 
@@ -34,11 +34,11 @@ As of December 2024, I've angel invested in **37 companies**, and my investments
 
 My angel investing career has had several distinct phases.  Combining them into a single portfolio isn't as informative as breaking them into cohorts:
 
-**Cohort I:** 2014-2017, 9 companies, India focus, 31% irr  
-**Cohort II:** 2019-2021, 14 companies, generalist, 24% irr  
-**Cohort III:** 2022-2024, 14 companies, thesis-driven, 4% irr   
+**Cohort I:** 2014-2017, 9 companies, India focus, 5.2x and 31%  
+**Cohort II:** 2019-2021, 14 companies, generalist, 2.0x and 24%  
+**Cohort III:** 2022-2024, 14 companies, thesis-driven, 1.1x and 4%  
 
-These cohorts analogize nicely to "traditional" venture fund cycles; they also reflect my evolving investment strategy.  I describe them in more detail below.
+These cohorts analogize nicely to "traditional" venture fund cycles; they also reflect my evolving investment strategy.  Details below.
 
 
 ----
@@ -108,7 +108,8 @@ Annual revenue (USD), entry versus today:
 * Median: **$0k &rarr; $500k**  
 * Max: **$600k &rarr; $7M** *(not the same company)*    
 
-Companies with more than $1M in ARR: **7 out of 28**.  (I'm hopeful / confident that 4 more will join the club in 2025.)
+Companies with more than $1M in ARR: **7 out of 28**.    
+(I'm hopeful / confident that 4 more will join the club in 2025.)  
 
 
 ---
@@ -123,7 +124,7 @@ Here are some ways to break down my portfolio:
 * Work style: 18 in-person, 10 remote
 * Stage: 15 pre-seed, 13 seed 
 * Sector: 9 MAD stack, 3 infrastructure, 5 fintech, 4 SaaS, 7 other
-* Demographics: 36 of 51 founders are "outsiders", including 18 of 28 CEOs
+* Profile: 36 of 51 founders are "outsiders" (18 of 28 CEOs)
 
 ----
 
