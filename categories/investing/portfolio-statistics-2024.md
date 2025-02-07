@@ -8,7 +8,7 @@ title: Portfolio Statistics · Abraham Thomas
 
 ----
 
-*In the spirit of "building in public", I'll share occasional updates on my angel portfolio here.  This is not investment advice, nor is it an offer or solicitation to buy or sell securities or anything else.*
+*In the spirit of "building in public", I'll share occasional updates on my angel portfolio here.*
 
 ---
 
@@ -21,10 +21,6 @@ As of December 2024, I've angel invested in **37 companies**, and my investments
 11 companies have had definite outcomes: 1 substantial exit at 40x, 1 okay exit at 6x, 3 exits that each returned ~1x, and 6 failures.  
 
 26 companies are "live".  Of these, there are 5 companies that I'm confident will each return at least 10x; there are 6 others that I am pessimistic about; and the jury is out on the remaining 15.
-
-(Company marks are based on the latest priced round.  I proactively mark down companies where I don't think prices reflect true valuations; often, all the way to zero.)
-
-(This is the update for 2024.  You can also read updates for [2023](/portfolio-statistics-2023) and [2022](/portfolio-statistics-2022).)
 
 ---
 
@@ -125,6 +121,21 @@ Here are some other ways to break down my portfolio:
 * Stage: 15 pre-seed, 13 seed 
 * Sector: 9 MAD stack, 3 infrastructure, 5 fintech, 4 SaaS, 7 other
 * Profile: 36 of 51 founders are "outsiders" (18 of 28 CEOs)
+
+---
+
+<br/>
+
+### End notes
+
+I invest my own money, and I also lead a small [syndicate](https://venture.angellist.com/abraham-thomas/syndicate) that coinvests with me.  The above figures are all for my personal angel portfolio.
+
+Company marks are based on the latest priced round.  I proactively mark down companies where I don't think prices reflect true valuations; often, all the way to zero.
+
+This is the update for 2024.  You can also read older updates: for [2023](/portfolio-statistics-2023) and [2022](/portfolio-statistics-2022).  
+
+None of this is investment advice, nor is it an offer or solicitation to buy or sell securities or anything else.  
+
 
 ----
 
