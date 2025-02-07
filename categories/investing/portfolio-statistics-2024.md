@@ -24,7 +24,7 @@ As of December 2024, I've angel invested in **37 companies**, and my investments
 
 (Company marks are based on the latest priced round.  I proactively mark down companies where I don't think prices reflect true valuations; often, all the way to zero.)
 
-(This is the update for Dec 2024.  You can also read the updates for [Dec 2023(/portfolio-statistics-2023) and [Dec 2022(/portfolio-statistics-2022).)
+(This is the update for 2024.  You can also read updates for [2023](/portfolio-statistics-2023) and [2022](/portfolio-statistics-2022).)
 
 ---
 
@@ -34,9 +34,9 @@ As of December 2024, I've angel invested in **37 companies**, and my investments
 
 My angel investing career has had several distinct phases.  Combining them into a single portfolio isn't as informative as breaking them into cohorts:
 
-**Cohort I:** 2014-2017, 9 companies, India focus, 5.2x and 31%  
-**Cohort II:** 2019-2021, 14 companies, generalist, 2.0x and 24%  
-**Cohort III:** 2022-2024, 14 companies, thesis-driven, 1.1x and 4%  
+**Cohort I:** 2014-2017, 9 companies, India focus  
+**Cohort II:** 2019-2021, 14 companies, generalist  
+**Cohort III:** 2022-2024, 14 companies, thesis-driven  
 
 These cohorts analogize nicely to "traditional" venture fund cycles; they also reflect my evolving investment strategy.  Details below.
 
@@ -101,7 +101,7 @@ Starting in 2022, I became more intentional about angel investing; this coincide
 
 I like to invest in companies with capital-efficient growth and sound unit economics.  Such companies don't need a lot of follow-on investment; ironically, this means fewer markups and lower "paper" valuations.
 
-In the absence of markups, I sometimes use revenue as an (admittedly self-serving) proxy for value creation. Here are some revenue stats for cohorts II and III:
+In the absence of markups, I sometimes use revenue as a proxy for value creation. Here are some revenue stats for cohorts II and III:
 
 Annual revenue (USD), entry versus today:
 * Average: **$120k &rarr; $1.1M**  
@@ -118,7 +118,7 @@ Companies with more than $1M in ARR: **7 out of 28**.
 
 ### Breakdowns
 
-Here are some ways to break down my portfolio:
+Here are some other ways to break down my portfolio:
 
 * Geography: 14 Canada, 14 global
 * Work style: 18 in-person, 10 remote
