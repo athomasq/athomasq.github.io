@@ -48,7 +48,7 @@ I made my first arms-length angel investment in 2014, while running my own start
 
 * Companies: **9**  
 * Cheques: **14**  
-* TVPI: **5.2**  
+* MOIC: **5.2**  
 * DPI: **4.1**  
 * IRR: **31%**  
 
@@ -66,7 +66,7 @@ Between 2019 and 2021 I wrote 24 cheques into 14 companies, while running Quandl
 
 * Companies: **14**  
 * Cheques: **24**  
-* TVPI: **2.0**  
+* MOIC: **2.0**  
 * DPI: **0.1**  
 * IRR: **24%**  
 
@@ -82,7 +82,7 @@ Starting in 2022, I became more intentional about angel investing; this coincide
 
 * Companies: **14**  
 * Cheques: **16**  
-* TVPI: **1.1**  
+* MOIC: **1.1**  
 * DPI: **0.0**  
 * IRR: **4%**  
 

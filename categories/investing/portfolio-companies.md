@@ -12,25 +12,40 @@ title: Portfolio · Abraham Thomas
 
 ### Portfolio Notes
 
-🌱 All my investments are at pre-seed stage: very early product with minimal or zero revenue.
+🌱 All my investments are at pre-seed or seed stage: very early product with minimal or zero revenue.
 
-🏆 I invest only where I think I have an edge.  Hence my portfolio tends to skew non-Bay Area, mostly B2B with a data angle, and mostly atypical founder profiles.  
+🏆 I invest only where I think I have an edge.  Hence my portfolio tends to skew non-Bay Area, mostly B2B with a data angle, and mostly "outsider" founder profiles.  
 
 💴 I invest my own money.  This gives me a very different objective function from many startup investors.  
 
-<!-- My portfolio companies have gone on to raise further funding from Sequoia, Tiger Global, Falcon Edge, GIC and others. -->
+📈 I share my performance in public; see [portfolio statistics](/portfolio-statistics).  
 
 ----
 
 <br/>
 
-### Current Portfolio: 2019 onwards
+### Cohort I: 2014-2017
 
-I'm fortunate to be part of the following companies:
+📺 **AdSparx**: video advertising tools [EXIT]  
+🔬 **[Doxper](http://doxper.com)**: digitizing health data  
+🌐 **[i2e1](https://i2e1.com)**: distributed internet for everyone, everywhere [EXIT]  
+🚛 **[Locus](https://locus.sh)**: last-mile logistics software [EXIT]  
+👁️ **[Mad Street Den](https://www.madstreetden.com)**: computer vision for commerce  
+💊 **[Wellthy](https://wellthytherapeutics.com)**: digital therapeutics  
+🏘️ **FastFox**: platform for real estate brokers [RIP]  
+🧰 **Qyk**: marketplace for local services [RIP]  
+🍽 **TableHero**: restaurant management software [RIP]  
+
+Currently at 5.2x MOIC, 31% IRR.
+
+----
+
+<br/>
+
+### Cohort II: 2019-2021
 
 🧠 **[Daloopa](https://www.daloopa.com)**: next-gen financial modelling data  
 🏢 **[Mero](https://mero.co)**: vertical SaaS for janitorial services  
-<!--🛰 **[Pixxel](https://www.pixxel.space)**: hyper-spectral imaging satellites  -->
 🌏 **[Terra.do](https://terra.do)**: climate school and community  
 🖥️ **[Setyl](https://www.setyl.com)**: asset and license management platform    
 🏫 **[Canopy](https://www.canopyanalytics.com)**: data insights for property managers  
@@ -43,7 +58,15 @@ I'm fortunate to be part of the following companies:
 💵 **[Requity](https://www.requityhomes.com)**: rent-to-own for real estate  
 🙊 **Syro**: seamless secret management [RIP]  
 🎲 **TriplePlay**: remote culture through games [EXIT]  
-🎼 **[Composer](https://www.composer.trade)**: AI-powered investing for retail  
+
+Currently at 2.0x MOIC, 24% IRR.
+
+----
+
+<br/>
+
+### Cohort III: 2022-2024
+
 🛒 **[Arima](https://www.arimadata.com)**: privacy-first marketing with synthetic data   
 📧 **[Ubico](https://www.ubico.io)**: automation for outreach    
 🎥 **[Alchemic](https://www.alchemic.ca)**: B2B video generation via LLMs  
@@ -56,31 +79,33 @@ I'm fortunate to be part of the following companies:
 🖇️ **[Paperstack](https://www.paperstack.ai)**: financial OS for retail brands  
 🏘️ **[ResVR](https://resvr.com)**: VR design/sales tools for homebuilders  
 💧 **[Cascade](https://www.cascadedebt.com)**: modern saas for private credit markets  
-⛈️ **[SUST Global](https://www.sustglobal.com)**: climate risk data and models  
 🎯 **[Cactivate](https://www.cactivate.com)**: self-learning AI marketing agent  
 🗂️ **[Dagment](https://www.dagment.com)**: business data done right     
 
-<!-- For a more detailed description of these companies and why I invested, [click here](/portfolio-detailed).-->
+Currently at 1.1x MOIC, 4% IRR.
 
 ----
 
 <br/>
 
-### Legacy Portfolio: 2014-2017
+### LP Positions
 
-Between 2014 and 2017 I invested in a few startups in India:
+I'm an LP in the following excellent venture funds:
 
-📺 **AdSparx**: video advertising tools [EXIT]  
-🔬 **[Doxper](http://doxper.com)**: digitizing health data  
-🌐 **[i2e1](https://i2e1.com)**: distributed internet for everyone, everywhere  
-🚛 **[Locus](https://locus.sh)**: last-mile logistics software [EXIT]  
-👁️ **[Mad Street Den](https://www.madstreetden.com)**: computer vision for commerce  
-💊 **[Wellthy](https://wellthytherapeutics.com)**: digital therapeutics  
-🏘️ **FastFox**: platform for real estate brokers [RIP]  
-🧰 **Qyk**: marketplace for local services [RIP]  
-🍽 **TableHero**: restaurant management software [RIP]  
+🍷 **[Uncork](https://uncorkcapital.com)**  
+🌳 **[Merak](https://www.merakventures.com)**  
+🚜 **[e-squared](https://www.e2jdj.com)**  
 
-My legacy portfolio is mature and returning cash; currently at 4.1 DPI and 36% IRR.
+
+----
+
+<br/>
+
+### Other
+
+🎼 **[Composer](https://www.composer.trade)**: AI-powered investing for retail  
+⛈️ **[SUST Global](https://www.sustglobal.com)**: climate risk data and models  
+🎮 **[Gameopedia](https://www.gameopedia.com)**: comprehensive gaming data  
 
 ----
 
@@ -89,10 +114,16 @@ My legacy portfolio is mature and returning cash; currently at 4.1 DPI and 36% I
 [Back to Investing Page ↩](/investing)
 
 
+<!-- For a more detailed description of these companies and why I invested, [click here](/portfolio-detailed).-->
 
 <!--
 In addition to investing directly in startups, I am an LP in and advisor to [GrowX Ventures](http://www.growxventures.com/), who I believe to be India's best seed-stage venture capital firm.  
 -->
+
+<!-- My portfolio companies have gone on to raise further funding from Sequoia, Tiger Global, Falcon Edge, GIC and others. -->
+
+
+<!--🛰 **[Pixxel](https://www.pixxel.space)**: hyper-spectral imaging satellites  -->
 
 <br/>
 <br/>
