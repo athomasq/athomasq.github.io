@@ -92,9 +92,9 @@ Currently at 1.1x MOIC, 4% IRR.
 
 I'm an LP in the following excellent venture funds:
 
-🍷 **[Uncork](https://uncorkcapital.com)**  
-🌳 **[Merak](https://www.merakventures.com)**  
-🚜 **[e-squared](https://www.e2jdj.com)**  
+🍷 **[Uncork](https://uncorkcapital.com)**: Bay Area, generalist    
+🌳 **[Merak](https://www.merakventures.com)**: India, deep tech  
+🚜 **[e-squared](https://www.e2jdj.com)**: NOLA, ag tech    
 
 
 ----
