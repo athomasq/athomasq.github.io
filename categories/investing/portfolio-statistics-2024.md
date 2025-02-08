@@ -30,7 +30,7 @@ As of December 2024, I've angel invested in **37 companies**, and my investments
 
 My angel investing career has had several distinct phases.  Combining them into a single portfolio isn't as informative as breaking them into cohorts:
 
-**Cohort I:** 2014-2017, 9 companies, India focus  
+**Cohort I:** 2014-2017, 9 companies, India-focused  
 **Cohort II:** 2019-2021, 14 companies, generalist  
 **Cohort III:** 2022-2024, 14 companies, thesis-driven  
 
