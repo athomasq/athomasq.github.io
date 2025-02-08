@@ -14,8 +14,6 @@ title: Portfolio · Abraham Thomas
 
 🌱 All my investments are at pre-seed or seed stage: very early product with minimal or zero revenue.
 
-🏆 I invest only where I think I have an edge.  Hence my portfolio tends to skew non-Bay Area, mostly B2B with a data angle, and mostly "outsider" founder profiles.  
-
 💴 I invest my own money.  This gives me a very different objective function from many startup investors.  
 
 📈 I share my performance in public; see [portfolio statistics](/portfolio-statistics).  
@@ -114,16 +112,19 @@ I'm an LP in the following excellent venture funds:
 [Back to Investing Page ↩](/investing)
 
 
-<!-- For a more detailed description of these companies and why I invested, [click here](/portfolio-detailed).-->
+<!-- 
 
-<!--
+For a more detailed description of these companies and why I invested, [click here](/portfolio-detailed).
+
 In addition to investing directly in startups, I am an LP in and advisor to [GrowX Ventures](http://www.growxventures.com/), who I believe to be India's best seed-stage venture capital firm.  
+
+My portfolio companies have gone on to raise further funding from Sequoia, Tiger Global, Falcon Edge, GIC and others. 
+
+🏆 I invest only where I think I have an edge.  Hence my portfolio tends to skew non-Bay Area, mostly B2B with a data angle, and mostly "outsider" founder profiles.  
+
+🛰 **[Pixxel](https://www.pixxel.space)**: hyper-spectral imaging satellites  
+
 -->
-
-<!-- My portfolio companies have gone on to raise further funding from Sequoia, Tiger Global, Falcon Edge, GIC and others. -->
-
-
-<!--🛰 **[Pixxel](https://www.pixxel.space)**: hyper-spectral imaging satellites  -->
 
 <br/>
 <br/>
