@@ -12,7 +12,7 @@ title: Dagment Investment Memo
 
 ### Summary
 
-I'm leading a pre-seed round to invest in Dagment, adata business.
+I'm leading a pre-seed round to invest in Dagment, a data business.
 
 Dagment is pre-revenue, but has what I think is the best product I've seen in their space, with a strong and dedicated founder, a very big market opportunity, and a compelling valuation of USD 2M.  
 
@@ -67,13 +67,13 @@ I like him and think he is the right person to build this business.
 
 Ivan has also spent some time finding exactly the right team to support him.  Most importantly, Siarhei Averburh who heads data classification and Volha Hrodnikava who runs data ops -- from my personal experience, these are critical roles where you need a very specific set of skills.
 
-Dagment is still pre-revenue.  They've spent most of their time to date building out their product and collecting data.  (This is a common pattern for data businesses -- see my essay The Economics of Data Businesses for more.)
+Dagment is still pre-revenue.  They've spent most of their time to date building out their product and collecting data.  (This is a common pattern for data businesses -- see my essay [The Economics of Data Businesses](https://pivotal.substack.com/p/economics-of-data-biz) for more.)
 
 <!--
 An interesting side-note here is that Dagment is poised to benefit from the ongoing revolution in AI.
 -->
 
-High-quality, well-structured, hard-to-replicate training data is one of the most valuable assets in the world, and Dagment has carved out precisely such an asset.  (See my other essay Data in the Age of AI for more.)
+High-quality, well-structured, hard-to-replicate training data is one of the most valuable assets in the world, and Dagment has carved out precisely such an asset.  (See my other essay [Data in the Age of AI](https://pivotal.substack.com/p/data-in-the-age-of-ai) for more.)
 
 The company is incorporated in Delaware.  The team is global / remote (mostly in Eastern Europe).  Customers are global.
 
@@ -84,7 +84,7 @@ The company is incorporated in Delaware.  The team is global / remote (mostly in
 
 Dagment is raising up to USD 250k, at a pre-money valuation of USD 2M.  
 
-It's riskier than my other syndicate investments so far, because there's no revenue traction yet.  So this is largely a bet on the founder, the market, and the product vision.  There's also some geographic friction from being based largely in Eastern Europ. These risks are reflected in the very investor-friendly price.
+It's riskier than my other syndicate investments so far, because there's no revenue traction yet.  So this is largely a bet on the founder, the market, and the product vision.  There's also some geographic friction from being based largely in Eastern Europe. These risks are reflected in the very investor-friendly price.
 
 The upside is also higher than most.  There are a number of data businesses focusing on similar (but often more constrainted) data assets, that are worth USD 1-10 billion or more: Dun & Bradstreet, Bureau van Dijk (Moody's), 6sense, Preqin, Pitchbook, CoStar, ZoomInfo, Apollo, Experian, Equifax.  
 
