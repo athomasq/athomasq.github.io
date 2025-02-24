@@ -34,7 +34,7 @@ title: Portfolio · Abraham Thomas
 🧰 **Qyk**: marketplace for local services [RIP]  
 🍽 **TableHero**: restaurant management software [RIP]  
 
-Currently at 5.2x MOIC, 31% IRR.
+Currently at 5.2x MOIC, 4.1 DPI, 31% IRR.
 
 ----
 
