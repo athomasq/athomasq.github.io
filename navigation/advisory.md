@@ -44,7 +44,9 @@ Here are a few categories where I have particular expertise:
 
 * **Culture:** Culture is every successful startup's secret weapon. I help founders create outstanding organizational cultures with thoughtfulness and intentionality.  
 
-* **Personal Development:** The best founders level up constantly and consistently. I can show you how. 
+* **Personal Development:** The best founders level up constantly and consistently. I can show you how.  
+
+* **Data:** This hopefully goes without saying, but I am one of the world's leading experts on data business models, data assets, and data defensibility.  If your startup intersects wth those areas, I can help you.  
 
 <br/>
 
@@ -55,6 +57,8 @@ Most advisors are terrible.  They take advantage of inexperienced (and experienc
 I'm not most advisors.  I pride myself on being off-the-charts valuable to the companies I serve; and if I'm not, I encourage founders to fire me.
 
 I'm selective about my advisory clients.  I want to spend my bandwidth on companies where I can make a meaningful impact; if I don't think I can help you, I won't waste your time or mine.
+
+I expect to be paid fairly; this helps filter out situations where I don't add enough value, which helps nobody.  My advisory rate is low relative to market standards in SF and NY, and high relative to pretty much everywhere else in the world.  I am happy to be paid in either cash or equity.  
 
 I typically work with startups between 100k and 10M in revenue: roughly, Seed to Series C (though some of my advisees don't want or need to raise venture capital).  I mostly work with saas, data and marketplace startups; mostly B2B, some consumer; and mostly North America, some Europe.
 
