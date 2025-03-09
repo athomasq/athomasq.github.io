@@ -14,9 +14,9 @@ title: About · Abraham Thomas
 
 * I [angel invest](https://abrahamthomas.info/investing/) in tech startups  
 * I write [Pivotal](https://pivotal.substack.com/about), a newsletter on data, investing and startups  
-* I lead a small [investment syndicate](https://venture.angellist.com/abraham-thomas/syndicate) that co-invests with me   
 
 <!--
+* I lead a small [investment syndicate](https://venture.angellist.com/abraham-thomas/syndicate) that co-invests with me   
 * I [advise](https://abrahamthomas.info/advisory) startups on execution and growth  
 * I [consult](https://abrahamthomas.info/consulting) for institutional investors on their data strategy  
 -->
@@ -87,16 +87,18 @@ Have fun, be good, work hard, stay happy, make a difference!
 
 📚  Here's a bit **more about me**:
 
-* [My writing](https://abrahamthomas.info/writing/)
-* [What I'm interested in](https://abrahamthomas.info/interests/)
-* [Travel photography](https://abrahamthomas.info/gallery/)
-* [Book collection](https://abrahamthomas.info/library/)
-* [Areas of work](https://abrahamthomas.info/work/)
-* [Startup advisory](https://abrahamthomas.info/advisory/)
-* [Data consulting](https://abrahamthomas.info/consulting/)
-* [Media coverage](https://abrahamthomas.info/press/)
-* [Talks and seminars](https://abrahamthomas.info/talks/)
-* [Guide to visiting Japan](https://abrahamthomas.gumroad.com/l/wwrni)
+* [My writing](https://abrahamthomas.info/writing/)  
+* [What I'm interested in](https://abrahamthomas.info/interests/)  
+* [Areas of work](https://abrahamthomas.info/work/)  
+* [Startup advisory](https://abrahamthomas.info/advisory/)  
+* [Data consulting](https://abrahamthomas.info/consulting/)  
+* [Investment syndicate](https://venture.angellist.com/abraham-thomas/syndicate)  
+* [Media coverage](https://abrahamthomas.info/press/)  
+* [Talks and seminars](https://abrahamthomas.info/talks/)  
+* [Saved articles](https://abrahamthomas.info/articles/)  
+* [Travel photography](https://abrahamthomas.info/gallery/)  
+* [Book collection](https://abrahamthomas.info/library/)  
+* [Guide to visiting Japan](https://abrahamthomas.gumroad.com/l/wwrni)  
 * [War-zone experience](https://abrahamthomas.info/invasion/)    
 * [Biographical note](https://abrahamthomas.info/bio/)  
 
