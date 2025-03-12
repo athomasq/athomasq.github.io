@@ -15,9 +15,10 @@ I'm an active angel investor in early-stage tech startups.
 🌱 **For founders:**
 * [What I invest in](/angel-criteria)  
 * [How to pitch me](/pitch-me)  
+* [Founder testimonials](/testimonials)  
 * [Why work with me](/why-me)  
 <!--* * [Memos and resources](/memos)  -->
-* [Founder testimonials](/testimonials)  
+
 
 🚀 **For others:**
 * [Portfolio companies](/portfolio-companies)
