@@ -59,6 +59,8 @@ Email me: <u><a href="mailto:at@abrahamthomas.info">at@abrahamthomas.info</a></u
 * Discipline doesn't restrict your choices, it expands them.  
 * Excellence is a habit, and should be cultivated as such.  
 * Action produces information.  
+* Compete with yourself.  
+* Do work that only you can do.  
 * Be unfailingly kind, even when -- especially when! -- it's hard.  
     - But recognize that kindness isn't the same as niceness.  
 * Character is grace under pressure.  
