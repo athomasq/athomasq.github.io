@@ -62,6 +62,8 @@ I expect to be paid fairly; this filters out situations where I don't add enough
 
 I typically work with startups between 100k and 10M in revenue: roughly, Seed to Series C (though some of my advisees don't want or need to raise venture capital).  I mostly work with saas, data and marketplace startups; mostly B2B, some consumer; and mostly North America, some Europe.
 
+The best proof of my value is what founders have to say about me.  You can find a small selection of complimentary quotes on my [testimonials](/testimonials) page; further references are available on request.
+
 <br/>
 
 ### Contact Me

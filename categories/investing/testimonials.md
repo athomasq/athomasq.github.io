@@ -10,10 +10,6 @@ title: Founder Testimonials · Abraham Thomas
 
 <br/> 
 
-My goal is to be the best angel investor on your cap table.  
-
-But don't just take my word for it.  Here are some testimonials from my portfolio founders:
-
 * *"Abraham is willing and able to provide advice that can be the tipping point for those difficult founder decisions. The nuance and detail that incorporates your unique business situation, the current market, and his own personal experiences is offered with swift confidence, which is **the ultimate secret weapon** for any founder."*  <!--Nathan Mah, Mero-->  
 
 * *"Abraham is **a great investor to work with**. He's highly professional and always available for help. For anyone looking for capital, Abraham is an excellent addition to have on their cap table"*  <!--Winston Li, Arima-->  
@@ -24,7 +20,7 @@ But don't just take my word for it.  Here are some testimonials from my portfoli
 
 * *"When I have a hard problem, **I call Abraham**. He's experienced the same challenges first hand and survived. He truly puts the time and effort to making sure the founders he works with are successful."*  <!--Sunny Juneja, Canopy-->  
 
-* *"Working with Abraham as an investor has been a journey of **candid, thoughtful strategic advice**. As a founder himself, Abraham empathizes with the ups and downs in running a company.  We turn to him constantly at times of our most difficult decisions and lean on his experience.  He is **always genuine** and spends an outsized amount of time and effort with us."*  <!--Thomas Li, Daloopa-->  
+* *"Working with Abraham has been a journey of **candid, thoughtful strategic advice**. As a founder himself, Abraham empathizes with the ups and downs in running a company.  We turn to him constantly at times of our most difficult decisions and lean on his experience.  He is **always genuine** and spends an outsized amount of time and effort with us."*  <!--Thomas Li, Daloopa-->  
 
 * *"A **world class teacher** for go to market, hiring, fundraising and messaging. He's been great at both diving into the details as well as thinking about the long term strategic view. Any B2B founder would benefit greatly from working with him."*  <!--Sunny Juneja, Canopy-->  
 
