@@ -8,31 +8,33 @@
   link: /writing
 - name: newline
 
-- name: Consulting
-  link: /consulting
-- name: Advisory
-  link: /advisory
-- name: newline
 
+- name: Bio
+  link: /bio
 - name: Work
   link: /work
-- name: Interests
-  link: /interests
-- name: newline
-
-- name: Library
+- name: Japan
+  link: https://abrahamthomas.gumroad.com/l/wwrni
+- name: Media
+  link: /press
+- name: Talks
+  link: /talks
+- name: Kuwait
+  link: /invasion
+- name: Advisory
+  link: /advisory
+- name: Articles
+  link: /articles
+- name: Bookshelf
   link: /library
+- name: Syndicate
+  link: https://venture.angellist.com/abraham-thomas/syndicate
+- name: Consulting
+  link: /consulting
 - name: Photography
   link: /gallery
 - name: newline
 
-- name: Speaking
-  link: /talks
-- name: Media
-  link: /press
-- name: newline
 
-- name: Bio
-  link: /bio
 - name: Contact
   link: /contact
