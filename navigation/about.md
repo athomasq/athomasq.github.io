@@ -86,6 +86,16 @@ Have fun, be good, work hard, stay happy, make a difference!
 
 <br/> 
 
+Email me: <u><a href="mailto:at@abrahamthomas.info">at@abrahamthomas.info</a></u>
+
+<br/>
+<br/>
+<br/>
+
+
+
+
+<!--
 
 📚  Here's a bit **more about me**:
 
@@ -105,7 +115,7 @@ Have fun, be good, work hard, stay happy, make a difference!
 * [Biographical note](https://abrahamthomas.info/bio/)  
 
 
-<!--
+
 
 <br/>
 
@@ -175,15 +185,5 @@ To learn more, please visit my [consulting page](https://abrahamthomas.info/cons
 
 -->
 
-<br/>
-
-----
-
-<br/> 
 
 
-Email me: <u><a href="mailto:at@abrahamthomas.info">at@abrahamthomas.info</a></u>
-
-<br/>
-<br/>
-<br/>

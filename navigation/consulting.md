@@ -12,7 +12,6 @@ title: Consulting · Abraham Thomas
 
 **Update: I am not currently accepting new institutional consulting engagements.**
 
-<br/>
 
 -----
 

@@ -73,7 +73,10 @@ I help founders **execute better** through relevant, concrete, actionable advice
 
 I'm deeply familiar with both the low-level tactical problems and daily grind of running a startup with all its attendant uncertainty and scarcity; and the high-level challenges and imperatives of building a **business that matters** over the long term.  
 
-I am especially strong on narrative and positioning, financing and resource allocation, growth and gtm, team and culture, and personal development for founders.  My goal is to help you understand **what excellence looks like**.
+I'm especially strong on growth strategy; building a world-class team and culture; fund-raising; narrative creation and positioning; and personal development.  My goal is to help you understand **what excellence looks like** in all of these.
+
+ 
+
 
 Read my [founder testimonials](/testimonials) and learn more on my [advisory page](/advisory).
 
@@ -83,7 +86,9 @@ Read my [founder testimonials](/testimonials) and learn more on my [advisory pag
 
 ### 🧭 Consulting
 
-I am an expert consultant on the topic of data, especially as it pertains to capital markets and financial services.  Topics I regularly advise on include:
+I am an expert consultant on the topic of data, especially as it pertains to capital markets and financial services.  My clients are typically institutional investors: hedge funds, pension funds, sovereign wealth funds, venture capital firms and private equity firms.
+
+Topics I regularly advise on include:
 
 💱 Data advantages and using data to generate alpha  
 👩‍💻 Designing, building and scaling effective data organizations  
@@ -98,7 +103,7 @@ I am an expert consultant on the topic of data, especially as it pertains to cap
 ⛷ Staying agile at scale via people, processes and technology  
 🔢 Data and API business models and the data ecosystem  
 
-My clients are typically institutional investors: hedge funds, pension funds, sovereign wealth funds, venture capital firms and private equity firms.  Read more on my [consulting page](/consulting).
+Read more on my [consulting page](/consulting).
 
 
 ----
