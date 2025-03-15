@@ -13,18 +13,18 @@
   link: /bio
 - name: Work
   link: /work
-- name: Japan
-  link: https://abrahamthomas.gumroad.com/l/wwrni
-- name: Media
-  link: /press
 - name: Talks
   link: /talks
+- name: Media
+  link: /press
+- name: Japan
+  link: https://abrahamthomas.gumroad.com/l/wwrni
 - name: Kuwait
   link: /invasion
-- name: Advisory
-  link: /advisory
 - name: Articles
   link: /articles
+- name: Advisory
+  link: /advisory
 - name: Bookshelf
   link: /library
 - name: Syndicate
