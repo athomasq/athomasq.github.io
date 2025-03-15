@@ -18,7 +18,7 @@ My professional interests lie at the intersection of data, markets, and technolo
 
 🏪 **Markets:** Markets are the most effective and resilient mechanism we have found to solve a hard problem: how should society allocate resources in the face of incomplete information and uncertain outcomes?
 
-📡 **Technology:** Writing, agriculture, government, cities, money, industry: these and other technologies have impacted humanity in profound (and still evolving) ways. We're living through another technological revolution right now: software. And we've barely scratched the surface of what it can achieve.
+📡 **Technology:** Writing, agriculture, government, cities, money, industry: these and other technologies have impacted humanity in profound ways. We're living through another technological revolution right now: software. And we've barely scratched the surface of what it can achieve.
 
 
 ----
@@ -57,7 +57,9 @@ My work has been covered by the Wall Street Journal, the Financial Times, the Ec
 
 ### 🎯 Board Roles
 
-I have served on and continue to serve on private company boards.  Typically, these roles leverage my experience as a successful generalist founder; my deep knowledge of data businesses; my expertise in capital markets; or some combination thereof.  
+I have served on and continue to serve on private company boards.  
+
+Typically, these roles leverage my experience as a successful generalist founder; my deep knowledge of data businesses; my expertise in capital markets; or some combination thereof.  
 
 I'm available for additional board roles if the fit is right.
 
@@ -70,13 +72,10 @@ I'm available for additional board roles if the fit is right.
 I help founders **execute better** through relevant, concrete, actionable advice, delivered with alignment and empathy.
 
 I'm deeply familiar with both the low-level tactical problems and daily grind of running a startup with all its attendant uncertainty and scarcity; and the high-level challenges and imperatives of building a **business that matters** over the long term.  
+
 I am especially strong on narrative and positioning, financing and resource allocation, growth and gtm, team and culture, and personal development for founders.  My goal is to help you understand **what excellence looks like**.
 
-This hopefully goes without saying, but I am one of the world's leading experts on data business models, data assets, and data defensibility.  If your startup intersects with those areas, I can help you. 
-
-But don't just take my word for it; read [what founders have to say about me](/testimonials).
-
-Learn more on my [advisory page](/advisory).
+Read my [founder testimonials](/testimonials) and learn more on my [advisory page](/advisory).
 
 ----
 
@@ -108,7 +107,11 @@ My clients are typically institutional investors: hedge funds, pension funds, so
 
 ### 🎤 Speaking
 
-I'm an experienced public speaker; my talks range from high-level keynotes for generalist audiences, to extremely concrete, actionable seminars on specific topics in data, markets and technology. Recent seminar venues include asset managers Winton, OTPP, CPPIB, UBS and Franklin Templeton; conferences include Strata, AI Trading, Princeton Quant, and Montgomery; and tech events include Toronto City Hall, TechTO, SaaStock, and the Toronto Stock Exchange. You can see a full list of talks [here](/talks).
+I'm an experienced public speaker; my talks range from high-level keynotes for generalist audiences, to extremely concrete, actionable seminars on specific topics in data, markets and technology. 
+
+Recent seminar venues include asset managers Winton, OTPP, CPPIB, UBS and Franklin Templeton; conferences include Strata, AI Trading, Princeton Quant, and Montgomery; and tech events include Toronto City Hall, TechTO, SaaStock, and the Toronto Stock Exchange. 
+
+You can see a full list of talks [here](/talks).
 
 ----
 
