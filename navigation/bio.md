@@ -9,24 +9,11 @@ title: Bio · Abraham Thomas
 
 *I went from being a wartime refugee as a child, to a student leader in university, to a portfolio manager at a large hedge fund, to co-founder of a successful tech startup.  This is my story.*
 
----
-
-<br/>
-
-*Here's the concise "professional profile" version:*
-
-Abraham Thomas is a private investor, board member, and advisor to technology companies and investment firms.  He's an expert on data assets and data businesses, and he writes the well-regarded Pivotal newsletter on those topics.  
-
-Abraham was previously the co-founder and chief data officer of Quandl, the leading "alternative data" provider in the world, now a Nasdaq company.  Before Quandl, Abraham was a senior portfolio manager at Simplex Asset Management, one of Asia's oldest and largest quant hedge funds, where he built one of the industry's first high-frequency-trading systems.  
-
-Abraham has a B. Tech. from IIT Bombay.  He lives in Toronto, Canada.
-
+*(Click [here](/blurb) for the concise "professional" version.)*
 
 ---
 
 <br/>
-
-*Here's the longer and more interesting version:*
 
 **Childhood.**  
 &nbsp; &nbsp; I was born in a small town in south India.  The formative experience of my childhood was this: at the age of 13, I spent 3 days in the hold of a cargo ship, escaping a war zone with nothing more than what I could carry in a backpack.  This gave me (what I think is) unusual levels of optimism, detachment, perspective, and risk tolerance.
