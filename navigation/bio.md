@@ -13,31 +13,101 @@ title: Bio · Abraham Thomas
 
 <br/>
 
-**At 13**, I spent 3 days in the hold of a cargo ship, [escaping a war zone](/invasion) with nothing more than what I could carry in a backpack.  
+*Here's the concise "professional profile" version:*
 
-**At 17**, I graduated from high school in south India as valedictorian and head boy; I was also on my school's basketball, soccer, debate, quiz and math teams. I was accepted into both [AIIMS](https://en.wikipedia.org/wiki/All_India_Institute_of_Medical_Sciences,_New_Delhi) and [IIT Bombay](https://en.wikipedia.org/wiki/Indian_Institute_of_Technology_Bombay), and chose to study [Engineering Physics](https://en.wikipedia.org/wiki/Engineering_physics) at the latter.
+Abraham Thomas is a private investor, board member, and advisor to technology companies and investment firms.  He's an expert on data assets and data businesses, and he writes the well-regarded Pivotal newsletter on those topics.  
 
-**At 21**, I turned down graduate school to join a tiny firm that "used math to predict the market".  One of Asia's first hedge funds, [Simplex](https://www.simplexasset.com/en/) eventually grew to hundreds of people and billions of dollars. I joined as employee #7.
+Abraham was previously the co-founder and chief data officer of Quandl, the leading "alternative data" provider in the world, now a Nasdaq company.  Before Quandl, Abraham was a senior portfolio manager at Simplex Asset Management, one of Asia's oldest and largest quant hedge funds, where he built one of the industry's first high-frequency-trading systems.  
 
-**By 26**, I was a portfolio manager at the fund.  I set up and ran the fund's US office; I also co-led the team that designed, built and traded one of the bond market's first [algorithmic trading](https://pivotal.substack.com/p/ahead-of-the-yield-curve) systems.
+Abraham has a B. Tech. from IIT Bombay.  He lives in Toronto, Canada.
 
-**At 30**, I quit my hedge fund job.  I exited all my positions near the high-water mark of the portfolio in 2007, and moved to Toronto, Canada.  
 
-**At 33**, I started [Quandl](https://www.quandl.com/) with my friend and co-founder Tammer Kamel.  We set out to solve a well-known problem: there's an enormous amount of valuable data in the world, but it's hard to find and hard to use.
+---
 
-**I was 37** when we launched the Quandl data marketplace.  We pioneered the category of [alternative data for finance](https://en.wikipedia.org/wiki/Alternative_data_(finance)), and acquired many of the world's top hedge funds, asset managers, fintechs and investment banks as our customers.
+<br/>
 
-**I was 41** when Quandl was acquired by [Nasdaq](https://www.nasdaq.com/), in a successful and substantial exit.  
+*Here's the longer and more interesting version:*
 
-**At 44**, I moved on from my time at Quandl (now known as Nasdaq Data), and embarked on a new adventure as an angel investor, advisor and writer. I'm excited for what the future holds!
+**Childhood.**  
+&nbsp; &nbsp; I was born in a small town in south India.  The formative experience of my childhood was this: at the age of 13, I spent 3 days in the hold of a cargo ship, escaping a war zone with nothing more than what I could carry in a backpack.  This gave me (what I think is) unusual levels of optimism, detachment, perspective, and risk tolerance.
+
+**School.**  
+&nbsp; &nbsp; I graduated from high school as valedictorian and head boy.  I was on my school’s debate, quiz, math, soccer, track and basketball teams (captaining the first four), and won intramural and interscholastic (state, regional) competitions with all of them; I also edited the school magazine.  I did these for fun: extracurriculars don't count towards college admissions in India.
+
+&nbsp; &nbsp; I was subsequently accepted, via competitive exam, into India's top medical school AIIMS, as well as India's top engineering school IIT Bombay (<0.2% admit rates at each; non-overlapping exams!).  I chose to join the latter.
+
+**IIT.**  
+&nbsp; &nbsp; I graduated from IIT Bombay with a B.Tech. in Engineering Physics.  While at IIT-B, I was elected Institute General Secretary (GSHA -- the highest post in student government) with a record number of votes, and served as the student rep on IIT-B's Senate. I captained IIT-B's quiz, debate and literary teams, and won many intercollegiate and national competitions. I was also very active in competitive intramurals, and won a bunch of awards including the institute's "Roll of Honour".
+
+&nbsp; &nbsp; I realized that a career in physics academia was not for me.  After graduating, I was accepted into India's top business school IIM-A (I believe I ranked #1 in the entrance exam; <0.2% acceptance rate again), but decided not to go.  Instead, I joined a Japanese hedge fund, Simplex Asset Management.
+
+**Simplex.**  
+&nbsp; &nbsp; Simplex, headquartered in Tokyo, is one of Asia's oldest and largest quant hedge funds, with several billion dollars under management.  I joined them as employee #7, and helped build most of their core trading systems.  I started as a programmer and quant analyst, then became a junior trader, and eventually, senior portfolio manager and head of all non-Japan investments.  While at Simplex, I built one of the earliest high-frequency-trading systems in the industry, for automated quant trading of the US Treasury market. 
+
+&nbsp; &nbsp; I was an excellent trader, and delivered strong absolute returns at a high Sharpe ratio.  My best trade at Simplex was my last one: I exited all my positions at the high-water mark in 2007, just before the global financial crisis of 2008.  I then quit my hedge fund job and moved to Toronto, looking for new challenges.
+
+**Quandl.**  
+&nbsp; &nbsp; A few years later, I started Quandl with my friend and co-founder Tammer Kamel.  We set out to solve a well-known problem: there’s an enormous amount of valuable data in the world, but it’s fragmented and intractable: hard to find and hard to use.  We built technology to aggregate and harmonize millions of datasets from thousands of sources, all in a single data marketplace with a uniform, powerful API.
+
+&nbsp; &nbsp; Quandl pioneered the category of "alternative data for finance" -- datasets of great value to professional investors, but previously unused (and often unknown).  Our alt data was used by a majority of the world's top hedge funds, asset managers, fintechs, and investment banks, serving millions of downloads and powering billions in investment decisions. 
+
+&nbsp; &nbsp; I wore many hats at Quandl: heading all things data; raising $20M in venture capital from blue-chip Silicon Valley investors; managing (at various times) finance, marketing, sales and ops; recruiting and team-building; and perhaps most importantly, setting culture and vision.
+
+&nbsp; &nbsp; Quandl was acquired by Nasdaq in 2018, in a substantial and successful exit.  Tammer and I stayed on to run the business for a while longer, before moving on.
+
+**Free Agent.**  
+&nbsp; &nbsp; I've been a free agent for the last few years.  I'm an active and successful angel investor in early-stage tech startups (40+ portfolio copmanies, 25% blended IRR, meaningful DPI).  I also write Pivotal, a highly-regarded newsletter on data, investing and startups, with over 5000 subscribers.  I advise a small and select group of firms (both tech startups and investment managers), and I serve on private-company boards.
+
+**And More.**  
+&nbsp; &nbsp; I'm insatiably curious, and a lifelong learner-doer.  In parallel with my professional adventures, I keep busy with lots of hobbies, pursuits, side-projects and weekend exploits.  I used to run a poem-a-day mail server in the late 90s with over 5000 subscribers.  I played tournament Scrabble and reached expert level (1600).  I used to hike and bike, but do less of that now.  I'm a solid tennis player (4.0), and getting into distance swimming and weight-training (kettlebells).  I volunteer.
+
+&nbsp; &nbsp; I'm a very good amateur photographer.  I have a large collection of tabletop (Euro-strategy) board games.  I listen to a vast range of music (but not the popular stuff I'm afraid).  I play multiple instruments, not very well.  I'm a really good cook.  I read non-stop, on everything under the sun.  I've travelled a bit, and even written a travel guide.  I think I'm unusually well-informed on a very wide range of topics: history, science, art, language, music, literature, you name it.  I'm interested in everything.
+
+&nbsp; &nbsp; I currently live in Toronto with my family, 7000 books, and 3 pianos.  <span style="color: white;">Also, I know how to use an Oxford comma.</span>
+
 
 ----
 
 <br/>
-
-
-**With gratitude:** Over my career, I've benefited from privilege, serendipity and kindness, from friends, family, mentors, partners and complete strangers.  I thank you all.  *We are none of us alone.*
-
 <br/>
 <br/>
-<br/>
+
+
+<!--
+freshie of the year (cult)
+insti roll of honour (cult)
+hostel cult scroll
+
+hostel lit secy
+institute lit secy + best office bearer
+gsha + senate rep
+
+gymkhana constitution
+campus internet
+
+editor - technik, 2mn, binoc (x2), insight
+organizer - quiz club, debate club, scrabble club
+
+cg comp mood-i (x2)
+deans rep tech fest
+cl malhar (x2)
+
+won lit trophy 4 years -- dominant
+won debate trophy 3 of 4 years
+won cult gc 2 of 4 years
+
+won best script (paf) 4 years
+won best paf 3 of 4 years
+wrote, directed, voiced final year paf -- swept awards
+
+
+won iitm main q (lone wolf), malhar main q, iitb main q
+quiz summit (sid basu)
+lots of other intercollegiate quiz, debate comps
+also logic / alu comps, essays and cw
+
+senior hostel teams: basky, track, soccer
+insti team basky (declined)
+
+cat topper
+-->
