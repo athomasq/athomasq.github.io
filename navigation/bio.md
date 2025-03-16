@@ -21,15 +21,15 @@ title: Bio · Abraham Thomas
 **School.**  
 &nbsp; &nbsp; I graduated from high school as valedictorian and head boy.  I was on my school’s debate, quiz, math, soccer, track and basketball teams (captaining the first four), and won intramural and interscholastic (state, regional) competitions with all of them; I also edited the school magazine.  I did these for fun: extracurriculars don't count towards college admissions in India.
 
-&nbsp; &nbsp; I was subsequently accepted, via competitive exam, into India's top medical school AIIMS, as well as India's top engineering school IIT Bombay (<0.2% admit rates at each; non-overlapping exams!).  I chose to join the latter.
+&nbsp; &nbsp; I was accepted, via competitive exam, into India's top medical school AIIMS, as well as India's top engineering school IIT Bombay (<0.2% admit rates at each; non-overlapping exams!).  I chose to join the latter.
 
 **IIT.**  
 &nbsp; &nbsp; I graduated from IIT Bombay with a B.Tech. in Engineering Physics.  While at IIT-B, I was elected Institute General Secretary (GSHA -- the highest post in student government) with a record number of votes, and served as the student rep on IIT-B's Senate. I captained IIT-B's quiz, debate and literary teams, and won many intercollegiate and national competitions. I was also very active in competitive intramurals, and won a bunch of awards including the institute's "Roll of Honour".
 
-&nbsp; &nbsp; I realized that a career in physics academia was not for me.  After graduating, I was accepted into India's top business school IIM-A (I believe I ranked #1 in the entrance exam; <0.2% acceptance rate again), but decided not to go.  Instead, I joined a Japanese hedge fund, Simplex Asset Management.
+&nbsp; &nbsp; I realized that a career in physics was not for me.  I was accepted into India's top business school IIM-A (I believe I ranked #1 nationally in the entrance exam; <0.2% acceptance rate again), but decided not to go.  Instead, I joined a Japanese hedge fund, Simplex.
 
 **Simplex.**  
-&nbsp; &nbsp; Simplex, headquartered in Tokyo, is one of Asia's oldest and largest quant hedge funds, with several billion dollars under management.  I joined them as employee #7, and helped build most of their core trading systems.  I started as a programmer and quant analyst, then became a junior trader, and eventually, senior portfolio manager and head of all non-Japan investments.  While at Simplex, I built one of the earliest high-frequency-trading systems in the industry, for automated quant trading of the US Treasury market. 
+&nbsp; &nbsp; Simplex Asset Management, headquartered in Tokyo, is one of Asia's oldest and largest quant hedge funds, with several billion dollars under management.  I joined them as employee #7, and built many of their core trading systems.  I started as a programmer and quant analyst, then became a junior trader, and eventually, senior portfolio manager and head of all non-Japan investments.  While at Simplex, I built one of the earliest high-frequency-trading (HFT) systems in the industry, for automated quant trading of the US Treasury market. 
 
 &nbsp; &nbsp; I was an excellent trader, and delivered strong absolute returns at a high Sharpe ratio.  My best trade at Simplex was my last one: I exited all my positions at the high-water mark in 2007, just before the global financial crisis of 2008.  I then quit my hedge fund job and moved to Toronto, looking for new challenges.
 
@@ -43,12 +43,12 @@ title: Bio · Abraham Thomas
 &nbsp; &nbsp; Quandl was acquired by Nasdaq in 2018, in a substantial and successful exit.  Tammer and I stayed on to run the business for a while longer, before moving on.
 
 **Free Agent.**  
-&nbsp; &nbsp; I've been a free agent for the last few years.  I'm an active and successful angel investor in early-stage tech startups (40+ portfolio copmanies, 25% blended IRR, meaningful DPI).  I also write Pivotal, a highly-regarded newsletter on data, investing and startups, with over 5000 subscribers.  I advise a small and select group of firms (both tech startups and investment managers), and I serve on private-company boards.
+&nbsp; &nbsp; I've been a free agent for the last few years.  I'm an active and successful angel investor in early-stage tech startups (40+ portfolio companies, 25% blended IRR, meaningful DPI).  I also write Pivotal, a highly-regarded newsletter on data, investing and startups, with over 5000 subscribers.  I advise a small and select group of firms (both tech startups and investment managers), and I serve on private-company boards.
 
 **And More.**  
 &nbsp; &nbsp; I'm insatiably curious, and a lifelong learner-doer.  In parallel with my professional adventures, I keep busy with lots of hobbies, pursuits, side-projects and weekend exploits.  I used to run a poem-a-day mail server in the late 90s with over 5000 subscribers.  I played tournament Scrabble and reached expert level (1600).  I used to hike and bike, but do less of that now.  I'm a solid tennis player (4.0), and getting into distance swimming and weight-training (kettlebells).  I volunteer.
 
-&nbsp; &nbsp; I'm a very good amateur photographer.  I have a large collection of tabletop (Euro-strategy) board games.  I listen to a vast range of music (but not the popular stuff I'm afraid).  I play multiple instruments, not very well.  I'm a really good cook.  I read non-stop, on everything under the sun.  I've travelled a bit, and even written a travel guide.  I think I'm unusually well-informed on a very wide range of topics: history, science, art, language, music, literature, you name it.  I'm interested in everything.
+&nbsp; &nbsp; I'm a very good amateur photographer.  I have a large collection of tabletop (Euro-strategy) board games.  I listen to a vast range of music (but not the popular stuff I'm afraid).  I play multiple instruments, not very well.  I'm a really good cook.  I read non-stop, on everything under the sun.  I've travelled a bit.  I think I'm unusually well-informed on a very wide range of topics: history, science, art, language, music, literature, you name it.  I'm interested in everything.
 
 &nbsp; &nbsp; I currently live in Toronto with my family, 7000 books, and 3 pianos.  <span style="color: white;">Also, I know how to use an Oxford comma.</span>
 
