@@ -41,27 +41,29 @@ Abraham has a B. Tech. from IIT Bombay.  He lives in Toronto, Canada.
 
 &nbsp; &nbsp; I realized that a career in physics academia was not for me.  After graduating, I was accepted into India's top business school IIM-A (I believe I ranked #1 in the entrance exam; <0.2% acceptance rate again), but decided not to go.  Instead, I joined a Japanese hedge fund, Simplex Asset Management.
 
-&nbsp; &nbsp; **Simplex.**  
-Simplex, headquartered in Tokyo, is one of Asia's oldest and largest quant hedge funds, with several billion dollars under management.  I joined them as employee #7, and helped build most of their core trading systems.  I started as a programmer and quant analyst, then became a junior trader, and eventually, senior portfolio manager and head of all non-Japan investments.  While at Simplex, I built one of the earliest high-frequency-trading systems in the industry, for automated quant trading of the US Treasury market. 
+**Simplex.**  
+&nbsp; &nbsp; Simplex, headquartered in Tokyo, is one of Asia's oldest and largest quant hedge funds, with several billion dollars under management.  I joined them as employee #7, and helped build most of their core trading systems.  I started as a programmer and quant analyst, then became a junior trader, and eventually, senior portfolio manager and head of all non-Japan investments.  While at Simplex, I built one of the earliest high-frequency-trading systems in the industry, for automated quant trading of the US Treasury market. 
 
-I was an excellent trader, and delivered strong absolute returns at a high Sharpe ratio.  My best trade at Simplex was my last one: I exited all my positions at the high-water mark in 2007, just before the global financial crisis of 2008.  I then quit my hedge fund job and moved to Toronto, looking for new challenges.
+&nbsp; &nbsp; I was an excellent trader, and delivered strong absolute returns at a high Sharpe ratio.  My best trade at Simplex was my last one: I exited all my positions at the high-water mark in 2007, just before the global financial crisis of 2008.  I then quit my hedge fund job and moved to Toronto, looking for new challenges.
 
-&nbsp; &nbsp; **Quandl.**  
-A few years later, I started Quandl with my friend and co-founder Tammer Kamel.  We set out to solve a well-known problem: there’s an enormous amount of valuable data in the world, but it’s fragmented and intractable: hard to find and hard to use.  We built technology to aggregate and harmonize millions of datasets from thousands of sources, all in a single data marketplace with a uniform, powerful API.
+**Quandl.**  
+&nbsp; &nbsp; A few years later, I started Quandl with my friend and co-founder Tammer Kamel.  We set out to solve a well-known problem: there’s an enormous amount of valuable data in the world, but it’s fragmented and intractable: hard to find and hard to use.  We built technology to aggregate and harmonize millions of datasets from thousands of sources, all in a single data marketplace with a uniform, powerful API.
 
-Quandl pioneered the category of "alternative data for finance" -- datasets of great value to professional investors, but previously unused (and often unknown).  Our alt data was used by a majority of the world's top hedge funds, asset managers, fintechs, and investment banks, serving millions of downloads and powering billions in investment decisions. 
+&nbsp; &nbsp; Quandl pioneered the category of "alternative data for finance" -- datasets of great value to professional investors, but previously unused (and often unknown).  Our alt data was used by a majority of the world's top hedge funds, asset managers, fintechs, and investment banks, serving millions of downloads and powering billions in investment decisions. 
 
-I wore many hats at Quandl: heading all things data; raising $20M in venture capital from blue-chip Silicon Valley investors; managing (at various times) finance, marketing, sales and ops; recruiting and team-building; and perhaps most importantly, setting culture and vision.
+&nbsp; &nbsp; I wore many hats at Quandl: heading all things data; raising $20M in venture capital from blue-chip Silicon Valley investors; managing (at various times) finance, marketing, sales and ops; recruiting and team-building; and perhaps most importantly, setting culture and vision.
 
-Quandl was acquired by Nasdaq in 2018, in a substantial and successful exit.  Tammer and I stayed on to run the business for a while longer, before moving on.
+&nbsp; &nbsp; Quandl was acquired by Nasdaq in 2018, in a substantial and successful exit.  Tammer and I stayed on to run the business for a while longer, before moving on.
 
-&nbsp; &nbsp; **Free Agent.** I've been a free agent for the last few years.  I'm an active and successful angel investor in early-stage tech startups (40+ portfolio copmanies, 25% blended IRR, meaningful DPI).  I also write Pivotal, a highly-regarded newsletter on data, investing and startups, with over 5000 subscribers.  I advise a small and select group of firms (both tech startups and investment managers), and I serve on private-company boards.
+**Free Agent.**  
+&nbsp; &nbsp; I've been a free agent for the last few years.  I'm an active and successful angel investor in early-stage tech startups (40+ portfolio copmanies, 25% blended IRR, meaningful DPI).  I also write Pivotal, a highly-regarded newsletter on data, investing and startups, with over 5000 subscribers.  I advise a small and select group of firms (both tech startups and investment managers), and I serve on private-company boards.
 
-&nbsp; &nbsp; **And More.**  I'm insatiably curious, and a lifelong learner-doer.  In parallel with my professional adventures, I keep busy with lots of hobbies, pursuits, side-projects and weekend exploits.  I used to run a poem-a-day mail server in the late 90s with over 5000 subscribers.  I played tournament Scrabble and reached expert level (1600).  I used to hike and bike, but do less of that now.  I'm a solid tennis player (4.0), and getting into distance swimming and weight-training (kettlebells).  I volunteer.
+**And More.**  
+&nbsp; &nbsp; I'm insatiably curious, and a lifelong learner-doer.  In parallel with my professional adventures, I keep busy with lots of hobbies, pursuits, side-projects and weekend exploits.  I used to run a poem-a-day mail server in the late 90s with over 5000 subscribers.  I played tournament Scrabble and reached expert level (1600).  I used to hike and bike, but do less of that now.  I'm a solid tennis player (4.0), and getting into distance swimming and weight-training (kettlebells).  I volunteer.
 
-I'm a very good amateur photographer.  I have a large collection of tabletop (Euro-strategy) board games.  I listen to a vast range of music (but not the popular stuff I'm afraid).  I play multiple instruments, not very well.  I'm a really good cook.  I read non-stop, on everything under the sun.  I've travelled a bit, and even written a travel guide.  I think I'm unusually well-informed on a very wide range of topics: history, science, art, language, music, literature, you name it.  I'm interested in everything.
+&nbsp; &nbsp; I'm a very good amateur photographer.  I have a large collection of tabletop (Euro-strategy) board games.  I listen to a vast range of music (but not the popular stuff I'm afraid).  I play multiple instruments, not very well.  I'm a really good cook.  I read non-stop, on everything under the sun.  I've travelled a bit, and even written a travel guide.  I think I'm unusually well-informed on a very wide range of topics: history, science, art, language, music, literature, you name it.  I'm interested in everything.
 
-I currently live in Toronto with my family, 7000 books, and 3 pianos.  <span style="color: white;">Also, I know how to use an Oxford comma.</span>
+&nbsp; &nbsp; I currently live in Toronto with my family, 7000 books, and 3 pianos.  <span style="color: white;">Also, I know how to use an Oxford comma.</span>
 
 
 ----
