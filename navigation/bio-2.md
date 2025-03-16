@@ -28,9 +28,11 @@ Abraham has a B. Tech. from IIT Bombay.  He lives in Toronto, Canada.
 
 *Here's the longer and more interesting version:*
 
-&nbsp; &nbsp; **Childhood.** I was born in a small town in south India.  The formative experience of my childhood was this: at the age of 13, I spent 3 days in the hold of a cargo ship, escaping a war zone with nothing more than what I could carry in a backpack.  This gave me (what I think is) unusual levels of optimism, detachment, perspective, and risk tolerance.
+&nbsp; &nbsp; **Childhood.**  
+I was born in a small town in south India.  The formative experience of my childhood was this: at the age of 13, I spent 3 days in the hold of a cargo ship, escaping a war zone with nothing more than what I could carry in a backpack.  This gave me (what I think is) unusual levels of optimism, detachment, perspective, and risk tolerance.
 
-&nbsp; &nbsp; **School.** I graduated from high school as valedictorian and head boy.  I was on my school’s debate, quiz, math, soccer, track and basketball teams (captaining the first four), and won intramural and interscholastic (state, regional) competitions with all of them; I also edited the school magazine.  I did these for fun: extracurriculars don't count towards college admissions in India.
+&nbsp; &nbsp; **School.**  
+I graduated from high school as valedictorian and head boy.  I was on my school’s debate, quiz, math, soccer, track and basketball teams (captaining the first four), and won intramural and interscholastic (state, regional) competitions with all of them; I also edited the school magazine.  I did these for fun: extracurriculars don't count towards college admissions in India.
 
 I was subsequently accepted, via competitive exam, into India's top medical school AIIMS, as well as India's top engineering school IIT Bombay (<0.2% admit rates at each; non-overlapping exams!).  I chose to join the latter.
 
@@ -44,11 +46,11 @@ I was an excellent trader, and delivered strong absolute returns at a high Sharp
 
 &nbsp; &nbsp; **Quandl.** A few years later, I started Quandl with my friend and co-founder Tammer Kamel.  We set out to solve a well-known problem: there’s an enormous amount of valuable data in the world, but it’s fragmented and intractable: hard to find and hard to use.  We built technology to aggregate and harmonize millions of datasets from thousands of sources, all in a single data marketplace with a uniform, powerful API.
 
-Quandl pioneered the category of "alternative data for finance" -- datasets of great value to professional investors, but previously unused (and often unknown).  Our alt data was used by a majority of the world's top hedge funds, asset managers, fintechs, and investment banks, serving millions of downloads and powering billions in investment decisions. 
+&nbsp; &nbsp; Quandl pioneered the category of "alternative data for finance" -- datasets of great value to professional investors, but previously unused (and often unknown).  Our alt data was used by a majority of the world's top hedge funds, asset managers, fintechs, and investment banks, serving millions of downloads and powering billions in investment decisions. 
 
-I wore many hats at Quandl: heading all things data; raising $20M in venture capital from blue-chip Silicon Valley investors; managing (at various times) finance, marketing, sales and ops; recruiting and team-building; and perhaps most importantly, setting culture and vision.
+&nbsp; &nbsp; I wore many hats at Quandl: heading all things data; raising $20M in venture capital from blue-chip Silicon Valley investors; managing (at various times) finance, marketing, sales and ops; recruiting and team-building; and perhaps most importantly, setting culture and vision.
 
-Quandl was acquired by Nasdaq in 2018, in a substantial and successful exit.  Tammer and I stayed on to run the business for a while longer, before moving on.
+&nbsp; &nbsp; Quandl was acquired by Nasdaq in 2018, in a substantial and successful exit.  Tammer and I stayed on to run the business for a while longer, before moving on.
 
 &nbsp; &nbsp; **Free Agent.** I've been a free agent for the last few years.  I'm an active and successful angel investor in early-stage tech startups (40+ portfolio copmanies, 25% blended IRR, meaningful DPI).  I also write Pivotal, a highly-regarded newsletter on data, investing and startups, with over 5000 subscribers.  I advise a small and select group of firms (both tech startups and investment managers), and I serve on private-company boards.
 
