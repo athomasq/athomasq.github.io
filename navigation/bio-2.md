@@ -1,12 +1,31 @@
-I went from being a wartime refugee as a child, to a student leader in university, to a portfolio manager at a large hedge fund, to co-founder of a successful tech startup.  This is my story.
+---
+layout: default
+permalink: /:basename/
+title: Bio · Abraham Thomas
+---
+## My Story
+
+----
+
+*I went from being a wartime refugee as a child, to a student leader in university, to a portfolio manager at a large hedge fund, to co-founder of a successful tech startup.  This is my story.*
+
+---
+
+<br/>
 
 Here's the concise "professional profile" version:
 
+<i>
 Abraham Thomas is a private investor, board member, and advisor to technology companies and investment firms.  He's an expert on data assets and data businesses, and he writes the well-regarded Pivotal newsletter on those topics.  
 
 Abraham was previously the co-founder and chief data officer of Quandl, the leading "alternative data" provider in the world, now a Nasdaq company.  Before Quandl, Abraham was a senior portfolio manager at Simplex Asset Management, one of Asia's oldest and largest quant hedge funds, where he built one of the industry's first high-frequency-trading systems.  
 
 Abraham has a B. Tech. from IIT Bombay.  He lives in Toronto, Canada.
+</i>
+
+---
+
+<br/>
 
 Here's the longer and more interesting version:
 
@@ -36,12 +55,16 @@ Quandl was acquired by Nasdaq in 2018, in a substantial and successful exit.  Ta
 
 **And More.**  I'm insatiably curious, and a lifelong learner-doer.  In parallel with my professional adventures, I keep busy with lots of hobbies, pursuits, side-projects and weekend exploits.  I used to run a poem-a-day mail server in the late 90s with over 5000 subscribers.  I played tournament Scrabble and reached expert level (1600).  I used to hike and bike, but do less of that now.  I'm a solid tennis player (4.0), and getting into distance swimming and weight-training (kettlebells).  I volunteer.
 
-I'm a very good amateur photographer.  I have a large collection of tabletop (Euro-strategy) board games.  I listen to a vast range of music (but not the popular stuff I'm afraid).  I play multiple instruments, badly.  I read non-stop, on everything under the sun.  I've travelled a bit, and even written a travel guide.  I think I'm unusually well-informed on a very wide range of topics: history, science, art, language, music, literature, you name it.  I'm interested in everything.
+I'm a very good amateur photographer.  I have a large collection of tabletop (Euro-strategy) board games.  I listen to a vast range of music (but not the popular stuff I'm afraid).  I play multiple instruments, not very well.  I read non-stop, on everything under the sun.  I've travelled a bit, and even written a travel guide.  I think I'm unusually well-informed on a very wide range of topics: history, science, art, language, music, literature, you name it.  I'm interested in everything.
 
-I currently live in Toronto with my family, 7000 books, and 3 pianos.
+I currently live in Toronto with my family, 7000 books, and 3 pianos.  <span style="color: white;">Also, I know how to use an Oxford comma.</span>
 
 
+----
 
+<br/>
+<br/>
+<br/>
 
 
 <!--
