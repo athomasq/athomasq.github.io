@@ -50,7 +50,7 @@ title: Bio · Abraham Thomas
 **And More.**  
 &nbsp; &nbsp; I'm insatiably curious, and a lifelong learner-doer.  In parallel with my professional accomplishments, I keep busy with lots of hobbies, pursuits, side-projects and weekend adventures.  I used to run a poem-a-day mail server in the late 90s with over 5000 subscribers.  I played tournament Scrabble and reached expert level (1600).  I used to hike and bike, but do less of that now.  I'm a solid tennis player (4.0), and getting into distance swimming and weight-training (kettlebells).  I volunteer.
 
-&nbsp; &nbsp; I'm a very good amateur photographer.  I have a large collection of tabletop (Euro-strategy) board games.  I listen to a vast range of music (but not the popular stuff I'm afraid).  I play multiple instruments, not very well.  I'm an excellent cook.  I read non-stop, on everything under the sun.  I've travelled a bit.  I think I'm unusually well-informed on a very wide range of topics: history, science, art, language, music, literature, you name it.  I'm interested in everything.
+&nbsp; &nbsp; I'm a very good amateur photographer.  I have a large collection of tabletop (Euro-strategy) board games.  I listen to a vast range of music (but not the popular stuff I'm afraid).  I'm an excellent cook.  I read non-stop, on everything under the sun.  I've travelled a bit.  I think I'm unusually well-informed on a very wide range of topics: history, science, art, language, music, literature, you name it.  I'm interested in everything.
 
 &nbsp; &nbsp; I currently live in Toronto with my family, 7000 books, and 3 pianos.  <span style="color: white;">Also, I know how to use an Oxford comma.</span>
 
