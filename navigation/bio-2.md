@@ -28,29 +28,32 @@ Abraham has a B. Tech. from IIT Bombay.  He lives in Toronto, Canada.
 
 *Here's the longer and more interesting version:*
 
-&nbsp; &nbsp; **Childhood.**  
-I was born in a small town in south India.  The formative experience of my childhood was this: at the age of 13, I spent 3 days in the hold of a cargo ship, escaping a war zone with nothing more than what I could carry in a backpack.  This gave me (what I think is) unusual levels of optimism, detachment, perspective, and risk tolerance.
+**Childhood.**  
+&nbsp; &nbsp; I was born in a small town in south India.  The formative experience of my childhood was this: at the age of 13, I spent 3 days in the hold of a cargo ship, escaping a war zone with nothing more than what I could carry in a backpack.  This gave me (what I think is) unusual levels of optimism, detachment, perspective, and risk tolerance.
 
-&nbsp; &nbsp; **School.**  
-I graduated from high school as valedictorian and head boy.  I was on my school’s debate, quiz, math, soccer, track and basketball teams (captaining the first four), and won intramural and interscholastic (state, regional) competitions with all of them; I also edited the school magazine.  I did these for fun: extracurriculars don't count towards college admissions in India.
+**School.**  
+&nbsp; &nbsp; I graduated from high school as valedictorian and head boy.  I was on my school’s debate, quiz, math, soccer, track and basketball teams (captaining the first four), and won intramural and interscholastic (state, regional) competitions with all of them; I also edited the school magazine.  I did these for fun: extracurriculars don't count towards college admissions in India.
 
-I was subsequently accepted, via competitive exam, into India's top medical school AIIMS, as well as India's top engineering school IIT Bombay (<0.2% admit rates at each; non-overlapping exams!).  I chose to join the latter.
+&nbsp; &nbsp; I was subsequently accepted, via competitive exam, into India's top medical school AIIMS, as well as India's top engineering school IIT Bombay (<0.2% admit rates at each; non-overlapping exams!).  I chose to join the latter.
 
-&nbsp; &nbsp; **IIT.** I graduated from IIT Bombay with a B.Tech. in Engineering Physics.  While at IIT-B, I was elected Institute General Secretary (GSHA -- the highest post in student government) with a record number of votes, and served as the student rep on IIT-B's Senate. I captained IIT-B's quiz, debate and literary teams, and won many intercollegiate and national competitions. I was also very active in competitive intramurals, and won a bunch of awards including the institute's "Roll of Honour".
+**IIT.**  
+&nbsp; &nbsp; I graduated from IIT Bombay with a B.Tech. in Engineering Physics.  While at IIT-B, I was elected Institute General Secretary (GSHA -- the highest post in student government) with a record number of votes, and served as the student rep on IIT-B's Senate. I captained IIT-B's quiz, debate and literary teams, and won many intercollegiate and national competitions. I was also very active in competitive intramurals, and won a bunch of awards including the institute's "Roll of Honour".
 
-I realized that a career in physics academia was not for me.  After graduating, I was accepted into India's top business school IIM-A (I believe I ranked #1 in the entrance exam; <0.2% acceptance rate again), but decided not to go.  Instead, I joined a Japanese hedge fund, Simplex Asset Management.
+&nbsp; &nbsp; I realized that a career in physics academia was not for me.  After graduating, I was accepted into India's top business school IIM-A (I believe I ranked #1 in the entrance exam; <0.2% acceptance rate again), but decided not to go.  Instead, I joined a Japanese hedge fund, Simplex Asset Management.
 
-&nbsp; &nbsp; **Simplex.** Simplex, headquartered in Tokyo, is one of Asia's oldest and largest quant hedge funds, with several billion dollars under management.  I joined them as employee #7, and helped build most of their core trading systems.  I started as a programmer and quant analyst, then became a junior trader, and eventually, senior portfolio manager and head of all non-Japan investments.  While at Simplex, I built one of the earliest high-frequency-trading systems in the industry, for automated quant trading of the US Treasury market. 
+&nbsp; &nbsp; **Simplex.**  
+Simplex, headquartered in Tokyo, is one of Asia's oldest and largest quant hedge funds, with several billion dollars under management.  I joined them as employee #7, and helped build most of their core trading systems.  I started as a programmer and quant analyst, then became a junior trader, and eventually, senior portfolio manager and head of all non-Japan investments.  While at Simplex, I built one of the earliest high-frequency-trading systems in the industry, for automated quant trading of the US Treasury market. 
 
 I was an excellent trader, and delivered strong absolute returns at a high Sharpe ratio.  My best trade at Simplex was my last one: I exited all my positions at the high-water mark in 2007, just before the global financial crisis of 2008.  I then quit my hedge fund job and moved to Toronto, looking for new challenges.
 
-&nbsp; &nbsp; **Quandl.** A few years later, I started Quandl with my friend and co-founder Tammer Kamel.  We set out to solve a well-known problem: there’s an enormous amount of valuable data in the world, but it’s fragmented and intractable: hard to find and hard to use.  We built technology to aggregate and harmonize millions of datasets from thousands of sources, all in a single data marketplace with a uniform, powerful API.
+&nbsp; &nbsp; **Quandl.**  
+A few years later, I started Quandl with my friend and co-founder Tammer Kamel.  We set out to solve a well-known problem: there’s an enormous amount of valuable data in the world, but it’s fragmented and intractable: hard to find and hard to use.  We built technology to aggregate and harmonize millions of datasets from thousands of sources, all in a single data marketplace with a uniform, powerful API.
 
-&nbsp; &nbsp; Quandl pioneered the category of "alternative data for finance" -- datasets of great value to professional investors, but previously unused (and often unknown).  Our alt data was used by a majority of the world's top hedge funds, asset managers, fintechs, and investment banks, serving millions of downloads and powering billions in investment decisions. 
+Quandl pioneered the category of "alternative data for finance" -- datasets of great value to professional investors, but previously unused (and often unknown).  Our alt data was used by a majority of the world's top hedge funds, asset managers, fintechs, and investment banks, serving millions of downloads and powering billions in investment decisions. 
 
-&nbsp; &nbsp; I wore many hats at Quandl: heading all things data; raising $20M in venture capital from blue-chip Silicon Valley investors; managing (at various times) finance, marketing, sales and ops; recruiting and team-building; and perhaps most importantly, setting culture and vision.
+I wore many hats at Quandl: heading all things data; raising $20M in venture capital from blue-chip Silicon Valley investors; managing (at various times) finance, marketing, sales and ops; recruiting and team-building; and perhaps most importantly, setting culture and vision.
 
-&nbsp; &nbsp; Quandl was acquired by Nasdaq in 2018, in a substantial and successful exit.  Tammer and I stayed on to run the business for a while longer, before moving on.
+Quandl was acquired by Nasdaq in 2018, in a substantial and successful exit.  Tammer and I stayed on to run the business for a while longer, before moving on.
 
 &nbsp; &nbsp; **Free Agent.** I've been a free agent for the last few years.  I'm an active and successful angel investor in early-stage tech startups (40+ portfolio copmanies, 25% blended IRR, meaningful DPI).  I also write Pivotal, a highly-regarded newsletter on data, investing and startups, with over 5000 subscribers.  I advise a small and select group of firms (both tech startups and investment managers), and I serve on private-company boards.
 
