@@ -12,21 +12,25 @@ title: Investing · Abraham Thomas
 
 I'm an active angel investor in early-stage tech startups. 
 
-🌱 **For founders:**
-* [What I invest in](/angel-criteria)  
-* [How to pitch me](/pitch-me)  
-* [Founder testimonials](/testimonials)  
-* [Why work with me](/why-me)  
+🌱 **For Founders:**
+* [What I Invest In](/angel-criteria)  
+* [How To Pitch Me](/pitch-me)  
+* [Founder Testimonials](/testimonials)  
+* [Why Work With Me](/why-me)  
 <!--* * [Memos and resources](/memos)  -->
 
+🚀 **For Others:**
+* [Portfolio Companies](/portfolio-companies)
+* [Portfolio Statistics](/portfolio-statistics)
+* <a href="https://venture.angellist.com/abraham-thomas/syndicate" target="_blank" rel="noopener noreferrer">Investment Syndicate</a>
 
-🚀 **For others:**
-* [Portfolio companies](/portfolio-companies)
-* [Portfolio statistics](/portfolio-statistics)
-* [My investment syndicate](https://venture.angellist.com/abraham-thomas/syndicate)
 <!--* [Co-investing with me](/coinvest)-->
 <!--* [Investment themes and ideas](/thesis)-->
 <!--* Investment memos-->
+
+🌎 **Essays on Venture Capital:**
+* [Minsky Moments in Venture Capital](https://pivotal.substack.com/p/minsky-moments-in-venture-capital)  
+* [Making Markets in Time](https://pivotal.substack.com/p/making-markets-in-time)  
 
 I welcome cold emails: **at@abrahamthomas.info**
 
