@@ -11,19 +11,41 @@ title: Writing · Abraham Thomas
 <br/>
 
 
-|**2022:**|[The Economics of Data Businesses](https://pivotal.substack.com/p/economics-of-data-biz)|
-||[Minsky Moments in Venture Capital](https://pivotal.substack.com/p/minsky-moments-in-venture-capital)|
-|**2023:**|[The Perils of Prudence](https://pivotal.substack.com/p/the-perils-of-prudence)|
-||[Data in the Age of AI](https://pivotal.substack.com/p/data-in-the-age-of-ai)|
-||[The Worst Outcome is a Mediocre Success](https://pivotal.substack.com/p/data-in-the-age-of-ai)|
-||[Strong Opinions, Weakly Held](https://pivotal.substack.com/p/strong-opinions-weakly-held)|
-|**2024:**|[How to Price a Data Asset](https://pivotal.substack.com/p/how-to-price-a-data-asset)|
-||[Ahead of the (Yield) Curve](https://pivotal.substack.com/p/ahead-of-the-yield-curve)|
-|**2025:**|[Silicon Valley and the Invention of Temporal Arbitrage](https://pivotal.substack.com/p/making-markets-in-time)|
+**2022:**  
+[The Economics of Data Businesses](https://pivotal.substack.com/p/economics-of-data-biz)  
+[Minsky Moments in Venture Capital](https://pivotal.substack.com/p/minsky-moments-in-venture-capital)  
+
+**2023:**  
+[The Perils of Prudence](https://pivotal.substack.com/p/the-perils-of-prudence)  
+[The Worst Outcome is a Mediocre Success](https://pivotal.substack.com/p/data-in-the-age-of-ai)  
+[Strong Opinions, Weakly Held](https://pivotal.substack.com/p/strong-opinions-weakly-held)  
+
+*2024:*  
+[How to Price a Data Asset](https://pivotal.substack.com/p/how-to-price-a-data-asset)  
+[Ahead of the (Yield) Curve](https://pivotal.substack.com/p/ahead-of-the-yield-curve)  
+
+**2025:**  
+[Silicon Valley and the Invention of Temporal Arbitrage](https://pivotal.substack.com/p/making-markets-in-time)  
 
 
 <br/>
 <br/>
+
+
+### Essays
+
+<span style="color:#A9A9A9;">2022-01</span> &emsp;&emsp;&emsp; [The Economics of Data Businesses](https://pivotal.substack.com/p/economics-of-data-biz)   
+<span style="color:#A9A9A9;">2022-02</span> &emsp;&emsp;&emsp; [Minsky Moments in Venture Capital](https://pivotal.substack.com/p/minsky-moments-in-venture-capital)  
+<span style="color:#A9A9A9;">2023-01</span> &emsp;&emsp;&emsp; [The Perils of Prudence](https://pivotal.substack.com/p/the-perils-of-prudence)  
+<span style="color:#A9A9A9;">2023-05</span> &emsp;&emsp;&emsp; [The Worst Outcome is a Mediocre Success](https://pivotal.substack.com/p/data-in-the-age-of-ai)  
+<span style="color:#A9A9A9;">2023-09</span> &emsp;&emsp;&emsp; [Strong Opinions, Weakly Held](https://pivotal.substack.com/p/strong-opinions-weakly-held)     
+<span style="color:#A9A9A9;">2024-05</span> &emsp;&emsp;&emsp; [How to Price a Data Asset](https://pivotal.substack.com/p/how-to-price-a-data-asset)  
+<span style="color:#A9A9A9;">2024-12</span> &emsp;&emsp;&emsp; [Ahead of the (Yield) Curve](https://pivotal.substack.com/p/ahead-of-the-yield-curve)  
+<span style="color:#A9A9A9;">2025-01</span> &emsp;&emsp;&emsp; [Silicon Valley and the Invention of Temporal Arbitrage](https://pivotal.substack.com/p/making-markets-in-time)  
+
+
+
+
 <br/>
 
 
