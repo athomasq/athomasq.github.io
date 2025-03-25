@@ -10,68 +10,97 @@ title: Writing · Abraham Thomas
 
 <br/>
 
-Regular markdown text
+### 📜 Essays
 
-<div style="line-height: 1.6;">
+**Data:**  
+* [The Economics of Data Businesses](https://pivotal.substack.com/p/economics-of-data-biz)  
+* [Data in the Age of AI](https://pivotal.substack.com/p/data-in-the-age-of-ai)   
+* [How to Price a Data Asset](https://pivotal.substack.com/p/how-to-price-a-data-asset)  
 
-This content will have custom line spacing.
-
-You can include multiple paragraphs or other markdown elements inside.
-
-</div>
-
-
-**2022:**  
-[The Economics of Data Businesses](https://pivotal.substack.com/p/economics-of-data-biz)  
-[Minsky Moments in Venture Capital](https://pivotal.substack.com/p/minsky-moments-in-venture-capital)  
-
-**2023:**  
-[The Perils of Prudence](https://pivotal.substack.com/p/the-perils-of-prudence)  
-[The Worst Outcome is a Mediocre Success](https://pivotal.substack.com/p/data-in-the-age-of-ai)  
-[Strong Opinions, Weakly Held](https://pivotal.substack.com/p/strong-opinions-weakly-held)  
-
-*2024:*  
-[How to Price a Data Asset](https://pivotal.substack.com/p/how-to-price-a-data-asset)  
-[Ahead of the (Yield) Curve](https://pivotal.substack.com/p/ahead-of-the-yield-curve)  
-
-**2025:**  
-[Silicon Valley and the Invention of Temporal Arbitrage](https://pivotal.substack.com/p/making-markets-in-time)  
+**Investing:**  
+* [Minsky Moments in Venture Capital](https://pivotal.substack.com/p/minsky-moments-in-venture-capital)  
+* [Making Markets in Time](https://pivotal.substack.com/p/making-markets-in-time)  
+* [Ahead of the (Yield) Curve](https://pivotal.substack.com/p/ahead-of-the-yield-curve)  
 
 
-<br/>
-<br/>
+**Startups:**  
+* [The Perils of Prudence](https://pivotal.substack.com/p/the-perils-of-prudence)  
 
 
-### Essays
-
-<span style="color:#A9A9A9;">2022</span> &emsp;&emsp;&emsp; [The Economics of Data Businesses](https://pivotal.substack.com/p/economics-of-data-biz)   
-<span style="color:#FFFFFF;">2022</span> &emsp;&emsp;&emsp; [Minsky Moments in Venture Capital](https://pivotal.substack.com/p/minsky-moments-in-venture-capital)  
-<span style="color:#A9A9A9;">2023</span> &emsp;&emsp;&emsp; [The Perils of Prudence](https://pivotal.substack.com/p/the-perils-of-prudence)  
-<span style="color:#FFFFFF;">2023</span> &emsp;&emsp;&emsp; [The Worst Outcome is a Mediocre Success](https://pivotal.substack.com/p/data-in-the-age-of-ai)  
-<span style="color:#FFFFFF;">2023</span> &emsp;&emsp;&emsp; [Strong Opinions, Weakly Held](https://pivotal.substack.com/p/strong-opinions-weakly-held)     
-<span style="color:#A9A9A9;">2024</span> &emsp;&emsp;&emsp; [How to Price a Data Asset](https://pivotal.substack.com/p/how-to-price-a-data-asset)  
-<span style="color:#FFFFFF;">2024</span> &emsp;&emsp;&emsp; [Ahead of the (Yield) Curve](https://pivotal.substack.com/p/ahead-of-the-yield-curve)  
-<span style="color:#A9A9A9;">2025</span> &emsp;&emsp;&emsp; [Silicon Valley and the Invention of Temporal Arbitrage](https://pivotal.substack.com/p/making-markets-in-time)  
+**Other:**  
+* [The Worst Outcome is a Mediocre Success](https://pivotal.substack.com/p/data-in-the-age-of-ai)  
+* [Strong Opinions, Weakly Held](https://pivotal.substack.com/p/strong-opinions-weakly-held)  
 
 
+Subscribe to [Pivotal](https://pivotal.substack.com/about to receive my longform essays in your inbox (free, infrequent, good).
 
+----
 
 <br/>
 
 
-<div style="line-height: 1.5;">
+### 🗞️ Blog
 
-### Essays
-<span style="color:#A9A9A9;">2022</span> &emsp;&emsp;&emsp; [The Economics of Data Businesses](https://pivotal.substack.com/p/economics-of-data-biz)   
-<span style="color:#FFFFFF;">2022</span> &emsp;&emsp;&emsp; [Minsky Moments in Venture Capital](https://pivotal.substack.com/p/minsky-moments-in-venture-capital)  
-<span style="color:#A9A9A9;">2023</span> &emsp;&emsp;&emsp; [The Perils of Prudence](https://pivotal.substack.com/p/the-perils-of-prudence)  
-<span style="color:#FFFFFF;">2023</span> &emsp;&emsp;&emsp; [The Worst Outcome is a Mediocre Success](https://pivotal.substack.com/p/data-in-the-age-of-ai)  
-<span style="color:#FFFFFF;">2023</span> &emsp;&emsp;&emsp; [Strong Opinions, Weakly Held](https://pivotal.substack.com/p/strong-opinions-weakly-held)     
-<span style="color:#A9A9A9;">2024</span> &emsp;&emsp;&emsp; [How to Price a Data Asset](https://pivotal.substack.com/p/how-to-price-a-data-asset)  
-<span style="color:#FFFFFF;">2024</span> &emsp;&emsp;&emsp; [Ahead of the (Yield) Curve](https://pivotal.substack.com/p/ahead-of-the-yield-curve)  
-<span style="color:#A9A9A9;">2025</span> &emsp;&emsp;&emsp; [Silicon Valley and the Invention of Temporal Arbitrage](https://pivotal.substack.com/p/making-markets-in-time)
 
-</div>
+**2025-01**
+
+* [Keep Your Own Counsel](/blog#ixof)  
+* [Hello World!](/blog#ydhr)  
+
+See all blog posts here.
+
+----
+
+<br/>
+
+
+### 📝 Memos
+
+* [Writing Investor Updates](/writing-investor-updates)   
+* [Timing Your Next Round](/timing-your-next-round)  
+
+See all founder memos here.
+
+----
+
+<br/>
+
+### 🧵 Threads
+
+* [Invasion!](/invasion)    
+* [Alfred Winslow Jones](/alfred-winslow-jones)    
+* [Silk Ties and Suckers](/silk-ties)  
+
+See all Twitter/X threads here.
+
+----
+
+<br/>
+<br/>
+<br/>
+
+<!--  
+<span style="color:#A9A9A9;">2024-10-08</span> &emsp; [Non-Obvious Mistakes](/blog#uftu)    
+<span style="color:#A9A9A9;">2024-10-02</span> &emsp; [Quick Takes #1](/blog#cbqa)    
+<span style="color:#A9A9A9;">2024-10-01</span> &emsp; [Blogosophy](/blog#akid)   
+<span style="color:#A9A9A9;">2024-09-30</span> &emsp; [More on Exits](/blog#lllv)  
+<span style="color:#A9A9A9;">2024-09-28</span> &emsp; [Unicorns in Capital Markets](/blog#lrby)  
+<span style="color:#A9A9A9;">2024-09-24</span> &emsp; [Don't Mention the Raj!](/blog#nzku)  
+<span style="color:#A9A9A9;">2024-09-20</span> &emsp; [Bad Analysis](/blog#lzaa)  
+<span style="color:#A9A9A9;">2024-09-12</span> &emsp; [Free Growth: Bug or Feature?](/blog#cxpa)  
+<span style="color:#A9A9A9;">2024-09-08</span> &emsp; [Oh McKinsey](/blog#spsy)  
+<span style="color:#A9A9A9;">2024-09-05</span> &emsp; [What Will Open the Floodgates?](/blog#zhpi)  
+<span style="color:#A9A9A9;">2024-08-31</span> &emsp; [On Asshole Founders](/blog#etui)  
+<span style="color:#A9A9A9;">2024-08-28</span> &emsp; [A Mental Model for VC Rounds](/blog#alzh)  
+<span style="color:#A9A9A9;">2024-08-27</span> &emsp; [How Much Should I Raise?](/blog#ksqo)  
+<span style="color:#A9A9A9;">2024-08-24</span> &emsp; [Keep Your Own Counsel](/blog#ixof)  
+<span style="color:#A9A9A9;">2024-08-22</span> &emsp; [Hello World!](/blog#ydhr)  
+-->
+
+<br/>
+
+
+
 
 <!-- 
 
