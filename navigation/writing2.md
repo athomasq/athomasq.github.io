@@ -18,6 +18,7 @@ This content will have custom line spacing.
 
 You can include multiple paragraphs or other markdown elements inside.
 
+</div>
 
 
 **2022:**  
@@ -52,7 +53,7 @@ You can include multiple paragraphs or other markdown elements inside.
 <span style="color:#FFFFFF;">2024</span> &emsp;&emsp;&emsp; [Ahead of the (Yield) Curve](https://pivotal.substack.com/p/ahead-of-the-yield-curve)  
 <span style="color:#A9A9A9;">2025</span> &emsp;&emsp;&emsp; [Silicon Valley and the Invention of Temporal Arbitrage](https://pivotal.substack.com/p/making-markets-in-time)  
 
-</div>
+
 
 
 <br/>
