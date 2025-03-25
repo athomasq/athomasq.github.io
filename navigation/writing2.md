@@ -10,6 +10,15 @@ title: Writing · Abraham Thomas
 
 <br/>
 
+Regular markdown text
+
+<div style="line-height: 1.6;">
+
+This content will have custom line spacing.
+
+You can include multiple paragraphs or other markdown elements inside.
+
+
 
 **2022:**  
 [The Economics of Data Businesses](https://pivotal.substack.com/p/economics-of-data-biz)  
@@ -43,7 +52,7 @@ title: Writing · Abraham Thomas
 <span style="color:#FFFFFF;">2024</span> &emsp;&emsp;&emsp; [Ahead of the (Yield) Curve](https://pivotal.substack.com/p/ahead-of-the-yield-curve)  
 <span style="color:#A9A9A9;">2025</span> &emsp;&emsp;&emsp; [Silicon Valley and the Invention of Temporal Arbitrage](https://pivotal.substack.com/p/making-markets-in-time)  
 
-
+</div>
 
 
 <br/>
