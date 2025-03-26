@@ -21,16 +21,18 @@ I'm an active angel investor in early-stage tech startups.
 
 🚀 **For Others:**
 * [Portfolio Companies](/portfolio-companies)
-* [Portfolio Statistics](/portfolio-statistics)
+* [Portfolio Performance](/portfolio-statistics)
 * <a href="https://venture.angellist.com/abraham-thomas/syndicate" target="_blank" rel="noopener noreferrer">Investment Syndicate</a>
 
 <!--* [Co-investing with me](/coinvest)-->
 <!--* [Investment themes and ideas](/thesis)-->
 <!--* Investment memos-->
 
-🌎 **Essays on Venture Capital:**
+🌎 **Essays on Venture Capital and Quant Investing:**
 * [Minsky Moments in Venture Capital](https://pivotal.substack.com/p/minsky-moments-in-venture-capital)  
 * [Making Markets in Time](https://pivotal.substack.com/p/making-markets-in-time)  
+* [Ahead of the Yield Curve](https://pivotal.substack.com/p/ahead-of-the-yield-curve)  
+* [The Accidental Investor](/the-accidental-investor)  
 
 I welcome cold emails: **at@abrahamthomas.info**
 
