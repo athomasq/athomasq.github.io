@@ -14,7 +14,7 @@ title: Writing · Abraham Thomas
 
 <br/>
 
-<h3 id="essays">Essays</h3>
+<h3 id="essays">Essays ([...](https://pivotal.substack.com/about))</h3>
 
 * [The Economics of Data Businesses](https://pivotal.substack.com/p/economics-of-data-biz)  
 * [Minsky Moments in Venture Capital](https://pivotal.substack.com/p/minsky-moments-in-venture-capital)  
