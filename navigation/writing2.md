@@ -9,7 +9,7 @@ title: Writing · Abraham Thomas
 ----
 
 
-[Essays](/writing#essays) &emsp;&emsp; · &emsp;&emsp; [Blog](/writing#blog)
+[Essays](/writing2#essays) &emsp;&emsp; · &emsp;&emsp; [Blog](/writing2#blog) &emsp;&emsp; · &emsp;&emsp; [Memos](/writing2#memos) &emsp;&emsp; · &emsp;&emsp; [Threads](/writing2#threads)&emsp;&emsp; · &emsp;&emsp; [More](/writing2#more)
 
 
 <br/>
@@ -36,9 +36,6 @@ title: Writing · Abraham Thomas
 
 <h3 id="blog">Blog</h3>
 
-
-**2025-01**
-
 * [Keep Your Own Counsel](/blog#ixof)  
 * [Hello World!](/blog#ydhr)  
 
@@ -49,24 +46,33 @@ title: Writing · Abraham Thomas
 <br/>
 
 
-### 📝 Memos
+<h3 id="memos">Memos</h3>
 
 * [Writing Investor Updates](/writing-investor-updates)   
 * [Timing Your Next Round](/timing-your-next-round)  
 
-See all founder memos here.
+[More...](/memos)
 
 ----
 
 <br/>
 
-### 🧵 Threads
+<h3 id="threads">Threads</h3>
 
 * [Invasion!](/invasion)    
 * [Alfred Winslow Jones](/alfred-winslow-jones)    
 * [Silk Ties and Suckers](/silk-ties)  
 
-See all Twitter/X threads here.
+[More...](/threads)
+
+----
+
+<br/>
+
+<h3 id="more">More</h3>
+
+* [Japan](https://abrahamthomas.gumroad.com/l/wwrni)    
+
 
 ----
 
