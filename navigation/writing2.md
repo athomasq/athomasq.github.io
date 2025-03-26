@@ -8,6 +8,22 @@ title: Writing · Abraham Thomas
 
 ----
 
+<br/> 
+
+
+* [Essays](/essays) &larr; **start here!**  
+* [Blog](/blog)  
+* [Founder memos](/memos)
+* [Threads](/threads)
+* [Miscellany](/miscellany)
+
+
+
+<br/> 
+<br/> 
+<br/> 
+
+<!--
 
 [Essays](/writing2#essays) &emsp;&emsp; · &emsp;&emsp; [Blog](/writing2#blog) &emsp;&emsp; · &emsp;&emsp; [Memos](/writing2#memos) &emsp;&emsp; · &emsp;&emsp; [Threads](/writing2#threads)&emsp;&emsp; · &emsp;&emsp; [Misc](/writing2#misc)
 
@@ -61,6 +77,8 @@ title: Writing · Abraham Thomas
 <br/>
 <br/>
 <br/>
+
+-->
 
 <!--  
 <span style="color:#A9A9A9;">2024-10-08</span> &emsp; [Non-Obvious Mistakes](/blog#uftu)    
