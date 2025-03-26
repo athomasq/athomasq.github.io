@@ -7,6 +7,8 @@ title: Bio · Abraham Thomas
 
 ----
 
+<br/>
+
 *I went from being a wartime refugee as a child, to a student leader in university, to a portfolio manager at a large hedge fund, to co-founder of a successful tech startup.  This is my story.*
 
 *(Click [here](/blurb) for the concise "professional" version.)*
