@@ -27,31 +27,19 @@ title: Writing · Abraham Thomas
 * [Making Markets in Time](https://pivotal.substack.com/p/making-markets-in-time)  
 
 
-[More...](https://pivotal.substack.com/about)
-
-----
-
 <br/>
 
-
-<h3 id="blog">Blog</h3>
+<h3 id="blog">Blog (<a href="https://abrahamthomas.info/blog">...</a>)</h3>
 
 * [Keep Your Own Counsel](/blog#ixof)  
 * [Hello World!](/blog#ydhr)  
 
-[More...](/blog)
-
-----
-
 <br/>
-
 
 <h3 id="memos">Memos</h3>
 
 * [Writing Investor Updates](/writing-investor-updates)   
 * [Timing Your Next Round](/timing-your-next-round)  
-
-----
 
 <br/>
 
@@ -60,8 +48,6 @@ title: Writing · Abraham Thomas
 * [Invasion!](/invasion)    
 * [Alfred Winslow Jones](/alfred-winslow-jones)    
 * [Silk Ties and Suckers](/silk-ties)  
-
-----
 
 <br/>
 
