@@ -9,7 +9,7 @@ title: Writing · Abraham Thomas
 ----
 
 
-[Essays](/writing2#essays) &emsp;&emsp; · &emsp;&emsp; [Blog](/writing2#blog) &emsp;&emsp; · &emsp;&emsp; [Memos](/writing2#memos) &emsp;&emsp; · &emsp;&emsp; [Threads](/writing2#threads)&emsp;&emsp; · &emsp;&emsp; [More](/writing2#more)
+[Essays](/writing2#essays) &emsp;&emsp; · &emsp;&emsp; [Blog](/writing2#blog) &emsp;&emsp; · &emsp;&emsp; [Memos](/writing2#memos) &emsp;&emsp; · &emsp;&emsp; [Threads](/writing2#threads)&emsp;&emsp; · &emsp;&emsp; [Misc](/writing2#misc)
 
 
 <br/>
@@ -51,8 +51,6 @@ title: Writing · Abraham Thomas
 * [Writing Investor Updates](/writing-investor-updates)   
 * [Timing Your Next Round](/timing-your-next-round)  
 
-[More...](/memos)
-
 ----
 
 <br/>
@@ -63,13 +61,11 @@ title: Writing · Abraham Thomas
 * [Alfred Winslow Jones](/alfred-winslow-jones)    
 * [Silk Ties and Suckers](/silk-ties)  
 
-[More...](/threads)
-
 ----
 
 <br/>
 
-<h3 id="more">More</h3>
+<h3 id="misc">Misc</h3>
 
 * [Japan](https://abrahamthomas.gumroad.com/l/wwrni)    
 
