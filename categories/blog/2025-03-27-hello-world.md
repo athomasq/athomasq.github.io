@@ -4,8 +4,9 @@ permalink: /blog/:basename
 title: Hello World!
 ---
 
-<i> <span style="color:#A9A9A9;"> 2025-03-27 </span> </i>  
 ## Hello World!
+
+----
 
 <br/>
 
