@@ -8,29 +8,99 @@ title: Writing · Abraham Thomas
 
 ----
 
+<br/> 
+
+
+* [Essays](/essays) &larr; **start here!**  
+* Blog
+* Memos
+* Threads
+* Miscellany
+
+
+
+<br/> 
+<br/> 
+<br/> 
+
+<!--
+
+[Essays](/writing2#essays) &emsp;&emsp; · &emsp;&emsp; [Blog](/writing2#blog) &emsp;&emsp; · &emsp;&emsp; [Memos](/writing2#memos) &emsp;&emsp; · &emsp;&emsp; [Threads](/writing2#threads)&emsp;&emsp; · &emsp;&emsp; [Misc](/writing2#misc)
+
+
 <br/>
 
-**2022:**  
+<h3 id="essays">Essays (<a href="https://pivotal.substack.com/about">...</a>)</h3>
+
 * [The Economics of Data Businesses](https://pivotal.substack.com/p/economics-of-data-biz)  
 * [Minsky Moments in Venture Capital](https://pivotal.substack.com/p/minsky-moments-in-venture-capital)  
-
-**2023:**  
 * [The Perils of Prudence](https://pivotal.substack.com/p/the-perils-of-prudence)  
 * [Data in the Age of AI](https://pivotal.substack.com/p/data-in-the-age-of-ai)   
 * [The Worst Outcome is a Mediocre Success](https://pivotal.substack.com/p/data-in-the-age-of-ai)  
 * [Strong Opinions, Weakly Held](https://pivotal.substack.com/p/strong-opinions-weakly-held)  
-
-**2024:**  
 * [How to Price a Data Asset](https://pivotal.substack.com/p/how-to-price-a-data-asset)  
 * [Ahead of the (Yield) Curve](https://pivotal.substack.com/p/ahead-of-the-yield-curve)  
+* [Making Markets in Time](https://pivotal.substack.com/p/making-markets-in-time)  
 
-**2025:**  
-* [Silicon Valley and the Invention of Temporal Arbitrage](https://pivotal.substack.com/p/making-markets-in-time)  
 
+<br/>
+
+<h3 id="blog">Blog (<a href="https://abrahamthomas.info/blog">...</a>)</h3>
+
+* [Keep Your Own Counsel](/blog#ixof)  
+* [Hello World!](/blog#ydhr)  
+
+<br/>
+
+<h3 id="memos">Memos</h3>
+
+* [Writing Investor Updates](/writing-investor-updates)   
+* [Timing Your Next Round](/timing-your-next-round)  
+
+<br/>
+
+<h3 id="threads">Threads</h3>
+
+* [Invasion!](/invasion)    
+* [Alfred Winslow Jones](/alfred-winslow-jones)    
+* [Silk Ties and Suckers](/silk-ties)  
+
+<br/>
+
+<h3 id="misc">Misc</h3>
+
+* [Japan](https://abrahamthomas.gumroad.com/l/wwrni)    
+
+
+----
 
 <br/>
 <br/>
 <br/>
+
+-->
+
+<!--  
+<span style="color:#A9A9A9;">2024-10-08</span> &emsp; [Non-Obvious Mistakes](/blog#uftu)    
+<span style="color:#A9A9A9;">2024-10-02</span> &emsp; [Quick Takes #1](/blog#cbqa)    
+<span style="color:#A9A9A9;">2024-10-01</span> &emsp; [Blogosophy](/blog#akid)   
+<span style="color:#A9A9A9;">2024-09-30</span> &emsp; [More on Exits](/blog#lllv)  
+<span style="color:#A9A9A9;">2024-09-28</span> &emsp; [Unicorns in Capital Markets](/blog#lrby)  
+<span style="color:#A9A9A9;">2024-09-24</span> &emsp; [Don't Mention the Raj!](/blog#nzku)  
+<span style="color:#A9A9A9;">2024-09-20</span> &emsp; [Bad Analysis](/blog#lzaa)  
+<span style="color:#A9A9A9;">2024-09-12</span> &emsp; [Free Growth: Bug or Feature?](/blog#cxpa)  
+<span style="color:#A9A9A9;">2024-09-08</span> &emsp; [Oh McKinsey](/blog#spsy)  
+<span style="color:#A9A9A9;">2024-09-05</span> &emsp; [What Will Open the Floodgates?](/blog#zhpi)  
+<span style="color:#A9A9A9;">2024-08-31</span> &emsp; [On Asshole Founders](/blog#etui)  
+<span style="color:#A9A9A9;">2024-08-28</span> &emsp; [A Mental Model for VC Rounds](/blog#alzh)  
+<span style="color:#A9A9A9;">2024-08-27</span> &emsp; [How Much Should I Raise?](/blog#ksqo)  
+<span style="color:#A9A9A9;">2024-08-24</span> &emsp; [Keep Your Own Counsel](/blog#ixof)  
+<span style="color:#A9A9A9;">2024-08-22</span> &emsp; [Hello World!](/blog#ydhr)  
+-->
+
+<br/>
+
+
 
 
 <!-- 
