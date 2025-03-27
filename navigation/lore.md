@@ -40,7 +40,8 @@ title: Lore · Abraham Thomas
 
 ---
 
-*This is the 4chan version of my bio. You can also read the [professional version](/bio) or the [memoir version](/story).*
+*This is the 4chan version of my bio.  
+You can also read the [professional version](/bio) or the [memoir version](/story).*
 
 <br/>
 <br/>
