@@ -9,9 +9,9 @@ title: Bio · Abraham Thomas
 
 <br/>
 
-Abraham Thomas is a private investor, board member, and advisor to technology companies and investment firms.  He's an expert on data assets and data businesses, and he writes the well-regarded Pivotal newsletter on those topics.  
+Abraham Thomas is a private investor, board member, and advisor to technology companies and investment firms.  He's an expert on data, data assets and data businesses, and he writes the highly-regarded newsletter [Pivotal](https://pivotal.substack.com/about) on those topics.  
 
-Abraham was previously the co-founder and chief data officer of Quandl, the leading "alternative data" provider in the world, now a Nasdaq company.  Before Quandl, Abraham was a senior portfolio manager at Simplex Asset Management, one of Asia's oldest and largest quant hedge funds, where he built one of the industry's first high-frequency-trading systems.  
+Abraham was previously the co-founder and chief data officer of Quandl, the firm that pioneered "alternative data" for capital markets, now a Nasdaq company.  Before Quandl, Abraham was a senior portfolio manager at Simplex Asset Management, one of Asia's oldest and largest quant hedge funds, where he built one of the industry's first high-frequency-trading systems.  
 
 Abraham has a B. Tech. from IIT Bombay.  He lives in Toronto, Canada.
 
