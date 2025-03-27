@@ -10,6 +10,7 @@ title: Writing · Abraham Thomas
 
 <br/> 
 
+<meta http-equiv="Refresh" content="0; url=https://abrahamthomas.info/essays" />
 
 * [Essays](/essays) &larr; **start here!**  
 * Blog
