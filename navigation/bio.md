@@ -20,7 +20,7 @@ Abraham has a B. Tech. from IIT Bombay.  He lives in Toronto, Canada.
 ---
 
 *This is the concise professional version of my bio.  
-You can also read the [memoir version](/story).*
+You can also read the slightly longer [memoir version](/story).*
 
 <br/>
 <br/>
