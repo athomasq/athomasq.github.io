@@ -23,7 +23,7 @@ title: Story · Abraham Thomas
 &nbsp; &nbsp; I was accepted, via competitive exam, into India's top medical school AIIMS, as well as India's top engineering school IIT Bombay (<0.2% admit rates at each; non-overlapping exams!).  I chose to join the latter.
 
 **IIT.**  
-&nbsp; &nbsp; I graduated from IIT Bombay with a B.Tech. in Engineering Physics.  While at IIT-B, I was elected Institute General Secretary (GSHA -- the highest post in student government) with a record number of votes, and served as the student rep on IIT-B's Senate. I captained IIT-B's quiz, debate and literary teams, and won many intercollegiate and national competitions. I was also very active in competitive intramurals, and won a bunch of awards including the institute's "Roll of Honour".  
+&nbsp; &nbsp; I graduated from IIT Bombay with a B.Tech. in Engineering Physics.  While at IIT-B, I was elected Institute General Secretary (GSHA -- the highest post in student government) with a record number of votes, and served as sole student rep on IIT-B's Senate. I captained IIT-B's quiz, debate and literary teams, and won many intercollegiate and national competitions. I was also very active in competitive intramurals, and won a bunch of awards including the institute's "Roll of Honour".  
 &nbsp; &nbsp; But I realized that a career in physics was not for me.  I was accepted into India's top business school IIM-A (I believe I ranked #1 nationally in the entrance exam; <0.2% acceptance rate again); I decided not to go.  Instead, I <a href="https://abrahamthomas.info/the-accidental-investor/" target="_blank" rel="noopener noreferrer">joined a Japanese hedge fund</a>, Simplex.
 
 **Simplex.**  
