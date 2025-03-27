@@ -12,10 +12,10 @@ title: Writing · Abraham Thomas
 
 
 * [Essays](/essays) &larr; **start here!**  
-* [Blog](/blog)  
-* [Memos](/memos)
-* [Threads](/threads)
-* [Miscellany](/miscellany)
+* Blog
+* Memos
+* Threads
+* Miscellany
 
 
 
