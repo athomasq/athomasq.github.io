@@ -11,7 +11,7 @@ title: Founder Memos
 <br/>
 
 **Strategy:**
-* [Non-Obvious Mistakes Founders Make](/non-obvious-mistakes)
+* [Relentless Common Sense](/relentless-common-sense)
 * [A Mental Model For Your Series A](/series-a-benchmarks) *(somewhat dated)* 
 
 **Tactics:**  
