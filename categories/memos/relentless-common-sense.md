@@ -18,7 +18,9 @@ My answer was: actually, there are very few mistakes that aren't obvious.  Sure,
 
 Straightforward doesn't mean easy!  Things can be simple to describe and understand, but difficult to do well.  There are no "secrets" or "traps" or "magic" -- it's just the relentless application of common sense and good judgement and clear thinking from first principles.  And I do mean **relentless**: every single hour of every single day.  You can never take a break from the discipline this requires.  That's what makes it hard.
 
-I would say that the most common ways that founders deviate from this common sense include: losing focus, slowing down, hiring too many people, not listening to the market, mismanaging their finances, and not taking care of themselves. These are all "obvious" but people still make these mistakes all the time.  Here are my own principles on all of these: 
+The most common ways that founders deviate from this common sense include: losing focus, slowing down, hiring too many people, not listening to the market, mismanaging their finances, and not taking care of themselves. These are all "obvious" but people still make these mistakes all the time.  
+
+Here are my own principles on all of these: 
 
 **1. Focus**
 - "What is it that really matters here?" 
@@ -89,7 +91,7 @@ I would say that the most common ways that founders deviate from this common sen
 - Raising venture capital is a means, not an end
 - Beware of no's that sound like yes's
 - Everybody is selling, pitching, talking their book -- all the time
-- Choose partners who are aligned outcomes, horizon and risk appetite
+- Choose partners aligned on outcomes, horizon and risk appetite
 - Be on top of your finances from day one
 
 **6. Burnout**
