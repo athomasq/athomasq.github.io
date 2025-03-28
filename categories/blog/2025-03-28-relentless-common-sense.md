@@ -1,10 +1,10 @@
 ---
 layout: default
 permalink: /blog/:basename
-title: Hello World!
+title: Relentless Common Sense
 ---
 
-## Hello World!
+## Relentless Common Sense
 
 ----
 
@@ -112,7 +112,7 @@ What does this common sense look like in practice?  Any list of principles will 
 
 ----
 
-&laquo; Prev 
+&laquo; <a href="/blog/2025-03-27-hello-world"> Prev </a> 
 &emsp;· &emsp; <a href="/blog"> Home </a> &emsp; · &emsp; 
 Next &raquo; 
 

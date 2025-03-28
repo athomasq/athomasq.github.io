@@ -18,7 +18,7 @@ This blog is for thoughts longer and less ephemeral than a [tweet](https://x.com
 
 &laquo; Prev 
 &emsp;· &emsp; <a href="/blog"> Home </a> &emsp; · &emsp; 
-Next &raquo; 
+<a href="/blog/2025-03-28-relentless-common-sense"> Next </a>&raquo; 
 
 
 <br/>
