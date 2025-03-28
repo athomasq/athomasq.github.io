@@ -1,14 +1,23 @@
+---
+layout: default
+permalink: /blog/:basename
+title: Hello World!
+---
+
+## Hello World!
+
+----
+
+<br/>
+
 **Startups are an exercise in relentless common sense.** 
 
 People think startups are hard.  They are, but not for the obvious reasons.  There are no hidden traps or arcane wisdom, no tricks of the trade or secret sauce that will magically unlock success. 
 
 Instead, startups are about the relentless, consistent, almost ruthless application of common sense and good judgement and clear thinking from first principles.  And I do mean **relentless**: every single hour of every single day.  You can never take a break from the discipline this requires.  That's what makes it hard.
 
-What does this common sense look like in practice?  Any list of principles will necessarily look like a set of fortune-cookie cliches
+What does this common sense look like in practice?  Any list of principles will necessarily look like a set of fortune-cookie cliches.  But here are a few that I like to regularly remind myself of:
 
-It's easy to deviate from this common sense.  In my experience, the m
-
-I would say that the most common ways that founders deviate from this common sense include: losing focus, slowing down, hiring too many people, not listening to the market, mismanaging their finances, and not taking care of themselves. These are all "obvious" but people still make these mistakes all the time.  Here are my own principles on all of these: 
 
 **1. Focus**
 - "What is it that really matters here?" 
@@ -97,5 +106,18 @@ I would say that the most common ways that founders deviate from this common sen
 - Fall in love with the problem, not the solution
 - Find joy in the journey, not the destination
 
-They probably sound very simplistic and cliched, but they're not easy to do consistently!  I find it's helpful to keep reminding myself of these principles.  
+(cross-posted to my [memos](memos) page).
+
+<br/>
+
+----
+
+&laquo; Prev 
+&emsp;· &emsp; <a href="/blog"> Home </a> &emsp; · &emsp; 
+Next &raquo; 
+
+
+<br/>
+<br/>
+<br/>
 
