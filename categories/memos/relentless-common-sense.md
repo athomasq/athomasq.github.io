@@ -16,7 +16,7 @@ A portfolio founder asked me the other day: "What are some non-obvious mistakes 
 
 My answer was: actually, there are very few mistakes that aren't obvious.  Sure, you may get some of the tactical decisions wrong, and you never know all the answers.  But most of the big stuff is actually pretty straightforward.
 
-Straightforward doesn't mean easy!  Things can be simple to describe and understand, but difficult to do well.  There are no "secrets" or "traps" or "magic" -- it's just the relentless application of common sense and good judgement and clear thinking from first principles.  And I do mean **relentless**: every single hour of every single day.  You can never take a break from the discipline this requires.  It's really really hard.
+Straightforward doesn't mean easy!  Things can be simple to describe and understand, but difficult to do well.  There are no "secrets" or "traps" or "magic" -- it's just the relentless application of common sense and good judgement and clear thinking from first principles.  And I do mean **relentless**: every single hour of every single day.  You can never take a break from the discipline this requires.  That's what makes it hard.
 
 I would say that the most common ways that founders deviate from this common sense include: losing focus, slowing down, hiring too many people, not listening to the market, mismanaging their finances, and not taking care of themselves. These are all "obvious" but people still make these mistakes all the time.  Here are my own principles on all of these: 
 
