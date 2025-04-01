@@ -100,7 +100,7 @@ General principles are generally useless.  The useful ones end up looking like f
 - Fall in love with the problem, not the solution
 - Find joy in the journey, not the destination
 
-(cross-posted to my [memos](memos) page).
+(cross-posted to my [memos](/memos) page).
 
 <br/>
 
