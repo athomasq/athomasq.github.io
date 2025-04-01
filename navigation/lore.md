@@ -18,6 +18,16 @@ title: Lore · Abraham Thomas
 \> start angel investing, outperform 90% of VCs  
 \> now thinking: launch a fund? another startup? who knows  
 
+<br/>
+<br/>
+<br/>
+
+----
+
+*[longer](/story) · [more serious](/bio)*
+
+
+
 
 <!--
 >be me
