@@ -17,7 +17,7 @@ title: Essays · Abraham Thomas
 **2023:**  
 * [The Perils of Prudence](https://pivotal.substack.com/p/the-perils-of-prudence)  
 * [Data in the Age of AI](https://pivotal.substack.com/p/data-in-the-age-of-ai)   
-* [The Worst Outcome is a Mediocre Success](https://pivotal.substack.com/p/data-in-the-age-of-ai)  
+* [The Worst Outcome is a Mediocre Success](https://pivotal.substack.com/p/the-worst-outcome-is-a-mediocre-success)  
 * [Strong Opinions, Weakly Held](https://pivotal.substack.com/p/strong-opinions-weakly-held)  
 
 **2024:**  
