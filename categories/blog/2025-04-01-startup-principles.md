@@ -108,7 +108,7 @@ General principles are generally useless.  The useful ones end up looking like f
 
 &laquo; <a href="/blog/2025-03-28-relentless-common-sense"> Prev </a> 
 &emsp;· &emsp; <a href="/blog"> Home </a> &emsp; · &emsp; 
-Next &raquo; 
+<a href="/blog/2025-04-07-proxy-signals"> Next </a>&raquo; 
 
 
 <br/>
