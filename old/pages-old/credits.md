@@ -28,4 +28,10 @@ This website was created using [Github Pages] and [Jekyll].  The design is mostl
 [Sriram Krishnan]: https://sriramk.com/
 [Devon Zuegel]: https://devonzuegel.com/page/about-me 
 
+[Gavin Leech](https://www.gleech.org)
+Yan-David Erlich
+Gwern
+Sasha Gusev
+Ben Kuhn
+
 [email me]: mailto:at@abrahamthomas.info 
