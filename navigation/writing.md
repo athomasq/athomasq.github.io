@@ -12,8 +12,8 @@ title: Writing · Abraham Thomas
 
 
 * [Essays](/essays) &larr; **start here!**  
-* [Blog](/blog)
-* [Memos](/memos)
+* Blog
+* Memos
 * Threads
 * Miscellany
 
