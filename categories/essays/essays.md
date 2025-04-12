@@ -26,6 +26,7 @@ title: Essays · Abraham Thomas
 
 **2025:**  
 * [Making Markets in Time](https://pivotal.substack.com/p/making-markets-in-time)  
+* [Data and Defensibility](https://pivotal.substack.com/p/data-and-defensibility)  
 
 
 <br/>
