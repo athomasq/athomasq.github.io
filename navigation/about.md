@@ -28,7 +28,7 @@ Previously:
 * I received a B.Tech. in [Engg. Physics](https://en.wikipedia.org/wiki/Engineering_physics) from [IIT Bombay](https://www.iitb.ac.in)  
 * I grew up in India, but now live in Toronto, Canada   
 
-Learn more: [about me](/bio)  
+Learn more: [about me](/story)  
 Email me: <a href="mailto:at@abrahamthomas.info">at@abrahamthomas.info</a>  
 
 
