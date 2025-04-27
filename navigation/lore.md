@@ -9,7 +9,7 @@ title: Lore · Abraham Thomas
 \> star student, athlete, debate, math, national quiz champ  
 \> get into both IIT-B and AIIMS (iykyk)  
 \> join quant hedge fund, build hi-freq trading systems  
-\> millionaire by 27, get bored and retire at 30  
+\> millionaire by mid 20s, decide to walk away
 \> co-found quandl, create category of "alternative data"  
 \> raise venture capital, get every major hedge fund as customer  
 \> sell to nasdaq in a big exit  
