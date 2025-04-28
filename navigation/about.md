@@ -49,8 +49,6 @@ Email me: <a href="mailto:at@abrahamthomas.info">at@abrahamthomas.info</a>
 * Tremendous outcomes require tremendous amounts of hard work.  
     - (Smarts alone are not enough)  
 * Luck matters a lot, but you can help luck find you.  
-* Do less to do more.  
-* Take care of yourself in order to take care of others.  
 * Be deliberate, and comfortable with risk.  
     - (Most people are impulsive, and risk-averse)  
 * Combine optimism about technology with realism about humanity.  
@@ -59,6 +57,7 @@ Email me: <a href="mailto:at@abrahamthomas.info">at@abrahamthomas.info</a>
     - (This is a good filtering function)  
 * Discipline doesn't restrict your choices, it expands them.  
 * Excellence is a habit, and should be cultivated as such.  
+* Attention to detail separates the pros from the tourists.  
 * Action produces information.  
 * Compete with yourself.  
 * Do work that only you can do.  
@@ -68,8 +67,10 @@ Email me: <a href="mailto:at@abrahamthomas.info">at@abrahamthomas.info</a>
     - When the chips are down, who do you want to be?  
 * Arguments about means are often arguments about variances.  
 * Compassion, empathy and courtesy signal strength, not weakness.  
+* Take care of yourself in order to take care of others.  
+* Do less to do more.  
 * Knowing your own preferences is the key to happiness.  
-* No task is too small to do well.  Attend to details.  
+* No task is too small to do well.  
 * If you don't blow your own trumpet, it shall remain unblown.  
     - (I struggle with this)  
 * Individuals matter more than institutions.  
