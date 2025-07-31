@@ -12,7 +12,7 @@ title: Investing · Abraham Thomas
 
 I'm an active angel investor in early-stage tech startups. 
 
-🚀 **For Investors:**
+🚀 **General Information:**
 * [Portfolio Performance](/portfolio-statistics)
 * [Portfolio Companies](/portfolio-companies)
 * <a href="https://venture.angellist.com/abraham-thomas/syndicate" target="_blank" rel="noopener noreferrer">Investment Syndicate</a>
@@ -35,7 +35,9 @@ I'm an active angel investor in early-stage tech startups.
 * [Ahead of the Yield Curve](https://pivotal.substack.com/p/ahead-of-the-yield-curve)  
 * [The Accidental Investor](/the-accidental-investor)  
 
-I welcome cold emails: **at@abrahamthomas.info**
+I'm also an LP in a few PE, VC and special-sits funds.  
+
+I welcome cold emails: **at@abrahamthomas.info**  
 
 <br/>
 <br/>
