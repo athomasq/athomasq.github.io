@@ -34,6 +34,7 @@ Here are some articles about [Quandl](https://quandl.com), the company I co-foun
 https://www.wsj.com/articles/wall-streets-insatiable-lust-data-data-data-1473719535) - Wall Street Journal [<small>pdf</small>](/assets/docs/WSJ-data.pdf)
 - [The Hottest Area in Finance Right Now](https://qz.com/1082389/quant-hedge-funds-are-gorging-on-alternative-data-in-pursuit-of-an-investing-edge/) - Quartz [<small>pdf</small>](/assets/docs/QZ-hottest.pdf)
 - [Making Millions from Data](https://www.cnbc.com/2017/11/28/making-millions-from-the-data-hidden-in-plain-sight.html) - CNBC [<small>pdf</small>](/assets/docs/CNBC-millions.pdf)
+- [How Alternative Data Companies are Changing Investing](https://www.barrons.com/articles/spy-satellites-road-cameras-phone-trackers-how-alternative-data-companies-are-changing-investing-ed1f80c8) - Barron's [<small>pdf</small>](/assets/docs/B-alt-data.pdf)
 - [Quandl is Investors' Secret Weapon](https://business.financialpost.com/technology/its-beautiful-this-toronto-startup-is-investors-secret-weapon-to-beating-the-market) - Financial Post (Canada) [<small>pdf</small>](/assets/docs/FP-secret.pdf)
 - [Data: The Next Frontier](https://www.ft.com/content/08a22da8-b587-11e6-ba85-95d1533d9a62) - Financial Times [<small>pdf</small>](/assets/docs/FT-frontier.pdf)
 - [The Extraordinary Rise of Alternative Data](https://www.cpacanada.ca/en/news/pivot-magazine/2019-12-19-quandl-data) - Pivot Magazine [<small>pdf</small>](/assets/docs/CPA-rise.pdf)
