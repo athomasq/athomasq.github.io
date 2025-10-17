@@ -93,6 +93,7 @@ I'm an LP in the following excellent venture funds:
 
 🍷 **[Uncork](https://uncorkcapital.com)**: Bay Area, generalist    
 🌳 **[Merak](https://www.merakventures.com)**: India, deep tech  
+🤖 **[GrowX](https://www.growxventuresfund.com)**: India, deep tech  
 🚜 **[e-squared](https://www.e2jdj.com)**: NOLA, ag tech    
 
 
