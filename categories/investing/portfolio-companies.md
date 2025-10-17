@@ -71,6 +71,7 @@ Currently at 2.0x MOIC, 24% IRR.
 🤖 **[Quandri](https://quandri.io)**: automation for insurance  
 🤐 **Stealth**: stealthy mcstealthstartup  
 🍅 **[FarmTheory](https://www.farmtheory.in/home)**: marketplace for ugly produce  
+🎼 **[Composer](https://www.composer.trade)**: AI-powered investing for retail  
 🏩 **[Kordie](https://www.kordie.com)**: upskilling the hospitality industry  
 📞 **[Productive](https://productive.ai/)**: an API to the content of your call  
 🍽️ **[REMS](https://www.remshospitality.com)**: data insights for restaurants   
@@ -99,20 +100,20 @@ I'm an LP in the following excellent venture funds:
 
 <br/>
 
-### Other
+[Back to Investing Page ↩](/investing)
 
-🎼 **[Composer](https://www.composer.trade)**: AI-powered investing for retail  
-⛈️ **[SUST Global](https://www.sustglobal.com)**: climate risk data and models  
-🎮 **[Gameopedia](https://www.gameopedia.com)**: comprehensive gaming data  
+
+<!-- 
 
 ----
 
 <br/>
 
-[Back to Investing Page ↩](/investing)
+### Other
 
 
-<!-- 
+⛈️ **[SUST Global](https://www.sustglobal.com)**: climate risk data and models  
+🎮 **[Gameopedia](https://www.gameopedia.com)**: comprehensive gaming data  
 
 For a more detailed description of these companies and why I invested, [click here](/portfolio-detailed).
 
