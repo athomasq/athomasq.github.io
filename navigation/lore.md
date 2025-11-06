@@ -15,7 +15,7 @@ title: Lore · Abraham Thomas
 \> sell to nasdaq in a big exit  
 \> retire again, travel, write, hobbies, fun, family  
 \> casually drop the best newsletter on data  
-\> start angel investing, outperform 90% of VCs  
+\> start angel investing, outperform most VCs  
 \> now thinking: launch a fund? another startup? who knows  
 
 <br/>
